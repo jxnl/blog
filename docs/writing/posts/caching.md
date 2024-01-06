@@ -12,7 +12,7 @@ authors:
   - jxnl
 ---
 
-# Introduction to Caching in Python
+# Caching in Python
 
 > Instructor makes working with language models easy, but they are still computationally expensive.
 
