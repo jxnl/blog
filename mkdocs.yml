@@ -121,7 +121,7 @@ markdown_extensions:
   - pymdownx.tilde
 nav:
   - Home: 
-    - Hello!: 'index.md'
+    - Introductions: 'index.md'
   - Writing:
     - "writing/index.md"
   
