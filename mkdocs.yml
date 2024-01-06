@@ -1,4 +1,4 @@
-site_name: jxnlco
+site_name: jxnl.co
 site_author: Jason Liu
 site_description: >-
   Notes from my consulting work and other things I find interesting.
@@ -53,7 +53,6 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-    - toc.integrate
   palette:
       - scheme: default 
         primary: black 
