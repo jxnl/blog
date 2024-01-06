@@ -1,0 +1,5 @@
+mkdocs-material
+mkdocstrings
+mkdocstrings-python
+mkdocs-minify-plugin
+mkdocs-rss-plugin
