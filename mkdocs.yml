@@ -157,7 +157,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: G-5CR8QXF5CN
+    property: G-686PKP2V2V
     feedback:
       title: Was this page helpful?
       ratings:
