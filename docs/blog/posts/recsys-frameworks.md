@@ -1,6 +1,6 @@
 ---
 draft: False
-date: 2020-08-01
+date: 2022-08-01
 slug: stitchfix-framework
 tags:
   - stitchfix
@@ -18,6 +18,8 @@ authors:
 As a data scientist at Stitch Fix, I faced the challenge of adapting recommendation code for real-time systems. With the absence of standardization and proper performance testing, tracing, and logging, building reliable systems was a struggle.
 
 To tackle these problems, I created Flight – a framework that acts as a semantic bridge and integrates multiple systems within Stitch Fix. It provides modular operator classes for data scientists to develop, and offers three levels of user experience.
+
+<!-- more -->
 
 - The **pipeline layer** allows business-knowledge users to define pipelines in plain English.
 - The **operator layer** enables data scientists to add and share many filters and transformations with ease.
