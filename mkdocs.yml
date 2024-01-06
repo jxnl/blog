@@ -1,7 +1,8 @@
-site_name: Jason Liu 
+site_name: jxnlco
 site_author: Jason Liu
-site_description: Blog of Jason Liu
-repo_name: instructor
+site_description: >-
+  Notes from my consulting work and other things I find interesting.
+repo_name: blog
 repo_url: https://github.com/jxnl/blog/
 site_url: https://jxnl.github.io/blog/
 edit_uri: edit/main/docs/
@@ -45,16 +46,16 @@ theme:
     - navigation.prune
     - navigation.sections
     - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
-    # - toc.integrate
+    - toc.integrate
   palette:
-      - scheme: default
+      - scheme: default 
         primary: black 
         accent: indigo
         toggle:
@@ -123,7 +124,7 @@ nav:
   - Home: 
     - Hello!: 'index.md'
   - Writing:
-    - "blog/index.md"
+    - "writing/index.md"
   
 plugins:
   - social
@@ -140,14 +141,14 @@ plugins:
             show_bases: true
   - blog:
       enabled: !ENV CI
-      blog_dir: "blog"
+      blog_dir: writing
       blog_toc: true
-      post_dir: blog/posts
+      post_dir: writing/posts
       post_date_format: yyyy/MM/dd
       post_url_format: "{date}/{slug}"
       authors_file: "{blog}/.authors.yml"
   - rss:
-      match_path: blog/posts/.* 
+      match_path: writing/posts/.* 
       date_from_meta:
         as_creation: date
       categories:
