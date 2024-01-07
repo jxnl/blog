@@ -263,6 +263,14 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 
     I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are alsos more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
 
+## Let Go of Anticipation
+
+Here's a story about how regular people and Buddhist monks anticipated the future. They put both of them into an MRI and told them they were going to get shocked at some random time in the future. What they found was that regular people would have an anxious baseline response minutes before they were going to get shocked, but when they did, it was only slightly higher than the baseline.
+
+The monks, however, had no resting anxious anticipatory response. There was no overactive brain activity until the moment of the shock. But when they did feel the shock, it was much higher than the group of regular people. They felt more pain!
+
+The lesson I learned from this is that anticipation likely dampens the sensations at the moment life happens, but at the cost dampening the joy as well, while creating a contraction in the present moment. This relates to the pessimism bit. You might think you're winning because you believe the pain was lessened by expecting the worse, but you also lose because you were in anticipation the entire time. On the same token letting go of anticipation of success also allows you to enjoy the moment more, the pressure to succeed is equally a contraction.
+
 ## You were just a child
 
 Stuck with me for a bit. I looked at all the stupid things I had done in the past, and all the things that happened to me that I didn't understand. Then someone said to me "you were just a child" and it was honestly the most liberating thing I've ever heard. I was just a child. I didn't know any better. I didn't know.
