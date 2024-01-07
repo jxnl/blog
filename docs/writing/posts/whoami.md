@@ -16,6 +16,8 @@ In the next year, this blog will be painted with a mix of technical machine lear
 
 I was born in a village in China. My parents were the children of rural farmers who grew up during the Cultural Revolution. They were the first generation of their family to read and write, and also the first generation to leave the village.
 
+<!-- more -->
+
 Growing up, I had always been interested in art and science. In high school, I went to a public art school and studied digital animation and design for 4 years. Then, in college, I went to Waterloo to study mathematical physics. By the second year, I met a guy named TC who was clearly much smarter than me, so I decided to do something else. At that time, I learned to code through dating this girl Christine. I took Andrew Ng's machine learning course and got hooked.
 
 Physics timelines were too long for me, so I switched to machine learning and focused my interests on social networks and understanding how humans interact with each other. In the process, I generated massive volumes of data that could be used to train models and understand human behavior. This led me to do the research I had done at NYU and then at Facebook.

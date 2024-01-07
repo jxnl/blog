@@ -18,6 +18,8 @@ But enough people DM'd me on Twitter, so here it is. I don't have to answer the 
 
     These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)). I'm not saying this is the right way to do things. I'm just saying this is how I did things.
 
+<!-- more -->
+
 ## How to Be Lucky
 
 You make your own luck. There's a great experiment that I can't cite, but it has stuck in my mind since I was a child. They identified people as lucky and unlucky, and asked them to count the number of photographs in a newspaper. The unlucky people took a long time to count the photographs, while the lucky people took a very short time. The reason is that the unlucky people were so focused on counting the photographs that they missed the giant text that said, "Stop counting, there are 43 photographs in this newspaper."
