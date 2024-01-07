@@ -222,9 +222,9 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 
 ## You were just a child
 
-With me for a bit, I looked at all the stupid things I had done in the past, and all the things that happened to me that I didn't understand. Someone said to me "you were just a child" and it was honestly the most liberating thing I've ever heard. I was just a child. I didn't know any better. I didn't know.
+Stuck with me for a bit. I looked at all the stupid things I had done in the past, and all the things that happened to me that I didn't understand. Then someone said to me "you were just a child" and it was honestly the most liberating thing I've ever heard. I was just a child. I didn't know any better. I didn't know.
 
-Now, you also have to realize that this app applies to everyone else too. Its everyone's first time being a person.
+Now, you also have to realize that this applies to everyone else too. Its everyone's first time being a person, including your parents.
 
 ## Uncommunicated Expectations is premeditated resentment
 
