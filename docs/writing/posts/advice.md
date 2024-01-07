@@ -185,3 +185,27 @@ What are the mantra's you've inhereted from others? How often are you chasing "T
 ## Social Media
 
 You don’t need to believe in yourself to be an artist, you just need to believe in your audience. To believe that it is important to communicate with them. Make sure that if youre goal is to build an audience that you have some message to say. Otherwise it just gets hopeless. Celebrity is the cost you pay to deliver your message, celebrity is to be hated.
+
+## Isolation is the gift
+
+Really value your time alone. It is the only time you can truly see yourself. It is the only time you can truly hear yourself. Isolation is time not only away from people, but also media.
+
+I believe success truely comes from being yourself, but if you're always surrounded by others the influence is too strong. But if you can truely live in the isolation, you'll be like a still pond. When others project their image onto you, you'll be able to see the ripples clearly.
+
+## The world is a mirror
+
+The only language you have to describe the world is with your own perception. The world is a mirror. Often your fear of judgement might stem from your own judgement of others.
+
+!!! note "Jason goes to the gym"
+
+    I used to be afraid of going to the gym because I was afraid of being judged. I was so focused on the idea of the right workout and the right form. If I went to the gym alone, I would just think, "Wow, people must think I'm so weak. I can barely squat the bar. I'm so lanky." I would look at the fat guy or the skinny guy and think, "Man, they are just like me, clueless."
+
+    Looking back at that time, I had so much judgment of others, but it was really just a reflection of my own judgment of myself. I was so afraid of being judged, but I was the one judging myself the most.
+
+    Fast forward 5 years, everyone I see coming into the gym is trying to improve their health. I don't think the same way. I look at these people and think, "Wow, they are so much braver than me. I see them coming consistently, and I can see they are getting results. Good for them! Oh, wow, they are bringing their friends. Awesome."
+
+    The world looks difference when you fix your own perception.
+
+## You are a mirror
+
+In the same way that the world is a mirror, you are a mirror. You are a mirror to others. When you accept this you also realize that you are not responsible for others. The people who are negative to you are usually miserable themselves. The sooner your realize this the easier it is to let go of the negativity.
