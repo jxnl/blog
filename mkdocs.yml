@@ -124,6 +124,7 @@ nav:
     - Introductions: 'index.md'
   - Writing:
     - "writing/index.md"
+  - Contact: 'contact.md'
   
 plugins:
   - social
