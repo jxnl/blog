@@ -50,24 +50,24 @@ Very few people get a job on merit alone. You have to be a big fish in a big pon
 
 ### High Agency
 
-When I hire now, I just want to know you're capable of having agency in your own life. So many times people DM me with 'hey man, how can I help you?' First of all, what the fuck? I have so many links to things I want help with.
+When I hire someone, I simply want to know that they are capable of taking charge of their own life. It's quite common for people to DM me saying, "Hey man, how can I help you?" However, I often find that they haven't put any effort into thinking about it. I usually ignore such messages unless I truly believe they can provide assistance.
 
-- [Contributing to jxnl/instructor](https://jxnl.github.io/instructor/contributing/)
-- [Contributing to jxnl/instructor-js](https://instructor-ai.github.io/instructor-js/contributing/)
-- [Issues of jxnl/instructor](https://github.com/jxnl/instructor/issues)
-- [Issues of jxnl/instructor-js](https://github.com/instructor-ai/instructor/issues)
+??? note "Links that are everywhere on my digital footprint
+
+    - [Contributing to jxnl/instructor](https://jxnl.github.io/instructor/contributing/)
+    - [Contributing to jxnl/instructor-js](https://instructor-ai.github.io/instructor-js/contributing/)
+    - [Issues of jxnl/instructor](https://github.com/jxnl/instructor/issues)
+    - [Issues of jxnl/instructor-js](https://github.com/instructor-ai/instructor/issues)
 
 There have been many times people will DM me offering to help while I am writing a blog post. I'll link the blog PR and say 'let me know what you think'. No comments, and then I get ghosted?
 
 !!! note "How to Reach Out"
 
-    Most of you suck at reaching out too. Some people email me 6-paragraph essays, about the time they saved a cat from a tree.
+    Do not send me anything longer than you would send to a crush. Some people email me six-paragraph essays about the time they saved a cat from a tree.
 
-    Do not send me anything longer than you'd send a crush.
+    I find the most effective way to get someone's attention is to simply give, just like in dating. Hey, I noticed that you read this book on your website. I think you'd like this book too; it's pretty short, etc. Oh, I noticed some tests were failing in your repository. I fixed them for you. Hey! I've added some examples to the codebase. Do you have any feedback?
 
-    I find the most effective way to get someone's attention is to simply give. Also just like dating. Hey I saw that you read this book on your website, i think you'd like this book too its pretty short etc etc. Oh I noticed some tests were failing in your repo, I fixed them for you. Hey! I've added some examples to the code base, do you have any feedback?
-
-    Theres so many little ways to get people's attention that isn't self centered. I do this with my consulting too. First call, my only goal is to tell you everything I think could help your business. I don't care if you hire me or not. I just want to help. And turns out... This leads me to the next part.
+    There are so many little ways to get people's attention that aren't self-centered. I do this with my consulting too. During the first call, my only goal is to tell you everything I think could help your business. I don't care if you hire me or not. I just want to help. And as it turns out, this leads me to the next part.
 
 I recognize that not everyone has access to the same networking opportunities, and the traditional job application process can be a valid and necessary path for many. But social media when used correctly is a great way to get a opportunity
 
@@ -136,7 +136,9 @@ When I started freediving, I swam for an hour every day, six days a week. At the
 
 ### Public Speaking
 
-People don't believe this, but my talk at the AI Summit was actually my first public speaking experience. It has over 120k views on YouTube. I was so nervous that I basically blacked out and didn't eat all day until the talk. Leading up to the talk, I rehearsed it for about two hours each day in the past three days. By the time I got on stage, the words just flowed out of me. I had rehearsed the speech standing up, wearing the same jacket, about 20 times in the past month. I knew I could do it because I had already done it.
+People don't believe this, but my talk at the AI Summit was actually my first public speaking experience. It has over 120k views on YouTube. I was so nervous that I basically blacked out and didn't eat all day until the talk. I have no recollection of the day, and I had so much adrenaline that I was shivering before I got up on stage. Leading up to the talk, I rehearsed it for about two hours each day in the past three days. By the time I got on stage, the words just flowed out of me. I had rehearsed the speech standing up, wearing the same jacket, about 20 times in the past month. I knew I could do it because I had already done it.
+
+In order to keep doing the reps in the past 3 months I've been relentlessly trying to find podcasts to speak on to keep doing the reps and practicing.
 
 The theme is consistent throughout. I don't think it's the only way to gain confidence, as there could be some delusion at play. But I have simply shown myself, over the past 15 years, that I can overcome difficult challenges and do them repeatedly..
 
@@ -250,17 +252,3 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 Stuck with me for a bit. I looked at all the stupid things I had done in the past, and all the things that happened to me that I didn't understand. Then someone said to me "you were just a child" and it was honestly the most liberating thing I've ever heard. I was just a child. I didn't know any better. I didn't know.
 
 Now, you also have to realize that this applies to everyone else too. Its everyone's first time being a person, including your parents.
-
-## Intermittent list of quotes
-
-> Uncommunicated Expectations is premeditated resentment
-
-> Anxiety is options with no priorities
-
-> Depression is no options
-
-> burn out is effort without results
-
-> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
-
-> What we love we mention often
