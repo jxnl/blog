@@ -10,7 +10,7 @@ authors:
 
 # Advice to Young People
 
-I'm not qualified to give advice, but enough people asked me to write this, so here it is. If you want to know who I am and why I'm writing this, check out [blog/whoami](./whoami.md) or my [resume](https://jxnl.co) or my [twitter](https://twitter.com/jxnlco). Also, note that this was written in 40 minutes. It's a work in progress.
+I'm not qualified to give advice, but enough people asked me to write this, so here it is. If you want to know who I am and why I'm writing this, check out [blog/whoami](./whoami.md) or my [resume](https://jxnl.co) or my [twitter](https://twitter.com/jxnlco). Also, note that this was written in 40 minutes. It's a work in progress. Its just from my life. I'm not saying this is the right way to do things. I'm just saying this is how I did things.
 
 ## How to Get a Job
 
