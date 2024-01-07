@@ -2,11 +2,9 @@
 draft: False
 date: 2023-04-04
 slug: good-llm-observability
-tags:
-  - LLM
+categories:
   - Observability
-  - Open Telemetry
-  - AI
+  - Language Models
 authors:
   - jxnl
 ---

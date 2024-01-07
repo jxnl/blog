@@ -2,11 +2,8 @@
 draft: False
 date: 2023-06-01
 slug: kojima-sticks
-tags:
-  - LLM
-  - Philosophy
-  - AI
-
+categories:
+  - Language Models
 authors:
   - jxnl
 ---

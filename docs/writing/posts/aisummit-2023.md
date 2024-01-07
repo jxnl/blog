@@ -1,11 +1,8 @@
 ---
 draft: False
 date: 2023-11-02
-tags:
-  - python
-  - talks
-  - prompt engineering
-  - video
+categories:
+  - Personal
 authors:
   - jxnl
 ---

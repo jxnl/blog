@@ -2,12 +2,11 @@
 draft: False
 date: 2023-09-17
 slug: rag-is-more-than-embeddings
-tags:
-  - RAG
-  - Embeddings
+categories:
+  - Language Models
+  - Retrieval Augmented Generation
   - Query Understanding
   - Search Systems
-  - Personal Assistant
 authors:
   - jxnl
 ---

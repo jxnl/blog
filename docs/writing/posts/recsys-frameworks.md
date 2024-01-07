@@ -2,13 +2,11 @@
 draft: False
 date: 2022-08-01
 slug: stitchfix-framework
-tags:
-  - stitchfix
-  - python
-  - data science
-  - data engineering
-  - data pipelines
-  - data architecture
+categories:
+  - Stitch Fix
+  - Data Science
+  - Frameworks
+  - Observability
 authors:
   - jxnl
 ---

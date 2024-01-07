@@ -2,8 +2,8 @@
 draft: False
 date: 2023-02-05
 slug: freediving-ice
-tags:
-  - diving
+categories:
+  - Personal
 authors:
   - jxnl
 ---

@@ -2,8 +2,8 @@
 draft: False
 date: 2024-06-01
 slug: advice-to-young-people
-tags:
-  - personal
+categories:
+  - Personal
 authors:
   - jxnl
 ---

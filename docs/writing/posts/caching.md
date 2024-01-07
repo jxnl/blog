@@ -2,12 +2,8 @@
 draft: False
 date: 2023-11-26
 slug: python-caching
-tags:
-  - caching
-  - functools
-  - redis
-  - diskcache
-  - python
+categories:
+  - Python
 authors:
   - jxnl
 ---

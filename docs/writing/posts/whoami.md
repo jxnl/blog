@@ -2,8 +2,8 @@
 draft: False
 date: 2024-01-01
 slug: whoami
-tags:
-  - personal
+categories:
+  - Personal
 authors:
   - jxnl
 ---
