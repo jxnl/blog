@@ -261,7 +261,7 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 
 !!! note "Survival"
 
-    I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are alsos more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
+    I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are also more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
 
 ## Let Go of Anticipation
 
