@@ -133,4 +133,4 @@ The theme is consistent throughout. I don't think it's the only way to gain conf
 
 In the short term, you would be much happier if you accepted and admitted to yourself that the reason you don't have what you want is simply because you do not want it badly enough. The sooner you accept that, the happier you'll be. Then the next question is: Do you want to be happy or do you want to achieve what you want? It's not the last question, but it definitely is the next question.
 
-For who i think my audience is I really recommended byung chul han's book the [burnout society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han) or [psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
+For who i think my audience is I really recommended byung chul han's book the [burnout society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han/dp/0804795096) or [psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
