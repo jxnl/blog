@@ -8,6 +8,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 
 ## Posts
 
+- [Solicited Advice](./posts/advice.md)
 - [Rag is more than embeddings](./posts/rag.md)
 - [Understanding Python: Caching](./posts/caching.md)
 - [Understanding Python: Async](./posts/async.md)
