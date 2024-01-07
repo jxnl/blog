@@ -217,3 +217,5 @@ In the same way that the world is a mirror, you are a mirror. You are a mirror t
 ## Pessimists Are Losers
 
 You impress nobody except yourself when you're a pessimist. It doesn't make you a better friend. It does not make you cool and edgy. It does not make you seem smarter just because you can be critical of everything. The world is neither inherently against you nor for you, so believing one or the other is in bad faith.
+
+> “He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.”
