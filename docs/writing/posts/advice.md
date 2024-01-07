@@ -11,16 +11,26 @@ authors:
 # Advice to Young People, The Lies I Tell Myself
 
 I'm really not qualified to give advice.
+But enough people DM'd me on Twitter, so here it is. I don't have to answer the same question over and over again.
+After some more editing I realised that I am actually write this for my younger Katherine.
 
-But enough people DM'd me on Twitter, so here it is. I don't have to answer the same question over and over again. If you want to know who I am, check out [blog/whoami](./whoami.md) or my [Twitter](https://twitter.com/jxnlco).
+If you want to know who I am, check out [blog/whoami](./whoami.md) or my [Twitter](https://twitter.com/jxnlco).
 
 !!! warning "Don't read this if you're seeking a nuanced perspective"
 
-    These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)). I'm not saying this is the right way to do things. I'm just saying this is how I did things.
+    These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the the suffering and the privilege I've experienced is universal.
 
 <!-- more -->
 
-!!! tip "This is a living document"
+!!! question "Choosing"
+
+    You'll notice that I use the word "choosing" frequently. I genuinely believe that we are always making choices and that we have the ability to choose. Choosing can be terrifying because it means we are accountable for our decisions, and there are infinite options before us. It is also frightening because once we have made a decision, we must live with it, it is the death of optionality. But I believe that choosing is the only way to live authentically.
+
+    - **Existential Despair**: A feeling of hopelessness rooted in the existentialist belief that life lacks inherent meaning. This despair arises from the realization of one's absolute freedom and the responsibility for creating one's own essence and purpose.
+
+    - **Anguish**: In existentialism, anguish is the emotional response to recognizing the vastness of one's freedom and the accompanying responsibility for one's actions. It involves the realization that each decision shapes one's essence and affects others, leading to a deep sense of moral responsibility.
+
+    There's a joke I once heard about a philosopher. Before going to bed, he wonders if he will be thirsty during the night. So, he goes to the kitchen and places two cups beside his bed: one filled with water and the other left empty, just in case he doesn't want any water.
 
 ## How to Be Lucky
 
@@ -85,14 +95,6 @@ If you don't believe in yourself, believe in me that believes in you.
 
 I think too many people reading this are mostly pursuing intellectual activities, but I'm mostly gonna focus on using analogies of personal physical fitness to describe how I think about this kind of stuff. In the beginning, you're gonna have a noob gains, just an act of practicing is going to be enough to make improvements. You're gonna be so weak and out of shape that if you wait, it's gonna be cardio, and if you run, you're gonna get stronger. And it's gonna be months or years of seeing progress just by showing up every day and doing anything. You're just gonna be making progress. Maybe you're also "gifted" and so things come easier to you, but there's gonna be a time when things change.
 
-### How to deal with feeling like you dont know anything and dont have time
-
-I don't have any advice for this I think the question really is is that what you want? Do you want to spend all your time to feel like you don't know anything to feel like you don't have any time? I personally accepted that and accept that everything is my choice. In a very Sartre, existentialist sense. I am choosing to spend time doing other things like enjoying my life. I am choosing not to know, because the knowing comes at a cost that I do not want to pay
-
-- **Existential Despair**: A feeling of hopelessness rooted in the existentialist belief that life lacks inherent meaning. This despair arises from the realization of one's absolute freedom and the responsibility for creating one's own essence and purpose.
-
-- **Anguish**: In existentialism, anguish is the emotional response to recognizing the vastness of one's freedom and the accompanying responsibility for one's actions. It involves the realization that each decision shapes one's essence and affects others, leading to a deep sense of moral responsibility.
-
 ### Cost of Being a Champion
 
 The story I tell myself is one where Travis Stevens talks about what it takes to be a judo champion. Something along the lines of "You think you want to be a champion until you meet someone who truly knows they want to be a champion." Replace "champion" with "comedian," "boxer," "founder," and so on.
@@ -125,6 +127,13 @@ When I started doing jiu-jitsu, I trained hard five days a week. Every training 
 
 When I started freediving, I swam for an hour every day, six days a week. At the end of each workout, I would practice my breathing routines and apnea training. By the end of my training session, I could swim 80 meters in a pool without taking a breath and hold my breath for 4 1/2 minutes. This was important because I knew that during my diving trip, the longest distance I would have to swim was 45 meters and the longest breath-hold would be 2 1/2 minutes. By the time I went on my diving trip, I felt relaxed and ready to enjoy the water. I knew I could do it because I had already accomplished it.
 
+!!! note "Hitting 30m for the first time"
+
+    My personal record for the deepest dive I've done on a single breath is 30m. It was not a very fast dive, so I ended up being underwater for 3 1/2 minutes. But how did I feel at the time?
+
+    1. 3.5 minutes is a minute shorter than my personal best, so I knew I could do it.
+    2. During the 10-minute rest before the dive, the goal was to lower my heart rate and relax. I was so relaxed that I fell asleep in the water for 10 minutes, and my heart rate was 43 bpm. I woke up, took the last few breaths, and went down.
+
 ### Public Speaking
 
 People don't believe this, but my talk at the AI Summit was actually my first public speaking experience. It has over 120k views on YouTube. I was so nervous that I basically blacked out and didn't eat all day until the talk. Leading up to the talk, I rehearsed it for about two hours each day in the past three days. By the time I got on stage, the words just flowed out of me. I had rehearsed the speech standing up, wearing the same jacket, about 20 times in the past month. I knew I could do it because I had already done it.
@@ -141,11 +150,21 @@ For who i think my audience is I really recommended byung chul han's book the [b
 
 I used to hate writing. I was always incredibly insecure about it. English is my second language, and I was often told that I would never be a good writer because I am an immigrant. I scored poorly on the writing section of the SATs. In fact, I failed the entrance English exam at Waterloo and had to rewrite an English essay, or else I would have been kicked out of college in the first week.
 
+!!! note "This is my first piece of writing"
+
+    I've run a bunch of pinnacle blog post, but this is the first time I'm really speaking from my heart. This whole article took me about an hour to write using speech to text. I almost didn't write this, but then I realize that if it even helped one person feel a little less anxious for one day it would've been positive.
+
 It wasn't until November 2023 that I truly appreciated the power of writing. Writing helps me stop dwelling on the same thoughts repeatedly. Moreover, when someone asks for advice, I can simply share a link instead of repeating myself. I have found writing to be incredibly valuable because if someone is not willing to read it, they won't benefit from it. The worst outcome is not having written anything at all; it is failing to help someone who could have benefited from it. I have found that writing is a great way to help others while helping myself exorcise the thoughts from my mind and make room for new ones.
 
 ## Do It Scared
 
 I believe many young people struggle with the insecurity of being intelligent. They often feel the need to prove their intelligence by overthinking, excessively planning, and acquiring knowledge before taking action. However, this approach is a waste of time. The more you research, the more you realize how little you actually know. Instead, you just have to do it, even if you're scared.
+
+!!! note "The theory is for analysis; it is not for action"
+
+    When you learn to draw, just draw what you see. And when we get an art education, the theory simply gives us the language to describe our tastes. The challenge I'm giving myself this year is to learn the trumpet without learning any music theory. I'm just going to play with it like a child. I'm just going to listen to a lot of music and try to make those sounds that I like.
+
+    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds do it. But you study natrual science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
 
 ## Get Rid of Complexity
 
@@ -156,6 +175,12 @@ I think in the same way when making plans or building systems, the same insecuri
 Mike Tyson once said, "If you're favored by God, you're also favored by the devil." It's alright to strive for greatness, but it's equally important to choose goodness. Don't neglect your loved ones for work; time is fleeting. Appreciate people and sincerely express your love for them. Grief is the result of unexpressed love, and the key to avoiding grief is to love abundantly.
 
 Some people claim they will grind for ten years and then relax once they find a partner or something similar, but I believe that's nonsense. You won't be able to do it suddenly without practice. Along your journey of hard work, you must consciously practice winding down and being a good person. Otherwise, you'll only address it after experiencing your first divorce.
+
+!!! note "Fatherhood"
+
+    I think fatherhood is a great example of this. I think a lot of people think that they can just be a good father when they have kids. But I think that's a mistake. I think you have to practice being a good father before you have kids. You have to practice being a good husband before you get married.
+
+    It might be easy to convince myself that a good father is able to take care of the family, but how many times was that an excuse to just work yourself to death is the father who can pay for piano lessons, truly a better man than the father, who can be present at the recital? I just don't think this is something that we can turn on and off so easily.
 
 ## Self-Worth
 
