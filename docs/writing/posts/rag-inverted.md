@@ -17,11 +17,11 @@ If you've seen any of my work, you know that the main message I have for anyone 
 
     Inversion is the practice of thinking through problems in reverse. It's the practice of “inverting” a problem - turning it upside down - to see it from a different perspective. In its most powerful form, inversion is asking how an endeavor could fail, and then being careful to avoid those pitfalls. [[1]](https://www.wealest.com/articles/inversion-examples#:~:text=Inversion%20is%20the%20practice%20of,careful%20to%20avoid%20those%20pitfalls.)
 
+<!-- more -->
+
 !!! tip "Inventory"
 
     You'll often see me use the term inventory. I use it to refer to the set of documents that we're searching over. It's a term that I picked up from the e-commerce world. It's a great term because it's a lot more general than the term corpus. It's also a lot more specific than the term collection. It's a term that can be used to refer to the set of documents that we're searching over, the set of products that we're selling, or the set of items that we're recommending.
-
-<!-- more -->
 
 ## Don't worry about latency
 
