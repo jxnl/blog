@@ -12,6 +12,14 @@ authors:
 
 I'm not qualified to give advice, but enough people asked me to write this, so here it is. If you want to know who I am and why I'm writing this, check out [blog/whoami](./whoami.md) or my [resume](https://jxnl.co) or my [twitter](https://twitter.com/jxnlco). Also, note that this was written in 40 minutes. It's a work in progress. Its just from my life. I'm not saying this is the right way to do things. I'm just saying this is how I did things.
 
+## How to Be Lucky
+
+You make your own luck. There's a great experiment that I can't cite, but it has stuck in my mind since I was a child. They identified people as lucky and unlucky, and asked them to count the number of photographs in a newspaper. The unlucky people took a long time to count the photographs, while the lucky people took a very short time. The reason is that the unlucky people were so focused on counting the photographs that they missed the giant text that said, "Stop counting, there are 43 photographs in this newspaper."
+
+What I took away from this experiment was the idea that it might not be the case that lucky people and unlucky people have different opportunities, but rather that their field of perception is wider. Lucky people can actually see the opportunities. A lucky person and an unlucky person might meet the same businessman, but they might talk about different things. One could be presented with or ask for an opportunity that the unlucky person doesn't even see as possible.
+
+I often ask myself, "Okay, I'm focused on getting X, but let's not forget to read the headlines."
+
 ## How to Get a Job
 
 I've never gotten a job by applying to it. It's always been referrals or someone reaching out to me. So honestly, my resume is shit compared to my peers. I'm terrible at interviewing, and I've never done leetcode. This is not a brag; it's just not my style. Am I a nepo baby? I don't know. Was I a morale hire? I'm pretty disagreeable. Was it merit? Also not sure.
@@ -39,6 +47,8 @@ There have been many times people will DM me offering to help while I am writing
     I find the most effective way to get someone's attention is to simply give. Also just like dating. Hey I saw that you read this book on your website, i think you'd like this book too its pretty short etc etc. Oh I noticed some tests were failing in your repo, I fixed them for you. Hey! I've added some examples to the code base, do you have any feedback?
 
     Theres so many little ways to get people's attention that isn't self centered. I do this with my consulting too. First call, my only goal is to tell you everything I think could help your business. I don't care if you hire me or not. I just want to help. And turns out... This leads me to the next part.
+
+I recognize that not everyone has access to the same networking opportunities, and the traditional job application process can be a valid and necessary path for many. But social media when used correctly is a great way to get a opportunity
 
 ### Be the Plumber
 
