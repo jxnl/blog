@@ -226,6 +226,16 @@ Stuck with me for a bit. I looked at all the stupid things I had done in the pas
 
 Now, you also have to realize that this applies to everyone else too. Its everyone's first time being a person, including your parents.
 
-## Uncommunicated Expectations is premeditated resentment
+## Intermittent list of quotes
 
-That is all.
+> Uncommunicated Expectations is premeditated resentment
+
+> Anxiety is options with no priorities
+
+> Depression is no options
+
+> burn out is effort without results
+
+> There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
+
+> What we love we mention often
