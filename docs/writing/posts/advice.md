@@ -154,3 +154,34 @@ I think in the same way when making plans or building systems, the same insecuri
 Mike Tyson once said, "If you're favored by God, you're also favored by the devil." It's alright to strive for greatness, but it's equally important to choose goodness. Don't neglect your loved ones for work; time is fleeting. Appreciate people and sincerely express your love for them. Grief is the result of unexpressed love, and the key to avoiding grief is to love abundantly.
 
 Some people claim they will grind for ten years and then relax once they find a partner or something similar, but I believe that's nonsense. You won't be able to do it suddenly without practice. Along your journey of hard work, you must consciously practice winding down and being a good person. Otherwise, you'll only address it after experiencing your first divorce.
+
+## Self-Worth
+
+For a large part of my life, I held onto the belief that my purpose was to help and teach people. I believed in working hard, generating capital, and taking care of my partner, family, and so on. However, when I got injured, I had to confront the fact that I wasn't able to fulfill those responsibilities. I struggled with the realization that I couldn't work, produce, or take care of my partner and family. It made me question, "If the ox cannot plow, what is it good for?" This struggle consumed me during the latter half of my twenties.
+
+It is crucial to start practicing self-love. While successful people may attribute their success to their struggles, I believe a significant part of it is simply coming to terms with those struggles. Each person's pain is maximum to them. You have already endured hardships. Seek success because you deserve it and learn to love yourself, rather than punishing yourself for not being good enough.
+
+You deserve the life that you desire.
+
+I used to write down "What would I do if I really loved myself?" Sometimes that's hard, especially for someone who has been through a lot of trauma. It can be difficult to even imagine what that would look like. Instead, I now use inverted thinking. What would I do if I really hated myself? What if I wanted myself to lose out as much as possible? What would I do?
+
+- Stay home all day.
+- If my friends don't ask to hang out, don't reach out to them out of fear of rejection.
+- Don't ask the girl out.
+- Never learn to talk to strangers.
+- Work hard and make tons of money but die an unhappy old man with regrets.
+- Neglect my health and my body.
+- Never learn to cook.
+- Be afraid to dance in public.
+- Make excuses and believe other people are more talented than me.
+- Never look at how far I've come and only focus on what I don't have.
+
+Whatever it is, just do the opposite.
+
+## Self talk
+
+What are the mantra's you've inhereted from others? How often are you chasing "The Dream" and not "Your Dream?". Really evaluate what you want and why you want it, and make sure your practice talking to yourself.
+
+## Social Media
+
+You don’t need to believe in yourself to be an artist, you just need to believe in your audience. To believe that it is important to communicate with them. Make sure that if youre goal is to build an audience that you have some message to say. Otherwise it just gets hopeless. Celebrity is the cost you pay to deliver your message, celebrity is to be hated.
