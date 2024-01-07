@@ -134,3 +134,23 @@ The theme is consistent throughout. I don't think it's the only way to gain conf
 In the short term, you would be much happier if you accepted and admitted to yourself that the reason you don't have what you want is simply because you do not want it badly enough. The sooner you accept that, the happier you'll be. Then the next question is: Do you want to be happy or do you want to achieve what you want? It's not the last question, but it definitely is the next question.
 
 For who i think my audience is I really recommended byung chul han's book the [burnout society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han/dp/0804795096) or [psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
+
+## Write More
+
+I used to hate writing. I was always incredibly insecure about it. English is my second language, and I was often told that I would never be a good writer because I am an immigrant. I scored poorly on the writing section of the SATs. In fact, I failed the entrance English exam at Waterloo and had to rewrite an English essay, or else I would have been kicked out of college in the first week.
+
+It wasn't until November 2023 that I truly appreciated the power of writing. Writing helps me stop dwelling on the same thoughts repeatedly. Moreover, when someone asks for advice, I can simply share a link instead of repeating myself. I have found writing to be incredibly valuable because if someone is not willing to read it, they won't benefit from it. The worst outcome is not having written anything at all; it is failing to help someone who could have benefited from it. I have found that writing is a great way to help others while helping myself exorcise the thoughts from my mind and make room for new ones.
+
+## Do It Scared
+
+I believe many young people struggle with the insecurity of being intelligent. They often feel the need to prove their intelligence by overthinking, excessively planning, and acquiring knowledge before taking action. However, this approach is a waste of time. The more you research, the more you realize how little you actually know. Instead, you just have to do it, even if you're scared.
+
+## Get Rid of Complexity
+
+I think in the same way when making plans or building systems, the same insecurity of being intelligent leads to overthinking and overcomplicating a system, in the hope that the same complexity will be a proxy for intelligence. I think this is a mistake. The best systems are the simplest ones. Feynman's approach to physics is a great example of this. Famously, Einstein said that if you can't explain something simply, you don't understand it well enough. I think this is true for many things.
+
+## A Great Person is not Always a Good Person
+
+Mike Tyson once said, "If you're favored by God, you're also favored by the devil." It's alright to strive for greatness, but it's equally important to choose goodness. Don't neglect your loved ones for work; time is fleeting. Appreciate people and sincerely express your love for them. Grief is the result of unexpressed love, and the key to avoiding grief is to love abundantly.
+
+Some people claim they will grind for ten years and then relax once they find a partner or something similar, but I believe that's nonsense. You won't be able to do it suddenly without practice. Along your journey of hard work, you must consciously practice winding down and being a good person. Otherwise, you'll only address it after experiencing your first divorce.
