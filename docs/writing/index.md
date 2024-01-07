@@ -6,11 +6,13 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 
 - If you have topics you'd like me to write about leave a comment in my [discussions](https://github.com/jxnl/blog/discussions)
 
-## Posts
+## Writing
 
-- [Solicited Advice](./posts/advice.md)
+- [Advice for young people](./posts/advice.md)
+
+## Systems
+
+- [How to build a terrible RAG system](./posts/rag-invertedmd)
 - [Rag is more than embeddings](./posts/rag.md)
-- [Understanding Python: Caching](./posts/caching.md)
-- [Understanding Python: Async](./posts/async.md)
 - [Flight, a framework for building and executing pipelines](./posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./posts/llmops.md)
