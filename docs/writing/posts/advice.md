@@ -20,6 +20,8 @@ But enough people DM'd me on Twitter, so here it is. I don't have to answer the 
 
 <!-- more -->
 
+!!! tip "This is a living document"
+
 ## How to Be Lucky
 
 You make your own luck. There's a great experiment that I can't cite, but it has stuck in my mind since I was a child. They identified people as lucky and unlucky, and asked them to count the number of photographs in a newspaper. The unlucky people took a long time to count the photographs, while the lucky people took a very short time. The reason is that the unlucky people were so focused on counting the photographs that they missed the giant text that said, "Stop counting, there are 43 photographs in this newspaper."
@@ -182,6 +184,8 @@ Whatever it is, just do the opposite.
 
 What are the mantra's you've inhereted from others? How often are you chasing "The Dream" and not "Your Dream?". Really evaluate what you want and why you want it, and make sure your practice talking to yourself.
 
+!!! tip "Happiness is the quality of thoughts"
+
 ## Social Media
 
 You don’t need to believe in yourself to be an artist, you just need to believe in your audience. To believe that it is important to communicate with them. Make sure that if youre goal is to build an audience that you have some message to say. Otherwise it just gets hopeless. Celebrity is the cost you pay to deliver your message, celebrity is to be hated.
@@ -209,3 +213,7 @@ The only language you have to describe the world is with your own perception. Th
 ## You are a mirror
 
 In the same way that the world is a mirror, you are a mirror. You are a mirror to others. When you accept this you also realize that you are not responsible for others. The people who are negative to you are usually miserable themselves. The sooner your realize this the easier it is to let go of the negativity.
+
+## Pessimists Are Losers
+
+You impress nobody except yourself when you're a pessimist. It doesn't make you a better friend. It does not make you cool and edgy. It does not make you seem smarter just because you can be critical of everything. The world is neither inherently against you nor for you, so believing one or the other is in bad faith.
