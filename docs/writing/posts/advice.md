@@ -119,3 +119,9 @@ When I started freediving, I swam for an hour every day, six days a week. At the
 People don't believe this, but my talk at the AI Summit was actually my first public speaking experience. It has over 120k views on YouTube. I was so nervous that I basically blacked out and didn't eat all day until the talk. Leading up to the talk, I rehearsed it for about two hours each day in the past three days. By the time I got on stage, the words just flowed out of me. I had rehearsed the speech standing up, wearing the same jacket, about 20 times in the past month. I knew I could do it because I had already done it.
 
 The theme is consistent throughout. I don't think it's the only way to gain confidence, as there could be some delusion at play. But I have simply shown myself, over the past 15 years, that I can overcome difficult challenges and do them repeatedly..
+
+## Choosing happiness
+
+In the short term, you would be much happier if you accepted and admitted to yourself that the reason you don't have what you want is simply because you do not want it badly enough. The sooner you accept that, the happier you'll be. Then the next question is: Do you want to be happy or do you want to achieve what you want? It's not the last question, but it definitely is the next question.
+
+For who i think my audience is I really recommended byung chul han's book the [burnout society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han) or [psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
