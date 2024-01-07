@@ -8,9 +8,11 @@ authors:
   - jxnl
 ---
 
-# Advice to Young People
+# Advice to Young People, The Lies I Tell Myself
 
-I'm not qualified to give advice, but enough people asked me to write this, so here it is. If you want to know who I am and why I'm writing this, check out [blog/whoami](./whoami.md) or my [resume](https://jxnl.co) or my [twitter](https://twitter.com/jxnlco). Also, note that this was written in 40 minutes. It's a work in progress. Its just from my life.
+I'm really not qualified to give advice.
+
+But enough people DM'd me on Twitter, so here it is. I don't have to answer the same question over and over again. If you want to know who I am, check out [blog/whoami](./whoami.md) or my [Twitter](https://twitter.com/jxnlco).
 
 !!! warning "Don't read this if you're seeking a nuanced perspective"
 
