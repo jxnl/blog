@@ -10,7 +10,11 @@ authors:
 
 # Advice to Young People
 
-I'm not qualified to give advice, but enough people asked me to write this, so here it is. If you want to know who I am and why I'm writing this, check out [blog/whoami](./whoami.md) or my [resume](https://jxnl.co) or my [twitter](https://twitter.com/jxnlco). Also, note that this was written in 40 minutes. It's a work in progress. Its just from my life. I'm not saying this is the right way to do things. I'm just saying this is how I did things.
+I'm not qualified to give advice, but enough people asked me to write this, so here it is. If you want to know who I am and why I'm writing this, check out [blog/whoami](./whoami.md) or my [resume](https://jxnl.co) or my [twitter](https://twitter.com/jxnlco). Also, note that this was written in 40 minutes. It's a work in progress. Its just from my life.
+
+!!! warning "Don't read this if you're seeking a nuanced perspective"
+
+    These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)). I'm not saying this is the right way to do things. I'm just saying this is how I did things.
 
 ## How to Be Lucky
 
@@ -42,6 +46,7 @@ There have been many times people will DM me offering to help while I am writing
 !!! note "How to Reach Out"
 
     Most of you suck at reaching out too. Some people email me 6-paragraph essays, about the time they saved a cat from a tree.
+
     Do not send me anything longer than you'd send a crush.
 
     I find the most effective way to get someone's attention is to simply give. Also just like dating. Hey I saw that you read this book on your website, i think you'd like this book too its pretty short etc etc. Oh I noticed some tests were failing in your repo, I fixed them for you. Hey! I've added some examples to the code base, do you have any feedback?
