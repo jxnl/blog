@@ -93,17 +93,25 @@ If you don't believe in yourself, believe in me that believes in you.
 
 ## How to Be Good at Many Things
 
-I think too many people reading this are mostly pursuing intellectual activities, but I'm mostly gonna focus on using analogies of personal physical fitness to describe how I think about this kind of stuff. In the beginning, you're gonna have a noob gains, just an act of practicing is going to be enough to make improvements. You're gonna be so weak and out of shape that if you wait, it's gonna be cardio, and if you run, you're gonna get stronger. And it's gonna be months or years of seeing progress just by showing up every day and doing anything. You're just gonna be making progress. Maybe you're also "gifted" and so things come easier to you, but there's gonna be a time when things change.
+I think too many people reading this are mostly pursuing intellectual activities, but I'm mostly gonna focus on using analogies of personal physical fitness to describe how I think about this kind of stuff.
+
+In the beginning, you're gonna have a noob gains, just an act of practicing is going to be enough to make improvements. You're gonna be so weak and out of shape that if you wait, it's gonna be cardio, and if you run, you're gonna get stronger. And it's gonna be months or years of seeing progress just by showing up every day and doing anything. You're just gonna be making progress. Maybe you're also "gifted" and so things come easier to you, but there's gonna be a time when things change.
 
 ### Cost of Being a Champion
 
 The story I tell myself is one where Travis Stevens talks about what it takes to be a judo champion. Something along the lines of "You think you want to be a champion until you meet someone who truly knows they want to be a champion." Replace "champion" with "comedian," "boxer," "founder," and so on.
 
-Do you realize what it takes to be a judo champion? You need to sacrifice relationships, break some fingers, go through an ACL tear, and even get a concussion before fighting for the Olympics. You have to endure injuries and wonder if your career is over. You have to get the flu right before nationals and fight through it. And if you lose, you have to refrain from making excuses. That's incredibly challenging. It's perfectly acceptable to choose not to pursue that path.
+!!! warn "Do you realize what it takes to be a judo champion?"
+
+    You need to sacrifice relationships, break some fingers, go through an ACL tear, and even get a concussion before fighting for the Olympics. You have to endure injuries and wonder if your career is over. You have to get the flu right before nationals and fight through it. And if you lose, you have to refrain from making excuses. That's incredibly challenging, and it's perfectly acceptable to choose not to pursue that path.
 
 ### Love Plateaus
 
 Once you start hitting a plateau, can you just start thinking about progressive overload and making sure what you're doing is facing difficulty at some consistent rate, but ultimately this is just to get you over and through some of these spots. At some point in the future, how much better you get will just be a function of how badly you want it and how much you enjoy the act.
+
+!!! note "How to identify the champ"
+
+    I remember that video where they were asking this Olympic weightlifter what matters more talent or hard work. And he said something along the lines of. "At the national level, everyone is talented, but when you by the time you go to the olympics hard work is the only thing that matters, there are many injuries and challenges, and the people who get it are the people who want it the most"
 
 ### On Season and Off Season
 
@@ -211,13 +219,17 @@ Whatever it is, just do the opposite.
 
 What are the mantra's you've inhereted from others? How often are you chasing "The Dream" and not "Your Dream?". Really evaluate what you want and why you want it, and make sure your practice talking to yourself.
 
-!!! tip "Happiness is the quality of thoughts"
+!!! note "Happiness is the quality of thoughts"
 
 ## Social Media
 
 You don’t need to believe in yourself to be an artist, you just need to believe in your audience. To believe that it is important to communicate with them. Make sure that if youre goal is to build an audience that you have some message to say. Otherwise it just gets hopeless. Celebrity is the cost you pay to deliver your message, celebrity is to be hated.
 
-## Isolation is the gift
+!!! note "Celebrity is to be hated"
+
+    Twitter is a place where low status people can feel like high status people. I think the Internet is basically summarized by those words. For most of the people who are fighting online the Internet might be the only place where they have a sense of control. When you approach it from a point of sympathy, even getting hate online is an opportunity to be grateful for the real life friendships that you have, and the digital communities that you've built.
+
+## Isolation is the gift, all others are a test of your endurance
 
 Really value your time alone. It is the only time you can truly see yourself. It is the only time you can truly hear yourself. Isolation is time not only away from people, but also media.
 
@@ -247,8 +259,18 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 
 > “He who blames others has a long way to go on his journey. He who blames himself is halfway there. He who blames no one has arrived.”
 
+!!! note "Survival"
+
+    I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are alsos more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
+
 ## You were just a child
 
 Stuck with me for a bit. I looked at all the stupid things I had done in the past, and all the things that happened to me that I didn't understand. Then someone said to me "you were just a child" and it was honestly the most liberating thing I've ever heard. I was just a child. I didn't know any better. I didn't know.
 
 Now, you also have to realize that this applies to everyone else too. Its everyone's first time being a person, including your parents.
+
+## Attention is a Gift
+
+The most valuable thing you can give someone is your attention. Talk about the things you love, spend time with the people you love, and give your attention wisely. As I said before, grief is the result of unexpressed love, and the key to avoiding grief is to love abundantly, especially yourself.
+
+So attend to the things that matter, and make sure to spend your arrogance while you're still young.
