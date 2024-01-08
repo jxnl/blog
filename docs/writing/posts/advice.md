@@ -186,7 +186,7 @@ When I was in art school, one thing I discovered was that many people believed t
 
 You are simply the person who created the work. You are a vessel, a medium for the work, but you are not the work itself.
 
-The sooner you realize this, the easier it will be to share the word you have produced, receive feedback, develop your skills, and reflect on your taste.
+The sooner you realize this, the easier it will be to share the work you have produced, receive feedback, develop your skills, and reflect on your taste.
 
 ## Get Rid of Complexity
 
