@@ -74,4 +74,4 @@ Eventually, I started dedicating six hours every Saturday to join Google Meet se
 
 By the time I started the Data Science Club, my goal was simply to teach as much as possible. I would give a couple of lengthy lectures every semester and organize career panels. I practiced reviewing résumés to develop a better understanding of how to write my own. Additionally, I honed my interview skills by conducting mock interviews.
 
-Every opportunity to teach, learn, and practice is a chance to improve. Being able to explain something well results in people asking the out of the box questions that you wouldn't have thought of. The goal of teaching is for the audience to collect all the idiosyncratic knowledge edge cases and bring them to your attention.
+Every opportunity to teach, learn, and practice is a chance to improve. Being able to explain something well results in people asking the out of the box questions that you wouldn't have thought of. The goal of teaching is for the audience to collect all the idiosyncratic edge cases of your knowledge and bring them to your attention.
