@@ -8,15 +8,11 @@ authors:
   - jxnl
 ---
 
-When I was reading through the comments on my blog post on [advice for young people](./advice.md), many questions remained about how to do things. How to become proficient at something, how to learn something new, how to get started. I believe this is an important topic that I want to write about.
+After writing my post [advice for young people](./advice.md), couple of people asked about my learning process.I could discuss overcoming plateaus or developing mastery, learning for the joy of it. I could also talk about how to avoid feeling overwhelmed by new topics and break them down into smaller pieces. However, I think that has been done before.
 
-The post could be divided into themes of learning. I could discuss overcoming plateaus or developing mastery, learning for the joy of it. I could also talk about how to avoid feeling overwhelmed by new topics and break them down into smaller pieces. However, I think that has been done before.
-
-Instead, I will do it in the sames style as the previous post, which is to have short, unrelated topics patched together.
+Instead, I decided to do something I found interesting: a chronological order description of the things I learned about learning. And how I learned them. I hope this will be useful for people who are interested in how I built out the skill of learning.
 
 <!-- more -->
-
-So, I'm going to write about how I learn and specifically the things I have noticed about my learning process. As always, I'm using speech-to-text and writing from top to bottom. I'll also do my best to start in chronological order.
 
 ## Environments Matter
 
@@ -66,6 +62,16 @@ Just like how i built my following on twitter, i read papers, posted summaries. 
 
 ### You only need to be a little bit ahead
 
-I was in a place where thousands of people were messaging me with their machine learning and data science questions not knowing I was just as inexperienced as they were, but for each message i would google and youtube and figure it out. Jump on a call to talk through it. I was just a little bit ahead of them, but again, by having this audience of folks finding the most interesting questions and answering them, I was able to get a lot of reps in.
+I found myself in a situation where hundreds of people messaged me with their machine learning and data science questions, not knowing I was just like them. However, I would diligently search on Google and YouTube to find answers and call them to discuss the topics. Although I was only slightly more knowledgeable than them, having this audience allowed me collect interesting questions and find answers.
 
-At some point I would just get on a google meet for 6 hours every saturday and just talk to strangers on the internet, to learn more about what they to. answer questions when i could and learn from them.
+Eventually, I started dedicating six hours every Saturday to join Google Meet sessions and converse with strangers on the internet. This helped me learn more about their experiences, answer their queries whenever possible, and learn from their insights.
+
+!!! note "Friends to this day"
+
+    I wouldn't be the person I am today if it weren't for this Facebook Group. I met two dozen Thiel Fellows, founders, 30 Under 30 kids - you name it. The scientists and engineers I met when we were 19 on that group are still my friends to this day. Many of them are now staff or principal-level engineers, investors, founders, and more.
+
+### Keep practicing
+
+By the time I started the Data Science Club, my goal was simply to teach as much as possible. I would give a couple of lengthy lectures every semester and organize career panels. I practiced reviewing résumés to develop a better understanding of how to write my own. Additionally, I honed my interview skills by conducting mock interviews.
+
+Every opportunity to teach, learn, and practice is a chance to improve. Being able to explain something well results in people asking the out of the box questions that you wouldn't have thought of. The goal of teaching is for the audience to collect all the idiosyncratic knowledge edge cases and bring them to your attention.
