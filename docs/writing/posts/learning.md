@@ -75,3 +75,9 @@ Eventually, I started dedicating six hours every Saturday to join Google Meet se
 By the time I started the Data Science Club, my goal was simply to teach as much as possible. I would give a couple of lengthy lectures every semester and organize career panels. I practiced reviewing résumés to develop a better understanding of how to write my own. Additionally, I honed my interview skills by conducting mock interviews.
 
 Every opportunity to teach, learn, and practice is a chance to improve. Being able to explain something well results in people asking the out of the box questions that you wouldn't have thought of. The goal of teaching is for the audience to collect all the idiosyncratic edge cases of your knowledge and bring them to your attention.
+
+## Leverage
+
+I think at this point, you have a pretty good idea of how I learned. I worked very hard in the beginning, got ahead, built a peer group that is a few steps behind me, and then taught them. Rinse and repeat. Their role in this ecosystem is to bring me the edge cases I wouldn't have thought of, and my job is to learn alongside them, always a few steps ahead, and then teach them. Even if I'm two weeks ahead, helping them out means spending a few hours helping them get two weeks ahead.
+
+If you're two weeks ahead and spend one hour teaching 30 people, you just provided 60 human weeks of value. That's 1.5 years of value in one hour. That's a pretty good exchange rate. And some of them will ask you questions and find stuff you didn't know, saving you the time of trying 10 things that you probably knew how to do to find the one edge case.
