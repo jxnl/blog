@@ -180,6 +180,14 @@ I believe many young people struggle with the insecurity of being intelligent. T
 
     There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds do it. But you study natrual science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
 
+## You are not your work
+
+When I was in art school, one thing I discovered was that many people believed they were defined by the work they created. If their work wasn't good, they saw it as a reflection of their skill rather than a reflection of their taste, which was actually superior to their ability.
+
+You are simply the person who created the work. You are a vessel, a medium for the work, but you are not the work itself.
+
+The sooner you realize this, the easier it will be to share the word you have produced, receive feedback, develop your skills, and reflect on your taste.
+
 ## Get Rid of Complexity
 
 I think in the same way when making plans or building systems, the same insecurity of being intelligent leads to overthinking and overcomplicating a system, in the hope that the same complexity will be a proxy for intelligence. I think this is a mistake. The best systems are the simplest ones. Feynman's approach to physics is a great example of this. Famously, Einstein said that if you can't explain something simply, you don't understand it well enough. I think this is true for many things.
