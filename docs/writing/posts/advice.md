@@ -83,9 +83,9 @@ But ultimately, you have to understand that unless there's some tremendous tax b
 
 If your metric for working somewhere is being someone people want to work with, it turns out skill is not the highest metric. I've seen people get hired because they're fun to be around. If you want to be the smartest person, then yeah, good grades and being the smartest person in the room is a good metric. But if you want to get a job, "man, you're great to be around" is a very strong metric. This is obviously conditional on skill, and you should obviously focus on skills acquisition.
 
-### Imposter Syndrome
+### Impostor Syndrome
 
-If I hired you, don't insult me by having imposter syndrome. I hired you because I think you can solve my problem. I didn't hire you to compare you to other plumbers (I might), but at the end of the day, you must just think I have shit taste and that you've somehow tricked me into thinking you're good when you're an imposter? Right?
+If I hired you, don't insult me by having impostor syndrome. I hired you because I think you can solve my problem. I didn't hire you to compare you to other plumbers (I might), but at the end of the day, you must just think I have shit taste and that you've somehow tricked me into thinking you're good when you're an impostor? Right?
 
 If you don't believe in yourself, believe in me that believes in you.
 
