@@ -166,7 +166,7 @@ I used to hate writing. I was always incredibly insecure about it. English is my
 
 !!! note "This is my first piece of writing"
 
-    I've run a bunch of pinnacle blog posts, but this is the first time I'm really speaking from my heart. This whole article took me about an hour to write using speech to text. I almost didn't write this, but then I realize that if it even helped one person feel a little less anxious for one day it would've been positive.
+    I've run a bunch of technical blog posts, but this is the first time I'm really speaking from my heart. This whole article took me about an hour to write using speech to text. I almost didn't write this, but then I realized that if it even helped one person feel a little less anxious for one day it would've been positive.
 
 It wasn't until November 2023 that I truly appreciated the power of writing. Writing helps me stop dwelling on the same thoughts repeatedly. Moreover, when someone asks for advice, I can simply share a link instead of repeating myself. I have found writing to be incredibly valuable because if someone is not willing to read it, they won't benefit from it. The worst outcome is not having written anything at all; it is failing to help someone who could have benefited from it. I have found that writing is a great way to help others while helping myself exorcise the thoughts from my mind and make room for new ones.
 
