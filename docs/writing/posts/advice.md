@@ -174,7 +174,7 @@ I believe many young people struggle with the insecurity of being intelligent. T
 
     When you learn to draw, just draw what you see. And when we get an art education, the theory simply gives us the language to describe our tastes. The challenge I'm giving myself this year is to learn the trumpet without learning any music theory. I'm just going to play with it like a child. I'm just going to listen to a lot of music and try to make those sounds that I like.
 
-    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds do it. But you study natrual science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
+    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds do it. But if you study natrual science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
 
 ## Get Rid of Complexity
 
