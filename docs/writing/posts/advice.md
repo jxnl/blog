@@ -166,7 +166,7 @@ I used to hate writing. I was always incredibly insecure about it. English is my
 
 !!! note "This is my first piece of writing"
 
-    I've run a bunch of pinnacle blog post, but this is the first time I'm really speaking from my heart. This whole article took me about an hour to write using speech to text. I almost didn't write this, but then I realize that if it even helped one person feel a little less anxious for one day it would've been positive.
+    I've run a bunch of pinnacle blog posts, but this is the first time I'm really speaking from my heart. This whole article took me about an hour to write using speech to text. I almost didn't write this, but then I realize that if it even helped one person feel a little less anxious for one day it would've been positive.
 
 It wasn't until November 2023 that I truly appreciated the power of writing. Writing helps me stop dwelling on the same thoughts repeatedly. Moreover, when someone asks for advice, I can simply share a link instead of repeating myself. I have found writing to be incredibly valuable because if someone is not willing to read it, they won't benefit from it. The worst outcome is not having written anything at all; it is failing to help someone who could have benefited from it. I have found that writing is a great way to help others while helping myself exorcise the thoughts from my mind and make room for new ones.
 
@@ -178,7 +178,7 @@ I believe many young people struggle with the insecurity of being intelligent. T
 
     When you learn to draw, just draw what you see. And when we get an art education, the theory simply gives us the language to describe our tastes. The challenge I'm giving myself this year is to learn the trumpet without learning any music theory. I'm just going to play with it like a child. I'm just going to listen to a lot of music and try to make those sounds that I like.
 
-    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds do it. But you study natrual science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
+    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds do it. But if you study natrual science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
 
 ## You are not your work
 
@@ -273,7 +273,7 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 
 !!! note "Survival"
 
-    I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are alsos more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
+    I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are also more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
 
 ## Let Go of Anticipation
 
