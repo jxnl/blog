@@ -12,13 +12,13 @@ authors:
 
 I'm really not qualified to give advice.
 But enough people DM'd me on Twitter, so here it is. I don't have to answer the same question over and over again.
-After some more editing I realised that I am actually write this for my younger Katherine.
+After some more editing I realised that I am actually writing this for my younger Katherine.
 
 If you want to know who I am, check out [blog/whoami](./whoami.md) or my [Twitter](https://twitter.com/jxnlco).
 
 !!! warning "Don't read this if you're seeking a nuanced perspective"
 
-    These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the the suffering and the privilege I've experienced is universal.
+    These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the suffering and the privilege I've experienced is universal.
 
 <!-- more -->
 
@@ -154,7 +154,7 @@ The theme is consistent throughout. I don't think it's the only way to gain conf
 
 In the short term, you would be much happier if you accepted and admitted to yourself that the reason you don't have what you want is simply because you do not want it badly enough. The sooner you accept that, the happier you'll be. Then the next question is: Do you want to be happy or do you want to achieve what you want? It's not the last question, but it definitely is the next question.
 
-For who i think my audience is I really recommended byung chul han's book the [burnout society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han/dp/0804795096) or [psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
+For who i think my audience is I really recommended Byung Chul Han's book the [Burnout Society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han/dp/0804795096) or [Psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
 
 ## Write More
 
@@ -170,7 +170,7 @@ It wasn't until November 2023 that I truly appreciated the power of writing. Wri
 
 I believe many young people struggle with the insecurity of being intelligent. They often feel the need to prove their intelligence by overthinking, excessively planning, and acquiring knowledge before taking action. However, this approach is a waste of time. The more you research, the more you realize how little you actually know. Instead, you just have to do it, even if you're scared.
 
-!!! note "The theory is for analysis; it is not for action"
+!!! note "The theory is for analysis; it is not for action."
 
     When you learn to draw, just draw what you see. And when we get an art education, the theory simply gives us the language to describe our tastes. The challenge I'm giving myself this year is to learn the trumpet without learning any music theory. I'm just going to play with it like a child. I'm just going to listen to a lot of music and try to make those sounds that I like.
 
@@ -223,7 +223,7 @@ What are the mantra's you've inhereted from others? How often are you chasing "T
 
 ## Social Media
 
-You don’t need to believe in yourself to be an artist, you just need to believe in your audience. To believe that it is important to communicate with them. Make sure that if youre goal is to build an audience that you have some message to say. Otherwise it just gets hopeless. Celebrity is the cost you pay to deliver your message, celebrity is to be hated.
+You don’t need to believe in yourself to be an artist, you just need to believe in your audience. To believe that it is important to communicate with them. Make sure that if your goal is to build an audience that you have some message to say. Otherwise it just gets hopeless. Celebrity is the cost you pay to deliver your message, celebrity is to be hated.
 
 !!! note "Celebrity is to be hated"
 
@@ -251,7 +251,7 @@ The only language you have to describe the world is with your own perception. Th
 
 ## You are a mirror
 
-In the same way that the world is a mirror, you are a mirror. You are a mirror to others. When you accept this you also realize that you are not responsible for others. The people who are negative to you are usually miserable themselves. The sooner your realize this the easier it is to let go of the negativity.
+In the same way that the world is a mirror, you are a mirror. You are a mirror to others. When you accept this you also realize that you are not responsible for others. The people who are negative to you are usually miserable themselves. The sooner you realize this the easier it is to let go of the negativity.
 
 ## Pessimists Are Losers
 
