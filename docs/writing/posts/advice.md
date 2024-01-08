@@ -150,6 +150,10 @@ In order to keep doing the reps in the past 3 months I've been relentlessly tryi
 
 The theme is consistent throughout. I don't think it's the only way to gain confidence, as there could be some delusion at play. But I have simply shown myself, over the past 15 years, that I can overcome difficult challenges and do them repeatedly..
 
+## The Greatest Gift You Can Give Yourself
+
+The greatest gift you can give yourself is the gift of being enough.
+
 ## Choosing happiness
 
 In the short term, you would be much happier if you accepted and admitted to yourself that the reason you don't have what you want is simply because you do not want it badly enough. The sooner you accept that, the happier you'll be. Then the next question is: Do you want to be happy or do you want to achieve what you want? It's not the last question, but it definitely is the next question.
