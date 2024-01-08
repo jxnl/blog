@@ -36,24 +36,6 @@ What are the first realization I made was if I just spent the first week working
 
 I was never the best artist, and I don't think that was the goal. But I want to emphasize one thing: my most skilled friends were always drawing and practicing. To this day, there are people I know whom I have never seen without a sketchbook. They probably fill 12 to 15 sketchbooks every year. It's always amusing when people admire their work and call them talented, unaware that for the past 12 years, every time I've been late for a coffee, every time we've visited a gallery, every time we've gone for a walk, they have always been drawing.
 
-### Understanding Creativity
-
-One of the most important skills I learned in art school is public speaking. Every semester, we had to do an art history presentation and a cumulative presentation representing our thesis work. One of the formative presentations I made was about creativity and the abundance of multidisciplinary artists compared to scientists. My conclusion was that active creativity stems from starting something new. It is relatively easy for those in the creative industry to change fields, such as transitioning from being a painter to a filmmaker or a furniture designer. However, this is not the case in the sciences. If you look at Nobel laureates, most of them received the prize for work they did in their late 20s and early 30s. At that point, they had acquired enough tools to explore the world but not enough knowledge to limit what they believed was possible.
-
-This is why I constantly change what I do. There is no better way to foster creativity than to embrace uncertainty about what is possible. It is akin to being like a baby, constantly probing the world. By doing this constant shifting into new fields, I'm never truely in a place where my belief in my own abilities limits what I think is possible.
-
-### School is not for learning
-
-I also want to note here that I don't think school is for learning. Because if the goal is to learn, I think homeschooling, particularly good homeschooling, outperforms most public schools. However, it is important to realize that homeschooling carries the risk of underdeveloped social skills. This can be confusing and disorienting for high schoolers, but I believe we see this in full force in college.
-
-## You don't have to specialize
-
-I generally think people specialize too soon and have to declare your major, and not having electives is pretty tragic. There really no reason to use words like "majors" to try to dictate what you should and should not know on what you think you it is or is not reputable or easy or hard.
-
-You should take the time in college to just prove your interest and try things out and fail. I know so many people who did three or four internships at the same company like Facebook and Google and I just thought that was the most boring thing you could possibly , what those students go through the program and have the opportunity to six or seven internships and not even diversify a little bit to seem so uninteresteing.
-
-I think a lot of success came from the fact that I did research what did physics or did a start up work with sales people work with researchers went to large companies like Facebook and eventually Wen full-time at Stitchfix.
-
 ## Just create your peer group
 
 After the second year of college, I decided I wanted to learn machine, learning and leave physics. I had taken Andrew Ngs machine, learning course on Coursera and blew me away with what was possible. But at the time I didn't know anyone who was interested in machine learning so again, I did what I had done in high school, spring to get ahead. I started a machine learning club. I started it for Hackathon Hackers with Data Hackers, and grew that to 7000 people. I started a data science machine learning club at Waterloo. I started a guide on how to start your own data science / machine learning club, i met the kids who started the clubs around all the north american colleges that were apart of hackathon hackers.
