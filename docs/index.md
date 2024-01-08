@@ -4,9 +4,12 @@ Currently working as an independent consultant. My use my expertise in recommend
 
 ## Writing
 
+- [Advice for young people](./writing/posts/advice.md)
+
+## Systems
+
+- [How to build a terrible RAG system](./writing/posts/rag-inverted.md)
 - [Rag is more than embeddings](./writing/posts/rag.md)
-- [Understanding Python: Caching](./writing/posts/caching.md)
-- [Understanding Python: Async](./writing/posts/async.md)
 - [Flight, a framework for building and executing pipelines](./writing/posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./writing/posts/llmops.md)
 
