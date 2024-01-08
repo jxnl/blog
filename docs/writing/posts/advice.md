@@ -81,7 +81,7 @@ But ultimately, you have to understand that unless there's some tremendous tax b
 
 ### Be Someone People Want to Work With
 
-If your metric for working somewhere is being someone people want to work with, it turns out skill is not the highest metric. I've seen people get hired because they're fun to be around. If you want to be the smartest person, then yeah, good grades and being the smartest person in the room is a good metric. But if you want to get a job, "man, you're great to be around" is a very strong metric. This is obviously conditional on skill, and you should obviously focus on skills acquisition.
+If you aim to be a desirable colleague at work, it's important to realize that skill isn't the only or the most important factor. Yes, having the necessary skills is important, but I've seen people get hired because they're amiable: sociable, approachable, and fun to be around. That said, if your goal is to be the smartest or most knowledgeable colleague, then good grades, expertise, and competency are your metrics. In my experience, people are hired for being positive and engaging; hearing "man, you're great to work with" is a powerful endorsement, especially when coupled with skill and competency. So yes, focus on skill acquisition. But remember, skills alone don't make you someone people want to work with.
 
 ### Imposter Syndrome
 
