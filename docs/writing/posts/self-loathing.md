@@ -31,20 +31,25 @@ When I came to the US, I had about ~$1000 saved up. I asked my employer if I cou
 
 Four years into working, I pushed myself too hard and developed tendonitsis in both of my hands. I couldn't code or even hold a glass of beer. I thought I would lose my job.
 
-I thought the only thing I wanted was to make money so I wouldn't feel poor, because I didn't want to be like my parents. They would get into fights over late fees on the electrical bill, which meant less money for groceries. Even that was going to be taken away from me. I'm going to love everything. My only self worth as attached to work, and now I'll have nothing.
+!!! note "Everyone's suffering is maximum to them"
+
+    I'm not here to compare suffering. I'm just trying to explain maybe the pre-training that went into my mental model of the world, and how it might have influenced what I wrote in that article. There no medal for the sad olympics. No one wins.
+
+I thought the only thing I wanted was to make money so I wouldn't feel poor, because I didn't want to be like my parents. They would get into fights over late fees on the electrical bill, which meant less money for groceries. Even that was going to be taken away from me. I'm going to losee everything I wold myself. At that time, i was clawing away at patriarchical self esteem and my only self worth as attached to money and work, and now, injured I thought I'd have nothing, again.
 
 _Those were the stories I told myself._
-And the advice I wrote in that article, dedicated to my sister going back to college? They were truly the lies I told myself to get through it.
+
+The advice I wrote in that article, dedicated to my sister going back to college? They were truly the lies I told myself to get through it.
 
 I want her to believe that you can just choose to be happy because the absence of choice is too dreadful.
 
-Her life is very different. They haven't supported me since I moved out when I was 17. I told myself I was a man and that they could just save the money and spend it on her.
+Her life is very different than mind, my parents hae not materially supported me since I moved out when I was 17. I told myself I was a man and that they could just save the money and spend it on her.
 
 Since then, I've known the price of every piece of clothing on my back. I know the price of every meal I've ever eaten. The reason I talk so much about money in my life is that I'm always keeping track of what I have and what I might lose.
 
 Those were all the mantras repeating in my head until I was 27. I spent all of my 20s trying to get there only to find out, now turning 30, that there is no "there."
 
-I wrote that piece thinking if it helped my sister, it would be worth it. If I shared it, maybe it would help someone and save them the trouble.
+I wrote that piece thinking if it helped my sister, it would be worth it. If I shared it, maybe it would help someone and save them the trouble I went through.
 
 But I was surprised at the reception. Everyone took something different from it. Older men told me that they resonated with the cost of being a champion and the importance of separating goodness and greatness.
 
