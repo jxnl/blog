@@ -23,7 +23,6 @@ I'm going to break this down into two sections:
    - Rock Climbing
    - Jiu Jitsu
    - Rocket League
-   - Dealing with Pain
    - Freediving
 
 It's a false dichotomy in the sense that the tactics and strategies for knowledge acquisition apply to physical skills, and the volume and leverage required to learn physical skills also apply to knowledge acquisition. But consider this an experiment.
@@ -99,4 +98,10 @@ I learned that not only do strength athletes do progressive, they also periodize
 
 The lesson here really came from injury. What you end up learning is that the muscles in your body adapt faster than the tendons. If you're not patient and you grow too quickly in one direction, you're actually capable of exerting so much strength that your tendons could get injured. My climbing was cut short prematurely after having a pulley injury. I was out for 6 months.
 
-Now, when I'm developing new skills and pursuing large projects, I also think of this metaphor of muscle vs tendon. Sure, I'm making a lot of progress, but are there other skills that I'm not working on? Are they developing at slower rates? If I push myself too hard, I might get overworked. I found that this happened to me recently, where I discovered an imbalance in the rates at which I was developing the marketing for my business and the product suffered.
+Now, when I'm developing new skills and pursuing large projects, I also think of this metaphor of muscle vs tendon. Sure, I'm making a lot of progress, but are there other skills that I'm not working on? Are they developing at slower rates? If I push myself too hard, I may put too much pressure on one skill while neglecting another.
+
+I found that this happened to me recently when I was developing the marketing for my business. The work suffered as I spent too much time writing proposals, getting rejected, and started falling behind on the actual work!
+
+### Jiu Jitsu
+
+To choose I think by by far is the most interesting thing ever ever done. There's so many lessons I've learned from doing jujitsu. but the onle i want to focus on is the idea of facticity
