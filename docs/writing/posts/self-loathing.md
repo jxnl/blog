@@ -20,6 +20,8 @@ This entire piece of writing is dedicated to a recent response on Hacker News. I
 
     Also, I wrote this as a speech-to-text conversion. As I mentioned in my advice post about [writing more](./advice.md#write-more), my measure for writing more is simply putting more words on a page. If you're wondering how I can be so vulnerable, it's the same as what I mentioned about [confidence](./advice.md#how-to-be-confident). If you think this comment hurt me remember that you're just a [mirror](./advice.md#you-are-a-mirror).
 
+    I've also learned that writing is a exorcism of your own thoughts. The more I write, the less these thoughts stick around in my head.
+
 Maybe if you knew my background you’d understand why I wrote that piece.
 When I was younger, I had so little in my life that I hated anyone who had anything. I used to be jealous of people who were able to have conversations with their families during dinner or the holidays because their parents did not work retail jobs. I also envied those who received Christmas and birthday gifts.
 
