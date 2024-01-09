@@ -35,7 +35,7 @@ Four years into working, I pushed myself too hard and developed tendonitsis in b
 
     I'm not here to compare suffering. I'm just trying to explain maybe the pre-training that went into my mental model of the world, and how it might have influenced what I wrote in that article. There no medal for the sad olympics. No one wins.
 
-I thought the only thing I wanted was to make money so I wouldn't feel poor, because I didn't want to be like my parents. They would get into fights over late fees on the electrical bill, which meant less money for groceries. Even that was going to be taken away from me. I'm going to losee everything I wold myself. At that time, i was clawing away at patriarchical self esteem and my only self worth as attached to money and work, and now, injured I thought I'd have nothing, again.
+I thought the only thing I wanted was to make money so I wouldn't feel poor, because I didn't want to be like my parents. They would get into fights over late fees on the electrical bill, which meant less money for groceries. Even that was going to be taken away from me. I'm going to lose everything I told myself. At that time, I was clawing away at patriarchical self esteem and my only self worth as attached to money and work, and now, injured I thought I'd have nothing, again.
 
 _Those were the stories I told myself._
 
@@ -43,7 +43,7 @@ The advice I wrote in that article, dedicated to my sister going back to college
 
 I want her to believe that you can just choose to be happy because the absence of choice is too dreadful.
 
-Her life is very different than mind, my parents hae not materially supported me since I moved out when I was 17. I told myself I was a man and that they could just save the money and spend it on her.
+Her life is very different than mine, my parents hae not materially supported me since I moved out when I was 17. I told myself I was a man and that they could just save the money and spend it on her.
 
 Since then, I've known the price of every piece of clothing on my back. I know the price of every meal I've ever eaten. The reason I talk so much about money in my life is that I'm always keeping track of what I have and what I might lose.
 
