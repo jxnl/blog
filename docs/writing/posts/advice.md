@@ -52,7 +52,7 @@ Very few people get a job on merit alone. You have to be a big fish in a big pon
 
 When I hire someone, I simply want to know that they are capable of taking charge of their own life. It's quite common for people to DM me saying, "Hey man, how can I help you?" However, I often find that they haven't put any effort into thinking about it. I usually ignore such messages unless I truly believe they can provide assistance.
 
-??? note "Links that are everywhere on my digital footprint
+??? note "Links that are everywhere on my digital footprint"
 
     - [Contributing to jxnl/instructor](https://jxnl.github.io/instructor/contributing/)
     - [Contributing to jxnl/instructor-js](https://instructor-ai.github.io/instructor-js/contributing/)
@@ -158,7 +158,7 @@ The greatest gift you can give yourself is the gift of being enough.
 
 In the short term, you would be much happier if you accepted and admitted to yourself that the reason you don't have what you want is simply because you do not want it badly enough. The sooner you accept that, the happier you'll be. Then the next question is: Do you want to be happy or do you want to achieve what you want? It's not the last question, but it definitely is the next question.
 
-For who i think my audience is I really recommended Byung Chul Han's book the [Burnout Society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han/dp/0804795096) or [Psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
+For who i think my audience is, I really recommended Byung Chul Han's book the [Burnout Society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han/dp/0804795096) or [Psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
 
 ## Write More
 
@@ -229,7 +229,7 @@ Whatever it is, just do the opposite.
 
 ## Self talk
 
-What are the mantra's you've inhereted from others? How often are you chasing "The Dream" and not "Your Dream?". Really evaluate what you want and why you want it, and make sure your practice talking to yourself.
+What are the mantras you've inherited from others? How often are you chasing "The Dream" and not "Your Dream?". Really evaluate what you want and why you want it, and make sure your practice talking to yourself.
 
 !!! note "Happiness is the quality of thoughts"
 
@@ -273,7 +273,7 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 
 !!! note "Survival"
 
-    I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are also more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
+    I think pessimism as a survival mechanism is great, it's the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are also more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
 
 ## Let Go of Anticipation
 
@@ -281,7 +281,7 @@ Here's a story about how regular people and Buddhist monks anticipated the futur
 
 The monks, however, had no resting anxious anticipatory response. There was no overactive brain activity until the moment of the shock. But when they did feel the shock, it was much higher than the group of regular people. They felt more pain!
 
-The lesson I learned from this is that anticipation likely dampens the sensations at the moment life happens, but at the cost dampening the joy as well, while creating a contraction in the present moment. This relates to the pessimism bit. You might think you're winning because you believe the pain was lessened by expecting the worse, but you also lose because you were in anticipation the entire time. On the same token letting go of anticipation of success also allows you to enjoy the moment more, the pressure to succeed is equally a contraction.
+The lesson I learned from this is that anticipation likely dampens the sensations at the moment life happens, but at the cost dampening the joy as well, while creating a contraction in the present moment. This relates to the pessimism bit. You might think you're winning because you believe the pain was lessened by expecting the worst, but you also lose because you were in anticipation the entire time. On the same token letting go of anticipation of success also allows you to enjoy the moment more, the pressure to succeed is equally a contraction.
 
 ## You were just a child
 
