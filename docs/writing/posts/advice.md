@@ -180,7 +180,7 @@ I believe many young people struggle with the insecurity of being intelligent. T
 
     When you learn to draw, just draw what you see. And when we get an art education, the theory simply gives us the language to describe our tastes. The challenge I'm giving myself this year is to learn the trumpet without learning any music theory. I'm just going to play with it like a child. I'm just going to listen to a lot of music and try to make those sounds that I like.
 
-    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds do it. But if you study natrual science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
+    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds to it. But if you study natural science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
 
 ## You are not your work
 
@@ -231,7 +231,7 @@ Whatever it is, just do the opposite.
 
 ## Self talk
 
-What are the mantra's you've inhereted from others? How often are you chasing "The Dream" and not "Your Dream?". Really evaluate what you want and why you want it, and make sure your practice talking to yourself.
+What are the mantras you've inhereted from others? How often are you chasing "The Dream" and not "Your Dream?". Really evaluate what you want and why you want it, and make sure your practice talking to yourself.
 
 !!! note "Happiness is the quality of thoughts"
 
@@ -247,7 +247,7 @@ You don’t need to believe in yourself to be an artist, you just need to believ
 
 Really value your time alone. It is the only time you can truly see yourself. It is the only time you can truly hear yourself. Isolation is time not only away from people, but also media.
 
-I believe success truely comes from being yourself, but if you're always surrounded by others the influence is too strong. But if you can truely live in the isolation, you'll be like a still pond. When others project their image onto you, you'll be able to see the ripples clearly.
+I believe success truly comes from being yourself, but if you're always surrounded by others the influence is too strong. But if you can truely live in the isolation, you'll be like a still pond. When others project their image onto you, you'll be able to see the ripples clearly.
 
 ## The world is a mirror
 
@@ -261,7 +261,7 @@ The only language you have to describe the world is with your own perception. Th
 
     Fast forward 5 years, everyone I see coming into the gym is trying to improve their health. I don't think the same way. I look at these people and think, "Wow, they are so much braver than me. I see them coming consistently, and I can see they are getting results. Good for them! Oh, wow, they are bringing their friends. Awesome."
 
-    The world looks difference when you fix your own perception.
+    The world looks different when you fix your own perception.
 
 ## You are a mirror
 
