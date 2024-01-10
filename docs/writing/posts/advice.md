@@ -87,6 +87,8 @@ If your metric for working somewhere is being someone people want to work with, 
 
 If I hired you, don't insult me by having impostor syndrome. I hired you because I think you can solve my problem. I didn't hire you to compare you to other plumbers (I might), but at the end of the day, you must just think I have shit taste and that you've somehow tricked me into thinking you're good when you're an impostor? Right?
 
+That said, it's advised that junior people seek out teams which prioritize a high degree of psychological safety.
+
 If you don't believe in yourself, believe in me that believes in you.
 
 ![](https://i.pinimg.com/originals/44/b5/fa/44b5fa64e1e0cdeaa61829443da6df41.gif)
