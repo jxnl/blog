@@ -1,6 +1,6 @@
 # :boom: whats up?
 
-Currently working as an independent consultant. My use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator [Instructor](https://jxnl.github.io/instructor) and [Flight](https://jxnl.github.io/flight), and ML and data science educator.
+Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://jxnl.github.io/instructor), [Flight](https://jxnl.github.io/flight), and an ML and data science educator.
 
 ## Writing
 
