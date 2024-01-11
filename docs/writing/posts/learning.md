@@ -16,16 +16,24 @@ Instead, I'm going to explore a new style. I'm just going to go through a chrono
 
 I'm going to break this down into two sections:
 
-1. What I did in high school and college
-2. What I did after college
-   - Pottery
-   - Weightlifting
-   - Rock Climbing
-   - Jiu Jitsu
-   - Rocket League
-   - Freediving
+**What I did in high school and college**
 
-It's a false dichotomy in the sense that the tactics and strategies for knowledge acquisition apply to physical skills, and the volume and leverage required to learn physical skills also apply to knowledge acquisition. But consider this an experiment.
+1. Design
+2. Data Science
+
+**What I did after college**
+
+- Pottery
+
+- Weightlifting
+
+- Jiu Jitsu
+
+- Rocket League
+
+- Freediving
+
+It's a false dichotomy in the sense that the tactics and strategies for knowledge acquisition apply to physical skills, and the volume and leverage required to learn physical skills also apply to knowledge acquisition. But consider this an experiment, I'll go over each one and a lesson I learned.
 
 <!-- more -->
 
@@ -94,19 +102,9 @@ What did I learn? I basically learned that we often set outcome-based goals inst
 
 By the time I started weightlifting, I kind of accepted already that I had to focus on process based goals. When I learned about progressive overload, it made sense that if my metric was just `weight * reps * sets` all I had to do was to increase that number every week.
 
-#### Program your training
+#### Periodize your training
 
 I learned that not only do strength athletes do progressive, they also periodize their training. They have a hypertrophy phase, a strength phase, and a peaking phase. Not only that, they take deload weeks! What I got from my time weightlifting is that for anything that I'm trying to learn, not only should I think about volume instead of outcomes. I should also think about how I can do progressive overload and periodize the training and apply rest as a feature of the training program. Many professional also both on season and off-season where they can focus on different aspects of their training like skills development vs conditioning.
-
-### Rock Climbing
-
-The lesson here really came from injury. What you end up learning is that the muscles in your body adapt faster than the tendons. If you're not patient and you grow too quickly in one direction, you're actually capable of exerting so much strength that your tendons could get injured. My climbing was cut short prematurely after having a pulley injury. I was out for 6 months.
-
-#### Not all skills develop at the same rate
-
-Now, when I'm developing new skills and pursuing large projects, I also think of this metaphor of muscle vs tendon. Sure, I'm making a lot of progress, but are there other skills that I'm not working on? Are they developing at slower rates? If I push myself too hard, I may put too much pressure on one skill while neglecting another.
-
-I found that this happened to me recently when I was developing the marketing for my business. The work suffered as I spent too much time writing proposals, getting rejected, and started falling behind on the actual work!
 
 ### Jiu Jitsu
 
@@ -114,7 +112,7 @@ I think Jiu Jitsu is by far the most interesting thing I have ever done. There a
 
 However, when you study under someone who competes, it is very easy to see if the techniques they teach you are the same ones they use in competition. There are plenty of Jiu Jitsu instructors on Instagram and YouTube who showcase flashy moves that they have never used in competition, and you can quickly realize what works and what does not work in practice. I think this is a very important lesson for anyone who is trying to learn anything.
 
-#### Learn from people actively doing the thing
+#### Learn from people actively doing the thing 'in competition'
 
 You should always try to learn from people who are actively doing the thing that you want to do. There's some nuance too around learning from a range of people and skills. A group of ten white belts (newest) is probably going to be a terrible and difficult path to learning, but having a mix of black belts might also be technically difficult to learn from.
 
