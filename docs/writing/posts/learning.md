@@ -116,7 +116,7 @@ However, when you study under someone who competes, it is very easy to see if th
 
 You should always try to learn from people who are actively doing the thing that you want to do. There's some nuance too around learning from a range of people and skills too. A group of ten white belts (newest) is probably going to be a terrible and difficult path to learning, but having a mix of black belts might also be technically difficult to learn from.
 
-If you want to succeed in business, you should learn from people who are actively doing business. This might not be some investor, and it might not be Zuckerberg either. You need to find the right blend of at your level, a few months ahead, and exeedingly above, actually doing things you want to do, in the current moment. There are many teachers who are out of touch, or too far remove from the moment they were learning in.
+If you want to succeed in business, you should learn from people who are actively engaged in business. This might not be an investor, and it might not be Zuckerberg either. You need to find the right blend of individuals who are at your level, a few months ahead, and significantly more advanced, actually pursuing the things you want to do in the current moment. There are many teachers who are out of touch or too far removed from the moment they were learning in.
 
 ### Rocket League
 
