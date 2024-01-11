@@ -12,7 +12,9 @@ authors:
 
 After writing my post [advice for young people](./advice.md), a couple of people asked about my learning process. I could discuss overcoming plateaus or developing mastery, learning for the joy of learning. I could also talk about how to avoid feeling overwhelmed by new topics and break them down into smaller pieces. However, I think that has been done before.
 
-Instead, I'm going to explore a new style. I'm just going to go through a chronological telling of my life and what i learned about learning.
+Instead, I'm going to explore a new style. I'm just going to go through a chronological telling of my life and what I learned from just trying new things. I'm going to talk about the tactics and strategies and see how this pans out.
+
+Its really revolves around some core ideas, that I definitly knew before, but didn't see the patterns for myself. Until years into trying stuff, the important of teaching to learn, having process vs outcome goals, planning and periodization, and just not doing anything flashy too early.
 
 I'm going to break this down into two sections:
 
