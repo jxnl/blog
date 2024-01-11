@@ -9,6 +9,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 ## Writing
 
 - [Advice for young people](./posts/advice.md)
+- [What I learned from trying](./posts/learning.md)
 
 ## Systems
 
