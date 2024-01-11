@@ -100,27 +100,31 @@ What did I learn? I basically learned that we often set outcome-based goals inst
 
 ### Weightlifting
 
-By the time I started weightlifting, I kind of accepted already that I had to focus on process based goals. When I learned about progressive overload, it made sense that if my metric was just `weight * reps * sets` all I had to do was to increase that number every week.
+By the time I started weightlifting, I kind of accepted already that I had to focus on process based goals. When I learned about progressive overload, it made sense that if my metric was just `weight * reps * sets` all I had to do was to increase that number every week. I could increase, weight, reps, or sets, every week, and I would be making progress.
 
 #### Periodize your training
 
-I learned that not only do strength athletes do progressive, they also periodize their training. They have a hypertrophy phase, a strength phase, and a peaking phase. Not only that, they take deload weeks! What I got from my time weightlifting is that for anything that I'm trying to learn, not only should I think about volume instead of outcomes. I should also think about how I can do progressive overload and periodize the training and apply rest as a feature of the training program. Many professional also both on season and off-season where they can focus on different aspects of their training like skills development vs conditioning.
+I learned that not only do strength athletes do progressive overload, they also periodize their training. They have a hypertrophy phase, a strength phase, and a peaking phase. Not only that, they take deload weeks! What I got from my time weightlifting is that for anything that I'm trying to learn, not only should I think about volume instead of outcomes, I should also think about how I can do progressive overload to increase volume and periodize the training and apply rest as a feature of the training program. Many professional also both on season and off-season where they can focus on different aspects of their training like skills development vs conditioning.
+
+Its also just more fun to set learning goals and peak over some multimonth period. It makes the expectation of progress more realistic and it's easier to stay motivated.
 
 ### Jiu Jitsu
 
-I think Jiu Jitsu is by far the most interesting thing I have ever done. There are so many lessons I've learned from practicing it, but I want to focus on the idea of choosing your teachers. There is a huge advantage in choosing to learn from active competitors. I believe that combat sports, in particular, are very difficult to deceive in. It's quite easy to watch somebody on YouTube telling you how to make $1 million, but you'll never be able to verify if they have actually achieved that themselves.
+I think Jiu Jitsu is by far the most interesting thing I have ever done. There are so many lessons I've learned from practicing it, but I want to focus on the idea of choosing your teachers. There is a huge advantage in choosing to learn from active competitors. I believe that techniques and tips in combat sports, in particular, are very difficult bullshit. It's quite easy to watch somebody on YouTube telling you how to make $1 million, but you'll never be able to verify if they have actually achieved that themselves.
 
-However, when you study under someone who competes, it is very easy to see if the techniques they teach you are the same ones they use in competition. There are plenty of Jiu Jitsu instructors on Instagram and YouTube who showcase flashy moves that they have never used in competition, and you can quickly realize what works and what does not work in practice. I think this is a very important lesson for anyone who is trying to learn anything.
+However, when you study under someone who competes, it is very easy to see if the techniques they teach you are the same ones they use in competition, if they are not, something might be up. Why? Cause there are plenty of Jiu Jitsu instructors on Instagram and YouTube who showcase flashy moves that they have _never_ used in competition, and probably don't work.
 
 #### Learn from people actively doing the thing 'in competition'
 
-You should always try to learn from people who are actively doing the thing that you want to do. There's some nuance too around learning from a range of people and skills. A group of ten white belts (newest) is probably going to be a terrible and difficult path to learning, but having a mix of black belts might also be technically difficult to learn from.
+You should always try to learn from people who are actively doing the thing that you want to do. There's some nuance too around learning from a range of people and skills too. A group of ten white belts (newest) is probably going to be a terrible and difficult path to learning, but having a mix of black belts might also be technically difficult to learn from.
+
+If you want to succeed in business, you should learn from people who are actively doing business. This might not be some investor, and it might not be Zuckerberg either. You need to find the right blend of at your level, a few months ahead, and exeedingly above, actually doing things you want to do, in the current moment. There are many teachers who are out of touch, or too far remove from the moment they were learning in.
 
 ### Rocket League
 
 Rocket League is a video game where you play soccer with cars that can fly. The ability to fly is a critical aspect as it allows for a greater range of movement in the air, effectively enabling gameplay in six dimensions. It's difficult to explain, but I can share a [link](https://www.youtube.com/watch?v=pC_LFdmWHAU) of a professional player demonstrating the game.
 
-After learning how important fundamentals where from BJJ I decided to concentrate on learning how to play Rocket League and focus solely on the basics. Initially, I thought this would involve mastering the aerial flying aspect of the game. However, after watching numerous tutorials on YouTube, I discovered that the key was to drive fast and consistently hit the ball. Duh. All the tutorials unanimously advised against learning how to get airbone, as it often led to unforced errors. By the fourth week of playing, dedicating around 30 to 40 minutes a day, I had already reached the diamond rank.
+It took me 2 years of BJJ to appriciate the importance storng fundamentals. When i picked up Rocket League during the pandemic, I decided to focus solely on the basics. Initially, I thought this would involve mastering the aerial flying aspect of the game. However, after watching numerous tutorials on YouTube, I discovered that the key was to drive fast and consistently hit the ball. Duh. All the tutorials unanimously advised against learning how to get airbone, as it often led to unforced errors. By the fourth week of playing, dedicating around 30 to 40 minutes a day, I had already reached the diamond rank.
 
 #### Focus on the Fundamentals
 
