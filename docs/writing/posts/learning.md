@@ -84,11 +84,11 @@ The following section will mostly be some woo woo so I'm going to premptively ap
 
 The biggest thing I learned in pottery, except for the fact that I sucked for like two years, was how we measured progress. I just remember thinking that I wanted to go to class and leave with six nice cups. I would make a couple of cups, but they would break somewhere in the process, and that would feel really disheartening. I remember telling my teacher what was going on, and they gave me advice that stuck with me forever. They said, "You should not focus on how many cups you make; you should just count how many bags of clay you go through." This was a huge perspective shift for me because a cup was 250 g, while a bag of clay was 25 kg. If I had considered the bags of clay as the metric, my progress would have been a straight `0-0` for the last 2 months.
 
-#### You're using the wrong metric
+#### Process vs Outcome
 
 I was holding the work a little too precious, and I wasn't actually putting in any volume.
 
-What did I learn? I basically learned that we often set outcome-based goals instead of process-based goals, and even when we do set process-based goals, we are definitely not using the right measurement. No wonder I wasn't doing enough to actually achieve the outcomes that I wanted.
+What did I learn? I basically learned that we often set outcome-based goals instead of process-based goals, and even when we do set process-based goals, we are definitely not using the right measurement. No wonder I wasn't doing enough to actually achieve the outcomes that I wanted. Moreover, I was also not measuring the right thing, usually the units and order of manitude were off and figuring out the right metric bags of clay was a huge part of the process.
 
 ### Weightlifting
 
@@ -110,26 +110,28 @@ I found that this happened to me recently when I was developing the marketing fo
 
 ### Jiu Jitsu
 
-I think jujitsu is by far the most interesting thing I have ever done. There are so many lessons I've learned from practicing it, but I want to focus on the idea of choosing your teachers. There is a huge advantage in choosing to learn from active competitors. I believe that combat sports, in particular, are very difficult to deceive in. It's quite easy to watch somebody on YouTube telling you how to make $1 million, but you'll never be able to verify if they have actually achieved that themselves.
+I think Jiu Jitsu is by far the most interesting thing I have ever done. There are so many lessons I've learned from practicing it, but I want to focus on the idea of choosing your teachers. There is a huge advantage in choosing to learn from active competitors. I believe that combat sports, in particular, are very difficult to deceive in. It's quite easy to watch somebody on YouTube telling you how to make $1 million, but you'll never be able to verify if they have actually achieved that themselves.
 
-However, when you study under someone who competes, it is very easy to see if the techniques they teach you are the same ones they use in competition. There are plenty of jujitsu instructors on Instagram and YouTube who showcase flashy moves that they have never used in competition, and you can quickly realize what works and what does not work in practice. I think this is a very important lesson for anyone who is trying to learn anything. You
+However, when you study under someone who competes, it is very easy to see if the techniques they teach you are the same ones they use in competition. There are plenty of Jiu Jitsu instructors on Instagram and YouTube who showcase flashy moves that they have never used in competition, and you can quickly realize what works and what does not work in practice. I think this is a very important lesson for anyone who is trying to learn anything.
 
 #### Learn from people actively doing the thing
 
-should always try to learn from people who are actively doing the thing that you want to do. Theres some nuance too around learning from a range of people and skills. A group of ten white belts (newest) are probs going to a terrible and difficult path to learning, but having a mix of black belts might also be technically difficult to learn from.
+You should always try to learn from people who are actively doing the thing that you want to do. There's some nuance too around learning from a range of people and skills. A group of ten white belts (newest) is probably going to be a terrible and difficult path to learning, but having a mix of black belts might also be technically difficult to learn from.
 
 ### Rocket League
 
-Rocket league is a video game where you ... play soccer with cars that can fly. The flying is a critial bit since you can have many degrees of freedom in the air. You could effectively play 6 dimensions. ITs hard to explain but let me share a [link](https://www.youtube.com/watch?v=pC_LFdmWHAU) of a pro player playing the game.
+Rocket League is a video game where you play soccer with cars that can fly. The ability to fly is a critical aspect as it allows for a greater range of movement in the air, effectively enabling gameplay in six dimensions. It's difficult to explain, but I can share a [link](https://www.youtube.com/watch?v=pC_LFdmWHAU) of a professional player demonstrating the game.
 
-Anyways, this really should have been from the BJJ section but i wanted one topic per hobby. The lesson was that by this point i was also doing BJJ pretty seriously and thought kinda knew at the time that I was pretty uninterested in learning, any complex moves in at the time that I was pretty uninterested in learning any complex moves in jujitsu, I just wanted to focus on getting the basics right, and just dominating my opponents with the fundamentals. It is when I was already pretty mature, and I kind of told myself that I should just figure out how to play rocket league and only focus on the basics and you think that this might involve any amount of the flying thing that you can do in the game, but it turns out if you go on YouTube and watch a bunch of tutorials, all they tell you to do is to drive really fast and learn to hit the ball every time. Unanimously said that there was no point to try to learn how to fly because it would only result in unforced errors. Enough for most people who try to learn how to do aerial maneuvers, you can just completely take advantage of all their unforced stairs. By the fourth week of playing, maybe 30 to 40 minutes a day I was already in the diamond rank...
+After learning how important fundamentals where from BJJ I decided to concentrate on learning how to play Rocket League and focus solely on the basics. Initially, I thought this would involve mastering the aerial flying aspect of the game. However, after watching numerous tutorials on YouTube, I discovered that the key was to drive fast and consistently hit the ball. Duh. All the tutorials unanimously advised against learning how to get airbone, as it often led to unforced errors. By the fourth week of playing, dedicating around 30 to 40 minutes a day, I had already reached the diamond rank.
 
-#### Focus on the fundamentals
+#### Focus on the Fundamentals
 
-My only is this the lesson of fundamentals, but it's really one around unforced errors. I've realize that so much of my success, and all of my life is just doing the simple thing the most obvious thing. Surely you can get spotaniously lucky but the fact that I saw game after game, low rank players try to do fancy things and fail, just for me to capitalize on their mistakes, really drove home the point that I should just focus on the fundamentals.
+My only lesson is this: focus on the fundamentals. It's half the time its avoiding unforced errors. I've realized that much of my success, and my entire life, comes down to doing the simple and obvious things. While it's possible to get lucky spontaneously, I've witnessed game after game where low-ranked players attempted fancy moves and failed, allowing me to capitalize on their mistakes. This experience has reinforced the importance of focusing on the fundamentals.
 
-Success is really fucking boring, and funny enought, rocket league was the first time where I had truely accepted that, told myself that I wanted to win, and then just started winning, and you realised you can win at a pretty reasonable level just doing 2 thing well, steer well, make good contact with the ball, don't overextend and produce unforced errors. I can be convince that most of the reasons people don't get to where they want to do is simply unforced errors
+Success can be incredibly mundane. Interestingly, Rocket League was the first time I truly embraced this notion. I told myself that I wanted to win, and then I started winning. I discovered that I could achieve a reasonably high level of success by simply doing two things well: steering effectively and making good contact with the ball. It's crucial not to overextend and commit unforced errors. I am convinced that most people fail to reach their desired goals due to unforced errors alone.
 
-1. i want to go get jacked, literally does not eat enought
-2. i want to raise money, simply does not do enough outbound
-3. i want i want more followers, tweets 3 times a day.
+Here are a few examples of silly unforched errors:
+
+1. If someone wants to get jacked, they simply do not eat enough.
+2. If someone wants to raise money, they don't do cold outbound.
+3. If someone wants more followers, they only tweet once a week.
