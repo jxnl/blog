@@ -296,3 +296,7 @@ Now, you also have to realize that this applies to everyone else too. Its everyo
 The most valuable thing you can give someone is your attention. Talk about the things you love, spend time with the people you love, and give your attention wisely. As I said before, grief is the result of unexpressed love, and the key to avoiding grief is to love abundantly, especially yourself.
 
 So attend to the things that matter, and make sure to spend your arrogance while you're still young.
+
+---
+
+If you like the like content give me a follow on [twitter](https://twitter.com/jxnl) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).

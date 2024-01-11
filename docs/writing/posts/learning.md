@@ -158,3 +158,7 @@ I hope some of these stories can help drive home the point about the process and
 5. **Learn from people actively doing the thing 'in competition'**: Ask yourself if the people you are learning from and getting advice from are actively doing the thing you want to do. Not by proxy, or by status, or celebrity, but actually doing the thing you want to do. Then ask yourself how far along they are in their journey. Are they a few months ahead, a few years ahead, or decades ahead? Are they at risk of being out of touch?
 
 6. **Focus on the Fundamentals to avoid unforced Errors**: Focus on the fundamentals and avoid unforced errors. Most people fail to reach their desired goals due to unforced errors alone. You should at least be failing due to circumstances you cannot control.
+
+---
+
+If you like the like content give me a follow on [twitter](https://twitter.com/jxnl) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
