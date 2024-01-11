@@ -35,9 +35,9 @@ It's a false dichotomy in the sense that the tactics and strategies for knowledg
 
 <!-- more -->
 
-??? note "Thanks to:"
+??? note "Thanks to the following people for reading drafts of this post and providing feedback:"
 
-    I Just wanted to thank a few readers for early feedback and edits:
+    Just wanted to thank a few readers for early feedback and edits:
 
     1. https://twitter.com/leifer_ethan
     2. https://twitter.com/_klyap_
