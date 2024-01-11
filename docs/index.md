@@ -4,7 +4,8 @@ Currently working as an independent consultant. I use my expertise in recommenda
 
 ## Writing
 
-- [Advice for young people](./writing/posts/advice.md)
+- [Advice for young people](./posts/advice.md)
+- [What I learned from trying](./posts/learning.md)
 
 ## Systems
 
