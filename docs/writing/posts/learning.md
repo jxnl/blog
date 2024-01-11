@@ -31,8 +31,6 @@ I'm going to break this down into two sections:
 
 - Rocket League
 
-- Freediving
-
 It's a false dichotomy in the sense that the tactics and strategies for knowledge acquisition apply to physical skills, and the volume and leverage required to learn physical skills also apply to knowledge acquisition. But consider this an experiment, I'll go over each one and a lesson I learned.
 
 <!-- more -->
@@ -124,16 +122,32 @@ If you want to succeed in business, you should learn from people who are activel
 
 Rocket League is a video game where you play soccer with cars that can fly. The ability to fly is a critical aspect as it allows for a greater range of movement in the air, effectively enabling gameplay in six dimensions. It's difficult to explain, but I can share a [link](https://www.youtube.com/watch?v=pC_LFdmWHAU) of a professional player demonstrating the game.
 
-It took me 2 years of BJJ to appriciate the importance storng fundamentals. When i picked up Rocket League during the pandemic, I decided to focus solely on the basics. Initially, I thought this would involve mastering the aerial flying aspect of the game. However, after watching numerous tutorials on YouTube, I discovered that the key was to drive fast and consistently hit the ball. Duh. All the tutorials unanimously advised against learning how to get airbone, as it often led to unforced errors. By the fourth week of playing, dedicating around 30 to 40 minutes a day, I had already reached the diamond rank.
+It took me two years of BJJ to appreciate the importance of strong fundamentals. When I picked up Rocket League during the pandemic, I decided to focus solely on the basics. Initially, I thought this would involve mastering the aerial flying aspect of the game. However, after watching numerous tutorials on YouTube, I discovered that the key was to drive fast and consistently hit the ball. Duh! All the tutorials unanimously advised against learning how to get airborne, as it often led to unforced errors. By the fourth week of playing, dedicating around 30 to 40 minutes a day, I had already reached the Diamond rank. I never tried to leave the air, and usually when I did, I would get scored on...
 
 #### Focus on the Fundamentals
 
-My only lesson is this: focus on the fundamentals. It's half the time its avoiding unforced errors. I've realized that much of my success, and my entire life, comes down to doing the simple and obvious things. While it's possible to get lucky spontaneously, I've witnessed game after game where low-ranked players attempted fancy moves and failed, allowing me to capitalize on their mistakes. This experience has reinforced the importance of focusing on the fundamentals.
+Half the time all of life is just avoiding unforced errors. I've realized that much of my success, my entire life, comes down to doing the simple and obvious things for a long time. I've witnessed, game after game, low-ranked players attempted fancy moves and failed, allowing me to capitalize on their mistakes.
 
-Success can be incredibly mundane. Interestingly, Rocket League was the first time I truly embraced this notion. I told myself that I wanted to win, and then I started winning. I discovered that I could achieve a reasonably high level of success by simply doing two things well: steering effectively and making good contact with the ball. It's crucial not to overextend and commit unforced errors. I am convinced that most people fail to reach their desired goals due to unforced errors alone.
+The road to success can be incredibly mundane. Interestingly, Rocket League was the first time I truly embraced this notion from the start. I told myself that I wanted to win, and then I started winning. I discovered that I could achieve a reasonably high level of success by simply doing two things well: steering effectively and making good contact with the ball. It's crucial not to overextend and commit unforced errors. I am convinced that most people fail to reach their desired goals due to unforced errors alone.
 
 Here are a few examples of silly unforched errors:
 
 1. If someone wants to get jacked, they simply do not eat enough.
 2. If someone wants to raise money, they don't do cold outbound.
 3. If someone wants more followers, they only tweet once a week.
+
+## Takeaways
+
+I hope some of these stories can help drive home the point about the process and thinking behind how I now pursuit new hobbies
+
+1. **Environments Matter**: I grew up in a place with very few distractions, and it was very easy to learn. Identifying the right environment is crucial for learning. Changing your environment can be a great way to learn new things.
+
+2. **Get Ahead and Teach**: If you're able to get ahead of your peer group, you can teach them and learn from them at the same time. If you can quickly be a valuable resource to a group of people, you can learn more just by the nature of the new and interesting questions they ask you.
+
+3. **Process vs Outcome**: Ask yourself if the goal you're setting is an outcome or a process. If it's an outcome, ask yourself if you're measuring the right thing. If it's a process, ask yourself if you're measuring the right thing and if the order of magnitude is correct.
+
+4. **Periodize your training**: If you're learning something that requires a lot of volume, you should consider periodizing your training. Set long time horizons and peak at the end of them. Take breaks and deload weeks.
+
+5. **Learn from people actively doing the thing 'in competition'**: Ask yourself if the people you are learning from and getting advice from are actively doing the thing you want to do. Not by proxy, or by status, or celebrity but actually doing the thing you want to do. Then ask yourself how far along they are in their journey. Are they a few months ahead, a few years ahead, or decades ahead? Are they at risk of being out of touch?
+
+6. **Focus on the Fundamentals**: Focus on the fundamentals and avoid unforced errors. Most people fail to reach their desired goals due to unforced errors alone. You should at least be failing due to circumstances you cannot control.
