@@ -14,7 +14,7 @@ After writing my post [advice for young people](./advice.md), a couple of people
 
 Instead, I'm going to explore a new style. I'm just going to go through a chronological telling of my life and what I learned from just trying new things. I'm going to talk about the tactics and strategies and see how this pans out.
 
-Its really revolves around some core ideas, that I definitly knew before, but didn't see the patterns for myself. Until years into trying stuff, the important of teaching to learn, having process vs outcome goals, planning and periodization, and just not doing anything flashy too early.
+Its really revolves around some core ideas, that I definitely knew before, but didn't see the patterns for myself. Until years into trying stuff, the important of teaching to learn, having process vs outcome goals, planning and periodization, and just not doing anything flashy too early.
 
 I'm going to break this down into two sections:
 
@@ -47,7 +47,7 @@ It's a false dichotomy in the sense that the tactics and strategies for knowledg
 
 ## Environments Matter
 
-I grew up in a environment with very few distractions, and it was very easy to learn. My parents weren't around much: when I was a kid (~ 10 years old), both my mom and dad worked two jobs, and no one was at home. The one thing they showed me was that education was the way out out poverty, and that they worked very hard to make sure I had access to it. Every Saturday, my mom would take the time to walk me to the library, where I would borrow 10 books. I was only allowed to use the computer for an hour a day and watch 30 minutes of television per week, basically just one cartoon.
+I grew up in a environment with very few distractions, and it was very easy to learn. My parents weren't around much: when I was a kid (~ 10 years old), both my mom and dad worked two jobs, and no one was at home. The one thing they showed me was that education was the way out of poverty, and that they worked very hard to make sure I had access to it. Every Saturday, my mom would take the time to walk me to the library, where I would borrow 10 books. I was only allowed to use the computer for an hour a day and watch 30 minutes of television per week, basically just one cartoon.
 
 Learning became my escape: I wanted to understand physics, read about igneous and metamorphic rocks, acquire knowledge about different types of dinosaurs and animals.
 
@@ -137,7 +137,7 @@ Half the time all of life is just avoiding unforced errors. I've realized that m
 
 The road to success can be incredibly mundane. Interestingly, Rocket League was the first time I truly embraced this notion from the start. I told myself that I wanted to win, and then I started winning. I discovered that I could achieve a reasonably high level of success by simply doing two things well: steering effectively and making good contact with the ball. It's crucial not to overextend and commit unforced errors. I am convinced that most people fail to reach their desired goals due to unforced errors alone.
 
-Here are a few examples of silly unforched errors:
+Here are a few examples of silly unforced errors:
 
 1. If someone wants to get jacked, they simply do not eat enough.
 2. If someone wants to raise money, they don't do cold outbound.
