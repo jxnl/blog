@@ -35,13 +35,13 @@ It's a false dichotomy in the sense that the tactics and strategies for knowledg
 
 <!-- more -->
 
-!!! note "Thanks to:"
+??? note "Thanks to:"
 
     I Just wanted to thank a few readers for early feedback and edits:
 
     1. https://twitter.com/leifer_ethan
     2. https://twitter.com/_klyap_
-    3.
+    3. https://twitter.com/evocryptid
 
 ## Environments Matter
 
