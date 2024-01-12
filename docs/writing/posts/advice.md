@@ -1,6 +1,6 @@
 ---
 draft: False
-date: 2024-06-01
+date: 2024-01-06
 slug: advice-to-young-people
 categories:
   - Personal
