@@ -12,11 +12,9 @@ authors:
 
 > The last two posts were hard to write, so this one is easy, but it gets my words in for the day. This is the equivalent of not wanting to miss a gym day and just walking the elliptical for 25 minutes better than nothing.
 
-The goal of this post is basically to share what I have learned about writing a tweet, which is not much. Recently, many of my recenty have been focused on thinking about the idea of getting 10,000 followers by writing 10,000 tweets, which aligns with my belief in process-based goals.
+The goal of this post is basically to share what I have learned about writing a tweet, how to think about writing a hook, and a few comments on how the body and the cta needs to retain and reward the user. Its not much, I've only been on twitter for about 6 month.
 
-> If I can average one follower per tweet and I want 10,000 followers, then I just need 10,000 tweets.
-
-Before I discuss how to actually write a tweet I want to say,
+Before I discuss how I write tweets (content?), I want to share some of my thoughts on how I think about Twitter.
 
 1. The path to reaching 50k followers may involve writing 50k tweets over a span of 2-3 years, which seems like a reasonable approach.
 2. However, simply increasing the quantity of tweets may not be enough to grow the follower count past some scale. Improving the quality of the tweets is also important and may have a significant impact, but is hard to consistently replicate.
@@ -81,7 +79,7 @@ It's kind of a meme to lead any of her posters like you know 99% of taxability u
 
 ## Retain
 
-OK, they stopped scrolling, now you have to actually write the body of the message. Here is the part where you actually have to have something to say. All I really realized is that people like lists, and if it's gonna have many parts, make it skimmable by reading the first sentence of each paragraph. You just need to actually meet the expectations you set in the hook.
+OK, they stopped scrolling, now you have to actually write the body of the message. Rememeber, you worked so hard to figure out the hook because you believe the body has value. This is the part where you actually have to have something to say. All I really realized is that people like lists, and if it's gonna have many parts, make it skimmable by reading the first sentence of each paragraph. You just need to actually meet the expectations you set in the hook. If you don't, you're gonna get a lot of unfollows.
 
 ## Reward
 
@@ -89,14 +87,21 @@ Your hook should have foreshadowed some reward and set expectations early. You t
 
 ## Call to action
 
-This is the most important part of the tweet. If you don't have a call to action you're missing out on some conversion. I'm not saying the whole life is metrics and what not, but if you're even thinking about how to get more views on a tweet you're probably thinking about metrics anyways.
+This is the most important part of the tweet. If you don't have a call to action, you're missing out on conversions. I'm not saying life is all about metrics, but if you're thinking about how to get more views on a tweet, you're probably considering metrics anyway.
 
-My first blog post had 20k views, had I put up a call to action to sign up for my newsletter, I could have gotten 200 signups, at 8$/month that's $1600/month. That's a lot of money 'on the table'. I'm not saying do that but it just goes to show that if you're not thinking about it, you're missing out. Instead you could ask for a follow, ask for a share, ask to tag someone, ask for help, something.
+My first blog post had 20k views. If I had included a call to action to sign up for my newsletter, I could have gained 200 signups. At $8/month, that's $1600/month. That's a significant amount of money left on the table. I'm not suggesting you do the same, but it demonstrates the missed opportunity. Instead, you could ask for a follow, a share, a tag, or even for help.
 
-And try to offer 'reward' again in the call to action. If you're asking for a follow, you can say "follow me for more content like this." If you're asking for a share, you can say "share this with someone who needs to hear this." If you're asking for a tag, you can say "tag someone who needs to hear this."
+Also, try to offer a reward in the call to action. For example, if you're asking for a follow, you can say "follow me for more content like this." If you're asking for a share, you can say "share this with someone who needs to hear it." If you're asking for a tag, you can say "tag someone who needs to hear this."
 
-These are the generic lines, that you see on things like youtube cause clearly they are financially motivated to find the best lines. But you can also be creative and come up with your own. I think the best ones are the ones that are specific to your message.
+These are the generic lines you often see on platforms like YouTube because they are financially motivated to find the best lines. However, you can also be creative and come up with your own. I believe the best ones are those that are specific to your message.
 
-Anyways, 1000 more words per day done. I'm gonna go to the gym now.
+Anyways, I've completed 1000 more words today. Now, I'm going to the gym.
 
-If you like this content or want to see me try to figure out twitter by tweeting a shit tonne of experiments follow me on Twitter [@jxnl\_(https://twitter.com/jxnl) lol.
+But before I go remember:
+
+1. If you believe you have something to say, a great hook can make sure people read it.
+2. You still need something to say.
+3. Specifically you need something to say to your audience.
+4. Think about what you plan on asking for return, it doesn't have to be much.
+
+If you like this content or want to see me try to figure out twitter by tweeting a shit tonne of experiments follow me on Twitter [@jxnl](https://twitter.com/jxnl), as an experiment if you want to workshop tweets shoot me a DM. I might not read it if you're being weird.
