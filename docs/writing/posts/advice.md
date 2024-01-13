@@ -129,6 +129,8 @@ I am a deeply insecure person, and I think my therapist would probably agree tha
 
 I think this applies to many virtues. So I'll only talk about my own experience with confidence. My confidence simply comes from taking action. I know I outwork everyone around me, even if I have no talent. I know I'm willing to make sacrifices, and I know I can focus my energy on a specific goal. Why? Because I've done it so many times in my life.
 
+> Confidence is the memory of success
+
 ### Jiu Jitsu
 
 When I started doing jiu-jitsu, I trained hard five days a week. Every training session was challenging, but it also meant that whenever I went to a new gym or a competition, I knew I could handle it. I had already been through tough situations, and I knew I could overcome them again.
