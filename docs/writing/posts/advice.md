@@ -178,6 +178,8 @@ It wasn't until November 2023 that I truly appreciated the power of writing. Wri
 
 I believe many young people struggle with the insecurity of being intelligent. They often feel the need to prove their intelligence by overthinking, excessively planning, and acquiring knowledge before taking action. However, this approach is a waste of time. The more you research, the more you realize how little you actually know. Instead, you just have to do it, even if you're scared.
 
+> Literature is the most agreeable way of ignoring life.
+
 !!! note "The theory is for analysis; it is not for action."
 
     When you learn to draw, just draw what you see. And when we get an art education, the theory simply gives us the language to describe our tastes. The challenge I'm giving myself this year is to learn the trumpet without learning any music theory. I'm just going to play with it like a child. I'm just going to listen to a lot of music and try to make those sounds that I like.
@@ -279,6 +281,8 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 
     I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are also more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
 
+> All cruelty stems from weakness, Happiness is the quality of thought
+
 ## Let Go of Anticipation
 
 Here's a story about how regular people and Buddhist monks anticipated the future. They put both of them into an MRI and told them they were going to get shocked at some random time in the future. What they found was that regular people would have an anxious baseline response minutes before they were going to get shocked, but when they did, it was only slightly higher than the baseline.
@@ -290,6 +294,8 @@ The lesson I learned from this is that anticipation likely dampens the sensation
 ## You were just a child
 
 Stuck with me for a bit. I looked at all the stupid things I had done in the past, and all the things that happened to me that I didn't understand. Then someone said to me "you were just a child" and it was honestly the most liberating thing I've ever heard. I was just a child. I didn't know any better. I didn't know.
+
+> You suffered for no reason. You were just a child.
 
 Now, you also have to realize that this applies to everyone else too. Its everyone's first time being a person, including your parents.
 
