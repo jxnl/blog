@@ -4,7 +4,7 @@ Currently working as an independent consultant. I use my expertise in recommenda
 
 ## Support
 
-I don't want to start a substack, but I do want to write more. If you like what I'm doing, with Open source or writing and want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl).
+I want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl). I don't want to start a substack, but I do want to write more. So this will fund my morning coffee and tea.
 
 ## Writing
 
