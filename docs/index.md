@@ -10,6 +10,8 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 
 - [Advice for young people](./writing/posts/advice.md)
 - [What I learned from trying](./writing/posts/learning.md)
+- [Centuar Chess](./writing/posts/centaur-chess.md)
+- [Freediving Under Ice](./writing/posts/freediving.md)
 
 ## Systems
 
