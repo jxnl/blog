@@ -125,6 +125,9 @@ nav:
     - Books: 'books.md'
   - Writing:
     - "writing/index.md"
+  - Hiring:
+    - Working with me: "hiring.md"
+    - Sample Proposal: "assessment.md"
   - Contact: 'contact.md'
   
 plugins:
