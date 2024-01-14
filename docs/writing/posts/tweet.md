@@ -104,4 +104,4 @@ But before I go remember:
 3. Specifically you need something to say to your audience.
 4. Think about what you plan on asking for return, it doesn't have to be much.
 
-If you like this content or want to see me try to figure out twitter by tweeting a shit tonne of experiments follow me on Twitter [@jxnl](https://twitter.com/jxnl), as an experiment if you want to workshop tweets shoot me a DM. I might not read it if you're being weird.
+If you like this content or want to see me try to figure out twitter by tweeting a shit tonne of experiments follow me on Twitter [@jxnlco](https://twitter.com/jxnlco), as an experiment if you want to workshop tweets shoot me a DM. I might not read it if you're being weird.

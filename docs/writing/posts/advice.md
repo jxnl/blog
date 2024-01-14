@@ -307,4 +307,4 @@ So attend to the things that matter, and make sure to spend your arrogance while
 
 ---
 
-If you like the like content give me a follow on [twitter](https://twitter.com/jxnl) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
+If you like the like content give me a follow on [twitter](https://twitter.com/jxnlco) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
