@@ -12,7 +12,7 @@ authors:
 
 Growing up, I wasn't very physically active. However, as I got older and had more time, I made a conscious effort to get in shape and improve my relationship with my body.
 
-During the Covid pandemic, I developed RSI and my thumbs from coding too much, which prevented me from participating in any sports.
+I had done plenty of sports before like you know ping pong or rock climbing or jiu jitsu but after I got my hand injuries during covid I really couldn't do any of that...
 
 <!-- more -->
 
