@@ -2,6 +2,10 @@
 
 Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://jxnl.github.io/instructor), [Flight](https://jxnl.github.io/flight), and an ML and data science educator.
 
+## Support
+
+I don't want to start a substack, but I do want to write more. If you like what I'm doing, with Open source or writing and want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl).
+
 ## Writing
 
 - [Advice for young people](./writing/posts/advice.md)
