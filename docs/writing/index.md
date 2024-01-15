@@ -19,3 +19,9 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 - [Rag is more than embeddings](./posts/rag.md)
 - [Flight, a framework for building and executing pipelines](./posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./posts/llmops.md)
+
+## Talks and Podcasts
+
+- [Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
+- [Dagshub Podcast](https://www.youtube.com/watch?v=rDP44EVpHTA)
+- [Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)

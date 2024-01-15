@@ -20,6 +20,12 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 - [Flight, a framework for building and executing pipelines](./writing/posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./writing/posts/llmops.md)
 
+## Talks and Podcasts
+
+- [Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
+- [Dagshub Podcast](https://www.youtube.com/watch?v=rDP44EVpHTA)
+- [Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
+
 ## Clients
 
 - [Rewind AI](http://rewind.ai): Rewind AI is a personal memory assistant that helps you remember, organize, and navigate your life.
