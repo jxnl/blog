@@ -22,7 +22,10 @@ This entire piece of writing is dedicated to a recent response on Hacker News. I
 
     I've also learned that writing is a exorcism of your own thoughts. The more I write, the less these thoughts stick around in my head.
 
+<!-- more -->
+
 Maybe if you knew my background you’d understand why I wrote that piece.
+
 When I was younger, I had so little in my life that I hated anyone who had anything. I used to be jealous of people who were able to have conversations with their families during dinner or the holidays because their parents did not work retail jobs. I also envied those who received Christmas and birthday gifts.
 
 My parents were always working, so I haven't spent much time with them and resented them for not teaching me any life lessons. We didn't have much money, so whenever I needed something like a winter jacket or a pair of shoes, I had to choose between skipping my birthday or Christmas, or both. This was the case when I got my first cell phone in high school.
