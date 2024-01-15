@@ -14,6 +14,8 @@ authors:
 
 The goal of this post is basically to share what I have learned about writing a tweet, how to think about writing a hook, and a few comments on how the body and the cta needs to retain and reward the user. Its not much, I've only been on twitter for about 6 month.
 
+<!-- more -->
+
 Before I discuss how I write tweets (content?), I want to share some of my thoughts on how I think about Twitter.
 
 1. The path to reaching 50k followers may involve writing 50k tweets over a span of 2-3 years, which seems like a reasonable approach.
