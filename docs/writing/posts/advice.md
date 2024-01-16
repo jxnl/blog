@@ -46,7 +46,7 @@ I've never gotten a job by applying to it. It's always been referrals or someone
 
 ### Merit
 
-Very few people get a job on merit alone. You have to be a big fish in a big pond. That's like IOI, top 1% in your class, etc. That's just... Sort by grades and interview? That's hard. You literally have to be the best.
+Very few people get a job on merit alone. You have to be a big fish in a big pond. That's like IOI, top 1% in your class, etc. That's just... Sort by grades and interview? That's hard. You literally have to be the best. I say what I say knowing that you've already worked hard, knowing that you've already put in the sweat, but understanding that the next 10% or the next 5% of improvement is going to be much more difficult, than focusing on being a better person. And that I want you make a conscious of the trade-offs you make between these 'soft' and 'hard' skills.
 
 ### High Agency
 
