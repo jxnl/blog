@@ -1,14 +1,14 @@
 ---
 draft: False
 date: 2024-01-08
-slug: what-i-learned-from-trying
+slug: learning
 categories:
   - Personal
 authors:
   - jxnl
 ---
 
-# What I Learned from Trying
+# Learning to Learn
 
 After writing my post [advice for young people](./advice.md), a couple of people asked about my learning process. I could discuss overcoming plateaus or developing mastery, learning for the joy of learning. I could also talk about how to avoid feeling overwhelmed by new topics and break them down into smaller pieces. However, I think that has been done before.
 
