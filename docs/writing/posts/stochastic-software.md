@@ -64,33 +64,32 @@ Well, it is obviously important to deliberate over database schemas and API cont
 
 ## Making decisions means to cut off
 
-Now we need to understand that making decisions through outcomes is not actually increasing the scope. We should also get into a habit of using these metrics to drive decision-making that kill other possibilities.
+Making decisions should not not actually increase the scope. We should get into a habit of using these metrics to drive decision-making that cutt off other possibilities. Once we've measured something, it should give us focus.
 
 !!! note "Entomology of the word decision"
 
     The definition of “Decision” actually has Latin roots. The meaning of the word “decide” comes from the Latin word, decidere, which is a combination of two words: de = 'OFF' + caedere = 'CUT'
 
-Once you get in the habit of planning experiments that move metrics, the next skill you need to develop is to actually recommend decisions and actions as a result of these metrics.
+Once you develop the habit of planning experiments that drive metric improvements, the next skill to focus on is recommending decisions and actions based on these metrics.
 
-Consider this example: We are a data scientist Looking at the different kinds of queries that are coming in for our retrieval application. We've classified a bunch of queries using some classification model and we're doing some aggregates to figure out the count volume and quality of some of these query types.
+Consider this example: As data scientists, we are analyzing the various types of queries received by our retrieval application. We have classified the queries using a classification model and are aggregating data to determine the volume and quality of each query type.
 
 | Query                | Count | Quality |
 | -------------------- | ----- | ------- |
 | Personal Data        | 420   | 70%     |
 | Scheduling Questions | 90    | 83%     |
-| Internet Searchs     | 20    | 9%      |
+| Internet Searches    | 20    | 9%      |
 
-We noticed that internet searches, for example, are exceptionally low quality and most of our queries are around personal data. The equality metric might be determined by some kind of thumbs up thumbs down rating. We can see that scheduling questions are actually pretty high quality, but there's not a lot of them. From this data you might recommend that we should spend some more time improving the quality of the personal data and we might also decide that due to the low volume and internet searches we might just tell the user that we're not going to service them until we have a better plan.
+We have observed that the quality of internet searches is exceptionally low, while the majority of our queries pertain to personal data. The quality metric is determined by a thumbs-up or thumbs-down rating system. Additionally, scheduling questions exhibit high quality, but their volume is relatively low. Based on this data, we can recommend allocating more time to improve the quality of personal data. Furthermore, due to the low volume of internet searches, we may consider informing users that this service will not be available until we have a better plan.
 
-Here are some recommendations we could be making.
+Here are some examples of recommendations that we can make based on this data:
 
-1. We are clearly underperforming internet searches. However, the count is really low.
-2. In the meanwhile, we should turn off this feature and know that it won't impact our users too much.
-3. Personal data is super high volume and the quality is lacking.
-
-Someone who is familiar with the art of Exploring the data and designing probabilistic software might actually go into the personal data do some more targeted exploration to identify what exactly is doing poorly.
-
-If we have good evaluation metrics then hopefully as we change our prompts or our ranking system or our score thresholds we can rerun these experiments and verify whether something like quality can improve. Since we might not actually be able to measure outcomes from our users, we might want to use third-party evaluation frameworks, but verify first that these actually correlate with the metrics like quality.
+1. Our performance in internet searches is clearly underwhelming, but the count is quite low.
+2. In the meantime, we can disable this feature, knowing that it won't significantly impact our users.
+3. Personal data queries have a very high volume, but the quality is lacking.
+4. We should focus on building experiments that improve the quality of personal data queries.
+5. Since we can't run a backtest on users thumbs up and thumbs down ratings, we should consider a different metric like embedding reranking scores
+6. If we can show that changing our retrieval system can improve re-ranking scores, we should go and verify whether or not re-ranking scores correlate with quality and be able to iterate confidently knowing that we might be able to improve the final outcome.
 
 ## Negative results are still results
 
