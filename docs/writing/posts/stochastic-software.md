@@ -112,3 +112,7 @@ As you're building these probabilistic systems, ask yourself:
 5. Can I update my mental model of the system based on the results of this experiment to plan future work?
 
 I hope that this article has helped you understand the importance of focusing on outcomes, metrics, and experiments instead of trying to think our way through edge cases and long tails. Additionally, I encourage you to develop the habit of making decisions and eliminating other possibilities. Lastly, I hope you will cultivate the practice of documenting your results and sharing them with your team, fostering a collective learning experience.
+
+## One more thing
+
+This is a great point that a friend of mine called out. Set due dates for your experimentation. And if you cannot get a result by the due date, that is the result. **Write that down, explain why it takes longer than we expected, and move on.** For now, that is the negative result.
