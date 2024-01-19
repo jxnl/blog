@@ -12,12 +12,11 @@ authors:
 
 This writing stems from my experience advising a few startups, particularly smaller ones with plenty of junior software engineers trying to transition into machine learning and related fields. From this work, I've noticed three topics that I want to address. My aim is that, by the end of this article, these younger developers will be equipped with key questions they can ask themselves to improve their ability to make decisions under uncertainty.
 
-1. Would I make more progress if I set up an experiment?
-2. Do I know what I want to measure and improve when I set up this experiment?
-3. What is the decision that I'm going to make as a result of seeing the results of this experiment?
-4. What are the conditions under which I will revisit this if I see neutral or negative results?
-5. Can I update my mental model of the system based on the results of this experiment, to plan future work?
-
+1. Could an experiment just answer my questions?
+2. What specific improvements am I measuring?
+3. How will the result help me make a decision?
+4. Under what conditions will I reevaluate if results are not positive?
+5. Can I use the results to update my mental model and plan future work?
 <!-- more -->
 
 ## Who am I?
@@ -105,11 +104,11 @@ Many people transitioning from classical software engineering to machine learnin
 I hope that this article has helped you understand the importance of focusing on outcomes, metrics, and experiments instead of trying to think our way through edge cases and long tails. Additionally, I encourage you to develop the habit of making decisions and eliminating other possibilities. Lastly, I hope you will cultivate the practice of documenting your results and sharing them with your team, fostering a collective learning experience.
 As you're building these probabilistic systems, ask yourself:
 
-1. Would I make more progress if I just set up an experiment?
-2. Do I know what I want to measure and improve when I set up this experiment?
-3. What is the decision that I'm going to make as a result of seeing the results of this experiment?
-4. What are the conditions under which I will revisit this if I see neutral or negative results?
-5. Can I update my mental model of the system based on the results of this experiment to plan future work?
+1. Could an experiment just answer my questions?
+2. What specific improvements am I measuring?
+3. How will the result help me make a decision?
+4. Under what conditions will I reevaluate if results are not positive?
+5. Can I use the results to update my mental model and plan future work?
 
 I hope that this article has helped you understand the importance of focusing on outcomes, metrics, and experiments instead of trying to think our way through edge cases and long tails. Additionally, I encourage you to develop the habit of making decisions and eliminating other possibilities. Lastly, I hope you will cultivate the practice of documenting your results and sharing them with your team, fostering a collective learning experience.
 
