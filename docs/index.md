@@ -2,10 +2,16 @@
 
 Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://jxnl.github.io/instructor), [Flight](https://jxnl.github.io/flight), and an ML and data science educator.
 
+## Support
+
+I want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl). I don't want to start a substack, but I do want to write more. So this will fund my morning coffee and tea.
+
 ## Writing
 
 - [Advice for young people](./writing/posts/advice.md)
 - [What I learned from trying](./writing/posts/learning.md)
+- [Centuar Chess](./writing/posts/centaur-chess.md)
+- [Freediving Under Ice](./writing/posts/freediving.md)
 
 ## Systems
 
@@ -13,6 +19,12 @@ Currently working as an independent consultant. I use my expertise in recommenda
 - [Rag is more than embeddings](./writing/posts/rag.md)
 - [Flight, a framework for building and executing pipelines](./writing/posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./writing/posts/llmops.md)
+
+## Talks and Podcasts
+
+- [Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
+- [Dagshub Podcast](https://www.youtube.com/watch?v=rDP44EVpHTA)
+- [Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
 
 ## Clients
 

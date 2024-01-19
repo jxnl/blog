@@ -46,7 +46,7 @@ I've never gotten a job by applying to it. It's always been referrals or someone
 
 ### Merit
 
-Very few people get a job on merit alone. You have to be a big fish in a big pond. That's like IOI, top 1% in your class, etc. That's just... Sort by grades and interview? That's hard. You literally have to be the best.
+Very few people get a job on merit alone. You have to be a big fish in a big pond. That's like IOI, top 1% in your class, etc. That's just... Sort by grades and interview? That's hard. You literally have to be the best. I say what I say knowing that you've already worked hard, knowing that you've already put in the sweat, but understanding that the next 10% or the next 5% of improvement is going to be much more difficult, than focusing on being a better person. And that I want you make a conscious of the trade-offs you make between these 'soft' and 'hard' skills.
 
 ### High Agency
 
@@ -153,6 +153,10 @@ People don't believe this, but my talk at the AI Summit was actually my first pu
 In order to keep doing the reps in the past 3 months I've been relentlessly trying to find podcasts to speak on to keep doing the reps and practicing.
 
 The theme is consistent throughout. I don't think it's the only way to gain confidence, as there could be some delusion at play. But I have simply shown myself, over the past 15 years, that I can overcome difficult challenges and do them repeatedly..
+
+## Practice more than you play, confidence is the memory of success
+
+No notes.
 
 ## The Greatest Gift You Can Give Yourself
 
@@ -307,4 +311,4 @@ So attend to the things that matter, and make sure to spend your arrogance while
 
 ---
 
-If you like the like content give me a follow on [twitter](https://twitter.com/jxnl) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
+If you like the like content give me a follow on [twitter](https://twitter.com/jxnlco) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
