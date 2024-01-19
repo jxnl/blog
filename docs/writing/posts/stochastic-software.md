@@ -1,41 +1,44 @@
 ---
 draft: False
 date: 2024-01-19
-slug: stochastic-software
+slug: probabilisticprobabilisticprobabilisticprobabilistic-software
 categories:
   - Personal
 authors:
   - jxnl
 ---
 
-# A paradigm shift for stochastic software
+# A paradigm shift for probabilistic software
 
-This writing stems from my experience advising a few smaller startups. In particular, ones where there are plenty of junior software engineers trying to make a transition into machine learning and related fields. From this work I've noticed three things that I want to call out, address, and my goal is that I want these young developers to have a bias for decision making.
+This writing stems from my experience advising a few smaller startups. In particular, ones where there are plenty of junior software engineers trying to make a transition into machine learning and related fields. From this work I've noticed three things that I want to call out, address, and my goal is by the end of this article these younger developers will have a few questions they can ask themselves in order to have a better bias for decision making under uncertainty.
 
-1. Deterministic software has edge cases. Probabilistic software have long tails.
-2. We must design experiments, metrics, in order to make decisions.
-3. To make a decision, you must also kill other opportunities.
-4. A negative result is still a result and it is worth running the experiment. We do not need to publish. We need to learn and prioritize.
+1. Would I make more progress if I set up an experiment?
+2. Do I know what I want to measure and improve when I set up this experiment?
+3. What is the decision that I'm going to make as a result of seeing the results of this experiment?
+4. What are the conditions under which I will revisit this if I see neutral or negative results?
+5. Can I update my mental model of the system based on the results of this experiment, to plan future work?
 
 <!-- more -->
 
 ## Who am I?
 
-I really want to highlight the difference between software and science. In college I studied physics and computational mathematics and I've never considered myself a software engineer. I've done research studying computational social science, ...and epidemiology. I've worked at Facebook to do content moderation and I've built probabilistic systems at Stitchfix with vision models, embeddings, and recommendation systems. None of these are things that I would consider software in the classical sense.
+I really want to highlight the difference between software and science. In college I studied physics and computational mathematics and I've never considered myself a software engineer. I've done research studying computational social science, and epidemiology. I've worked at Facebook to build models that can detect and priotitize content moderation work flows, and I've built probabilistic systems at Stitchfix with vision models, product search, embeddings, and recommendation systems.
+
+None of these are things that I would consider software in the classical sense. None of these things would have been features that could have been built on some kind of sprint. Instead, these are all probabilistic systems that require a lot of exploration and experimentation to build.
 
 Now I am a technical advisor and I work on software teams to help them level up their machine learning capabilities but also to coach and mentor junior engineers to think more probabilistically.
 
 I noticed a few of the pitfalls that folks are running into these days and I want to call them out.
 
-## What is stochastic software?
+## What is Probabilistic software?
 
-I mostly call it stochastic software, but what I'm really talking about is systems that use machine learning. Where we look at probabilities and distributions of things rather than discrete interactions, like an API call from one server to another.
+I mostly call it probabilistic software, but what I'm really talking about is systems that use machine learning. Where we look at probabilities and distributions of things rather than discrete interactions, like an API call from one server to another.
 
 Instead, we are ranking things. We are sorting things. We are grouping things in a fuzzy manner in order to build features like recommendation systems, retrieval applications, or even the hot thing these days, which are agents powered by LLMs.
 
 ## Edge cases and long tails
 
-> you can think your way into solving a deterministic system, but you cannot think your way into solving a stochastic system.
+> you can think your way into solving a deterministic system, but you cannot think your way into solving a probabilistic system.
 
 I think the first thing that I want to call out is that deterministic software has edge cases. Probabilistic software has long tails.
 I'm finding a lot of junior folks try to really think hard about edge cases around probabilistic systems and truthfully it doesn't really make sense. It is unlikely that we can enumerate and count issues ahead of time.
@@ -82,7 +85,7 @@ Here are some recommendations we could be making.
 2. In the meanwhile, we should turn off this feature and know that it won't impact our users too much.
 3. Personal data is super high volume and the quality is lacking.
 
-Someone who is familiar with the art of Exploring the data and designing stochastic software might actually go into the personal data do some more targeted exploration to identify what exactly is doing poorly.
+Someone who is familiar with the art of Exploring the data and designing probabilistic software might actually go into the personal data do some more targeted exploration to identify what exactly is doing poorly.
 
 If we have good evaluation metrics then hopefully as we change our prompts or our ranking system or our score thresholds we can rerun these experiments and verify whether something like quality can improve. Since we might not actually be able to measure outcomes from our users, we might want to use third-party evaluation frameworks, but verify first that these actually correlate with the metrics like quality.
 
@@ -101,9 +104,9 @@ I hope that this article has helped you understand that we should be focusing on
 So as you're building these probabilistic systems ask youself:
 
 1. Would I make more progress if I set up an experiment?
-2. Do I know what I want to measure and improve?
+2. Do I know what I want to measure and improve when I set up this experiment?
 3. What is the decision that I'm going to make as a result of seeing the results of this experiment?
 4. What are the conditions under which I will revisit this if I see neutral or negative results?
-5. Can I update my mental model of the system based on the results of this experiment?
+5. Can I update my mental model of the system based on the results of this experiment, to plan future work?
 
 I hope that this article has been helpful. If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/jxnlco) or [LinkedIn](https://www.linkedin.com/in/jxnl/).
