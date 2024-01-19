@@ -1,14 +1,14 @@
 ---
 draft: False
 date: 2024-01-19
-slug: probabilisticprobabilisticprobabilisticprobabilistic-software
+slug: tips-probabilistic-software
 categories:
   - Personal
 authors:
   - jxnl
 ---
 
-# A paradigm shift for probabilistic software
+# 5 Tips For Building Probabilistic Software
 
 This writing stems from my experience advising a few smaller startups. In particular, ones where there are plenty of junior software engineers trying to make a transition into machine learning and related fields. From this work I've noticed three things that I want to call out, address, and my goal is by the end of this article these younger developers will have a few questions they can ask themselves in order to have a better bias for decision making under uncertainty.
 
