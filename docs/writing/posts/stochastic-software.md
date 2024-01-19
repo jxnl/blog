@@ -10,7 +10,7 @@ authors:
 
 # 5 Question for AI Engineers to ask themselves
 
-This writing stems from my experience advising a few smaller startups. In particular, ones where there are plenty of junior software engineers trying to make a transition into machine learning and related fields. From this work I've noticed three things that I want to call out, address, and my goal is by the end of this article these younger developers will have a few questions they can ask themselves in order to have a better bias for decision making under uncertainty.
+This writing stems from my experience advising a few startups, particularly smaller ones with plenty of junior software engineers trying to transition into machine learning and related fields. From this work, I've noticed three topics that I want to address. My aim is that, by the end of this article, these younger developers will be equipped with key questions they can ask themselves to improve their ability to make decisions under uncertainty.
 
 1. Would I make more progress if I set up an experiment?
 2. Do I know what I want to measure and improve when I set up this experiment?
@@ -22,28 +22,29 @@ This writing stems from my experience advising a few smaller startups. In partic
 
 ## Who am I?
 
-I really want to highlight the difference between software and science. In college I studied physics and computational mathematics and I've never considered myself a software engineer. I've done research studying computational social science, and epidemiology. I've worked at Facebook to build models that can detect and priotitize content moderation work flows, and I've built probabilistic systems at Stitchfix with vision models, product search, embeddings, and recommendation systems.
+I really want to highlight the difference between software and science. In college, I studied physics and computational mathematics, where I worked on research in computational social science and epidemiology. I've worked at Facebook to build models that can detect and priotitize content moderation work flows, and I've built probabilistic systems at Stitchfix with vision models, product search, embeddings, and recommendation systems. However, I've never considered myself a software engineer.
 
-None of these are things that I would consider software in the classical sense. None of these things would have been features that could have been built on some kind of sprint. Instead, these are all probabilistic systems that require a lot of exploration and experimentation to build.
+Why? None of these are things that I would consider software, in the classical sense. None of these things are features that could have been built on some kind of sprint: instead, these are all probabilistic systems that require significant exploration and experimentation to build.
 
-Now I am a technical advisor and I work on software teams to help them level up their machine learning capabilities but also to coach and mentor junior engineers to think more probabilistically.
+Nowadays, I'm a technical advisor working on software teams, helping them level up their machine learning capabilities while coaching and mentoring junior engineers to think more probabilistically. As I've been doing this, I've noticed a few common pitfalls that folks are running into, and I want to call them out.
 
 I noticed a few of the pitfalls that folks are running into these days and I want to call them out.
 
-## What is Probabilistic software?
+## What is probabilistic software?
 
-I mostly call it probabilistic software, but what I'm really talking about is systems that use machine learning. Where we look at probabilities and distributions of things rather than discrete interactions, like an API call from one server to another.
+When I say "probabilistic software", what I'm really talking about is a broad category of _systems that use machine learning_. These systems look at probabilities and distributions rather than discrete interactions, like an API call from one server to another.
 
-Instead, we are ranking things. We are sorting things. We are grouping things in a fuzzy manner in order to build features like recommendation systems, retrieval applications, or even the hot thing these days, which are agents powered by LLMs.
+In ML systems, we perform very distinct operations: we rank things, sort them, group them in a fuzzy manner in order to build features like recommendation systems and retrieval applications. These same fundamental tasks underlie hot topics like agents powered by LLMs.
 
 ## Edge cases and long tails
 
-> you can think your way into solving a deterministic system, but you cannot think your way into solving a probabilistic system.
+> You can think your way into solving a deterministic system, but you cannot think your way into solving a probabilistic system.
 
-The first thing that I want to call out is that deterministic software has edge cases while probabilistic software has long tails.
-I'm finding a lot of junior folks try to really think hard about edge cases around probabilistic systems and truthfully it doesn't really make sense. It is unlikely that we can enumerate and count issues ahead of time, we can only work in percentages and probabilities.
+The first thing that I want to call out is that **deterministic software has edge cases, while probabilistic software has long tails.**
 
-Instead, we should be focusing our efforts on segmenting and clustering the distribution of inputs and consider solving these problems locally first, before coming up with a hypothesis on how the global system might work.
+I find that a lot of junior folks try to really think hard about edge cases around probabilistic systems, and truthfully, it doesn't really make sense. It's unlikely that we can fully enumerate and count issues ahead of time: we can only work in percentages and probabilities.
+
+Instead, you should be focusing your efforts on segmenting and clustering the distribution of inputs and solving these problems locally _before_ coming up with a hypothesis on how the global system might work.
 
 On top of that, because of these long tails, before deliberating with your whole team on what to do next, I would really suggest asking yourself if we set up an experiment and measure improvements to some metric, do we actually know what we want to measure?
 
@@ -95,20 +96,19 @@ Here are some examples of recommendations that we can make based on this data:
 
 We're not in academia. A negative result is still a result. The goal isn't to publish novel research, the goal is to figure out how to prioritize our limited resources. Remember that to make a decision is to cut off. If we get a negative result or a neutral result, then the outcome is the same, we have made a decision. We have made a decision to cut off this line of inquiry, maybe not forever, but at least for now.
 
-It's also important to trust your judgment too. Just because we're going to cut off this line of reasoning now, it's still good to write up a little memo, explain what happened, write down other things we may not have considered to answer the question, "Under what conditions will we revisit this line of inquiry?"
+That being said, it's also important to trust your judgment. Even if you're going to cut off a line of reasoning for now, it's still good to write up a little memo to explain what happened and write down other things you may not have considered, keeping this key question in mind: _"Under what conditions would we revisit this line of inquiry?"_
 
-## Art vs. science
+## Final Takeaways
 
-Many people transitioning from classical software engineering to machine learning are often surprised by the empirical nature of the results we obtain. Instead of always having unit tests, we are sampling from the distribution of potential inputs and building a internal model how this system operatess.
+Many people transitioning from classical software engineering to machine learning are often surprised by the empirical nature of the results we obtain. Instead of executing discrete unit tests, we sample from the distribution of potential inputs and build a internal model of how this system operates.
 
 I hope that this article has helped you understand the importance of focusing on outcomes, metrics, and experiments instead of trying to think our way through edge cases and long tails. Additionally, I encourage you to develop the habit of making decisions and eliminating other possibilities. Lastly, I hope you will cultivate the practice of documenting your results and sharing them with your team, fostering a collective learning experience.
-
-As you're building these probabilistic systems ask youself:
+As you're building these probabilistic systems, ask yourself:
 
 1. Would I make more progress if I just set up an experiment?
 2. Do I know what I want to measure and improve when I set up this experiment?
 3. What is the decision that I'm going to make as a result of seeing the results of this experiment?
 4. What are the conditions under which I will revisit this if I see neutral or negative results?
-5. Can I update my mental model of the system based on the results of this experiment, to plan future work?
+5. Can I update my mental model of the system based on the results of this experiment to plan future work?
 
-I hope that this article has been helpful. If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/jxnlco) or via email at [jxnl.co](mailto:jason@jxnl.co).
+I hope that this article has helped you understand the importance of focusing on outcomes, metrics, and experiments instead of trying to think our way through edge cases and long tails. Additionally, I encourage you to develop the habit of making decisions and eliminating other possibilities. Lastly, I hope you will cultivate the practice of documenting your results and sharing them with your team, fostering a collective learning experience.
