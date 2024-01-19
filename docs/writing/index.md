@@ -15,6 +15,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 
 ## Systems
 
+- [5 Questions to ask yourself as sa AI Engineer](./posts/stochastic-software.md)
 - [How to build a terrible RAG system](./posts/rag-inverted.md)
 - [Rag is more than embeddings](./posts/rag.md)
 - [Flight, a framework for building and executing pipelines](./posts/recsys-frameworks.md)

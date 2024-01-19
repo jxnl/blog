@@ -15,6 +15,7 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 
 ## Systems
 
+- [5 Questions to ask yourself as sa AI Engineer](./writing/posts/stochastic-software.md)
 - [How to build a terrible RAG system](./writing/posts/rag-inverted.md)
 - [Rag is more than embeddings](./writing/posts/rag.md)
 - [Flight, a framework for building and executing pipelines](./writing/posts/recsys-frameworks.md)
