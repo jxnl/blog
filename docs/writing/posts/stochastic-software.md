@@ -93,22 +93,22 @@ Here are some examples of recommendations that we can make based on this data:
 
 ## Negative results are still results
 
-It's also important to call out the fact that we're not in academia. A negative result is still a result. The goal isn't to publish novel research, the goal is to figure out how to prioritize. Remember that to make a decision is to cut off. If we get a negative result or a neutral result, then the outcome is the same. We have made a decision. We have made a decision to cut off this line of inquiry, Maybe not forever, but at least for now.
+We're not in academia. A negative result is still a result. The goal isn't to publish novel research, the goal is to figure out how to prioritize our limited resources. Remember that to make a decision is to cut off. If we get a negative result or a neutral result, then the outcome is the same, we have made a decision. We have made a decision to cut off this line of inquiry, maybe not forever, but at least for now.
 
-It's also important to trust your judgment too. Just because we're going to cut off this line of reasoning now, it's still good to write up a little memo, explain what happened, write down other things we may not have considered, and answer the question, "Under what conditions will we revisit this line of inquiry?"
+It's also important to trust your judgment too. Just because we're going to cut off this line of reasoning now, it's still good to write up a little memo, explain what happened, write down other things we may not have considered to answer the question, "Under what conditions will we revisit this line of inquiry?"
 
-## More art than science
+## Art vs. science
 
-I definitely believe that many people transitioning from software engineering to machine learning are often surprised by the empirical nature of the results we obtain. Instead of always having unit tests, we are sampling from the distribution of potential inputs and building a internal model how this system operators. It's much more an art than a science to building these things.
+Many people transitioning from classical software engineering to machine learning are often surprised by the empirical nature of the results we obtain. Instead of always having unit tests, we are sampling from the distribution of potential inputs and building a internal model how this system operatess.
 
-I hope that this article has helped you understand that we should be focusing on outcomes and metrics and experiments rather than trying to think our way through the edge cases and the long tails. I hope that you can also get into the habit of making decisions and cutting off other possibilities. And finally, I hope that you can get into the habit of writing up your results and sharing them with your team so that you can all learn together.
+I hope that this article has helped you understand the importance of focusing on outcomes, metrics, and experiments instead of trying to think our way through edge cases and long tails. Additionally, I encourage you to develop the habit of making decisions and eliminating other possibilities. Lastly, I hope you will cultivate the practice of documenting your results and sharing them with your team, fostering a collective learning experience.
 
-So as you're building these probabilistic systems ask youself:
+As you're building these probabilistic systems ask youself:
 
-1. Would I make more progress if I set up an experiment?
+1. Would I make more progress if I just set up an experiment?
 2. Do I know what I want to measure and improve when I set up this experiment?
 3. What is the decision that I'm going to make as a result of seeing the results of this experiment?
 4. What are the conditions under which I will revisit this if I see neutral or negative results?
 5. Can I update my mental model of the system based on the results of this experiment, to plan future work?
 
-I hope that this article has been helpful. If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/jxnlco) or [LinkedIn](https://www.linkedin.com/in/jxnl/).
+I hope that this article has been helpful. If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/jxnlco) or via email at [jxnl.co](mailto:jason@jxnl.co).
