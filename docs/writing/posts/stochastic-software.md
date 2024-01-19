@@ -10,7 +10,7 @@ authors:
 
 # A paradigm shift for stochastic software
 
-This writing stems from my experience advising a few smaller startups. In particular, ones where there are plenty of junior software engineers trying to make a transition into machine learning and related fields. From this work I've noticed three things that I want to call out, address, and my goal is that I want these young developers to snap out of it and have a bias for decision making.
+This writing stems from my experience advising a few smaller startups. In particular, ones where there are plenty of junior software engineers trying to make a transition into machine learning and related fields. From this work I've noticed three things that I want to call out, address, and my goal is that I want these young developers to have a bias for decision making.
 
 1. Deterministic software has edge cases. Probabilistic software have long tails.
 2. We must design experiments, metrics, in order to make decisions.
