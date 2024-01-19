@@ -40,12 +40,12 @@ Instead, we are ranking things. We are sorting things. We are grouping things in
 
 > you can think your way into solving a deterministic system, but you cannot think your way into solving a probabilistic system.
 
-I think the first thing that I want to call out is that deterministic software has edge cases. Probabilistic software has long tails.
-I'm finding a lot of junior folks try to really think hard about edge cases around probabilistic systems and truthfully it doesn't really make sense. It is unlikely that we can enumerate and count issues ahead of time.
+The first thing that I want to call out is that deterministic software has edge cases while probabilistic software has long tails.
+I'm finding a lot of junior folks try to really think hard about edge cases around probabilistic systems and truthfully it doesn't really make sense. It is unlikely that we can enumerate and count issues ahead of time, we can only work in percentages and probabilities.
 
-Instead, we should be focusing our efforts on segmenting the distribution and solving these problems locally first, before coming up with a hypothesis on how the global system might work.
+Instead, we should be focusing our efforts on segmenting and clustering the distribution of inputs and consider solving these problems locally first, before coming up with a hypothesis on how the global system might work.
 
-On top of that, because of these long tails, before deliberating with your whole team on what to do next, I would really suggest asking yourself, will we make more progress if we set up an experiment, do we actually know what we want to measure? Or is it actually meaningful to try to plan and predict what things will happen
+On top of that, because of these long tails, before deliberating with your whole team on what to do next, I would really suggest asking yourself if we set up an experiment and measure improvements to some metric, do we actually know what we want to measure?
 
 ## Designing experiments and metrics
 
