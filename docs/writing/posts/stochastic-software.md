@@ -47,17 +47,20 @@ Instead, we should be focusing our efforts on segmenting and clustering the dist
 
 On top of that, because of these long tails, before deliberating with your whole team on what to do next, I would really suggest asking yourself if we set up an experiment and measure improvements to some metric, do we actually know what we want to measure?
 
+We should question the tolerance that we have for these systems. And what are acceptable thresholds for something like precision and recall, rather than asking ourselves if it will work or not work?
+
 ## Designing experiments and metrics
 
 > All metrics are wrong, some are useful.
 
-All this deliberation on the edge cases and the long tail stems from the fact that we are not actually thinking hard enough about what the experiment should be and what the metrics should be.
+All this deliberation on the edge cases and the long tail stems from the fact that we are not actually thinking hard enough about what the experiment should be and what the metrics should look like.
 
-The goal of building out these probabilistic software systems is not a milestone or a feature. Instead, what we're looking for are outcomes, measurements, and metrics that we can use to make decisions.
+The goal of building out these probabilistic software systems is not a milestone or a feature. Instead, what we're looking for are outcomes, measurements, and metrics that we can use to make decisions. We are not looking for some notion of test coverage. Instead, we're looking at the trade-offs between precision and recall, whether accuracy is a good metric for an imbalanced dataset, or whether we can improve our evaluations effectively under some other constraints.
 
-Well, it is obviously important to deliberate over database schemas and API contracts early in the process. When we're building probabilistic systems like a recommendation system or a RAG application, it's very important to also focus on what kind of outcomes we're trying to drive. Even if we don't have some business outcome, it's still valuable to have local, smaller, short-term outcomes like a GPT-4 evaluation and know that our goal is to prepare a suite of experiments in order to move and change this metric.
+Well, it is obviously important to deliberate over database schemas and API contracts early in the process. When we're building probabilistic systems like a recommendation system or a RAG application, it's very important to also focus on what kind of outcomes we're trying to drive. Even if we don't have some business outcome
+(like churn or conversion), it's still valuable to have local, smaller, short-term outcomes like model accuracy or some LLM Evaluation and know that our goal is to prepare a suite of experiments in order to move and change this metric. Does model performance correlate with business outcomes? Maybe, maybe not. But at least we have a metric that we can use to drive decision-making.
 
-!!! tip "When presenting results to a team or to leadership, try to focus on what the experiment is going to be and which metric we're going to move and why those metrics are important in the first place"
+!!! tip "Try to focus on what the experiment is going to be and which metric we're going to move and why those metrics are important in the first place. We want to improve AUC because it leads to conversion. We want to improve precision because it leads to a better user experience, and churn, etc."
 
 ## Making decisions means to cut off
 
