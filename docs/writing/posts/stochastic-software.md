@@ -46,15 +46,15 @@ I find that a lot of junior folks try to really think hard about edge cases arou
 
 Instead, you should be focusing your efforts on segmenting and clustering the distribution of inputs and solving these problems locally _before_ coming up with a hypothesis on how the global system might work.
 
-On top of that, because of these long tails, before deliberating with your whole team on what to do next, I would really suggest asking yourself if we set up an experiment and measure improvements to some metric, do we actually know what we want to measure?
+Before deliberating with your whole team on what to do next, ask yourself this: if we set up an experiment and measure improvements to some metric, do we actually know what we want to measure, especially given long-tailed distributions?
 
-We should question the tolerance that we have for these systems. And what are acceptable thresholds for something like precision and recall, rather than asking ourselves if it will work or not work?
+Additionally, consider the acceptable tolerance that your team has with these systems. Instead of asking if the experiment will or won't work, focus on laying out thresholds for metrics like precision and recall.
 
 ## Designing experiments and metrics
 
 > All metrics are wrong, some are useful.
 
-All this deliberation on the edge cases and the long tail stems from the fact that we are not actually thinking hard enough about what the experiment should be and what the metrics should look like.
+All of the effort spent deliberating on edge cases and long tails stems from the fact that **many junior devs are not actually thinking hard enough about what the experiment should be, and what the metrics should look like.**
 
 The goal of building out these probabilistic software systems is not a milestone or a feature. Instead, what we're looking for are outcomes, measurements, and metrics that we can use to make decisions. We are not looking for some notion of test coverage. Instead, we're looking at the trade-offs between precision and recall, whether accuracy is a good metric for an imbalanced dataset, or whether we can improve our evaluations effectively under some other constraints.
 
@@ -63,17 +63,17 @@ Well, it is obviously important to deliberate over database schemas and API cont
 
 !!! tip "Try to focus on what the experiment is going to be and which metric we're going to move and why those metrics are important in the first place. We want to improve AUC because it leads to conversion. We want to improve precision because it leads to a better user experience, and churn, etc."
 
-## Making decisions means to cut off
+## Make decisions, improve focus
 
-Making decisions should not not actually increase the scope. We should get into a habit of using these metrics to drive decision-making that cutt off other possibilities. Once we've measured something, it should give us focus.
+Making decisions should not increase the scope of your project. Get into a habit of using these metrics to drive decision-making that cuts off other possibilities. **Once you've measured something, it should give you focus on your immediate next move.**
 
-!!! note "Entomology of the word decision"
+!!! note "Etymology of the word 'decision'"
 
-    The definition of “Decision” actually has Latin roots. The meaning of the word “decide” comes from the Latin word, decidere, which is a combination of two words: de = 'OFF' + caedere = 'CUT'
+    The word “decision” actually has Latin roots. The meaning of the word “decide” comes from the Latin word  _decidere_, which is a combination of two words: de = 'OFF' + caedere = 'CUT'.
 
 Once you develop the habit of planning experiments that drive metric improvements, the next skill to focus on is recommending decisions and actions based on these metrics.
 
-Consider this example: As data scientists, we are analyzing the various types of queries received by our retrieval application. We have classified the queries using a classification model and are aggregating data to determine the volume and quality of each query type.
+Consider this example: we, a group of data scientists, are analyzing the various types of queries received by a retrieval application. We've classified the queries using a classification model, and we've aggregated data to determine the volume and quality of each query type.
 
 | Query                | Count | Quality |
 | -------------------- | ----- | ------- |
@@ -81,7 +81,7 @@ Consider this example: As data scientists, we are analyzing the various types of
 | Scheduling Questions | 90    | 83%     |
 | Internet Searches    | 20    | 9%      |
 
-We have observed that the quality of internet searches is exceptionally low, while the majority of our queries pertain to personal data. The quality metric is determined by a thumbs-up or thumbs-down rating system. Additionally, scheduling questions exhibit high quality, but their volume is relatively low. Based on this data, we can recommend allocating more time to improve the quality of personal data. Furthermore, due to the low volume of internet searches, we may consider informing users that this service will not be available until we have a better plan.
+Consider this example: we, a group of data scientists, are analyzing the various types of queries received by a retrieval application. We've classified the queries using a classification model, and we've aggregated data to determine the volume and quality of each query type.
 
 Here are some examples of recommendations that we can make based on this data:
 
