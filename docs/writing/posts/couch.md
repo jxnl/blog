@@ -77,3 +77,13 @@ Consider the tatami room. A room that is designed to be a multi-purpose space. A
 We can roll up futons and put them in the closet. And when we're ready, we can also go to bed and sleep.
 
 ![](https://images.squarespace-cdn.com/content/v1/5f112d7df383b42d19a6f117/1594973446712-FSKXDFHOD8UXI9I5TQ29/Quadruple%2BSuite%2B-%2BRoom%2B2.jpg)
+
+## What to Take Away
+
+This is all a long-winded way of saying that:
+
+1. The fact that couches point you in a direction that is not towards the other... ...is some existential nonsense.
+2. The fact that we want to be in some sedentary seated state for many hours at a time... ...is detrimental to your health.
+3. If we actually believe that the ability to go from a seated position to a standing position is predictive of our own mortality, we should just practice the movement.
+4. When we limit the special spaces to just be that on the couch, we waste so much potential and so much space. Further limiting our ability to connect with and invite people into our home.
+5. If we can learn from the the tag me room for example, we could have a space that is multipurpose and multifaceted that can transcend a single use. It can be a frame with which we see our own potential.
