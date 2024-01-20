@@ -10,69 +10,69 @@ authors:
 
 # A Critique on Couches
 
-I've been thinking about this problem for seven years. Of how much I've disliked couch. Ever since I left home and lived in my own spaces, the thought of a couch was always one of oppression.
+I've been contemplating this issue for seven years: my disdain for couches. Ever since I left home and started living in my own spaces, the idea of a couch has always felt oppressive to me.
 
-In this piece I'm going to outline some of the reasons I think couches are kind of an oppressive poison, I'm going to tackle it from a couple of different lenses, believe them as fragments of thoughts. Feel free to read these paragraphs in any order that interests you.
+In this piece, I will outline the reasons why I believe couches can be seen as an oppressive force. I will approach this topic from various perspectives, presenting fragmented thoughts. Feel free to read these paragraphs in any order that interests you.
 
 <!-- more -->
 
-The couch, often oriented towards a television, represents a societal imposition of a predetermined essence on our living spaces. This setup, reflecting Sartre's concept of bad faith, dictates the room's function, limiting its potential. It echoes the limitations we impose on ourselves when conforming to societal expectations, neglecting our authentic selves.
+The couch, often positioned facing a television, symbolizes the societal imposition of a predetermined essence onto our living spaces. This arrangement, reminiscent of Sartre's concept of bad faith, dictates the room's function and restricts its potential. It mirrors the limitations we place upon ourselves when we conform to societal expectations, disregarding our authentic selves.
 
 ## Directing the Gaze
 
-I've always thought of chairs and benches at parks and windows as a way of framing the world that we see. Looking out the window you can see the moon or the shadows of leaves flickering into your room. A place to sit is a place to direct the gaze. We might sip our coffees and look at the streets or sit at a park bench and appreciate the world in front of us.
+I have always regarded chairs and benches in parks or near windows as a way to frame the world we observe. By looking out the window, we can catch a glimpse of the moon or watch the shadows of leaves dancing into our rooms. A place to sit becomes a means to direct our gaze. We may sip our coffees while gazing at the streets or sit on a park bench, appreciating the world before us.
 
-![](https://hellogiggles.com/wp-content/uploads/sites/7/2016/09/23/500days-dtla.jpg)
+![Image](https://hellogiggles.com/wp-content/uploads/sites/7/2016/09/23/500days-dtla.jpg)
 
-Now consider the couch in a "living room". For a couch to be in any living room, it is hardly for living. It's not something that we point out to the window, into the backyard, onto a lake. In most American homes, the couch directs our gaze to a wall or a television. It dictates the purpose of a room to be one where we're supposed to sit down and consuming. I couldn't count the number of times I've been to someone's house and sat at two ends uncomfortably contorting our bodies looking at each other.
+Now, let's consider the couch in a "living room." In such a room, a couch hardly serves the purpose of living. It is not a piece of furniture that allows us to point our attention towards the window, the backyard, or a lake. In most American homes, the couch directs our gaze towards a wall or a television. It dictates that the room's purpose is solely for sitting and consuming. Countless times, I have found myself uncomfortably contorting my body while sitting at opposite ends of a couch, trying to engage in conversation with someone.
 
-![](https://img.freepik.com/premium-photo/two-women-are-sitting-sofa-room-talking-heartfelt-conversation-trust-person-female-friendship_208700-4166.jpg)
+![Image](https://img.freepik.com/premium-photo/two-women-are-sitting-sofa-room-talking-heartfelt-conversation-trust-person-female-friendship_208700-4166.jpg)
 
-Sartre’s concept of "the Look" is critical in understanding self-awareness and otherness. The typical living room setup, where seating faces away from each other, averts the direct engagement of the gaze, fostering a detached form of social interaction. This arrangement promotes a superficial existence, avoiding the existential anxiety of being an object in another’s world.
+Sartre's concept of "the Look" is crucial in understanding self-awareness and otherness. The typical living room setup, where seating faces away from each other, avoids direct engagement of the gaze, fostering a detached form of social interaction. This arrangement promotes a superficial existence, allowing us to evade the existential anxiety of being an object in someone else's world.
 
 ## House parties are in the kitchen
 
-For a living room with a couch, it's a perfect place to go and watch a movie or a sports game. Consumption. But if you were to maximize the number of human connections, It's no wonder that so many people end up just standing because nobody wants to sit down on this sacred space with room for three. It ends up just being a glorified coat rack. To actually sit on the couch is to almost choose to exclude yourself from the conversation of 'standing people'
+For a living room with a couch, it's a perfect place to go and watch a movie or a sports game: consumption. But if you were to maximize the number of human connections, it's no wonder that so many people end up just standing because nobody wants to sit down on this sacred space with room for three. It ends up just being a glorified coat rack. To actually sit on the couch is to almost choose to exclude yourself from the conversation of 'standing people.'
 
 ## Sacred Space
 
-One other issue with the couch is that it puts some rules and constraints on how closely people sit to each other. Creating some rules on distance that I find very strange. If everyone will see it on the floor, there's not some presupposed distance. Whether I was a foot away from you or a meter away, it wouldn't really matter. The entire surface is yours to take up.
+One issue with the couch is that it imposes rules and constraints on how closely people sit to each other, creating strange distance expectations. If everyone were on the floor, there would be no predetermined distance. Whether I was a foot or a meter away from you wouldn't matter. The entire surface is available for anyone to occupy.
 
-So when you sit on a couch with limited space, it makes sense to sit on the ends. Segmenting at the space forces us to produce some kind of minimum distance. In such a way that to sit closer to someone would be strange and unexpected. But then, as you introduce more than two people on a space, the conversation gets strange as one can speak over the other as some poor soul is stuck in the middle. If theres 4 people, the dynamics are jsut as silly. The two people on the ends are forced to turn their heads to the middle to speak to the other two. It's a strange dynamic that I've never really understood.
+So when sitting on a couch with limited space, it makes sense to sit on the ends. Segmenting the space enforces a minimum distance, making it strange and unexpected to sit closer to someone. However, when more than two people are present, the dynamics of conversation become awkward. One person can speak over another while someone is stuck in the middle. With four people, the situation is equally silly. The individuals on the ends must turn their heads towards the middle to speak to the other two. It's a peculiar dynamic that I've never quite understood.
 
-![](./img/urinal.png)
+![Urinal](./img/urinal.png)
 
-## Limited Transcedence
+## Limited Transcendence
 
-The counter is such a large and immobile piece of furniture that it is very hard to have a living room that can transcend multiple utilities. It's a symbol that denies the room of other possibilities. With unlimited space, a large couch dictates the only place that you can "be". Whereas if we had an open space, we could do so much more. We could sit in a circle and tell stories. We can lay down some mats and do yoga. It could be a dance party, it could be a restaurant, it could be so much more.
+The counter is a large and immobile piece of furniture that restricts the living room's potential for multiple uses. It symbolizes the denial of other possibilities within the room. With unlimited space, a large couch dictates the only acceptable place to "be". However, in an open space, the possibilities are endless. We could sit in a circle and share stories, lay down mats for yoga, host a dance party, or even transform it into a restaurant. The potential is far greater.
 
-![](./img/home.png)
+![Home](./img/home.png)
 
-This approach can indeed foster intimacy and interaction, as it encourages people to engage more closely and directly with each other. It also challenges the conventional notion of a living room as primarily a space for passive consumption, typically oriented towards a television.
+This approach fosters intimacy and interaction by encouraging people to engage closely and directly with each other. It challenges the conventional notion of a living room as a space primarily for passive consumption, typically centered around a television.
 
-## Sitting is just Bad
+## Sitting is Just Bad
 
-Some people criticize my thoughts on the basis that it is important to be able to sit somewhere comfortably for three hours. I'm honestly just not convinced that that's a feature. I just don't believe we should be seated for that long. When I set in the floor or in a bean bag that can arrange in any place in my house that I choose, it's still very easy to set for a room. is still very easy to set for a long time. When I sit on the floor, there's a level of discomfort that forces me to shift my weight and adjust myself. And in turn actually move. I think that's a good thing.
+Some people criticize my thoughts, arguing that it's important to have a comfortable place to sit for three hours. However, I'm not convinced that this is a desirable feature. I don't believe we should be seated for such extended periods. When I sit on the floor or on a bean bag that can be placed anywhere in my house, it's still easy to sit for a long time. Sitting on the floor introduces a level of discomfort that prompts me to shift my weight and adjust myself, encouraging movement. I believe this is a positive aspect.
 
-There's so much research that shows that just sitting in general has been terrible on our hips and our hip flexors. We all of a sudden get so lazy and relaxed that we lose the ability to strengthen our own spines.
+There is ample research showing that prolonged sitting is detrimental to our hips and hip flexors. We become so lazy and relaxed that we lose the ability to strengthen our spines.
 
-A study by Columbia University Irving Medical Center found that taking a five-minute stroll every half hour can offset the harmful effects of prolonged sitting. This simple activity can significantly improve cardiometabolic risk factors.
+A study conducted by Columbia University Irving Medical Center found that taking a five-minute stroll every half hour can counteract the harmful effects of prolonged sitting. This simple activity can significantly improve cardiometabolic risk factors.
 
-## The benefits of rissing from the floor
+## The Benefits of Rising from the Floor
 
 The research linking the ability to rise from the floor to mortality risk was published in the "European Journal of Cardiovascular Prevention" by Claudio Gil Araújo and colleagues. The study introduced the 'sitting-rising test' (SRT), assessing the ease of getting up from and down to the floor. It found a significant correlation between SRT scores and mortality risk, suggesting that lower scores were associated with higher mortality risk. This was due to SRT's ability to measure muscular strength, flexibility, and balance, key indicators of general health and longevity.
 
-If that's not actually the case, why don't we just sit on the floor to begin with and just develop these motor skills as we age? I bet there's so many Americans who would struggle to just go from seated to standing. People who can't put weight on their hands or are too immobile.
+If that's not actually the case, why don't we just sit on the floor to begin with and develop these motor skills as we age? I bet there are so many Americans who would struggle to just go from seated to standing. People who can't put weight on their hands or are too immobile.
 
-## "Well, I want to lay down"
+## Well, I Want to Lie Down
 
-I'm not suggesting you sit on, like, cold marble. Having a combination of a rug or a mat with some bean bags means that not only can you lay down, Since the floor is not this sacred space where we put our dirty shoes, we should be able to lay down in any orientation in any direction.
+I'm not suggesting you sit on, like, cold marble. Having a combination of a rug or a mat with some bean bags means that not only can you lie down. Since the floor is not this sacred space where we put our dirty shoes, we should be able to lie down in any orientation and in any direction.
 
-![](https://media.istockphoto.com/id/1323863299/photo/couple-lying-on-the-floor.jpg?s=612x612&w=0&k=20&c=Fig2f27FS8Xn5JvLX4MoGMqSE-tYrdk4sa64TSrFcj0=)
+![Couple lying on the floor](https://media.istockphoto.com/id/1323863299/photo/couple-lying-on-the-floor.jpg?s=612x612&w=0&k=20&c=Fig2f27FS8Xn5JvLX4MoGMqSE-tYrdk4sa64TSrFcj0=)
 
 There's literally more space.
 
-## Consider the Tatami room
+## Consider the Tatami Room
 
 Consider the tatami room. A room that is designed to be a multi-purpose space. A room that can be used for tea ceremonies, for sleeping, for eating, for socializing. We can have very modular lightweight furniture be moved in to eat on a table. Arrange mats to sit in a circle for us to all be able to talk to each other.
 
