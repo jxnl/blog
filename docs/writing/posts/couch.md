@@ -10,29 +10,25 @@ authors:
 
 # A Critique on Couches
 
-I've been contemplating this issue for seven years: my disdain for couches. Ever since I left home and started living in my own spaces, the idea of a couch has always felt oppressive to me.
+Here are some fragmented reasons as to why I don't like having a couch.
 
-In this piece, I will outline the reasons why I believe couches can be seen as an oppressive force. I will approach this topic from various perspectives, presenting fragmented thoughts. Feel free to read these paragraphs in any order that interests you.
+> The couch, often positioned facing a television, symbolizes the societal imposition of a predetermined essence onto our living spaces. This arrangement, reminiscent of Sartre's concept of bad faith, dictates the room's function and restricts its potential. It mirrors the limitations we place upon ourselves when we conform to societal expectations, disregarding our authentic selves.
+
+For real.
 
 <!-- more -->
 
-The couch, often positioned facing a television, symbolizes the societal imposition of a predetermined essence onto our living spaces. This arrangement, reminiscent of Sartre's concept of bad faith, dictates the room's function and restricts its potential. It mirrors the limitations we place upon ourselves when we conform to societal expectations, disregarding our authentic selves.
-
 ## Directing the Gaze
 
-I have always regarded chairs and benches in parks or near windows as a way to frame the world we observe. By looking out the window, we can catch a glimpse of the moon or watch the shadows of leaves dancing into our rooms. A place to sit becomes a means to direct our gaze. We may sip our coffees while gazing at the streets or sit on a park bench, appreciating the world before us.
+I have always regarded chairs and benches in parks or near windows as a way to frame the world we see. By looking out the window, we can catch a glimpse of the moon or watch the shadows of leaves dancing into our rooms. A place to sit becomes a means to direct our gaze. We may sip our coffees while gazing at the streets or sit on a park bench, appreciating the world before us.
 
 ![Image](https://hellogiggles.com/wp-content/uploads/sites/7/2016/09/23/500days-dtla.jpg)
 
-Now, let's consider the couch in a "living room." In such a room, a couch hardly serves the purpose of living. It is not a piece of furniture that allows us to point our attention towards the window, the backyard, or a lake. In most American homes, the couch directs our gaze towards a wall or a television. It dictates that the room's purpose is solely for sitting and consuming. Countless times, I have found myself uncomfortably contorting my body while sitting at opposite ends of a couch, trying to engage in conversation with someone.
+Now, let's consider the couch in a "living room." In such a room, a big ass couch hardly serves the purpose of living. It is not a piece of furniture that allows us to point our attention towards something beautiful. In most American homes, the couch directs our gaze towards a wall, or a television. It dictates that the room's purpose is solely for sitting and consuming.
+
+In social situations, countless times, I have found myself uncomfortably contorting my body while sitting at opposite ends of a couch, trying to engage in conversation with person. The typical living room setup, where the act of sitting means faces away from each other, allows us to avoids direct engagement, fostering some detached form of social interaction.
 
 ![Image](https://img.freepik.com/premium-photo/two-women-are-sitting-sofa-room-talking-heartfelt-conversation-trust-person-female-friendship_208700-4166.jpg)
-
-Sartre's concept of "the Look" is crucial in understanding self-awareness and otherness. The typical living room setup, where seating faces away from each other, avoids direct engagement of the gaze, fostering a detached form of social interaction. This arrangement promotes a superficial existence, allowing us to evade the existential anxiety of being an object in someone else's world.
-
-## House parties are in the kitchen
-
-For a living room with a couch, it's a perfect place to go and watch a movie or a sports game: consumption. But if you were to maximize the number of human connections, it's no wonder that so many people end up just standing because nobody wants to sit down on this sacred space with room for three. It ends up just being a glorified coat rack. To actually sit on the couch is to almost choose to exclude yourself from the conversation of 'standing people.'
 
 ## Sacred Space
 
