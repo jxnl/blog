@@ -1,10 +1,18 @@
 # Books I read
 
+## Influences on my life
+
+- Tao Te Ching by Lao Tzu
+- Book of Disquiet by Fernando Pessoa
+- In Praise of Shadows by Jun'ichirō Tanizaki
+- Centering in Pottery, Poetry, and the Person by M.C. Richards
+- The Three-Body Problem Series by Liu Cixin
+- Vagaond by Takehiko Inoue
+
 ## Prince Era
 
 I plan to spend the spring and summer in Europe, reading and writing. I finally give myself permission to read philosophy now that I've got some seasoning, and I'm excited to see what I can learn from the lense of my own life.
 
-- Book of Disquiet by Fernando Pessoa
 - Nausea by Jean-Paul Sartre
 - Being and Nothingness by Jean-Paul Sartre
 - The Unbearable Lightness of Being by Milan Kundera
