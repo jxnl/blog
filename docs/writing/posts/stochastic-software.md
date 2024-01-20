@@ -27,8 +27,6 @@ Why? None of these are things that I would consider software, in the classical s
 
 Nowadays, I'm a technical advisor working on software teams, helping them level up their machine learning capabilities while coaching and mentoring junior engineers to think more probabilistically. As I've been doing this, I've noticed a few common pitfalls that folks are running into, and I want to call them out.
 
-I noticed a few of the pitfalls that folks are running into these days and I want to call them out.
-
 ## What is probabilistic software?
 
 When I say "probabilistic software", what I'm really talking about is a broad category of _systems that use machine learning_. These systems look at probabilities and distributions rather than discrete interactions, like an API call from one server to another.
