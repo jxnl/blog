@@ -17,6 +17,7 @@ This writing stems from my experience advising a few startups, particularly smal
 3. How will the result help me make a decision?
 4. Under what conditions will I reevaluate if results are not positive?
 5. Can I use the results to update my mental model and plan future work?
+
 <!-- more -->
 
 ## Who am I?

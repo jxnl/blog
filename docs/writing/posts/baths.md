@@ -16,6 +16,8 @@ In contrast, the time I spent in LA or New York City at various bathhouses was d
 
 Gross.
 
+<!-- more -->
+
 ## American Zoos
 
 Thankfully the first time I ever bathed naked in a bath house was in Koreatown, LA. I'd never grown up doing sports and so I thought the idea of taking all your clothes off in a bunch of dudes was so, so strange. Luckily everything was fine and funny enough it was the first time in my life I realized that I had a really reasonable body.

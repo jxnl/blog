@@ -14,6 +14,8 @@ After writing my post [advice for young people](./advice.md), a couple of people
 
 Instead, I'm going to explore a new style. I'm just going to go through a chronological telling of my life and what I learned from just trying new things. I'm going to talk about the tactics and strategies and see how this pans out.
 
+<!-- more -->
+
 Its really revolves around some core ideas, that I definitely knew before, but didn't see the patterns for myself. Until years into trying stuff, the important of teaching to learn, having process vs outcome goals, planning and periodization, and just not doing anything flashy too early.
 
 I'm going to break this down into two sections:
@@ -34,8 +36,6 @@ I'm going to break this down into two sections:
 4. Rocket League
 
 It's a false dichotomy in the sense that the tactics and strategies for knowledge acquisition apply to physical skills, and the volume and leverage required to learn physical skills also apply to knowledge acquisition. But consider this an experiment, I'll go over each one and a lesson I learned.
-
-<!-- more -->
 
 ??? note "Thanks to the following people for reading drafts of this post and providing feedback:"
 
