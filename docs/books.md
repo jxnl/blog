@@ -7,7 +7,7 @@
 - In Praise of Shadows by Jun'ichirō Tanizaki
 - Centering in Pottery, Poetry, and the Person by M.C. Richards
 - The Three-Body Problem Series by Liu Cixin
-- Vagaond by Takehiko Inoue
+- Vagabond by Takehiko Inoue
 
 ## Prince Era
 
