@@ -24,7 +24,7 @@ I specify indie consulting as something that is completely and wholly separate f
 
     > "I don't think there's anything inherently evil in consulting. I think that without owning something over an extended period of time, like a few years, where one has a chance to take responsibility for one's recommendations, where one has to see one's recommendations through all action stages and accumulate scar tissue for the mistakes and pick oneself up off the ground and dust oneself off, one learns a fraction of what one can. Coming in and making recommendations and not owning the results, not owning the implementation, I think is a fraction of the value and a fraction of the opportunity to learn and get better."
 
-I strongly believe that if you're a young person you should not be consulted. You should join a big company or a small company in each shit. And the shit that you eat is the scar tissue that develops over time.
+I strongly believe that if you're a young person you should not be consulted. You should join a big company or a small company and just eat shit and develop the scar tissue that develops over time.
 
 !!! note "Confidence is the memory of success"
 
