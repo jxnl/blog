@@ -181,4 +181,16 @@ These days, there are a few ways to scale your business. While I'm choosing not 
 
 Hate to say it, but it works. You just gotta provide substance. Long-form articles will get fewer views than your 300k-view dumb tweets. However, the biggest revelation for me was how often I would share my blog posts after first calls as a "look, I've thought about this problem before." Also, these blog posts are frequently recirculated in the Slack channels of the companies I work with. It's a great way to build trust and demonstrate expertise.
 
-People don't care if you write it in public, in my opinion, if they get the value. I don't think most people care where it comes from. You can give the knowledge away for free but keep the implementation paywalled. Obviously, talk to your clients and make sure IP is protected for any definition. But I think it's a great way to build trust and demonstrate expertise, especially if this is how they found out about you in the first place.
+Most of my presence is now in long-form content:
+
+- Instructor Blog: [https://jxnl.github.io/instructor/blog/](https://jxnl.github.io/instructor/blog/)
+- This Blog: [https://jxnl.github.io/blog/](https://jxnl.github.io/blog/)
+
+If they get the value, I don't think most people care where it comes from. But you have to make sure there's enough identity attached that this is 'something I read that Jason wrote', vs 'something I saw on Medium', that light brand attachment is pretty valuable. You can give the knowledge away for free but keep the implementation paywalled. Obviously, talk to your clients and make sure IP is protected for any definition. But I think it's a great way to build trust and demonstrate expertise, especially if this is how they found out about you in the first place.
+
+## Things I've Not Figured Out
+
+- Pricing is still challenging, especially for educational content that has different leverage mechanics.
+- Increasing prices is easy since asking is easy, but I'm reaching a point where pricing might be a function of demand.
+- I don't have an exit plan. Unless I end up joining OpenAI, there's no opportunity to sell the company to someone else at a multiple. While that's not the goal, it's something to think about.
+- Outreach: I do zero outreach as a function of my public speaking or content creation. It's important to remember that you have to eat what you kill. I'm pretty stable right now, but I definitely acknowledge it as another 'leverage' point that I can improve on.
