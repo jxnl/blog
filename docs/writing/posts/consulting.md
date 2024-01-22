@@ -8,7 +8,7 @@ authors:
   - jxnl
 ---
 
-# Indie Consulting
+# What I Learned from Indie Consulting
 
 !!! note "Fragments"
 
