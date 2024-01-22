@@ -132,19 +132,36 @@ I also try to make a good attempt at guessing exactly what their outcomes are an
 
 ## The situational assessment
 
-This is single-handedly the biggest piece of my own practice. One of these things can take two or three hours, but I find it extremely valuable. It's actually this document that makes me feel like I don't charge enough because so far everyone has accepted the highest offer, And I don't simply have enough time to sell to do this well.
+Single-handedly the biggest piece of my own practice. The situational assessment is an opportunity for me to effectively highlight and showcase everything I know about the business. Demonstrate that I understand what the dream outcome is (reduce churn, improve performance, etc), and offer up methodology to get it done. One of these things can take two or three hours, but I find it extremely valuable for myself and as a tool for sales.
 
-The situational assessment is an opportunity for me to effectively highlight and showcase everything I know about the business. Show them that I understand what the dream outcome is. Understand what the dream outcome is (reduce churn, improve performance, etc)
+I'll give an example if what I wrote [here](../../assessment.md). This is taken from Alan Weiss, and I've been able to implemented this with great success, heres some of his [examples](https://www.alanweiss.com/wp-content/uploads/Sample%20Proposals.pdf).
 
-_TODO: Loose notes for myself:_
+### Structure of the Proposal
 
-## You're probably not charging enough
+- Situation: What is the current situation?
+- Objectives: What are the desired outcomes?
+- Values: Frame it in terms of the value equation.
+- Metrics: How do we measure success?
+- Timing
+- Terms and conditions
 
-_TODO: Loose notes for myself:_: Honestly, everyone has chosen my most expensive option, so I probably just need to charge more.
+Some callouts:
+
+- Metrics: If it's a struggle to measure success, it'll be hard to identify value and charge for it. You're likely looking at milestones and implementation, which results in trading time for money, rather than execution for results.
+
+- Situation: This is actually just hard, and you need to listen well and develop a skill in appraising the client's situation.
+
+## Some stuff I've learned so far
+
+### Time for money vs capital allocator
+
+The more high-level the client, the more I realized that they think in terms of capital allocation. They are not trading time for money; they are trading capital for time. And so, the exchange rate is different. Just like minimizing the time to success is important. If you can really capture the value of what you do, you'll likely always be charging too little. If you believe that you can actually drive a business outcome, for example, increase $100K ARR in 3 months, then you should be charging a percentage of that. It could be a deal if we see it as simply spending money to make money. Realy companies are throwing around so much capital in hopes of improving talent, their revenue, their product, their valuation.
 
 ## Niche Down
 
-_TODO: Loose notes for myself:_: I basically think the more you can niche down the more success you'll have. The TLDR is that if you say you can work for everybody, you kind of work well for nobody. And I try to be more and more specific with what I'm actually doing. For example, I can work with experienced operators that have a business with more than 1 million dollars ARR. It's a lot easier to provide value in that than a pre-seed company. Unless the dream outcome here is that I actually help you raise the money. There, I'm leveraging my network in VC or whatnot to get that done. Along with my... More fractional CTO... Style work. I still try to avoid implementation these days.
+You should niche down sooner rather than later. In
+
+I basically think the more you can niche down the more success you'll have. The TLDR is that if you say you can work for everybody, you kind of work well for nobody. And I try to be more and more specific with what I'm actually doing. For example, I can work with experienced operators that have a business with more than 1 million dollars ARR. It's a lot easier to provide value in that than a pre-seed company. Unless the dream outcome here is that I actually help you raise the money. There, I'm leveraging my network in VC or whatnot to get that done.
 
 ## The future
 
