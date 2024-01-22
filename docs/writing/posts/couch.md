@@ -62,7 +62,7 @@ If that's not actually the case, why don't we just sit on the floor to begin wit
 
 ## Well, I Want to Lie Down
 
-I'm not suggesting you sit on, like, cold marble. Having a combination of a rug or a mat with some bean bags means that not only can you lie down. Since the floor is not this sacred space where we put our dirty shoes, we should be able to lie down in any orientation and in any direction.
+I'm not suggesting you sit on, like, cold marble. But having a combination of a rug or a mat with some bean bags means that not only can you lie down, you can do so in any orientation that facilitates your relat. Since the floor is not this sacred space where we put our dirty shoes, we should be able to lie down in any orientation and in any direction.
 
 ![Couple lying on the floor](https://media.istockphoto.com/id/1323863299/photo/couple-lying-on-the-floor.jpg?s=612x612&w=0&k=20&c=Fig2f27FS8Xn5JvLX4MoGMqSE-tYrdk4sa64TSrFcj0=)
 
