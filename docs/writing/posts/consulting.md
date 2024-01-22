@@ -194,3 +194,14 @@ If they get the value, I don't think most people care where it comes from. But y
 - Increasing prices is easy since asking is easy, but I'm reaching a point where pricing might be a function of demand.
 - I don't have an exit plan. Unless I end up joining OpenAI, there's no opportunity to sell the company to someone else at a multiple. While that's not the goal, it's something to think about.
 - Outreach: I do zero outreach as a function of my public speaking or content creation. It's important to remember that you have to eat what you kill. I'm pretty stable right now, but I definitely acknowledge it as another 'leverage' point that I can improve on.
+
+## Conclusion
+
+Alot of this post is really about understanding and define what value is, and pricing against that. The situational assessment is something that communicates your understanding what is valueable, and presenting a plan to capture that. All of your content creation and marketing should be focused on delivering value in one of the 4 ways:
+
+1. Dream outcome
+2. Perceived likelihood of success
+3. Perceived time to success
+4. Perceived difficulty of success
+
+If your content addresses one, great, if it addresses two, even better. If it addresses all four, you're golden. If you can demonstrate that you can deliver on those four things... You're winning.
