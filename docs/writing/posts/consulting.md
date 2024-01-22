@@ -163,7 +163,7 @@ You should niche down sooner rather than later. In the beginning, I was just try
 
 Lack of focus is fun, but context switching is expensive. I made 40k working with 4-5 clients, but I could easily achieve the same with fewer clients and charging more if they were more focused efforts.
 
-I've now drilled down my niche to be around the thesis that 'RAG applications are shitty recommendation systems and I can bring years of experience to help you build a better one.'
+I've now drilled down my niche to be around the thesis that "RAG applications are subpar recommendation systems, and I can bring years of experience to help you build a superior one." The second thesis I now have is that many teams have traditionally hired software engineers who are unfamiliar with building probabilistic software. Since I've also been doing that for many years, I can help them sidestep some of the pitfalls and mistakes that I've made.
 
 Now I focus on working with experienced founders who have raised a series A and are looking to build a RAG application and make at least 500k. They are prequalified based on 'hunger' and to benefit from what someone can bring to the value equation, rather than hiring a contractor as form of labor arbitrage.
 
