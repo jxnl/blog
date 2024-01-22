@@ -157,7 +157,7 @@ Some callouts:
 
 The more high-level the client, the more I realized that they think in terms of capital allocation. They are not trading time for money; they are trading capital for time. And so, the exchange rate is different. Just like minimizing the time to success is important. If you can really capture the value of what you do, you'll likely always be charging too little. If you believe that you can actually drive a business outcome, for example, increase $100K ARR in 3 months, then you should be charging a percentage of that. It could be a deal if we see it as simply spending money to make money. Realy companies are throwing around so much capital in hopes of improving talent, their revenue, their product, their valuation.
 
-## Niche Down
+### Niche Down
 
 You should niche down sooner rather than later. In the beginning, I was just trying to help anybody. Startups, I considered banks, I did technical writing, dev rel, application development, and more. However, the more specific your positioning is, the sharper your message is, and the more likely you are to be able to capture value.
 
@@ -166,6 +166,16 @@ Lack of focus is fun, but context switching is expensive. I made 40k working wit
 I've now drilled down my niche to be around the thesis that 'RAG applications are shitty recommendation systems and I can bring years of experience to help you build a better one.'
 
 Now I focus on working with experienced founders who have raised a series A and are looking to build a RAG application and make at least 500k. They are prequalified based on 'hunger' and to benefit from what someone can bring to the value equation, rather than hiring a contractor as form of labor arbitrage.
+
+### Scaling Out
+
+These days, there are a few ways to scale your business. While I'm choosing not to, I cannot properly comment on this. I do recognize that there are a couple of ways to scale your business: by building a product or by productizing your own knowledge, or scaling out with labor. Here are my thoughts:
+
+1. Product: Unless we are niched down to a specific industry and build a product that serves that industry, it's going to be hard to build a product that makes sense. I'm not interested in productizing [instructor](https://github.com/jxnl/instructor).
+
+2. Knowledge: This is probably closest to what I would do. You can imagine writing a book or giving out food content as a way of marketing my own services and increasing my value, or producing educational content with a partner. I can definitely imagine selling a $15 PDF or some video series if it made sense. But as a function of recurring revenue, it's not worth what I can make. This is probably in line with the [Reagon Beta Paradox](https://en.wikipedia.org/wiki/Region-beta_paradox), but I think in the long run, a book of my consulting experience could make sense.
+
+3. Services: Since my goal is to only work about 25 to 30 hours a week, it doesn't make any sense to come around here and take on more responsibility.
 
 ## The future
 
