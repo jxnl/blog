@@ -159,9 +159,13 @@ The more high-level the client, the more I realized that they think in terms of 
 
 ## Niche Down
 
-You should niche down sooner rather than later. In
+You should niche down sooner rather than later. In the beginning, I was just trying to help anybody. Startups, I considered banks, I did technical writing, dev rel, application development, and more. However, the more specific your positioning is, the sharper your message is, and the more likely you are to be able to capture value.
 
-I basically think the more you can niche down the more success you'll have. The TLDR is that if you say you can work for everybody, you kind of work well for nobody. And I try to be more and more specific with what I'm actually doing. For example, I can work with experienced operators that have a business with more than 1 million dollars ARR. It's a lot easier to provide value in that than a pre-seed company. Unless the dream outcome here is that I actually help you raise the money. There, I'm leveraging my network in VC or whatnot to get that done.
+Lack of focus is fun, but context switching is expensive. I made 40k working with 4-5 clients, but I could easily achieve the same with fewer clients and charging more if they were more focused efforts.
+
+I've now drilled down my niche to be around the thesis that 'RAG applications are shitty recommendation systems and I can bring years of experience to help you build a better one.'
+
+Now I focus on working with experienced founders who have raised a series A and are looking to build a RAG application and make at least 500k. They are prequalified based on 'hunger' and to benefit from what someone can bring to the value equation, rather than hiring a contractor as form of labor arbitrage.
 
 ## The future
 
