@@ -63,12 +63,12 @@ All of this breaks down into how much someone is willing to pay as a function of
 
 !!! note "Stop offering to work for free"
 
-I know a lot of people in my DMs offering to work for me for free. But what they realize is that working for free is not good enough because they actually provide no value.
+    I know a lot of people in my DMs offering to work for me for free. But what they realize is that working for free is not good enough because they actually provide no value.
 
-1. Dream outcome: You have not shown me that you understand what my dream outcome is, and so you have no way of capturing what exactly it is I want.
-2. Perceived likelihood of success: You have not shown me that you have the skills to actually achieve this outcome.
-3. Perceived time to success: You have not shown me that you can do this in a timely manner. If anything, if you work for free, I have no faith that I can even control or manage your time.
-4. Perceived difficulty of success: More often than not, I need help because I do not have enough time. There's a good chance it might take you 8 hours to do something I could do in 1 hour, and instead now I'm stuck reviewing your work and trying to clarify something, wasting even more of my time.
+    1. Dream outcome: You have not shown me that you understand what my dream outcome is, and so you have no way of capturing what exactly it is I want.
+    2. Perceived likelihood of success: You have not shown me that you have the skills to actually achieve this outcome.
+    3. Perceived time to success: You have not shown me that you can do this in a timely manner. If anything, if you work for free, I have no faith that I can even control or manage your time.
+    4. Perceived difficulty of success: More often than not, I need help because I do not have enough time. There's a good chance it might take you 8 hours to do something I could do in 1 hour, and instead now I'm stuck reviewing your work and trying to clarify something, wasting even more of my time.
 
 ### Personal anecdote from 10 years ago
 
