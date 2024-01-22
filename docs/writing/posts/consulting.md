@@ -177,6 +177,8 @@ These days, there are a few ways to scale your business. While I'm choosing not 
 
 3. Services: Since my goal is to only work about 25 to 30 hours a week, it doesn't make any sense to come around here and take on more responsibility.
 
-## The future
+### Thought leadership
 
-_TODO: Loose notes for myself:_: I think the only way to scale more is to just give out more free content and consistently demonstrate the fact that I can build our value. I will write more blog posts, do some educational content, and do some more writing. Another way to make revenue is to build a product. I've got other product ideas in my learning, in which case I just do education for senior folks, or give workshops, write a book, or I can build a product, one that might supplement the consulting business. Right now what I do is I develop instructor and use that as a... In some ways a league magnet. If I can tailor the content to solving specific problems that companies have, they might see that and see that I'm available. I could do a lot more.
+Hate to say it, but it works. You just gotta provide substance. Long-form articles will get fewer views than your 300k-view dumb tweets. However, the biggest revelation for me was how often I would share my blog posts after first calls as a "look, I've thought about this problem before." Also, these blog posts are frequently recirculated in the Slack channels of the companies I work with. It's a great way to build trust and demonstrate expertise.
+
+People don't care if you write it in public, in my opinion, if they get the value. I don't think most people care where it comes from. You can give the knowledge away for free but keep the implementation paywalled. Obviously, talk to your clients and make sure IP is protected for any definition. But I think it's a great way to build trust and demonstrate expertise, especially if this is how they found out about you in the first place.
