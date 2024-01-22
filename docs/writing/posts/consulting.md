@@ -14,7 +14,7 @@ authors:
 
     This is just a note to the reader that I like to write in a fragmented style using speech to text so if you see any errors or don't really understand what's going on feel free to just contribute and edit or leave a question on the github repo.
 
-I specify indie consulting as something that is completely and wholly separate from the big-time consulting we hear about from those ridiculous institutions. Check out this video roasting [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) From John Oliver to understand how I feel about many of these folks. Theres another great [video](https://www.youtube.com/watch?v=vZE0j_WCRvI).
+I specify indie consulting as something that is completely and wholly separate from the big-time consulting we hear about from those ridiculous institutions. Check out this video roasting [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) From John Oliver to understand how I feel about many of these folks. Theres another great [video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that i saw on tiktok.
 
 <!-- more -->
 
