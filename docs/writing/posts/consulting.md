@@ -10,9 +10,9 @@ authors:
 
 # What I Learned from Indie Consulting
 
-!!! note "Fragments"
+!!! danger "Fragments"
 
-    This is just a note to the reader that I like to write in a fragmented style using speech to text so if you see any errors or don't really understand what's going on feel free to just contribute and edit or leave a question on the github repo.
+    Much of this writing is actually a collected batch of voice memos transcribed into an essay. There will likely contain errors, as there are pieces and fragments of some of the thoughts I have on the topic. I welcome all most all edits and comments.
 
 I specify indie consulting as something that is completely and wholly separate from the big-time consulting we hear about from those ridiculous institutions. Check out this video roasting [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) From John Oliver to understand how I feel about many of these folks. Theres another great [video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that i saw on tiktok.
 
@@ -28,11 +28,12 @@ I strongly believe that if you're a young person you should not be consulted. Yo
 
 My friend and fellow indie consultant [Hamel Husain](https://twitter.com/HamelHusain) has another perspective:
 
-> People without meaningful work experience in a particular industry don't add much value (and often negative value) as a consultant.  Large consulting companies like McKinsey, BCG, etc. peddle a dangerous form of intellectual masturbation for dysfunctional management and organizations.[^1]  Ask yourself, what iconic companies have made impressive pivots or disrupted an industry **because of the advice of McKinsey**? 
+> People without meaningful work experience in a particular industry don't add much value (and often negative value) as a consultant. Large consulting companies like McKinsey, BCG, etc. peddle a dangerous form of intellectual masturbation for dysfunctional management and organizations.[^1] Ask yourself, what iconic companies have made impressive pivots or disrupted an industry **because of the advice of McKinsey**?
 
->  On the other hand, _good_ consultants can offer specific services and add value in unique ways that employees cannot.  Let me give you some examples:
-> - Procurement specialists who will re-negotiate all of your contracts and leverage the fact they are negotiating on behalf of many companies.  I knew someone who did this for large restaurant chains and was able to cut the price of everything from toilet paper to rent by 15% on average.  The suppliers wanted to play nice because this consultant had lots of clients.  Similarly, [Cory Quinn](https://twitter.com/quinnypig) will do this with your cloud bills.
-> - In my [consulting practice around LLMs](https://parlance-labs.com/), I often provide vendors with their first customers, broker deals between open source maintainers and commercial platforms, introduce highly qualified candidates that get hired, and other strategic activities that involve working with many different organizations simultaneously.  These activities are in addition to specialized engineering work I do around LLMs.  I believe that the the engineering work alone, while valuable, would NOT justify me as a consultant in the long term.
+> On the other hand, _good_ consultants can offer specific services and add value in unique ways that employees cannot. Let me give you some examples:
+>
+> - Procurement specialists who will re-negotiate all of your contracts and leverage the fact they are negotiating on behalf of many companies. I knew someone who did this for large restaurant chains and was able to cut the price of everything from toilet paper to rent by 15% on average. The suppliers wanted to play nice because this consultant had lots of clients. Similarly, [Cory Quinn](https://twitter.com/quinnypig) will do this with your cloud bills.
+> - In my [consulting practice around LLMs](https://parlance-labs.com/), I often provide vendors with their first customers, broker deals between open source maintainers and commercial platforms, introduce highly qualified candidates that get hired, and other strategic activities that involve working with many different organizations simultaneously. These activities are in addition to specialized engineering work I do around LLMs. I believe that the the engineering work alone, while valuable, would NOT justify me as a consultant in the long term.
 
 [^1]: I know, because I once worked at places like this.
 
