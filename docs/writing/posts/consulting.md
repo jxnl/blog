@@ -28,7 +28,7 @@ I strongly believe that if you're a young person you should not be consulted. Yo
 
 !!! note "Confidence is the memory of success"
 
-    Most of my training did not come from obtaining a PhD. Instead, it primarily stems from my 2 years worth of experience at 7 internships, Academia like NYU Epidemiology and Public Health all the way up to Facebook, And companies that worked on marketing and sales and machine learning throughout the way, building up to my 5-year tenure at Stitch Fix.
+    Most of my training did not come from obtaining a PhD. Instead, it primarily stems from my 2 years worth of experience at 7 internships, from time spent in academia like NYU Epidemiology and Public Health all the way up to Facebook, and from companies that worked on marketing and sales and machine learning. All of this built up to my 5-year tenure at Stitch Fix.
 
     I've managed machine learning projects that have spanned at least two or three years. From collecting the data, to data labeling, to deployments of models, of monitoring those models, of active learning to improve those models. I worked on the data science teams to prioritize both the features and the model development. I work closely with VPs and PMs to plan and determine the roadmap. I've worked with the infrastructure teams to optimize system performance through caching and measured the revenue impact of these latency changes.
 
@@ -165,7 +165,7 @@ Lack of focus is fun, but context switching is expensive. I made 40k working wit
 
 I've now drilled down my niche to be around the thesis that "RAG applications are subpar recommendation systems, and I can bring years of experience to help you build a superior one." The second thesis I now have is that many teams have traditionally hired software engineers who are unfamiliar with building probabilistic software. Since I've also been doing that for many years, I can help them sidestep some of the pitfalls and mistakes that I've made.
 
-Now I focus on working with experienced founders who have raised a series A and are looking to build a RAG application and make at least 500k. They are prequalified based on 'hunger' and to benefit from what someone can bring to the value equation, rather than hiring a contractor as form of labor arbitrage.
+Now, I focus on working with experienced founders who have experience raising a Series A and are looking to build a RAG application and reach an ARR of at least $500k. They are prequalified based on 'hunger' and are thus well-positioned to benefit from what someone can bring to the value equation, unlike less 'hungry' clients who may simply be looking to hire a contractor as a form of labor arbitrage.
 
 ### Scaling Out
 
