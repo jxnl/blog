@@ -79,8 +79,6 @@ Consider this example: we, a group of data scientists, are analyzing the various
 | Scheduling Questions | 90    | 83%     |
 | Internet Searches    | 20    | 9%      |
 
-Consider this example: we, a group of data scientists, are analyzing the various types of queries received by a retrieval application. We've classified the queries using a classification model, and we've aggregated data to determine the volume and quality of each query type.
-
 Here are some examples of recommendations that we can make based on this data:
 
 1. Our performance in internet searches is clearly underwhelming, but the count is quite low.
@@ -101,6 +99,7 @@ That being said, it's also important to trust your judgment. Even if you're goin
 Many people transitioning from classical software engineering to machine learning are often surprised by the empirical nature of the results we obtain. Instead of executing discrete unit tests, we sample from the distribution of potential inputs and build a internal model of how this system operates.
 
 I hope that this article has helped you understand the importance of focusing on outcomes, metrics, and experiments instead of trying to think our way through edge cases and long tails. Additionally, I encourage you to develop the habit of making decisions and eliminating other possibilities. Lastly, I hope you will cultivate the practice of documenting your results and sharing them with your team, fostering a collective learning experience.
+
 As you're building these probabilistic systems, ask yourself:
 
 1. Could an experiment just answer my questions?
@@ -108,8 +107,6 @@ As you're building these probabilistic systems, ask yourself:
 3. How will the result help me make a decision?
 4. Under what conditions will I reevaluate if results are not positive?
 5. Can I use the results to update my mental model and plan future work?
-
-I hope that this article has helped you understand the importance of focusing on outcomes, metrics, and experiments instead of trying to think our way through edge cases and long tails. Additionally, I encourage you to develop the habit of making decisions and eliminating other possibilities. Lastly, I hope you will cultivate the practice of documenting your results and sharing them with your team, fostering a collective learning experience.
 
 ## One more thing
 
