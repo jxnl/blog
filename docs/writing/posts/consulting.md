@@ -26,6 +26,16 @@ I specify indie consulting as something that is completely and wholly separate f
 
 I strongly believe that if you're a young person you should not be consulted. You should join a big company or a small company and just eat shit and develop the scar tissue that develops over time.
 
+My friend and fellow indie consultant [Hamel Husain](https://twitter.com/HamelHusain) has another perspective:
+
+> People without meaningful work experience in a particular industry don't add much value (and often negative value) as a consultant.  Large consulting companies like McKinsey, BCG, etc. peddle a dangerous form of intellectual masturbation for dysfunctional management and organizations.[^1]  Ask yourself, what iconic companies have made impressive pivots or disrupted an industry **because of the advice of McKinsey**? 
+
+>  On the other hand, _good_ consultants can offer specific services and add value in unique ways that employees cannot.  Let me give you some examples:
+> - Procurement specialists who will re-negotiate all of your contracts and leverage the fact they are negotiating on behalf of many companies.  I knew someone who did this for large restaurant chains and was able to cut the price of everything from toilet paper to rent by 15% on average.  The suppliers wanted to play nice because this consultant had lots of clients.  Similarly, [Cory Quinn](https://twitter.com/quinnypig) will do this with your cloud bills.
+> - In my [consulting practice around LLMs](https://parlance-labs.com/), I often provide vendors with their first customers, broker deals between open source maintainers and commercial platforms, introduce highly qualified candidates that get hired, and other strategic activities that involve working with many different organizations simultaneously.  These activities are in addition to specialized engineering work I do around LLMs.  I believe that the the engineering work alone, while valuable, would NOT justify me as a consultant in the long term.
+
+[^1]: I know, because I once worked at places like this.
+
 !!! note "Confidence is the memory of success"
 
     Most of my training did not come from obtaining a PhD. Instead, it primarily stems from my 2 years worth of experience at 7 internships, from time spent in academia like NYU Epidemiology and Public Health all the way up to Facebook, and from companies that worked on marketing and sales and machine learning. All of this built up to my 5-year tenure at Stitch Fix.
