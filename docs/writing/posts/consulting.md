@@ -14,7 +14,7 @@ authors:
 
     Much of this writing is actually a collected batch of voice memos transcribed into an essay. There will likely contain errors, as there are pieces and fragments of some of the thoughts I have on the topic. I welcome all most all edits and comments.
 
-I specify indie consulting as something that is completely and wholly separate from the big-time consulting we hear about from those ridiculous institutions. Check out this video roasting [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) From John Oliver to understand how I feel about many of these folks. Theres another great [video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that i saw on tiktok.
+I specify indie consulting as something that is completely and wholly separate from the big-time consulting we hear about from those ridiculous institutions. Check out this video roasting [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) From John Oliver to understand how I feel about many of these folks. Theres another great [video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that I saw on tiktok.
 
 <!-- more -->
 
@@ -51,7 +51,7 @@ My friend and fellow indie consultant [Hamel Husain](https://twitter.com/HamelHu
 
 The TL;DR is that in 2021 I had a pretty serious career threatening hand injury. I effectively got tendonitis in both my hands and can't code it as much. And so I took a year and a half off to unwind and I'm slowly ramping up again. Consulting for me offers a much more flexible lifestyle where I can wind up and wind down the hours depending on how I feel. Without worrying that I'm going to go back to working 80 hours a week and messing up my hands again.
 
-## Break down
+## How is this structured?
 
 1. I'm going to first try to define what value is, and use that as a framework to justify everything that we do afterwards.
 2. I'll give an example of what I did 10 years ago
@@ -89,41 +89,41 @@ I didn't have much to offer except the knowledge I had built up, later I realise
 
 !!! note "Value of time saved"
 
-    Imagine my buddy had a researcher that he paid $120,000 a year for, and I was also making $120,000 a year. If that call was 30 minutes, it cost me $30 of 'my time'. But if the answer to his question took his researcher one week to get to, that's $2,300 of his capital he was deploying. So if I could save him $2,300 by spending 30 minutes of my time, that's a pretty good deal for them! I only charged a 1% commission!
+    Imagine my friend had a researcher whom he paid $120,000 per year, and I also earned the same amount. If the call lasted for 30 minutes, it would cost me $30 of my time. However, if the researcher took a week to provide an answer, it would cost my friend $2,300 of his capital. So, if I could save him $2,300 by spending just 30 minutes, it would be a great deal for him. I only charged a 1% commission!
 
-    Given that most realtors charge 6%, with that rate, I could have charged $240 an hour for that 30 minute call.
+    Considering that most realtors charge a 6% commission, I could have charged $240 per hour for that 30-minute call.
 
-    The lesson here isn't necessarily how much you should charge, but just understanding that when you talk to those who are allocating capital, the exchange rates work differently.
+    The lesson here is not about the specific amount to charge, but rather about understanding that when dealing with people who allocate capital, the exchange rates work differently.
 
 ## Who are you selling to?
 
-I was very lucky that most of the people I worked with were directly the CEO and the CTO. Thank you. Over the past 10 years, the majority of folks have always been a founder who reached out to me first through my network.
+I was fortunate to work directly with the CEO and CTO for most of the people I collaborated with. In the past decade, the majority of individuals who approached me initially were founders from my network.
 
-Of the large times I failed to make a sale, it had always been the case that I did not understand who the true buyer was. Sometimes it would be a PM or a data scientist reaching out for my help. I would get into long calls and provide value in the form of advice, tactics, or other content that I had created before. Only to send out a proposal, which I'll talk about later, and be told "I'll present this to my boss and get back to you.". I would never hear back, the deal would fall through, and I would be left wondering what happened.
+In cases where I failed to make a sale, it was typically because I didn't understand who the actual buyer was. Sometimes it would be a PM or a data scientist seeking my assistance. I would engage in lengthy calls and provide valuable advice, tactics, or pre-existing content. However, after submitting a proposal (which I'll discuss later), I would hear the response, "I'll present this to my boss and get back to you." Unfortunately, I wouldn't receive any further communication, the deal would fall through, and I would be left wondering what went wrong.
 
-## Give Everything Away for Free
+## Offering Everything for Free
 
-This section could effectively also be titled... Social Media. Obviously, as we get more followers, there's an aspect of social proof that is undeniable. Once you have a larger audience, you have more eyes. And if you have eyes, you can monetize and convert them into customers.
+This section can also be titled "Social Media." As our follower count grows, social proof becomes undeniable. A larger audience provides more opportunities to monetize and convert them into customers.
 
-Here's the general structure of making content:
+The general structure for content creation is as follows:
 
-1. Hook: What is the problem that you're trying to solve?
-2. Retain: What is the story that you're going to tell to solve this problem?
-3. Reward: What is the reward for reading this content?
+1. Hook: Identify the problem you're addressing.
+2. Retain: Tell a problem-solving story.
+3. Reward: Offer a benefit for reading the content.
 
-The hook should be something that foreshadows the reward, and the reward should again address one of those four things in the value equation. All you have to do then is to produce content that is aligned with those four things.
+The hook should foreshadow the reward, which should align with one of the four elements in the value equation. By creating content that aligns with these elements, you can effectively engage your audience.
 
 ### Checklist
 
-When creating content, ask yourself these things:
+When creating content, consider the following:
 
-- Does my hook foreshadow one of the four things in the value equation?
-- Does my story improve the likelihood of success in delivering the 'value'?
-- Does my reward actually address something that is valuable to the reader?
+- Does my hook foreshadow one of the four elements in the value equation?
+- Does my story increase the likelihood of delivering value?
+- Does my reward address something valuable to the reader?
 
-By consistently producing content that helps them accomplish their dream outcome, improves the likelihood of their success, decreases the time it takes, and decreases the perceived effort it takes, they will have already gotten value. If you can consistently deliver on those four key things in your content, then the beginning conversations become much easier because they've already gotten that value. You have become less of a commodity where you trade money for time and more like a brand or a luxury good because the perception they have of you has already increased based on the value you've already generated.
+Consistently producing content that helps readers achieve their desired outcome, increases their chances of success, reduces time and effort, provides value. By consistently delivering on these four key aspects in your content, initial conversations become easier because readers have already gained value. You become less of a commodity and more like a brand or a luxury good, as their perception of you increases based on the value you've already provided.
 
-One of my most popular blog posts, [RAG is more than embeddings](./rag.md), has been something that over a dozen companies have reached out to me about.
+One of my most popular blog posts, [RAG is more than embeddings](./rag.md), has attracted interest from over a dozen companies.
 
 ### Hungry People
 
@@ -131,7 +131,7 @@ Hormozi also has a really great comment on how important it is to sell to hungry
 
 > If you want to make the most money selling hot dogs, what should you focus on? Is it a better bun? Or a better grill? Or a better sausage? No. To make the most money selling hot dogs, you should just position your stand in front of the stadium right after the baseball game.
 
-One of the things I do now is also just really ask myself how hungry this client is. Are they a new seed company that just raised money (full, a bit bloated)? Or are they needing to find someone to make a prototype that they need in order to raise the seed money to begin with? You can imagine that if the dream outcome was to raise money, the value is different. There's definitely a skill in identifying how hungry the customer is. Since you're in the world of consulting, revenue is always a great way of measuring things. If they're losing a bunch of money or have a payday in the distant future, again, we can use the value equation to figure out exactly how to get there.
+One of the things I do now is also just really ask myself how hungry this client is. Are they a new seed company that just raised money (full, a bit bloated)? Or do they need to find someone to make a prototype that they need in order to raise the seed money to begin with? You can imagine that if the dream outcome was to raise money, the value is different. There's definitely a skill in identifying how hungry the customer is. Since you're in the world of consulting, revenue is always a great way of measuring things. If they're losing a bunch of money or have a payday in the distant future, again, we can use the value equation to figure out exactly how to get there.
 
 If you are trading your time to build them a prototype, you're likely just charging an hourly rate. But if you can confidently look them in the eye and say, "What we build together today will close a $5 million seed round in the next three months, and I can help you get there," it's a completely different story.
 
@@ -141,11 +141,11 @@ The job of the first call is to identify which variables we can capture value on
 
 I also try to make a good attempt at guessing exactly what their outcomes are and guessing the problems they run into to highlight my expertise. For example, one of the best things you can do is guess one of their problems and then tell them the solution right away. Usually, if the response is something like, "Oh yeah, we've been thinking about this for a couple of months now and we arrived at the same conclusion," then what you've been able to do effectively is to show that you understand the dream outcome and could have reduced the time to success.
 
-## The situational assessment
+## The Situational Assessment
 
-Single-handedly the biggest piece of my own practice. The situational assessment is an opportunity for me to effectively highlight and showcase everything I know about the business. Demonstrate that I understand what the dream outcome is (reduce churn, improve performance, etc), and offer up methodology to get it done. One of these things can take two or three hours, but I find it extremely valuable for myself and as a tool for sales.
+Undoubtedly the most significant aspect of my own practice, the situational assessment provides me with a valuable opportunity to effectively highlight and showcase my knowledge about the business. It allows me to demonstrate my understanding of the desired outcomes, such as reducing churn or improving performance, and present a methodology to achieve them. Although it may take two or three hours, I find it extremely valuable for both personal growth and as a sales tool.
 
-I'll give an example if what I wrote [here](../../assessment.md). This is taken from Alan Weiss, and I've been able to implemented this with great success, heres some of his [examples](https://www.alanweiss.com/wp-content/uploads/Sample%20Proposals.pdf).
+I'll provide an example of what I wrote [here](../../assessment.md). This example is inspired by Alan Weiss, and I have successfully implemented it. You can find some of his [examples](https://www.alanweiss.com/wp-content/uploads/Sample%20Proposals.pdf) here.
 
 ### Structure of the Proposal
 
@@ -154,19 +154,19 @@ I'll give an example if what I wrote [here](../../assessment.md). This is taken 
 - Values: Frame it in terms of the value equation.
 - Metrics: How do we measure success?
 - Timing
-- Terms and conditions
+- Terms and Conditions
 
-Some callouts:
+Some key points to consider:
 
-- Metrics: If it's a struggle to measure success, it'll be hard to identify value and charge for it. You're likely looking at milestones and implementation, which results in trading time for money, rather than execution for results.
+- Metrics: If measuring success becomes challenging, it will be difficult to identify value and charge for it. In such cases, focusing on milestones and implementation may result in trading time for money, rather than delivering results.
 
-- Situation: This is actually just hard, and you need to listen well and develop a skill in appraising the client's situation.
+- Situation: This aspect can be quite challenging, requiring active listening and the ability to assess the client's situation effectively.
 
-## Some stuff I've learned so far
+## Some Stuff I've Learned So Far
 
-### Time for money vs capital allocator
+### Time for Money vs Capital Allocator
 
-The more high-level the client, the more I realized that they think in terms of capital allocation. They are not trading time for money; they are trading capital for time. And so, the exchange rate is different. Just like minimizing the time to success is important. If you can really capture the value of what you do, you'll likely always be charging too little. If you believe that you can actually drive a business outcome, for example, increase $100K ARR in 3 months, then you should be charging a percentage of that. It could be a deal if we see it as simply spending money to make money. Realy companies are throwing around so much capital in hopes of improving talent, their revenue, their product, their valuation.
+The more high-level the client, the more I realized that they think in terms of capital allocation. They are not trading time for money; they are trading capital for time. And so, the exchange rate is different. Just like minimizing the time to success is important. If you can really capture the value of what you do, you'll likely always be charging too little. If you believe that you can actually drive a business outcome, for example, increase $100K ARR in 3 months, then you should be charging a percentage of that. It could be a deal if we see it as simply spending money to make money. Really, companies are throwing around so much capital in hopes of improving talent, their revenue, their product, and their valuation.
 
 ### Niche Down
 
@@ -188,7 +188,7 @@ These days, there are a few ways to scale your business. While I'm choosing not 
 
 3. Services: Since my goal is to only work about 25 to 30 hours a week, it doesn't make any sense to come around here and take on more responsibility.
 
-### Thought leadership
+### Thought Leadership
 
 Hate to say it, but it works. You just gotta provide substance. Long-form articles will get fewer views than your 300k-view dumb tweets. However, the biggest revelation for me was how often I would share my blog posts after first calls as a "look, I've thought about this problem before." Also, these blog posts are frequently recirculated in the Slack channels of the companies I work with. It's a great way to build trust and demonstrate expertise.
 
@@ -208,11 +208,11 @@ If they get the value, I don't think most people care where it comes from. But y
 
 ## Conclusion
 
-Alot of this post is really about understanding and define what value is, and pricing against that. The situational assessment is something that communicates your understanding what is valueable, and presenting a plan to capture that. All of your content creation and marketing should be focused on delivering value in one of the 4 ways:
+A lot of this post is really about understanding and defining what value is, and pricing against that. The situational assessment is something that communicates your understanding of what is valuable and presents a plan to capture that. All of your content creation and marketing should be focused on delivering value in one of the four ways:
 
 1. Dream outcome
 2. Perceived likelihood of success
 3. Perceived time to success
 4. Perceived difficulty of success
 
-If your content addresses one, great, if it addresses two, even better. If it addresses all four, you're golden. If you can demonstrate that you can deliver on those four things... You're winning.
+If your content addresses one, great; if it addresses two, even better. If it addresses all four, you're golden. If you can demonstrate that you can deliver on those four things... you're winning.
