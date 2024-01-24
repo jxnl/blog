@@ -103,7 +103,11 @@ If you don't believe in yourself, believe in me that believes in you.
 
 ### Admit that you just don't know
 
-I dont know the answer right now, I'll get back to you, I'm willing to figure this out.
+(todo) I dont know the answer right now, I'll get back to you, I'm willing to figure this out.
+
+### Self Advocate
+
+(todo) You gotta self advocate!
 
 ### Talk the Talk
 
@@ -214,7 +218,7 @@ You are simply the person who created the work. You are a vessel, a medium for t
 
 The sooner you realize this, the easier it will be to share the work you have produced, receive feedback, develop your skills, and reflect on your taste.
 
-!!! note "Feedback"
+!!! note "(todo) Feedback"
 
     - being called on the crit and point
     - evaluate if its applicable
@@ -226,7 +230,7 @@ The sooner you realize this, the easier it will be to share the work you have pr
 
 I think in the same way when making plans or building systems, the same insecurity of being intelligent leads to overthinking and overcomplicating a system, in the hope that the same complexity will be a proxy for intelligence. I think this is a mistake. The best systems are the simplest ones. Feynman's approach to physics is a great example of this. Famously, Einstein said that if you can't explain something simply, you don't understand it well enough. I think this is true for many things.
 
-!!! note "Feedback"
+!!! note "(todo) Feedback"
 
     - Complexity makes it hard to onboard people.
     - Teaching and training is a huge cost, experience with techonology
