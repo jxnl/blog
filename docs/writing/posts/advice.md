@@ -93,6 +93,22 @@ If you don't believe in yourself, believe in me that believes in you.
 
 ![](https://i.pinimg.com/originals/44/b5/fa/44b5fa64e1e0cdeaa61829443da6df41.gif)
 
+### Get a Mentor
+
+- Less about hard skills
+- how to react in life
+- how to behave and optimize and the rational around behavior
+- "lets jump on a call"
+- its not the work that you do, its the relationships, stuff you dont learn in school.
+
+### Admit that you just don't know
+
+I dont know the answer right now, I'll get back to you, I'm willing to figure this out.
+
+### Talk the Talk
+
+Learn the dialect
+
 ## How to Be Good at Many Things
 
 I think too many people reading this are mostly pursuing intellectual activities, but I'm mostly gonna focus on using analogies of personal physical fitness to describe how I think about this kind of stuff.
@@ -198,9 +214,25 @@ You are simply the person who created the work. You are a vessel, a medium for t
 
 The sooner you realize this, the easier it will be to share the work you have produced, receive feedback, develop your skills, and reflect on your taste.
 
+!!! note "Feedback"
+
+    - being called on the crit and point
+    - evaluate if its applicable
+    - this is contributing to your growth
+    - its up to you to take a step bacbk and reflect
+    - do you want to be better
+
 ## Get Rid of Complexity
 
 I think in the same way when making plans or building systems, the same insecurity of being intelligent leads to overthinking and overcomplicating a system, in the hope that the same complexity will be a proxy for intelligence. I think this is a mistake. The best systems are the simplest ones. Feynman's approach to physics is a great example of this. Famously, Einstein said that if you can't explain something simply, you don't understand it well enough. I think this is true for many things.
+
+!!! note "Feedback"
+
+    - Complexity makes it hard to onboard people.
+    - Teaching and training is a huge cost, experience with techonology
+    - enought information to feel confident, **but don't baby them**
+    - Professors: 30% is smart enough to figure it out, 70% is being able to sell.
+    - Managing complexity is a skill, but it is not the only skill.
 
 ## A Great Person is not Always a Good Person
 
