@@ -52,7 +52,7 @@ Very few people get a job on merit alone. You have to be a big fish in a big pon
 
 When I hire someone, I simply want to know that they are capable of taking charge of their own life. It's quite common for people to DM me saying, "Hey man, how can I help you?" However, I often find that they haven't put any effort into thinking about it. I usually ignore such messages unless I truly believe they can provide assistance.
 
-??? note "Links that are everywhere on my digital footprint
+!!! note "Links that are everywhere on my digital footprint"
 
     - [Contributing to jxnl/instructor](https://jxnl.github.io/instructor/contributing/)
     - [Contributing to jxnl/instructor-js](https://instructor-ai.github.io/instructor-js/contributing/)
