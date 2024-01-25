@@ -12,7 +12,7 @@ authors:
 
 !!! danger "Fragments"
 
-    Much of this writing is actually a collected batch of voice memos [transcribed](https://betterdictation.com) into an essay. There will likely contain errors, as there are pieces and fragments of some of the thoughts I have on the topic. I welcome all most all edits and comments.
+    If you think this writing style is strange, this is because much of this writing is actually a collected batch of voice memos [transcribed](https://betterdictation.com) into an essay using betterdictation.com's distilled whisper model. There will likely contain errors, as there are pieces and fragments of some of the thoughts I have on the topic. I welcome all most all edits and comments.
 
 I specify indie consulting as something that is completely and wholly separate from the big-time consulting we hear about from those ridiculous institutions. Check out this video roasting [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) From John Oliver to understand how I feel about many of these folks. Theres another great [video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that I saw on tiktok.
 
@@ -219,4 +219,4 @@ If your content addresses one, great; if it addresses two, even better. If it ad
 
 ---
 
-If you want to try to write more with transcript check out [betterdictation.com](https://betterdictation.com). I'm not affiliated with them, but I've been using them for a while and it's been pretty good.
+If you like the like content give me a follow on [twitter](https://twitter.com/jxnlco) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
