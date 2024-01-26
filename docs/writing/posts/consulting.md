@@ -72,6 +72,16 @@ This is actually completely stolen from Alex Hormozi:
 
 All of this breaks down into how much someone is willing to pay as a function of how much value you bring to the company. Everything you do must contribute to increasing or decreasing some of these variables. If you can figure out how every single action you take as a consultant can contribute to one of these four outcomes, you'll be able to give value.
 
+**Here's an example of a workout program.**
+
+- Level 1 Workout
+- Level 2: Achieve Your Dream Body
+- Level 3: Achieve Your Dream Body in 6 Weeks
+- Level 4: Achieve Your Dream Body in 6 Weeks Without Changing Your Diet
+- Level 5: Achieve Your Dream Body in 6 Weeks Without Changing Your Diet. Here are the before and after pictures of my previous clients.
+
+You can see that as you specifically address each of the variables in the value equation, what you present is different. This is also how I think about writing tweets now. The hooks should speak to one person, talk about their dream, and give reasons why it would be more likely to succeed, take less time, and require less sacrifice. If I want to include a list, each of the items in that list should address one or two of these variables.
+
 !!! note "Stop offering to work for free"
 
     I know a lot of people in my DMs offering to work for me for free. But what they realize is that working for free is not good enough because they actually provide no value.
