@@ -24,6 +24,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 
 ## Talks and Podcasts
 
-- [Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
-- [Dagshub Podcast](https://www.youtube.com/watch?v=rDP44EVpHTA)
-- [Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
+- [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
+- [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
+- [Podcast: Dagshub](https://www.youtube.com/watch?v=rDP44EVpHTA)
+- [Podcast: Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
