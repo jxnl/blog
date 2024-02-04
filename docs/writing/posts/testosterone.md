@@ -18,6 +18,8 @@ I'm not a doctor, but I did manage to double my testosterone levels in a year. I
 3. I was such a psycho about it that I decided to go off the protocol.
 4. Despite that, I still think every man should get their levels tested and see if they can improve them. And just understand how they feel.
 
+<!-- more -->
+
 ## The lead up
 
 In 2021, I would wake up at 10 AM, check my phone for an hour and a half scrolling TikTok and Instagram before getting out of bed, grabbing a coffee and starting my day. I think at that time I was probably a little depressed over trained from jujitsu four times a week but I was working out I was eating right but I didn't feel great.
@@ -31,7 +33,9 @@ Then around that time I started listening to the Andrew Huberman podcast. I lear
 
 I can't claim any independent treatments since I won on everything at the same time. I also completely want carnivore. And I would fast most of my day, do jujitsu for two hours and come home to a sous vide steak seared in down in the cast iron skillet.
 
-<!-- more -->
+!!! warning "This is not a protocol"
+
+    I'm not a doctor, and I'm not suggesting that anyone do this. I'm just saying that I did it and I'm going to talk about what happened. Mostly as a funny story rather some optimal protocol.
 
 ## The story of male testosterone.
 
