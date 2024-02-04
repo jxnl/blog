@@ -1,0 +1,12 @@
+# Reference: https://docs.ellipsis.dev
+version: 1.1
+pr_review:
+  auto_review_enabled: true
+  auto_summarize_pr: true
+  confidence_threshold: 0.85
+  rules:
+    # Control what gets flagged during PR review with custom rules. Here are some to get you started:
+    - "Spelling mistakes. This is speech-to-text, so there might be a lot of errors."
+    - "Add a new blog post, make sure it's added in the two index.md `docs/index.md` and `blog/index.md`"
+    - "Make sure The dates and tags are relevant."
+    - "Highlight opportunities to add hyperlinks for SEO purposes."
