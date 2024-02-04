@@ -6,7 +6,8 @@ pr_review:
   confidence_threshold: 0.85
   rules:
     # Control what gets flagged during PR review with custom rules. Here are some to get you started:
-    - "Spelling mistakes. This is speech-to-text, so there might be a lot of errors."
+    - "Fix spelling mistakes. This is written speech-to-text, so there might be a lot of errors."
     - "Add a new blog post, make sure it's added in the two index.md `docs/index.md` and `blog/index.md`"
     - "Make sure The dates and tags are relevant."
+    - "Make great suggestions for titles for SEO"
     - "Highlight opportunities to add hyperlinks for SEO purposes."
