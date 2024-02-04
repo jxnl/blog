@@ -10,7 +10,8 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 
 - [Advice for young people](./writing/posts/advice.md)
 - [What I learned from trying](./writing/posts/learning.md)
-- [Consulting](./writing/posts/consulting.md)
+- [Indie Consulting](./writing/posts/consulting.md)
+- [Couches](./writing/posts/couch.md)
 - [Centuar Chess](./writing/posts/centaur-chess.md)
 - [Freediving Under Ice](./writing/posts/freediving.md)
 

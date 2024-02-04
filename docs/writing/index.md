@@ -10,7 +10,8 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 
 - [Advice for young people](./posts/advice.md)
 - [What I learned from trying](./posts/learning.md)
-- [Consulting](./posts/consulting.md)
+- [Indie Consulting](./posts/consulting.md)
+- [Couches](./posts/couch.md)
 - [Centuar Chess](./posts/centaur-chess.md)
 - [Freediving](./posts/freediving.md)
 
