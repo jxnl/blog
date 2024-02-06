@@ -15,10 +15,11 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 - [Centuar Chess](./posts/centaur-chess.md)
 - [Freediving](./posts/freediving.md)
 
-## Systems
+## AI Engineering
 
 - [5 Questions to ask yourself as sa AI Engineer](./posts/stochastic-software.md)
 - [How to build a terrible RAG system](./posts/rag-inverted.md)
+- [Stop using LGTM@Few, How to improve RAG](./posts/lgtmk.md)
 - [Rag is more than embeddings](./posts/rag.md)
 - [Flight, a framework for building and executing pipelines](./posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./posts/llmops.md)
