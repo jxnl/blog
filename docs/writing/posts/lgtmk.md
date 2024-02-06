@@ -224,7 +224,8 @@ The sooner you can relate some of these short-term fast metrics with larger slow
 I hope this post has provided you with better intuition on how to think about relevancy of your text chunk.
 
 1. Analyze data manually when facing a new problem, without relying on metrics initially.
-2. Velocity, clock speed of your iteration, is paramount. Make sure you can measure and iterate quickly.
-3. Define metrics, conduct tests, investigate areas of poor performance, and then reevaluate the system.
-4. Explore simple metrics for relevance and ranking, such as MAR, MAP, MRR, and NDCG.
-5. Remember that these metrics should ultimately align with desired business outcomes.
+2. Distinguish between primary metrics (that must improve) and guardrail metrics (that must not regress).
+3. Velocity, clock speed of your iteration, is paramount. Make sure you can measure and iterate quickly.
+4. Define metrics, conduct tests, investigate areas of poor performance, and then reevaluate the system.
+5. Explore simple metrics for relevance and ranking, such as MAR, MAP, MRR, and NDCG.
+6. Remember that these metrics should ultimately align with desired business outcomes.
