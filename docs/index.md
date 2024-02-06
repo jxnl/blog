@@ -15,10 +15,11 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 - [Centuar Chess](./writing/posts/centaur-chess.md)
 - [Freediving Under Ice](./writing/posts/freediving.md)
 
-## Systems
+## AI Engineering
 
 - [5 Questions to ask yourself as sa AI Engineer](./writing/posts/stochastic-software.md)
 - [How to build a terrible RAG system](./writing/posts/rag-inverted.md)
+- [Stop using LGTM@Few, How to improve RAG](./writing/posts/lgtmk.md)
 - [Rag is more than embeddings](./writing/posts/rag.md)
 - [Flight, a framework for building and executing pipelines](./writing/posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./writing/posts/llmops.md)
