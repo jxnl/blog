@@ -90,7 +90,7 @@ graph LR
     E --> Z[User]
 ```
 
-Now let's look at some interpretations of top-k.
+Now let's look at some interpretations of top-k results.
 
 | k   | Interpretation                      |
 | --- | ----------------------------------- |
@@ -99,11 +99,11 @@ Now let's look at some interpretations of top-k.
 | 50  | Is the retrieval system doing well? |
 | 100 | Did we have a shot at all?          |
 
-Here we're not going to worry about the details of generation with language models. Let's primarily focus on whether we could have answered the question by determining whether or not things were relevant to begin with. I'm going to give just a qualitative definition and then some anecdotes to help you understand and think about some of these metrics.
+I strongly recommend you not focus too hard on generation from an LLM, And to stay focused on being able to provide the right context. You will be able to get a language model to be more robust and as language models improve, they will only get more resilient to irrelevant information. However, as you build out your business, this data set that you curate on relevancy will stay with you.
 
-## Thinking about the metrics
+## Thinking about the metrics @ K
 
-My goal isn't to necessarily define all these equations and tell you how to implement them. Instead I wanted to show a simple explanation and a couple of anecdotes I used to explain these.
+Now let's look at some metrics that we can use to evaluate the performance of our retrieval augmented generation system. The goal isn't to give a mathematical breakdown of these metrics, but instead give you a sense of what they mean and how they might be useful. And how I like to explain and interpret them at the limits.
 
 ### Mean Average Recall (MAR) @ K
 
@@ -117,11 +117,9 @@ $$
 
 !!! tip "Intuition: Can we catch the right answer?"
 
-    Recall is just figuring out whether or not the net that we cast can actually catch everything.
+    Imagine throwing a net and goal is to catch fish, and the only thing we care about is if we catch all the fish. If we accidentally catch a dolphin or a sea turtle, thats fine!
 
-    Imagine throwing a net. Your goal is to catch fish, and the only thing we care about is if we catch all the fish. If we accidentally catch a dolphin or a sea turtle, we simply do not care.
-
-    In a medical context, if I said that every single person on the planet had cancer, I would have very high recall. If the actual application of this prediction was to then send them to the hospital, we would not have enough capacity to actually treat every single person. This is why we often have to make trade-offs between how many things we catch and how precise we are in our predictions.
+    Consider a medical test that said every single person on the planet had cancer, I would have very high recall, because I would have found everyone, but it wouldnt be useful. This is why we often have to make trade-offs between how many things we catch and how precise we are in our predictions.
 
 ### Mean Average Precision (MAP) @ K
 
@@ -135,22 +133,22 @@ $$
 
 !!! tip "Intuition: Are we choosing too carefully?"
 
-    "In the previous example, when considering the prediction of whether someone has cancer, if we were to assume that everyone on Earth has cancer, we would achieve a remarkably high recall. However, what does it mean to have 'really good precision'? What if the person I was treating was bleeding from their eyeballs and shitting themselves? If I were to solely treat that person as a doctor, many individuals with potentially less severe symptoms would remain untreated.
+    If you want to go to the extremes of precision. We might want to consider a test that determines if someone is sick. If you want to be very precise, we should only identify those who are bleeding out of their eyeballs... but that's not very useful. There's gonna be a lot more people we miss as a result of our desire to be very precise.
 
     Again, we see that in the case of precision and recall, we are often led to trade-offs.
 
-In the context of a language model, recall describes whether or not we had a chance of getting the right answer. And precision is usually constrained by the context length, but also whether or not the irrelevant text chunks might mislead the LLM and give an incorrect answer.
+Here's a quick table of how I like to interpret my precision and recall trade-offs.
 
-| Recall | Precision | Interpretation                                |
-| ------ | --------- | --------------------------------------------- |
-| High   | Low       | We have a shot if the LLM is robust to noise  |
-| Low    | High      | We might give an incomplete answer            |
-| High   | High      | We have a shot and we're choosing carefully   |
-| Low    | Low       | We're not doing well at all, nuke the system! |
+| Recall | Precision | Interpretation                                                          |
+| ------ | --------- | ----------------------------------------------------------------------- |
+| High   | Low       | We have a shot if the LLM is robust to noise, night run out of content. |
+| Low    | High      | We might give an incomplete answer, did not get all the content         |
+| High   | High      | If we do poorly here, it's because our generation prompt is...bad.      |
+| Low    | Low       | We're not doing well at all, nuke the system!                           |
 
 ### Mean Reciprocal Rank (MRR) @ K
 
-Highlights the importance of quickly surfacing at least one relevant document, with an emphasis on the efficiency of relevance delivery, which matters a lot when there are only a few items we can show to the user at any given time.
+Highlights the importance of quickly surfacing at least one relevant document, with an emphasis on the efficiency of relevance delivery. Matters a lot when there are only a few items we can show to the user at any given time.
 
 **Formula**
 
@@ -182,34 +180,30 @@ $$
 
         It's my belief that MRR and how it pushes certain rankings to the top is likely responsible for various kinds of echo chambers that might result in recommendation systems. For example, if you're watching a conspiracy theory video, the next thing you'll probably watch is going to be a conspiracy theory video.
 
-        There's no way, for example, that TikTok can show such diverse results by using something like MRR.
-
 ## How to improve
 
-Now the only thing you have to do is follow these steps:
+Once you have a system in place and some metrics you want to improve, again, the steps are very simple.
 
 1. Choose a metric that aligns with your goals.
 2. Formulate a hypothesis and adjust the system.
 3. Evaluate the impact on your chosen metric.
-4. Iterate based on findings.
-
-Here are some caveats that you need to make sure of.
+4. Look at poorly performing examples, and iterate.
+5. Go back to step 2.
 
 !!! warning "Beware of [Simpson's Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)"
 
-    > "A paradox in which a trend that appears in different groups of data disappears when these groups are combined, and the reverse trend appears for the aggregate data."
+    > A paradox in which a trend that appears in different groups of data disappears when these groups are combined, and the reverse trend appears for the aggregate data.
 
-    This is just to say that if you can split your metric across different categories, it's really helpful to understand under what conditions we perform better and worse. This is very relevant and informed by my post on [Rag is more than embeddings](./rag.md).
+    It's very likely that you might improve the system for one type of query and make it worse for another.
+    To avoid doing this on some level, we can do the following:
 
     1. Cluster the data (e.g., by query type, data source, etc.).
     2. Determine if the metric is consistent across different clusters.
     3. If it is, consider building a router to conditionally select one implementation over another.
 
-This is effectively for science. Going back between looking at data and defining metrics. It's a cycle that you should be doing to improve your system.
+## Metrics lead to Business Outcomes
 
-## Slow Metrics
-
-All of these metrics must ultimately be in service of something else. By improving things like precision, recall, and relevancy, what we're really hoping to do is generate better results for the user. The question then you have to ask yourself is, "What does that actually improve?". Here are a couple of things that you might want to consider.
+All of these metrics must ultimately be in service of something else. By improving things like precision, recall, and relevancy, what we're really hoping to do is generate better results for the business. The question then you have to ask yourself is, "What does that actually improve?". Here are a couple of things that you might want to consider.
 
 1. **User Satisfaction**: Are users happy with the answers they're getting? Could be defined by Thumb Up/Down or NPS.
 2. **Engagement**: Are users coming back to the platform? Are they spending more time on the platform?
@@ -219,13 +213,14 @@ All of these metrics must ultimately be in service of something else. By improvi
 6. **Cost**: Are we spending less money on infrastructure?
 7. **Efficiency**: Are we able to answer more questions with the same amount of resources?
 
-## Wrapping up
+The sooner you can relate some of these short-term fast metrics with larger slow metrics, The more you can make sure that you're going down the right path. Rather than trying to optimize something that has no impact down the road.
 
-I hope this post has given you a good understanding of when to look at data and when to stop looking at data. Here's a quick summary of what we've covered.
+## Conclusion
 
-1. Look at the data when the problem is new. Don't rely on any metrics just yet.
-2. Define metrics, run tests, investigate when and where the metrics are poor, and then start looking at the data again.
-3. We talked about the importance of speed and being able to quickly iterate on your system.
-4. We covered some simple metrics for relevancy and ranking: MAR, MAP, MRR, and NDCG.
-5. We talked about how to improve your system by defining metrics, making a hypothesis, changing something about the system, and measuring the metric to see if it improved.
-6. We talked about how these metrics must ultimately be in service of some business outcomes.
+I hope this post has provided you with better intuition on how to think about relevancy of your text chunk.
+
+1. Analyze data manually when facing a new problem, without relying on metrics initially.
+2. Velocity, clock speed of your iteration, is paramount. Make sure you can measure and iterate quickly.
+3. Define metrics, conduct tests, investigate areas of poor performance, and then reevaluate the system.
+4. Explore simple metrics for relevance and ranking, such as MAR, MAP, MRR, and NDCG.
+5. Remember that these metrics should ultimately align with desired business outcomes.
