@@ -52,7 +52,7 @@ graph LR
 
 Well, let's take a closer look at what kind of metrics we can use and how they might improve our system. And I'll give an intuitive understanding of why and how some of these metrics break down. But first I also want to talk about the importance of speed.
 
-## Importance of Speed
+## Importance of Velocity
 
 How quickly you can get metrics and run tests determines the nature of how you iterate on your software. If you're looking at a metric that takes a long time to compute, you're going to be waiting a long time to iterate on your system. So do whatever it takes to make the test that you run and the metrics you build as fast as possible!
 
@@ -72,18 +72,18 @@ In the retrieval context, there are plenty of metrics to choose from. I'm gonna 
 
 The simplest idea we should think about is the idea of @k. When we do RAG, we first have to retrieve a set of K documents. Then we will do some re-ranking potentially. And then select the top end results to show to a user or to a language model. Consider the following pipeline:
 
-1. Fetch n documents via BM25 (Text Retrieval)
-2. Fetch n documents via Vector Search (Semantic Search)
-3. Combine them and re-rank them via Cohere
+1. Fetch n documents via Keyword Search
+2. Fetch n documents via Semantic Search
+3. Combine them and re-rank
 4. Select the top 25 chunks to show to LLM
 5. Top 5 documents are shown to the user.
 
 ```mermaid
 graph LR
-    X[Query] --> A[BM25];
-    X --> B[Vector Search];
-    B --> C[Cohere]
-    A --> C[Cohere]
+    X[Query] --> A[Keyword Search];
+    X --> B[Semantic Search];
+    B --> C[Reranker]
+    A --> C[Reranker]
     C --> D[Top 25]
     C --> E[Top 5]
     D --> Y[LLM]
