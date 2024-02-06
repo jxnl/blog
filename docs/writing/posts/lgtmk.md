@@ -50,15 +50,11 @@ graph LR
     E --> B
 ```
 
-It's really that simple.
-
-Well, let's take a closer look at what kind of metrics we can use and how they might improve our system. And I'll give an intuitive understanding of why and how some of these metrics break down.
-
-For the next few examples, we're going to go over primarily applications in RAG.
+Well, let's take a closer look at what kind of metrics we can use and how they might improve our system. And I'll give an intuitive understanding of why and how some of these metrics break down. But first I also want to talk about the importance of speed.
 
 ## Importance of Speed
 
-The speed of metrics is really important. By this, I mean how long it takes for your metrics to perform. If you're looking at a metric that takes a long time to compute, you're going to be waiting a long time to iterate on your system. Do whatever it takes to make the test that you run and the metrics you build as fast as possible.
+How quickly you can get metrics and run tests determines the nature of how you iterate on your software. If you're looking at a metric that takes a long time to compute, you're going to be waiting a long time to iterate on your system. So do whatever it takes to make the test that you run and the metrics you build as fast as possible!
 
 **Example via RAG**
 
@@ -66,7 +62,7 @@ The speed of metrics is really important. By this, I mean how long it takes for 
 - **Still Slow Metric**: AI-generated metrics. When using something like GPT4, things can become very slow.
 - **Fast Metrics**: Accuracy, Precision, Recall, MRR, NDCG, are computationally cheap given the labels.
 
-The goal of any engineer, fundamentally, is to reason about the trade-offs between fast metrics and slow data, and understanding that we need to iterate and oscillate between looking at the data and looking at metrics to improve our systems.
+The goal is to reason about the trade-offs between fast metrics and slow data. It takes a long time to get enough data so you can move fast. But if you never do that work, we're always gonna be stuck.
 
 ## Simple Metrics for Relevancy and Ranking
 
