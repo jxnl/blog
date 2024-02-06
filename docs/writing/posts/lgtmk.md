@@ -28,7 +28,7 @@ I'll cover the different relevancy and ranking metrics, some stories to help you
 
 ## When to look at data?
 
-Look at data when the problem is very new. Do not rely on any kinds of metrics just yet. Look at the queries people are asking. Look at the documents that people are submitting. Look at the text chunks and see whether or not a single text chunk could possibly answer a question your user might have.
+Look at data when the problem is very new. Do not rely on any kinds of metrics just yet. Look at the queries people are asking. Look at the documents that people are submitting. Look at the text chunks and see whether or not a single text chunk could possibly answer a question your user might have, or if you need multiple text chunks to piece together a complete answer. Look at the results from initial prototypes to understand if the retrieval task is technically feasible.
 
 There's a lot of intuition you can gain from just looking at the data.
 
@@ -61,6 +61,7 @@ How quickly you can get metrics and run tests determines the nature of how you i
 - **Slow Metric**: Collocating human preferences and consulting domain experts.
 - **Still Slow Metric**: AI-generated metrics. When using something like GPT4, things can become very slow.
 - **Fast Metrics**: Accuracy, Precision, Recall, MRR, NDCG, are computationally cheap given the labels.
+
 
 The goal is to reason about the trade-offs between fast metrics and slow data. It takes a long time to get enough data so you can move fast. But if you never do that work, we're always gonna be stuck.
 
@@ -121,6 +122,8 @@ $$
 
     Consider a medical test that said every single person on the planet had cancer, I would have very high recall, because I would have found everyone, but it wouldnt be useful. This is why we often have to make trade-offs between how many things we catch and how precise we are in our predictions.
 
+    In the context of search, recall is the fraction of relevant documents retrieved. Now, this is somewhat theoretical since we typically don't know how many relevant results there are in the index. Also, it's much easier to measure if the retrieved results are relevant, which brings us to ...
+
 ### Mean Average Precision (MAP) @ K
 
 Assesses the accuracy of the top K retrieved documents, ensuring the relevance and precision of retrieved content.
@@ -137,11 +140,12 @@ $$
 
     Again, we see that in the case of precision and recall, we are often led to trade-offs.
 
+
 Here's a quick table of how I like to interpret my precision and recall trade-offs.
 
 | Recall | Precision | Interpretation                                                          |
 | ------ | --------- | ----------------------------------------------------------------------- |
-| High   | Low       | We have a shot if the LLM is robust to noise, night run out of content. |
+| High   | Low       | We have a shot if the LLM is robust to noise, might run out of context length. |
 | Low    | High      | We might give an incomplete answer, did not get all the content         |
 | High   | High      | If we do poorly here, it's because our generation prompt is...bad.      |
 | Low    | Low       | We're not doing well at all, nuke the system!                           |
@@ -184,7 +188,7 @@ $$
 
 Once you have a system in place and some metrics you want to improve, again, the steps are very simple.
 
-1. Choose a metric that aligns with your goals.
+1. Choose a metric that aligns with your goals. Distinguish between primary metrics (that must improve) and guardrail metrics (that must not regress).
 2. Formulate a hypothesis and adjust the system.
 3. Evaluate the impact on your chosen metric.
 4. Look at poorly performing examples, and iterate.
