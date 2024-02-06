@@ -119,6 +119,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.arithmatex:
+      generic: true
 nav:
   - Home: 
     - Introductions: 'index.md'
@@ -182,4 +184,8 @@ extra:
       link: https://twitter.com/jxnlco
     - icon: fontawesome/brands/github
       link: https://github.com/jxnl
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 copyright: Copyright &copy; 2023 Jason Liu
