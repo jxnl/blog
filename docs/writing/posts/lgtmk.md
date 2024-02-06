@@ -107,7 +107,7 @@ Here we're not going to worry about the details of generation with language mode
 
 ## Thinking about the metrics
 
-I'm not going to actually sit here and describe mathematically what these formula definitions are. In fact, to make a point of this, I'm actually not going to include the formulas. It's your job to actually understand how they're defined, and my job to give you an intuitive understanding of when I use a certain metric for RAG.
+My goal isn't to necessarily define all these equations and tell you how to implement them. Instead I wanted to show a simple explanation and a couple of anecdotes I used to explain these.
 
 ### Mean Average Recall (MAR) @ K
 
