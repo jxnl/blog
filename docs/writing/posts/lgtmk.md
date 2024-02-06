@@ -28,7 +28,7 @@ I'll cover the different relevancy and ranking metrics, some stories to help you
 
 ## When to look at data?
 
-Look at data when the problem is very new. Do not rely on any kinds of metrics just yet. Look at the queries people are asking. Look at the documents that people are submitting. Look at the text chunks and see whether or not a single text chunk could possibly answer a question your user might have.
+Look at data when the problem is very new. Do not rely on any kinds of metrics just yet. Look at the queries people are asking. Look at the documents that people are submitting. Look at the text chunks and see whether or not a single text chunk could possibly answer a question your user might have, or if you need multiple text chunks to piece together a complete answer. Look at the results from initial prototypes to understand if the retrieval task is technically feasible.
 
 There's a lot of intuition you can gain from just looking at the data.
 
@@ -64,16 +64,6 @@ The speed of metrics is really important. By this, I mean how long it takes for 
 
 - **Slow Metric**: Collocating human preferences and consulting domain experts.
 - **Still Slow Metric**: AI-generated metrics. When using something like GPT4, things can become very slow.
-- **Fast Metrics**: Accuracy, Precision, Recall, MRR, NDCG, are computationally cheap given the labels.
-
-The goal of any engineer, fundamentally, is to reason about the trade-offs between fast metrics and slow data, and understanding that we need to iterate and oscillate between looking at the data and looking at metrics to improve our systems.## Importance of Speed
-
-The speed of metrics is really important. By this I mean how long it takes for your metrics to perform. If you're looking at a metric that takes a long time to compute, you're going to be waiting a long time to iterate on your system. Do whatever it takes to make the test that you run and the metrics you build as fast as possible.
-
-**Example via RAG**
-
-- **Slow Metric**: Colocating human preferences and asking domain experts.
-- **Still Slow Metric**: AI generated metrics, When using something like GPT4, things can become very slow.
 - **Fast Metrics**: Accuracy, Precision, Recall, MRR, NDCG, are computationally cheap given the labels.
 
 The goal of any engineer, fundamentally, is to reason about the trade-offs between fast metrics and slow data, and understanding that we need to iterate and oscillate between looking at the data and looking at metrics to improve our systems.
@@ -137,6 +127,8 @@ $$
 
     In a medical context, if I said that every single person on the planet had cancer, I would have very very high recall. If the actual application of this prediction was to then send them to the hospital, we would not have enough capacity to actually treat every single person. This is why we often have to make trade-offs between how many things we catch and how precise we are in our predictions.
 
+    In the context of search, recall is the fraction of relevant documents retrieved. Now, this is somewhat theoretical since we typically don't know how many relevant results there are in the index. Also, it's much easier to measure if the retrieved results are relevant, which brings us to ...
+
 ### Mean Average Precision (MAP) @ K
 
 Assesses the accuracy of the top K retrieved documents, ensuring the relevance and precision of retrieved content.
@@ -153,11 +145,13 @@ $$
 
 Again, we see that in the case of precision and recall, we are often led to be trade off.
 
-In the context of a language model, recall describes whether or not we had a chance of getting the right answer. And precision is a function, is usually constrained by the context length, but also whether or not the irrelevant text chunks might be mislead into the LLM and giving an incorrect answer.
+In the context of a language model, recall measures the number/fraction of relevant documents that were retrieved. Again, this depends on how many documents are needed. If you're doing Q&A via Wikipedia, a single document or chunk may be sufficient. On the other hand, if we want to summarize the use of synthetic data in LLMs, we may need to retrieve from multiple papers.
+
+And precision is a function, is usually constrained by the context length, but also whether or not the irrelevant text chunks might be mislead into the LLM and giving an incorrect answer.
 
 | Recall | Precision | Interpretation                                |
 | ------ | --------- | --------------------------------------------- |
-| High   | Low       | We have a shot oif the LLM is robust to noise |
+| High   | Low       | We have a shot if the LLM is robust to noise |
 | Low    | High      | We might give an incomplete answer            |
 | High   | High      | We have a shot and we're choosing carefully   |
 | Low    | Low       | We're not doing well at all, nuke the system! |
@@ -203,7 +197,7 @@ $$
 
 Now the only thing you have to do is to follow.
 
-1. Choose a metric that aligns with your goals.
+1. Choose a metric that aligns with your goals. Distinguish between primary metrics (that must improve) and guardrail metrics (that must not regress).
 2. Formulate a hypothesis and adjust the system.
 3. Evaluate the impact on your chosen metric.
 4. Iterate based on findings.
