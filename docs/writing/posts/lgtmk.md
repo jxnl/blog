@@ -62,7 +62,6 @@ How quickly you can get metrics and run tests determines the nature of how you i
 - **Still Slow Metric**: AI-generated metrics. When using something like GPT4, things can become very slow.
 - **Fast Metrics**: Accuracy, Precision, Recall, MRR, NDCG, are computationally cheap given the labels.
 
-
 The goal is to reason about the trade-offs between fast metrics and slow data. It takes a long time to get enough data so you can move fast. But if you never do that work, we're always gonna be stuck.
 
 ## Simple Metrics for Relevancy and Ranking
@@ -140,15 +139,14 @@ $$
 
     Again, we see that in the case of precision and recall, we are often led to trade-offs.
 
-
 Here's a quick table of how I like to interpret my precision and recall trade-offs.
 
-| Recall | Precision | Interpretation                                                          |
-| ------ | --------- | ----------------------------------------------------------------------- |
+| Recall | Precision | Interpretation                                                                 |
+| ------ | --------- | ------------------------------------------------------------------------------ |
 | High   | Low       | We have a shot if the LLM is robust to noise, might run out of context length. |
-| Low    | High      | We might give an incomplete answer, did not get all the content         |
-| High   | High      | If we do poorly here, it's because our generation prompt is...bad.      |
-| Low    | Low       | We're not doing well at all, nuke the system!                           |
+| Low    | High      | We might give an incomplete answer, did not get all the content                |
+| High   | High      | If we do poorly here, it's because our generation prompt is...bad.             |
+| Low    | Low       | We're not doing well at all, nuke the system!                                  |
 
 ### Mean Reciprocal Rank (MRR) @ K
 
