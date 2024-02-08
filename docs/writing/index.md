@@ -11,6 +11,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 - [Advice for young people](./posts/advice.md)
 - [What I learned from trying](./posts/learning.md)
 - [Indie Consulting](./posts/consulting.md)
+- [How to ask for a referral](./posts/asking.md)
 - [Couches](./posts/couch.md)
 - [Centuar Chess](./posts/centaur-chess.md)
 - [Freediving](./posts/freediving.md)
