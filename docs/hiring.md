@@ -31,6 +31,33 @@ I find that many teams are composed of very strong engineers who only need a cou
 5. Train and coach your the team on the latest techniques and best practices
 6. Hiring and recruiting support
 
+## Two Options
+
+I offer two types of services to assist you with your AI strategy, development, and scaling your engineering team.
+
+### Advisory Work (For Founders and VCs)
+
+For a flat monthly fee of $4000 USD, I will be available to you mostly asynchronously and occasionally synchronously. This is a suitable option if you are a founder or VC seeking a sounding board or a second opinion on your AI strategy.
+
+- I will dedicate time to strategic initiatives such as product direction, outlining technical approaches, and hiring.
+- You can direct message and call me as necessary whenever you have questions about anything. There is no hourly rate, and I trust you to use your best judgment.
+- My focus will be to unblock and provide structured thinking/approaches based on my experiences that will help you. I will also introduce you to potential candidates, other vendors, investors, etc., if it makes sense.
+- We can continue this arrangement as long as you find value in it.
+- After becoming familiar with you and your product, I may propose follow-on projects if I believe it is the best way to assist you.
+
+### Asynchronous Work (For Engineering Teams)
+
+For more synchronous work, the fees will depend on the leverage and impact I can have on your team. This includes leveling up your existing team and helping establish the processes and systems to support them. I have observed that many teams possess a strong engineering culture that only requires a few months of mentorship as they adopt more AI capabilities. They often need external assistance to kickstart and accelerate their AI strategy and development, allowing them to save time on research by leveraging my expertise to fast-track their progress.
+
+I have found that many teams consist of highly skilled engineers who only require a couple of months of support to transition from building software to working with these probabilistic systems.
+
+1. Enhancing query understanding and retrieval systems.
+2. Developing the appropriate metrics and data flywheels to measure and improve your systems.
+3. Being available to answer questions and provide feedback.
+4. Introducing you to researchers and specialists in the field.
+5. Training and coaching your team on the latest techniques and best practices.
+6. Providing hiring and recruiting support.
+
 ## Process
 
 I'm happy to meet you and help you as much as I can to understand if it makes sense for us to work together. I'm happy to help you find the right person if I'm not the right fit.
