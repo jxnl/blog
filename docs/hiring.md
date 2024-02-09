@@ -1,17 +1,35 @@
 # How can I hire you?
 
-If you're are VC or a founder of a fast growing startup and you're looking for a consultant. I could be your guy. Take a look at my [resume](https://jxnl.co) if you'd like. But please take a look at the following before you reach out:
+If you're are VC or a founder of a fast growing startup and you're looking for a consultant. I could be your guy. Take a look at my [resume](https://jxnl.co) if yo
 
-## Choosing Projects
+Recently I've done less direct engineering work in order to scale my time more effectively.
 
-Recently I've done less direct engineering work in order to scale my time more effectively. In the past I've worked with a number of startups and I've found that the best projects have the following characteristics:
+## Two Options
 
-You have a strong engineering team that is looking to build more AI capabilities and need outside help to get started, and accelerate your AI strategy and developement. You want to save time on research by leveraging my expertise to fast track your team months ahead of schedule.
+I offer two types of services to help you with your AI strategy, and development, and to help you scale your engineering team.
 
-1. Improving Query understanding and retrieval
-2. Developping the right metrics and data flywheels
+### Advisory Work (For Founders and VCs)
+
+For a flat monthly fee of $4000 USD I will be available to your mostly asynchronous and occasionally synchronous. This is a good fit if you are a founder or VC looking for a sounding board, or a second opinion on your AI strategy.
+
+- I will spend time with you on strategic initiatives such as product direction, outlining technical approaches, hiring,
+- You can direct message and call me as necessary when you have questions about anything. There is no hourly rate, and I trust you to use your best judgement regarding
+- My focus will be to unblock and provide structured thinking/approaches based on my experiences that will help vou. I will also introduce you to people candidates, other vendors, Investors, etc it it makes sense.
+- We can continue this as long as you are getting value from it.
+- After getting familiar with you and your product, I may propose follow-on projects if I think that is the best way to help you.
+
+### Asynchronous Work (For Engineering Teams)
+
+For more synchronous work, the fees will depend on the leverage and impact I can have on your team. Between leveling up your existing team and helping set up the processes and systems to support them. I find that many teams have a strong engineering culture that just needs a few months of mentorship as they t more AI capabilities and need outside help to get started, and accelerate your AI strategy and developement. You want to save time on research by leveraging my expertise to fast track your team months ahead of schedule.
+
+I find that many teams are composed of very strong engineers who only need a couple months of support to transition from building software to working with these probabilistic systems.
+
+1. Improving Query understanding and retrieval systems
+2. Developing the right metrics and data flywheels to measure and improve your systems
 3. Available to answer questions and provide feedback
 4. Introduce you to researchers and specialists in the field
+5. Train and coach your the team on the latest techniques and best practices
+6. Hiring and recruiting support
 
 ## Process
 
