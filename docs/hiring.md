@@ -1,62 +1,32 @@
 # How can I hire you?
 
-If you're are VC or a founder of a fast growing startup and you're looking for a consultant. I could be your guy. Take a look at my [resume](https://jxnl.co) if yo
-
-Recently I've done less direct engineering work in order to scale my time more effectively.
+Navigating the dynamic landscape of startups and venture capital with an AI focus? I bring a wealth of experience in transforming cutting-edge ideas into practical, scalable solutions. Dive into my background and achievements at my [resume](https://jxnl.co)
 
 ## Two Options
 
-I offer two types of services to help you with your AI strategy, and development, and to help you scale your engineering team.
+I---
 
-### Advisory Work (For Founders and VCs)
+**My Services: Tailored Support for Your AI Ambitions**
 
-For a flat monthly fee of $4000 USD I will be available to your mostly asynchronous and occasionally synchronous. This is a good fit if you are a founder or VC looking for a sounding board, or a second opinion on your AI strategy.
+I specialize in two distinct services designed to cater to the unique needs of startups, venture capitalists, and engineering teams looking to harness the power of AI:
 
-- I will spend time with you on strategic initiatives such as product direction, outlining technical approaches, hiring,
-- You can direct message and call me as necessary when you have questions about anything. There is no hourly rate, and I trust you to use your best judgement regarding
-- My focus will be to unblock and provide structured thinking/approaches based on my experiences that will help vou. I will also introduce you to people candidates, other vendors, Investors, etc it it makes sense.
-- We can continue this as long as you are getting value from it.
-- After getting familiar with you and your product, I may propose follow-on projects if I think that is the best way to help you.
+### 1. Strategic Advisory for Founders and VCs
 
-### Asynchronous Work (For Engineering Teams)
+I provide a comprehensive advisory service for a flat monthly fee of $4,000. This option is perfect for founders and venture capitalists seeking expert guidance on AI strategy, product development, and team scaling. Here’s what you get:
 
-For more synchronous work, the fees will depend on the leverage and impact I can have on your team. Between leveling up your existing team and helping set up the processes and systems to support them. I find that many teams have a strong engineering culture that just needs a few months of mentorship as they t more AI capabilities and need outside help to get started, and accelerate your AI strategy and developement. You want to save time on research by leveraging my expertise to fast track your team months ahead of schedule.
+- **Strategic Insights:** My focus will be to unblock and provide structured thinking/approaches based on my experiences that will help you.
+- **Async Access:** Reach out to me anytime for advice or a second opinion on crucial decisions. I believe in open communication without the constraints of hourly billing.
+- **Network Expansion:** Benefit from my extensive network, including potential candidates, vendors, and investors, to further your business objectives.
+- **Long-Term Partnership:** I’m committed to delivering value and fostering growth. Our collaboration can evolve to include suggestions follow-on projects, tailored to your specific needs as I get to know your business better.
 
-I find that many teams are composed of very strong engineers who only need a couple months of support to transition from building software to working with these probabilistic systems.
+### 2. Hands-On Support for Engineering Teams
 
-1. Improving Query understanding and retrieval systems
-2. Developing the right metrics and data flywheels to measure and improve your systems
-3. Available to answer questions and provide feedback
-4. Introduce you to researchers and specialists in the field
-5. Train and coach your the team on the latest techniques and best practices
-6. Hiring and recruiting support
+This service is designed for teams requiring direct, impactful assistance in integrating AI into their operations. Pricing varies, reflecting the bespoke nature of each project and the level of impact I can deliver. Expect:
 
-## Two Options
-
-I offer two types of services to assist you with your AI strategy, development, and scaling your engineering team.
-
-### Advisory Work (For Founders and VCs)
-
-For a flat monthly fee of $4000 USD, I will be available to you mostly asynchronously and occasionally synchronously. This is a suitable option if you are a founder or VC seeking a sounding board or a second opinion on your AI strategy.
-
-- I will dedicate time to strategic initiatives such as product direction, outlining technical approaches, and hiring.
-- You can direct message and call me as necessary whenever you have questions about anything. There is no hourly rate, and I trust you to use your best judgment.
-- My focus will be to unblock and provide structured thinking/approaches based on my experiences that will help you. I will also introduce you to potential candidates, other vendors, investors, etc., if it makes sense.
-- We can continue this arrangement as long as you find value in it.
-- After becoming familiar with you and your product, I may propose follow-on projects if I believe it is the best way to assist you.
-
-### Asynchronous Work (For Engineering Teams)
-
-For more synchronous work, the fees will depend on the leverage and impact I can have on your team. This includes leveling up your existing team and helping establish the processes and systems to support them. I have observed that many teams possess a strong engineering culture that only requires a few months of mentorship as they adopt more AI capabilities. They often need external assistance to kickstart and accelerate their AI strategy and development, allowing them to save time on research by leveraging my expertise to fast-track their progress.
-
-I have found that many teams consist of highly skilled engineers who only require a couple of months of support to transition from building software to working with these probabilistic systems.
-
-1. Enhancing query understanding and retrieval systems.
-2. Developing the appropriate metrics and data flywheels to measure and improve your systems.
-3. Being available to answer questions and provide feedback.
-4. Introducing you to researchers and specialists in the field.
-5. Training and coaching your team on the latest techniques and best practices.
-6. Providing hiring and recruiting support.
+- **Customized Mentorship:** From improving query systems to establishing effective metrics, I’ll work closely with your team to enhance their AI capabilities.
+- **Expert Guidance:** Leverage my expertise to accelerate your development process, saving valuable research time and resources.
+- **Team Development:** I’ll help level up your team, introducing them to the latest AI techniques and best practices, and even assist in hiring and recruiting top talent.
+- **Managment Consulting:** Offer expert advice, strategy development, and actionable solutions to improve business performance, scale operations, and leverage technology effectively.
 
 ## Process
 
