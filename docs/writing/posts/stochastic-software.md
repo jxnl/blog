@@ -8,7 +8,7 @@ authors:
   - jxnl
 ---
 
-# 5 Questions AI Engineers need to ask themselves
+# Tips for probabilistic software 
 
 This writing stems from my experience advising a few startups, particularly smaller ones with plenty of junior software engineers trying to transition into machine learning and related fields. From this work, I've noticed three topics that I want to address. My aim is that, by the end of this article, these younger developers will be equipped with key questions they can ask themselves to improve their ability to make decisions under uncertainty.
 
