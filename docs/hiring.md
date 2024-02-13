@@ -1,6 +1,6 @@
 # How can I hire you?
 
-I offer a mix of consulting and advisory work for VCs and fast growing startups interesting in applying machine learning and AI, if you want to learn more about my work you can check out my [resume](https://jxnl.co)
+I offer a mix of consulting and advisory work for VCs and fast growing startups interesting in applying machine learning and AI, if you want to learn more about my work you can check out my [resume](https://jxnl.co) or reach out to via [email](mailto:jason+hire@jxnl.co).
 
 Recently I've done less direct engineering work in order to scale my time more effectively. In the past I've worked with a number of startups and I've found that the best projects have the following characteristics:
 
