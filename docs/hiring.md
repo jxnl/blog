@@ -50,7 +50,3 @@ This service is designed for teams requiring direct, impactful assistance in int
 - **Expert Guidance:** Leverage my expertise to accelerate your development process, saving valuable research time and resources.
 - **Team Development:** I’ll help level up your team, introducing them to the latest AI techniques and best practices, and even assist in hiring and recruiting top talent.
 - **Managment Consulting:** Offer expert advice, strategy development, and actionable solutions to improve business performance, scale operations, and leverage technology effectively.
-
-### Writing Clients and Partners
-
-I create technical writing for a number of companies. I'm happy to work with you to create content that is useful for your audience.
