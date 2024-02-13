@@ -56,7 +56,7 @@ The collaboration leads to benefits including:
 
 - Fee for Option 1 is 8000 per month
 - Fee for Option 2 is 16000 per month
-- Fee for Option 3 is 20000 per month
+- Fee for Option 3 is 22000 per month
 
 Fifty percent is due on acceptance, balance is due 30 days after. Afterwards billed at the beginning of every month.
 
