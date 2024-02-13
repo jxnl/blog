@@ -44,9 +44,10 @@ Advisory service for a flat monthly fee of $4,000. This option is perfect for fo
 
 ### 2. Hands-On Support for Engineering Teams
 
-This service is designed for teams requiring direct, impactful assistance in integrating AI into their operations. Pricing varies, reflecting the bespoke nature of each project and the level of impact I can deliver. Expect:
+This is mostly done in the form of a retainer, where I work with your team to help them level up their AI capabilities. This option is perfect for engineering teams looking to accelerate their AI development process, evaluate new technologies, and improve their AI capabilities, and effectively train your engineering to think about AI in a more strategic way.
 
-- **Customized Mentorship:** From improving query systems to establishing effective metrics, I’ll work closely with your team to enhance their AI capabilities.
-- **Expert Guidance:** Leverage my expertise to accelerate your development process, saving valuable research time and resources.
+- **Ad hoc research:** I’ll help your team evaluate new technologies, and provide guidance on how to best leverage them.
+- **Data Flywheel:** I’ll help your team develop a data flywheel, and help them think about how to best leverage it to improve your AI capabilities.
+- **Mentorship:** From improving query systems to establishing effective metrics, I’ll work closely with your team to enhance their AI capabilities.
+- **Guidance:** Leverage my expertise to accelerate your development process, saving valuable research time and resources.
 - **Team Development:** I’ll help level up your team, introducing them to the latest AI techniques and best practices, and even assist in hiring and recruiting top talent.
-- **Managment Consulting:** Offer expert advice, strategy development, and actionable solutions to improve business performance, scale operations, and leverage technology effectively.
