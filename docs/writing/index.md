@@ -18,6 +18,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 
 ## AI Engineering
 
+- [How to ship an MVP for AI applications](./posts/mvp.md)
 - [5 Questions to ask yourself as sa AI Engineer](./posts/stochastic-software.md)
 - [How to build a terrible RAG system](./posts/rag-inverted.md)
 - [Stop using LGTM@Few, How to improve RAG](./posts/lgtmk.md)
