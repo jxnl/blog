@@ -8,21 +8,15 @@ authors:
   - jxnl
 ---
 
-# How to ship an MVP for AI applications
+# Pareto Principle for AI Applications
+
+If you're thinking about launching some new AI application I want to challenge you think about what that looks like for your application. What does 80% mean? What are the segments of your users that you can serve well? Does my application have a niche? Can I double down on the segments that I serve well, set expectations for the segments that I don't, and ship sooner in order to get feedback faster?
 
 What is an MVP?
 
 > A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers who can then provide feedback for future product development.
 
-The analogy I often use is one where I need something to help me get from point A to point B. Maybe the vision is to have a car. But the MVP is not a chassis without wheels or an engine. Instead it might look like a skateboard. Maybe you'll ship and realised You need brakes or the ability to steer. So instead you ship a scooter. Afterwards you find that you need a little more leverage by having larger wheels and stumble upon a bicycle. Afterwards you find yourself limited by the force that you can apply as a human being. And I started thinking about motors. You can build a moped, an e-bike, a motorcycle. And one day, we'll ship the car.
-
 But today I want to focus on what that looks like when we ship AI applications.
-
-I propose that we just need to understand:
-
-1. What does 80% mean?
-2. What are the segments of your users that we can serve well?
-3. Can we double down on the segments that we serve well and educate the users about the segments that we don't serve well?
 
 <!-- more -->
 
