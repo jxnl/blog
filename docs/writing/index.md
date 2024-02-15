@@ -18,7 +18,8 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 
 ## AI Engineering
 
-- [5 Questions to ask yourself as sa AI Engineer](./posts/stochastic-software.md)
+- [Free course on Weights and Biases: Structured Output](https://www.wandb.courses/courses/steering-language-models)
+- [5 Questions to ask yourself as an AI Engineer](./posts/stochastic-software.md)
 - [How to build a terrible RAG system](./posts/rag-inverted.md)
 - [Stop using LGTM@Few, How to improve RAG](./posts/lgtmk.md)
 - [Rag is more than embeddings](./posts/rag.md)
