@@ -2,6 +2,8 @@
 
 Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://jxnl.github.io/instructor), [Flight](https://jxnl.github.io/flight), and an ML and data science educator.
 
+If you have general questions for me trying something new, so just [make an issue](https://github.com/jxnl/blog/issues) and tag it with `question`. I'll try to answer it in a blog post.
+
 ## Support
 
 I want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl). I don't want to start a substack, but I do want to write more. So this will fund my morning coffee and tea.
@@ -19,7 +21,8 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 ## AI Engineering
 
 - [How to ship an MVP for AI applications](./writing/posts/mvp.md)
-- [5 Questions to ask yourself as sa AI Engineer](./writing/posts/stochastic-software.md)
+- [Free course on Weights and Biases: Structured Output](https://www.wandb.courses/courses/steering-language-models)
+- [5 Questions to ask yourself as an AI Engineer](./writing/posts/stochastic-software.md)
 - [How to build a terrible RAG system](./writing/posts/rag-inverted.md)
 - [Stop using LGTM@Few, How to improve RAG](./writing/posts/lgtmk.md)
 - [Rag is more than embeddings](./writing/posts/rag.md)
@@ -29,6 +32,7 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 ## Talks and Podcasts
 
 - [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
+- [Podcast: Weaviate](https://www.youtube.com/watch?v=higlHgYDc5E)
 - [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
 - [Podcast: Dagshub](https://www.youtube.com/watch?v=rDP44EVpHTA)
 - [Podcast: Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)

@@ -25,13 +25,13 @@ The collaboration leads to benefits including:
 
 ## Methodology
 
-!!! note "Option 1: Serve on retainer for about 5hr a week"
+!!! note "Option 1: Serve on retainer asyncronously"
 
     - Attend stand ups and planning meetings, help with tech strategy and planning
     - Work with the team to create a set of strategies and tactics
     - Additional ad-hoc work, recruiting, hiring, up leveling current staff
 
-!!! note "Option 2: Serve on retainer for about 10hr a week"
+!!! note "Option 2: Serve on retainer"
 
     - In addition to Option 1:
     - Help with tech strategy and planning
@@ -54,9 +54,9 @@ The collaboration leads to benefits including:
 
 ## Terms and conditions
 
-- Fee for Option 1 is 8000 per month
+- Fee for Option 1 is 10000 per month
 - Fee for Option 2 is 16000 per month
-- Fee for Option 3 is 22000 per month
+- Fee for Option 3 is 24000 per month
 
 Fifty percent is due on acceptance, balance is due 30 days after. Afterwards billed at the beginning of every month.
 

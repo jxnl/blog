@@ -36,7 +36,7 @@ I offer two types of services, depending on your needs:
 
 ### 1. Strategic Advisory for Founders and VCs
 
-Advisory service for a flat monthly fee of $4,000. This option is perfect for founders and venture capitalists looking expert guidance on AI strategy, product development, and scaling out the team. Here’s what you get:
+Advisory service for a flat monthly fee of $4,250. This option is perfect for founders and venture capitalists looking expert guidance on AI strategy, product development, and scaling out the team. Here’s what you get:
 
 - **Strategic Insights:** My focus will be to unblock and provide structured thinking/approaches based on my experiences that will help you.
 - **Async Access:** Reach out to me anytime for advice or a second opinion on crucial decisions. I believe in open communication without the constraints of hourly billing.

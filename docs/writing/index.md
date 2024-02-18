@@ -19,7 +19,8 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 ## AI Engineering
 
 - [How to ship an MVP for AI applications](./posts/mvp.md)
-- [5 Questions to ask yourself as sa AI Engineer](./posts/stochastic-software.md)
+- [Free course on Weights and Biases: Structured Output](https://www.wandb.courses/courses/steering-language-models)
+- [5 Questions to ask yourself as an AI Engineer](./posts/stochastic-software.md)
 - [How to build a terrible RAG system](./posts/rag-inverted.md)
 - [Stop using LGTM@Few, How to improve RAG](./posts/lgtmk.md)
 - [Rag is more than embeddings](./posts/rag.md)
@@ -29,6 +30,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 ## Talks and Podcasts
 
 - [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
+- [Podcast: Weaviate](https://www.youtube.com/watch?v=higlHgYDc5E)
 - [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
 - [Podcast: Dagshub](https://www.youtube.com/watch?v=rDP44EVpHTA)
 - [Podcast: Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
