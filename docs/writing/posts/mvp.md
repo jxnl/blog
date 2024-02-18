@@ -1,35 +1,45 @@
 ---
 draft: False
-date: 2024-02-13
-slug: mvp
+date: 2024-02-18
+slug: how-to-ship-an-mvp-for-ai-applications
 categories:
   - Personal
 authors:
   - jxnl
+  - jo
 ---
 
-# Leveraging the Pareto Principle in AI Application Development
+# How to ship an MVP for AI applications
 
-Embarking on the journey of launching a new AI application is an exciting venture. I encourage you to pause and reflect on the essence of the Pareto Principle and how it applies to your application. Consider the critical questions: What does achieving 80% signify in your context? Who are the primary user segments you can effectively cater to? Does your application carve out a unique niche for itself? Is there an opportunity to focus intensively on the segments you excel in, manage expectations for the areas where you're less strong, and launch earlier to gather invaluable user feedback?
+## What is an MVP?
 
-## Understanding the MVP Concept
+A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers, who can then provide feedback for future product development.
 
-An MVP, or Minimum Viable Product, is essentially the most basic version of your product that still offers enough value for early adopters to use and provide feedback. This feedback becomes the cornerstone for future enhancements and iterations of your product.
+An analogy I often use to help understand this concept is as follows: You need something to help get from point A to point B. Maybe the vision is to have a car. However, the MVP is not a chassis without wheels or an engine. Instead, it might look like a skateboard. You’ll ship and realize the product needs brakes or steering. So then you ship a scooter. Afterwards, you figure out the scooter needs more leverage, so you add larger wheels and end up with a bicycle. Limited by the force you can apply as a human being, you start thinking about motors and can branch out into mopeds, e-bikes, and motorcycles. Then one day, ship the car.
 
-This concept, while straightforward in traditional product development, takes on a nuanced complexity when applied to AI applications.
+Today I want to focus on what that looks like for shipping AI applications. To do that, we only need to understand 4 things.
 
-## The 80/20 Rule Reimagined for AI
+1. What does 80% actually mean?
 
-Traditionally, when we talk about something being 80% done or 80% ready, we usually refer to the classical machine learning sense. In this context, each component is deterministic, so 80% likely means that 8 out of 10 features are complete. Once we have the remaining 2 features, we can ship the product. IF we want to follow the 80/20 rule, we might be able to ship the product with 80% of the features and then add the remaining 20% later, like a car without a radio or air conditioning.
-However, in the realm of AI-powered applications, the interpretation of "80%" can be much more fluid and less straightforward.
+2. What segments can we serve well?
 
-### The Pitfalls of Relying Solely on Summary Statistics
+3. Can we double down?
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/ec/Anscombe%27s_quartet_3.svg)
+4. Can we educate the user about the segments we don’t serve well?
 
-The illustration above, known as Anscombe's quartet, starkly demonstrates the limitations of relying solely on summary statistics. Despite sharing nearly identical statistical summaries, these datasets have vastly different distributions. This serves as a potent reminder of the risks of oversimplification.
+<!-- more -->
 
-Consider a hypothetical scenario with the following performance scores:
+## **Consider the 80/20 rule**
+
+When talking about something being  80% done or 80% ready, it is usually in a machine-learning sense. In this context, each component is deterministic, which means 80% translates to  8 out of 10 features being complete. Once the remaining 2 features are ready, we can ship the product. However, If we want to follow the 80/20 rule, we might be able to ship the product with 80% of the features and then add the remaining 20% later, like a car without a radio or air conditioning. However, The meaning of 80% can vary significantly, and this definition may not apply to an AI-powered application.
+
+### The issue with Summary Statistics
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anscombe%27s_quartet_3.svg/1200px-Anscombe%27s_quartet_3.svg.png)
+
+The above image is an example of Anscombe's quartet. It's a set of four datasets that have nearly identical simple descriptive statistics yet very different distributions and appearances. This is a classic explanation of why summary statistics can be misleading.
+
+Consider the following example:
 
 | Query_id | score |
 | -------- | ----- |
@@ -40,13 +50,13 @@ Consider a hypothetical scenario with the following performance scores:
 | 5        | 0.0   |
 | 6        | 0.0   |
 
-At a glance, the average score of 0.58 might not seem impressive. However, a closer inspection might reveal excellence in serving a majority of the queries, underscoring the importance of segment analysis.
+**The average score is 0.58**. However, if we analyze the queries within segments, we might discover that we are serving the majority of queries exceptionally well!
 
 !!! note "Admitting what you're bad at"
 
-    Acknowledging and transparently communicating the limitations of your application can significantly enhance user trust. If your system can identify its weaknesses and set clear expectations, it may be well-positioned for a successful launch, despite its imperfections.
+    Being honest with what you're bad at is a great way to build trust with your users. If you can accurately identify when something will perform poorly and confidently reject it, then you might be ready to ship a great product while educating your users about the limitations of your application.
 
-The behavior of a probabilistic system could also be very different, consider the following example:
+It is very important to understand the limitations of your system and to be able to confidently understand the characteristics of your system beyond summary statistics. This is because not all systems are made equal. The behavior of a probabilistic system could be very different from the previous example. Consider the following dataset:
 
 | Query_id | score |
 | -------- | ----- |
@@ -55,45 +65,39 @@ The behavior of a probabilistic system could also be very different, consider th
 | 3        | .59   |
 | 4        | .57   |
 
-In contrast, a system like this also has the same average score of 0.58, but it's not as easy to reject any subset of requests...
+A system like this also has the same average score of 0.58, but it's not as easy to reject any subset of requests...
 
-It is very important to understand the limitations of your system and to be able to confidently understand the charactersitics in your system beyond summary statistics.
+### Learning to say no
 
-### The Art of Declining Gracefully
+Consider an RAG application where a large proportion of the queries are regarding timeline queries. If our search engines do not support this time constraint, we will likely be unable to perform well.
 
-Consider an application that struggles with specific query types, such as timeline-based queries. If these are known limitations, it might be more strategic to focus on strengths and manage user expectations for these weaker areas.
+| Query_id | score | query_type  |
+| -------- | ----- | ----------- |
+| 1        | 0.9   | text search |
+| 2        | 0.8   | text search |
+| 3        | 0.9   | news search |
+| 4        | 0.9   | news search |
+| 5        | 0.0   | timeline    |
+| 6        | 0.0   | timeline    |
 
-| Query_id | score   | query_type   |
-| -------- | ------- | ------------ |
-| 1        | 0.9     | text search  |
-| 2        | 0.8     | text search  |
-| 3        | 0.9     | news search  |
-| 4        | 0.9     | news search  |
-| 5        | **0.0** | **timeline** |
-| 6        | **0.0** | **timeline** |
-
-If we're in a pinch to ship, we could simply build a classification model that detects whether or not these questions are timeline questions and throw a warning. Instead of constantly trying to push the algorithm to do better, we can simply educate the user and educate them by changing the way that we might design the product.
-
-So by identifying and classifying queries, you can guide users away from less reliable functionalities and towards the strengths of your application, enhancing overall user satisfaction.
+If we're in a pinch to ship, we could simply build a classification model that detects whether or not these questions are timeline questions and throw a warning. Instead of constantly trying to push the algorithm to do better, we can educate the user and educate them by changing the way that we might design the product.
 
 !!! note "Detecting segments"
 
     Detecting these segments could be accomplished in various ways. We could construct a classifier or employ a language model to categorize them. Additionally, we can utilize clustering algorithms with the embeddings to identify common groups and potentially analyze the mean scores within each group. The sole objective is to identify segments that can enhance our understanding of the activities within specific subgroups.
 
-By changing the design of our application and understanding the limitations, we can have conditionally better performance if we know what kind of work we can turn down. If you are able can put this segment data into some kind of In-System Observability, you'll be able to safely monitor what proportion of questions you're turning down, and prioritize your work to maximize coverage.
-
 One of the worst things you can do is to spend months building out a feature that only increases your productivity by a little while ignoring some more important segment of your user base.
 
-### The Strategic Value of Focusing on a Niche
+By redesigning our application and recognizing its limitations, we can potentially improve performance under certain conditions by identifying the types of tasks we can decline. If we are able to put this segment data into some kind of In-System Observability, we can safely monitor what proportion of questions are being turned down and prioritize our work to maximize coverage.
 
-A common pitfall I've observed in the startup ecosystem is the assumption that just having AI technology means it's inherently useful across the board. This mindset often leads to the development of broad, unfocused applications that lack a clear purpose or target.
+### Figure out what you’re actually trying to do before you do it
 
-I strongly believe that startups, especially those venturing into AI, should concentrate their efforts on a few key areas where they can truly excel. By identifying and committing to a specific niche, your application can stand out by doing a few things exceptionally well. This focused approach not only makes it easier to attract and engage a dedicated user base—ranging from a few dozen to a couple hundred early adopters—but also facilitates rapid collection of targeted feedback.
+One of the dangerous things I've noticed working with startups is that we often think that the AI works at all... As a result, we want to be able to serve a large general application without much thought into what exactly we want to accomplish.
 
-An application that tries to be a jack-of-all-trades often ends up being master of none, leading to a forgettable user experience and difficulty in fostering repeat engagement. While broad appeal might initially attract a surge of interest, sustaining user trust and loyalty becomes a significant challenge.
+In my opinion, most of these companies should try to focus on one or two significant areas and identify a good niche to target. If your app is good at one or two tasks, there's no way you could not find a hundred or two hundred users to test out your application and get feedback quickly. Whereas, if your application is good at nothing, it's going to be hard to be memorable and provide something that has repeated use. You might get some virality, but very quickly, you're going to lose the trust of your users and find yourself in a position where you're trying to reduce churn.
 
-In the context of leveraging advanced tools like GPT-4 for predictive functionalities, the speed at which you can gather and act on user feedback becomes crucial. Swift feedback loops enable rapid iterations, allowing for continuous improvement and refinement of your product. This agility is key to developing a more effective and user-centric application.
+When we're front-loaded, the ability to use GPT-4 to make predictions, and time to feedback is very important. If we can get feedback quickly, we can iterate quickly. If we can iterate quickly, we can build a better product.
 
-## Final Thoughts
+## Final thoughts
 
-In sum, crafting an MVP for an AI-driven application transcends the simplistic notion of launching with a subset of features. It demands a nuanced understanding of your user base, a strategic focus on areas of strength, and a commitment to transparency about limitations. By embracing these principles, you can foster a more engaging and valuable product, paving the way for rapid iteration and sustained improvement.
+The MVP for an AI application is not as simple as shipping a product with 80% of the features. Instead, it requires a deep understanding of the segments of your users that you can serve well and the ability to educate your users about the segments that you don't serve well. By understanding the limitations of your system and niching down, you can build a product that is memorable and provides something that has repeated use. This will allow you to get feedback quickly and iterate quickly, ultimately leading to a better product.
