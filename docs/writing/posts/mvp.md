@@ -9,13 +9,9 @@ authors:
   - jo
 ---
 
-# How to ship an MVP for AI applications
-
-## What is an MVP?
+# MVP for AI apps, find a feat of strength
 
 A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers, who can then provide feedback for future product development.
-
-An analogy I often use to help understand this concept is as follows: You need something to help get from point A to point B. Maybe the vision is to have a car. However, the MVP is not a chassis without wheels or an engine. Instead, it might look like a skateboard. You’ll ship and realize the product needs brakes or steering. So then you ship a scooter. Afterwards, you figure out the scooter needs more leverage, so you add larger wheels and end up with a bicycle. Limited by the force you can apply as a human being, you start thinking about motors and can branch out into mopeds, e-bikes, and motorcycles. Then one day, ship the car.
 
 Today I want to focus on what that looks like for shipping AI applications. To do that, we only need to understand 4 things.
 
@@ -27,9 +23,15 @@ Today I want to focus on what that looks like for shipping AI applications. To d
 
 4. Can we educate the user about the segments we don’t serve well?
 
+The Pareto principle, also known as the 80/20 rule, still applies but in a different way than you might think.
+
 <!-- more -->
 
-## **Consider the 80/20 rule**
+## What is an MVP?
+
+An analogy I often use to help understand this concept is as follows: You need something to help get from point A to point B. Maybe the vision is to have a car. However, the MVP is not a chassis without wheels or an engine. Instead, it might look like a skateboard. You’ll ship and realize the product needs brakes or steering. So then you ship a scooter. Afterwards, you figure out the scooter needs more leverage, so you add larger wheels and end up with a bicycle. Limited by the force you can apply as a human being, you start thinking about motors and can branch out into mopeds, e-bikes, and motorcycles. Then one day, ship the car.
+
+## Consider the 80/20 rule
 
 When talking about something being  80% done or 80% ready, it is usually in a machine-learning sense. In this context, each component is deterministic, which means 80% translates to  8 out of 10 features being complete. Once the remaining 2 features are ready, we can ship the product. However, If we want to follow the 80/20 rule, we might be able to ship the product with 80% of the features and then add the remaining 20% later, like a car without a radio or air conditioning. However, The meaning of 80% can vary significantly, and this definition may not apply to an AI-powered application.
 
