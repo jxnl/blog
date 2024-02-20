@@ -1,6 +1,6 @@
 ---
 draft: False
-date: 2024-01-20
+date: 2024-02-20
 slug: formatting-strings
 categories:
   - LLMs
@@ -8,7 +8,7 @@ authors:
   - jxnl
 ---
 
-# My critique of llm libraries handling string formatting.
+# Format your own prompts
 
 This is mostly to add onto Hamels great post called [Fuck you show me the prompt](https://hamel.dev/blog/posts/prompt/)
 
@@ -114,8 +114,6 @@ def extract(a: str, b: str, c: str):
 ```
 
 This approach allows immediate utilization of new message types in the API and the passing back of function calls or tool call values.
-
-# New Message Type
 
 Just recently when `vision` came out content could be an array!
 
