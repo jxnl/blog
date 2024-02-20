@@ -9,7 +9,7 @@ authors:
   - jo
 ---
 
-# MVP for AI apps, find a feat of strength
+# A feat of strength MVP for AI Apps
 
 A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers, who can then provide feedback for future product development.
 
