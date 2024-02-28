@@ -128,9 +128,8 @@ if __name__ == "__main__":
         print(chunk.text, end="")
 ```
 
-## Level 2 Structure RAG Application
+## Level 2: More Structured Processing
 
-## Level 2: Advanced Techniques
 
 Here we delve deeper into the world of Retrieval-Augmented Generation (RAG) applications. This level is designed for those who have grasped the basics and are ready to explore more advanced techniques and optimizations. Here, we focus on enhancing the efficiency and effectiveness of our RAG applications through better asynchronous programming, improved chunking strategies, and robust retry mechanisms in processing pipelines. 
 
