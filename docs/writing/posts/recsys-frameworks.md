@@ -25,43 +25,41 @@ To tackle these problems, I created Flight – a framework that acts as a semant
 
 Flight improves the "bus factor" and reduces cognitive load for new developers, standardizes logging and debugging tools, and includes advanced distributed tracing for performance measurement and metrics monitoring.
 
-# Pipeline Layer
+## Pipeline Layer
 
 The `Pipeline` class is the foundation of the Flight framework, enabling users with business domain knowledge to craft pipelines composed of a variety of modular operators. The resulting code is readable and almost resembles plain English. The code sample below showcases how the `Pipeline` class can be used to set inclusion and exclusion criteria and scoring functions for a given item type.
 
 ```python
 from flight.pipelines import Pipeline
-
 import flight.sourcing as so
-import flight.scoring as sf
+import flight.scoring as sc
 import flight.operators as fo
 
 @app.post("/recs/complimentary_items")
-async def complimentary_items(client_id: int, product_id:int):
-	pipeline = Pipeline("complimentary_items").initialize(
-	   includes=[so.AvailableInventory(), so.MatchClientSize()]
-	   excludes=[so.PreviouslyPurchased()]
-	   scores=[sc.ProbabilityOfSale("psale_score"),
-	  item_type="sku_id",
-	)
+async def complimentary_items(client_id: int, product_id: int):
+    pipeline = Pipeline("complimentary_items").initialize(
+        includes=[so.AvailableInventory(), so.MatchClientSize()],
+        excludes=[so.PreviouslyPurchased()],
+        scores=[sc.ProbabilityOfSale("psale_score")],
+        item_type="sku_id",
+    )
 
-	pipeline = (pipeline
-   | fo.Hydrate(["department", "product_id"])
-   | fo.MatchDepartment(product_id)
-   | fo.DiverseSample(n=10, maximize="psale_score")
-   | fo.Sort("score" desc=True)
-	)
+    pipeline = (pipeline
+                | fo.Hydrate(["department", "product_id"])
+                | fo.MatchDepartment(product_id)
+                | fo.DiverseSample(n=10, maximize="psale_score")
+                | fo.Sort("score", desc=True))
 
-  # pipelines are lazy so stuff only happens on execute()
-	resp = await pipeline.execute(
-		client_id, return_cols=["sku_id", "product_id", "score"], **kwargs
-	)
-	return resp
+    # Pipelines are lazy, so execution only happens upon calling execute()
+    resp = await pipeline.execute(
+        client_id, return_cols=["sku_id", "product_id", "score"], **kwargs
+    )
+    return resp
 ```
 
 In the shopping example, we start by performing the set operation `Union(includes) - Union(excludes)` and then calculate scores for the results. It's worth taking a look at the code to get a better understanding of how it works on first glance. The pipeline class manages the whole process, allowing us to have control over how best to compute.
 
-# Operator Layer
+## Operator Layer
 
 Operators in the framework are implemented as classes, with static variables defined using the **`dataclass`** style, and dynamic variables passed in during runtime. For example, **`SourceOperators`** such as the **`Inventory`** operator rely on external APIs to retrieve data, while **`IndexOperators`** like **`MatchDepartment`** merely return indices, providing an efficient way to manage pipelines without mutating dataframes.
 
@@ -75,14 +73,14 @@ class MatchDepartment(fo.FilterOperator)
     product_id: int
     department: str
 
-	def __call__(self, df, **kwargs) -> pd.Index:
-		assert "department" in df.columns
-		department = get_product(self.product_id, "department")
-    self.department = department
-    return df[df.department == department].index
+   def __call__(self, df, **kwargs) -> pd.Index:
+      assert "department" in df.columns
+      department = get_product(self.product_id, "department")
+      self.department = department
+      return df[df.department == department].index
 ```
 
-# Meta Layer
+## Meta Layer
 
 In the pipeline layer, you only have to worry about the shape of the pipeline, not pandas code required. In the operator you only need to make sure your pandas or etc code fits the shape of the signature. Return a `fo.Source` or a `pd.Index` and all data merging, filter, augmentation happens behinds the scenes.
 
@@ -167,24 +165,30 @@ Debugging data quality issues or identifying the reasons behind clients not bein
 ```python
 # with verbose = debug = true
 resp = {
-   "product_id": [1,2,3]
+   "product_id": [1, 2, 3],
    "debug": {
        "includes": [
-					{"name": "Inventory", "kwargs":{}, "product_ids"=[1,2,3, ...]}]
-       "excludes": []
-       "pipeline_operators":
-          {"name": "Match", "kwargs":{...},
-							"input_ids":[1,2,3, ...], "n_input": 100
-							"output_ids":[1,2,3, ...}, "n_output": 400
-					} ...
+           {"name": "Inventory", "kwargs": {}, "product_ids": [1, 2, 3, ...]}
+       ],
+       "excludes": [],
+       "pipeline_operators": [
+           {
+               "name": "Match", 
+               "kwargs": {...},
+               "input_ids": [1, 2, 3, ...], 
+               "n_input": 100,
+               "output_ids": [1, 2, 3, ...], 
+               "n_output": 400
+           }
+       ]...
    }
 }
 ```
 
 The capabilities provided by the glue of the meta layer allowed us to systematically inspect pipelines and operators, identify bottlenecks in our micro services, and directly communicate with other teams to improve performance and latency.
 
-# Conclusion
+## Conclusion
 
-Flight has been a **tremendous** asset for managing data pipelines at Stitch Fix. The pipeline architecture, employing the source and index operator pattern, has made it simpler to write maintainable code and rapidly detect performance issues. The monitoring capabilities of OpenTelemetry's integrated distributed tracing have also been **in valuable** for ensuring efficient pipeline execution and debugging.
+In summary, Flight has significantly improved data pipeline management at Stitch Fix. Its architecture, which utilizes the source and index operator pattern, has streamlined code development and enhanced performance issue detection. The integration of OpenTelemetry's monitoring capabilities has also been critical for efficient pipeline execution and debugging.
 
-As the number of pipelines and operators increases, it may be necessary to look into more scalable solutions for managing the execution. Nevertheless, the current architecture has been more than **adequate** so far, and the emphasis has been on creating practical solutions that meet the business requirements.
+As the usage of pipelines and operators grows, exploring more scalable management solutions may become necessary. However, the current architecture has effectively met our business needs by focusing on the development of efficient solutions. The experience with Flight highlights our commitment to improving data pipeline management, setting a standard for operational efficiency.
