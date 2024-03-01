@@ -128,8 +128,7 @@ nav:
   - Writing:
     - "writing/index.md"
   - Hiring:
-    - Working with me: "hiring.md"
-    - Sample Proposal: "assessment.md"
+    - How to work with me: "hiring.md"
   - Contact: 'contact.md'
   
 plugins:
