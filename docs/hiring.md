@@ -1,6 +1,6 @@
 # How can I hire you?
 
-You can hire me by sending a _brief_ email about what your team is looking for.
+You can hire me by sending a _brief_ [email](mailto:jason+hire@jxnl.co) about what your team is looking for.
 
 **What do I do?**
 
@@ -78,7 +78,7 @@ In addition to everything in Options 1 & 2, you receive:
 - **Tier 2:** $25,000 per month
 - **Tier 3:** $40,000 per month
 
-If you have further questions about these options or if these aren’t quite the right fit for your project, get in touch via email. I'm also open to discussing equity or success-based pricing models if that aligns better with your goals.
+If you have further questions about these options or if these aren’t quite the right fit for your project, get in touch via [email](mailto:jason+hire@jxnl.co). I'm also open to discussing equity or success-based pricing models if that aligns better with your goals.
 
 ## Previous Clients
 
@@ -93,4 +93,4 @@ These are clients I've worked with recently to augment their retrieval systems, 
 - [Pydantic](http://pydantic.dev/): Pydantic provides data validation and settings management using Python type annotations, enforcing type hints at runtime with user-friendly error handling.
 - [Weights & Biases](https://wandb.ai/): Wandb provides a platform for tracking machine learning experiments, offering tools for visualization, comparison, and collaboration in ML projects.
 
-If you have further questions about my past work or what I can do for your project and team, get in touch via email. :)
+If you have further questions about my past work or what I can do for your project and team, get in touch via [email](mailto:jason+hire@jxnl.co)
