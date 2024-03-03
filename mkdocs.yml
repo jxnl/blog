@@ -127,8 +127,8 @@ nav:
     - Books: 'books.md'
   - Writing:
     - "writing/index.md"
-  - Hiring:
-    - How to work with me: "hiring.md"
+  - Consulting Servicesq:
+    - How to work with me: "services.md"
   - Contact: 'contact.md'
   
 plugins:

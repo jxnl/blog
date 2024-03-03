@@ -103,4 +103,4 @@ Once we run our GPT-4 self critique evaluations we'll know how well our system i
 
 ## Conclusion
 
-Hope you enjoyed some of these tips. Now, your job is to take each one and invert it. Let me know how it goes! If you like the like content give me a follow on [twitter](https://twitter.com/jxnl) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
+A lot of these tips seem basic, and they are, but the basics are not easy. If you want to learn about my consulting practice check out my [services](../../services.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)

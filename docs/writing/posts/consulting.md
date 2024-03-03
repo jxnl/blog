@@ -16,6 +16,8 @@ authors:
 
 I specify indie consulting as something that is completely and wholly separate from the big-time consulting we hear about from those ridiculous institutions. Check out this video roasting [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) From John Oliver to understand how I feel about many of these folks. Theres another great [video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that I saw on tiktok.
 
+If you want to learn about my consulting practice check out my [services](../../services.md) page.
+
 <!-- more -->
 
 !!! warning "The failure of big time consulting"

@@ -11,6 +11,8 @@ authors:
 
 This post comprehensive guide to understanding and implementing RAG applications across different levels of complexity. Whether you're a beginner eager to learn the basics or an experienced developer looking to deepen your expertise, you'll find valuable insights and practical knowledge to help you on your journey. Let's embark on this exciting exploration together and unlock the full potential of RAG applications.
 
+If you want to learn about my consulting practice check out my [services](../../services.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)
+
 !!! tip "This is a work in progress and mostly an outline of what I want to write. I'm mostly looking for feedback"
 
 <!-- more -->
@@ -19,7 +21,6 @@ This post comprehensive guide to understanding and implementing RAG applications
 
 Welcome to the foundational level of RAG applications! Here, we'll start with the basics, laying the groundwork for your journey into the realm of Retrieval-Augmented Generation. This level is designed to introduce you to the core concepts and techniques essential for working with RAG models. By the end of this section, you'll have a solid understanding of how to traverse file systems for text generation, chunk and batch text for processing, and interact with embedding APIs. Let's dive in and explore the exciting capabilities of RAG applications together!
 
-
 1. Recursively traverse the file system to generate text.
 2. Utilize a generator for text chunking.
 3. Employ a generator to batch requests and asynchronously send them to an embedding API.
@@ -27,7 +28,6 @@ Welcome to the foundational level of RAG applications! Here, we'll start with th
 5. Implement a CLI for querying, embedding questions, yielding text chunks, and generating responses.
 
 ### Processing Pipeline
-
 
 ```python
 from dataclasses import dataclass
@@ -130,10 +130,9 @@ if __name__ == "__main__":
 
 ## Level 2: More Structured Processing
 
+Here we delve deeper into the world of Retrieval-Augmented Generation (RAG) applications. This level is designed for those who have grasped the basics and are ready to explore more advanced techniques and optimizations. Here, we focus on enhancing the efficiency and effectiveness of our RAG applications through better asynchronous programming, improved chunking strategies, and robust retry mechanisms in processing pipelines.
 
-Here we delve deeper into the world of Retrieval-Augmented Generation (RAG) applications. This level is designed for those who have grasped the basics and are ready to explore more advanced techniques and optimizations. Here, we focus on enhancing the efficiency and effectiveness of our RAG applications through better asynchronous programming, improved chunking strategies, and robust retry mechanisms in processing pipelines. 
-
-In the search pipeline, we introduce sophisticated methods such as better ranking algorithms, query expansion and rewriting, and executing parallel queries to elevate the quality and relevance of search results. 
+In the search pipeline, we introduce sophisticated methods such as better ranking algorithms, query expansion and rewriting, and executing parallel queries to elevate the quality and relevance of search results.
 
 Furthermore, the answering pipeline is refined to provide more structured and informative responses, including citing specific text chunks and employing a streaming response model for better interaction.
 
@@ -380,7 +379,6 @@ There are all things you'll likely find as you cluster and explore the datasets.
 ### Upcoming Topics
 
 As we continue to explore the depths of RAG applications, the following areas will be addressed in subsequent levels, each designed to enhance the complexity and functionality of your RAG systems:
-
 
 #### Level 6: Advanced Data Handling
 

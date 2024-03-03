@@ -11,9 +11,11 @@ authors:
 
 # Stop using LGTM@Few as a metric (Better RAG)
 
-!!! warning "This is a draft"
+I work with a few seed series a startups that are ramping out their retrieval augmented generation systems. I've noticed a lot of unclear thinking around what metrics to use and when to use them. I've seen a lot of people use "LGTM@Few" as a metric, and I think it's a terrible idea. I'm going to explain why and what you should use instead.
 
-    This is a draft. I would love to receive any PRs that correct any typos. Thanks.
+If you want to learn about my consulting practice check out my [services](../../services.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)
+
+---
 
 When giving [advice](./rag.md) to developers on [improving](./rag-inverted.md) their retrieval augmented generation, I usually say two things:
 

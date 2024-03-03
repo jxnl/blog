@@ -1,4 +1,4 @@
-# How can I hire you?
+# Services
 
 You can hire me by sending a _brief_ [email](mailto:jason+hire@jxnl.co) about what your team is looking for.
 
@@ -44,7 +44,7 @@ Within this option, there are three tiers depending on the level of support you 
 
 Here’s what you receive:
 
-##### Tier 1: Asynchronous Planning and Strategy**
+##### Tier 1: Asynchronous Planning and Strategy\*\*
 
 - **Guidance: Leverage my expertise to accelerate your development process, saving valuable research time and resources.**
 - **Asynchronous Access:  Reach out at any time for problem-solving on crucial decisions.**
