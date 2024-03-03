@@ -44,13 +44,13 @@ Within this option, there are three tiers depending on the level of support you 
 
 Here’s what you receive:
 
-##### Tier 1: Asynchronous Planning and Strategy\*\*
+##### Tier 1: Asynchronous Planning and Strategy
 
 - **Guidance: Leverage my expertise to accelerate your development process, saving valuable research time and resources.**
 - **Asynchronous Access:  Reach out at any time for problem-solving on crucial decisions.**
 - **Framework: Provide a structured approach based on my experiences to tackle roadblocks.**
 
-##### **Tier 2: Research and Prototyping**
+##### Tier 2: Research and Prototyping
 
 In addition to everything in Option 1, you receive:
 
@@ -58,7 +58,7 @@ In addition to everything in Option 1, you receive:
 - **Data Flywheel:** In-depth analysis of your company's flywheel and finetuning it towards your objectives. I’ll help your team leverage it to improve your AI capabilities.
 - **Implementation: Implementation that can be brought to production with the support of the engineering team**
 
-##### **Tier 3: Growth**
+##### Tier 3: Growth
 
 In addition to everything in Options 1 & 2, you receive:
 
