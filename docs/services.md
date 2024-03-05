@@ -2,9 +2,9 @@
 
 You can hire me by sending a _brief_ [email](mailto:jason+hire@jxnl.co) about what your team is looking for.
 
-??? tip "Click to see more of my background"
+Many companies are now adopting AI. Succeed with someone who's already paved the way: spearheaded applying new algorithms at Stitchfix, increasing revenue by $50M, managed a $400,000 data curation budget, and developed high-capacity recommendation frameworks.
 
-    Prior to my sabbatical, I was a Staff ML engineer and tech lead at Stitchfix, spearheading both the AI Algorithms Team and Direct to Consumer e-commerce initiatives, significantly aiding in technology adoption.
+??? note "See more background"
 
     - Spearheaded the integration of cutting-edge models like VAE-GAN, Resnets, YOLO, GPT3 into business solutions, boosting retrieval and recommendation systems. This effort led to an annual revenue increase of $50M.
 
