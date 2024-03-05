@@ -31,66 +31,54 @@ My expertise is most beneficial for projects that possess the following characte
 
 ## What does working with me look like?
 
-Initially, we'll discuss your companies goals and challenges. If it makes sense, I'll draft a proposal outlining our objectives, metrics, values. Otherwise, I'll try to connect you with a suitable expert from my network who can help.
+- We'll meet to iscuss your company's goals and challenges.
+- Draft a proposal outlining our objectives, metrics, values, if applicable.
+- Connect you with a suitable expert from my network if a different expertise is needed.
+- Following our collaboration, I will compile a comprehensive report detailing your company's challenges, opportunities, vision, and strategic recommendations for moving forward.
 
-### **What do I offer?**
+## What do I offer?
 
 I offer two types of services, depending on your needs:
 
-#### **1. Strategic Consulting**
+### 1. Strategic Consulting 
 
-I will help you cut through the bloat of implementing an AI strategy improving your team's productivity and, in turn, help you grow revenue and increase market cap.. For a flat monthly fee of $7,500, this option is perfect for founders and venture capitalists looking for expert guidance on AI strategy, product development, and scaling their teams.
+For a flat monthly fee of $7,500, this option is perfect for founders and venture capitalists looking for expert guidance to improve your team's productivity and, in turn, help you grow revenue and increase market cap.
 
-Here’s what you get:
+#### Here’s what you get:
 
-- **Strategic Insight:** A clear roadmap that tackles your pain points and roadblocks with implementing an AI strategy.
-- **Implemented Problem-Solving:** Coaching your engineers to be more scientific and changing their thinking about AI and ML to be more efficient and quantified.
-- **Scaling Your Team:** Giving you the skills they need to vet potential talent.
-- **Amplified Networking:** Help build your networks by leveraging my own.
-- **Async Access:** Reach out to me anytime for advice or a second opinion on crucial decisions. I believe in open communication without the constraints of hourly billing.
+- **Async Access:** Reach out to me anytime for advice or a second opinion on crucial decisions. I believe in open communication without the constraints of hourly billing. I trust that you will use this access judiciously.
+- **Strategic Guidance:** I’ll help you figure out the 80/20 and prioritize unblocking your impediments to success.
+- **Implemented Problem-Solving & Scaling:** Facilitating team growth and coaching your engineers to be more scientific and changing their thinking about AI and ML to be more efficient and quantified.
+- **Amplified Networking:** Help build your networks by leveraging my own. I’ll recommend experts in computer vision, LLM finetuning, Investing, and more.
 - **Long-Term Partnership:** Our collaboration can evolve to include an ongoing partnership for follow-on projects tailored to your specific needs as I get to know your business better.
+- **Framework:** Provide a structured approach based on my experiences to establish best practices that help your engineers become better scientists.
 
-#### **2. Comprehensive Consulting**
+### 2. Comprehensive Consulting
 
-I work hands-on with your team to help them improve their AI capabilities. This option is perfect for engineering teams looking to accelerate their AI development process, evaluate new technologies, improve their AI capabilities, and train their engineers to think about AI more strategically.
+This option is perfect for engineering teams looking to accelerate their AI development process, evaluate new technologies, improve their AI capabilities, and train their engineers to think about AI more strategically.
 
-Within this option, there are three tiers depending on the level of support you need.
+#### Tier 1: Research and Prototyping
 
-Here’s what you receive:
+In addition to everything mentioned in strategic consulting, you receive:
 
-##### Tier 1: Asynchronous Planning and Strategy
+- **Ad Hoc Research:** Feasibility research into your company's problems with AI and ML. I’ll help your team build out ‘proof of concept’ like prompts, retrieval mechanisms or data extraction workflows and how to leverage them best.
+- **Data Flywheel:** Help you build a product and have instrumentation in place to not only ship a product but one that can improve over time.
+- **Implementation:** Bring implementation to production with the support of the engineering team.
+- **Written Artifacts:** I will provide detailed recommendations on how to improve your data flywheel, including how to improve your data collection, data labeling, and data quality.
 
-- **Guidance: Leverage my expertise to accelerate your development process, saving valuable research time and resources.**
-- **Asynchronous Access:  Reach out at any time for problem-solving on crucial decisions.**
-- **Framework: Provide a structured approach based on my experiences to tackle roadblocks.**
+#### Tier 2: Growth
 
-##### Tier 2: Research and Prototyping
-
-In addition to everything in Option 1, you receive:
-
-- **Ad Hoc Research:** Feasibility research into your company's problems with AI and ML. I’ll help your team evaluate new technologies and provide guidance on how to leverage them best.
-- **Data Flywheel:** In-depth analysis of your company's flywheel and finetuning it towards your objectives. I’ll help your team leverage it to improve your AI capabilities.
-- **Implementation: Implementation that can be brought to production with the support of the engineering team**
-
-##### Tier 3: Growth
-
-In addition to everything in Options 1 & 2, you receive:
+In addition to the above, you receive:
 
 - **Team Development:** I’ll help level up your team, introduce them to the latest AI techniques and best practices, and even assist in hiring and recruiting top talent.
-- **Mentorship:** From improving query systems to establishing effective metrics, I’ll work closely either on a team or one-on-one basis to enhance your engineer’s AI capabilities
-- **Technical Writing & Ad Hoc R&D:** Produce written documents communicating decisions and methodologies and technical blogs to improve lead generation.
+- **Mentorship:** From improving query systems to establishing effective metrics, I’ll work closely either on a team or one-on-one basis to enhance your engineer’s AI capabilities.
+- **Technical Writing & Ad Hoc R&D:** Produce written documents communicating decisions, methodologies, and technical blogs to improve lead generation.
 
-**Pricing**
+### Pricing
 
-**Strategic Consulting:**
-
-- $7,500 per month
-
-**Comprehensive Consulting:**
-
-- **Tier 1:** $10,000 per month
-- **Tier 2:** $25,000 per month
-- **Tier 3:** $40,000 per month
+- **Async: Strategic - $7,500**
+- **Tier 1. Research and Prototyping - $25,000**
+- **Tier 2. Growth - $40,000**
 
 If you have further questions about these options or if these aren’t quite the right fit for your project, get in touch via [email](mailto:jason+hire@jxnl.co). I'm also open to discussing equity or success-based pricing models if that aligns better with your goals.
 
