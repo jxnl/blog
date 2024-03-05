@@ -43,7 +43,7 @@ I offer two types of services, depending on your needs:
 
 ### 1. Strategic Consulting 
 
-For a flat monthly fee of $7,500, this option is perfect for founders and venture capitalists looking for expert guidance to improve your team's productivity and, in turn, help you grow revenue and increase market cap.
+This option is perfect for founders and venture capitalists looking for expert guidance to improve your team's productivity and, in turn, help you grow revenue and increase market cap.
 
 #### Here’s what you get:
 
