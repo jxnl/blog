@@ -68,6 +68,8 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 #### Tier 2: Growth
 
+This is great if you have a specific challenge that you need help with, or if you want to improve your team's AI capabilities.
+
 In addition to the above, you receive:
 
 - **Team Development:** I’ll help level up your team, introduce them to the latest AI techniques and best practices, and even assist in hiring and recruiting top talent.
