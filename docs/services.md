@@ -1,7 +1,6 @@
-# Applied AI Consulting Services 
+# Applied AI Consulting Services
 
 You can hire me by sending a _brief_ [email](mailto:jason+hire@jxnl.co) about what your team is looking for.
-
 
 ??? tip "Click to see more of my background"
 
