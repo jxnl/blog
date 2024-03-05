@@ -1,12 +1,28 @@
-# Services
+# Applied AI Consulting Services 
 
 You can hire me by sending a _brief_ [email](mailto:jason+hire@jxnl.co) about what your team is looking for.
 
-**What do I do?**
+## My Background
+
+Before my sabbatical, I served as a Staff ML engineer and a tech lead for the AI Algorithms Team, later moving to lead the Direct to Consumer e-commerce initiatives at Stitchfix, where I played a key role in helping teams adopt new technologies.
+
+- Led the R&D of applying state-of-the-art (SOTA) models to business applications, including VAE-GAN, Resnets, YOLO, GPT3, and building multimodal embedding models that enhanced retrieval and recommendations quality. This initiative, from prototyping to production monitoring and model finetuning, generated an incremental revenue of $50M per year.
+
+- Directed data collection and curation efforts, collaborating with domain experts to train data labelers of various proficiencies and constructed proprietary datasets for multimodal content understanding. This included new outfit models, various search functionalities, similar product recommendations, AI-powered data labeling, and ad creative generation, managing a budget of approximately $400,000 to acquire new data.
+
+- Engineered a recommendation [framework](./writing/posts/recsys-frameworks.md) and observability tools capable of processing over 350 million daily requests.
+
+- Created a framework for technology partner due diligence, focusing on incremental performance and data access improvements, guiding the adoption of impactful technologies.
+
+Throughout my career in the tech industry, I've had the privilege of working with both established organizations such as [Stitchfix](https://www.stitchfix.com/), [Meta](https://about.fb.com/), and [NYU](https://www.nyu.edu/), as well as a variety of innovative startups including [Rewind AI](https://rewind.ai/), [Naro](https://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](https://newcomputer.io/), [Modal Labs](https://modal.com/), and [Weights & Biases](https://wandb.ai/).
+
+My roles in these collaborations have covered a wide range of topics such as personaliation and search, retrieval augmented generation, construction data, sales and marketing, infrastructure, finance, personal data management, data extraction, summarization, and even agent-based modeling.
+
+## What do I do?
 
 I provide consulting and advisory work for VCs and fast-growing startups interested in applying machine learning and AI. If you want to learn more about my work, you can browse my [resume](https://jxnl.co/) or [email](mailto:jason+hire@jxnl.co) me.
 
-For a select list of my clients, click [here](#previous-clients).
+For a select list of my clients, click [here](#previous-clients). 
 
 My expertise is most beneficial for projects that possess the following characteristics:
 
@@ -15,9 +31,7 @@ My expertise is most beneficial for projects that possess the following characte
 
 ## What does working with me look like?
 
-The first step is we meet and discuss the specific problems your project is facing in implementing or improving its AI capabilities.
-
-If I'm not the right fit for your project, I will help you find the right person by leveraging my network. If it makes sense for us to work together, then I will write up a proposal Situation Assessment where I establish objectives, metrics, and the benefits you hope to capture.
+Initially, we'll discuss your companies goals and challenges. If it makes sense, I'll draft a proposal outlining our objectives, metrics, values. Otherwise, I'll try to connect you with a suitable expert from my network who can help.
 
 ### **What do I offer?**
 

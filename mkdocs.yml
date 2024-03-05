@@ -128,7 +128,7 @@ nav:
   - Writing:
     - "writing/index.md"
   - Applied AI Consulting:
-    - Applied AI consulting services: "services.md"
+    - Services: "services.md"
   - Contact: 'contact.md'
   
 plugins:
