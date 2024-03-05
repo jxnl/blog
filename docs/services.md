@@ -4,19 +4,19 @@ You can hire me by sending a _brief_ [email](mailto:jason+hire@jxnl.co) about wh
 
 ## My Background
 
-Before my sabbatical, I served as a Staff ML engineer and a tech lead for the AI Algorithms Team, later moving to lead the Direct to Consumer e-commerce initiatives at Stitchfix, where I played a key role in helping teams adopt new technologies.
+Prior to my sabbatical, I was a Staff ML engineer and tech lead at Stitchfix, spearheading both the AI Algorithms Team and Direct to Consumer e-commerce initiatives, significantly aiding in technology adoption.
 
-- Led the R&D of applying state-of-the-art (SOTA) models to business applications, including VAE-GAN, Resnets, YOLO, GPT3, and building multimodal embedding models that enhanced retrieval and recommendations quality. This initiative, from prototyping to production monitoring and model finetuning, generated an incremental revenue of $50M per year.
+- Spearheaded the integration of cutting-edge models like VAE-GAN, Resnets, YOLO, GPT3 into business solutions, boosting retrieval and recommendation systems. This effort led to an annual revenue increase of $50M.
 
-- Directed data collection and curation efforts, collaborating with domain experts to train data labelers of various proficiencies and constructed proprietary datasets for multimodal content understanding. This included new outfit models, various search functionalities, similar product recommendations, AI-powered data labeling, and ad creative generation, managing a budget of approximately $400,000 to acquire new data.
+- Oversaw data collection and curation, training data labelers across skill levels and building proprietary datasets for multimodal understanding, covering outfit models, search, recommendations, AI labeling, and ad creation, with a $400,000 budget.
 
 - Engineered a recommendation [framework](./writing/posts/recsys-frameworks.md) and observability tools capable of processing over 350 million daily requests.
 
 - Created a framework for technology partner due diligence, focusing on incremental performance and data access improvements, guiding the adoption of impactful technologies.
 
-Throughout my career in the tech industry, I've had the privilege of working with both established organizations such as [Stitchfix](https://www.stitchfix.com/), [Meta](https://about.fb.com/), and [NYU](https://www.nyu.edu/), as well as a variety of innovative startups including [Rewind AI](https://rewind.ai/), [Naro](https://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](https://newcomputer.io/), [Modal Labs](https://modal.com/), and [Weights & Biases](https://wandb.ai/).
+Throughout my career in the tech industry, I've had the privilege of working with both established organizations such as [Stitchfix](https://www.stitchfix.com/), [Meta](https://about.fb.com/), and [NYU](https://www.nyu.edu/), as well startups including [Rewind AI](https://rewind.ai/), [Naro](https://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](https://newcomputer.io/), [Modal Labs](https://modal.com/), and [Weights & Biases](https://wandb.ai/).
 
-My roles in these collaborations have covered a wide range of topics such as personaliation and search, retrieval augmented generation, construction data, sales and marketing, infrastructure, finance, personal data management, data extraction, summarization, and even agent-based modeling.
+In these collaborations, I've tackled diverse areas including personalization, search, data generation and management, sales, marketing, infrastructure, finance, and agent-based modeling.
 
 ## What do I do?
 
@@ -46,25 +46,23 @@ For a flat monthly fee of $7,500, this option is perfect for founders and ventur
 
 #### Here’s what you get:
 
-- **Async Access:** Reach out to me anytime for advice or a second opinion on crucial decisions. I believe in open communication without the constraints of hourly billing. I trust that you will use this access judiciously.
-- **Strategic Guidance:** I’ll help you figure out the 80/20 and prioritize unblocking your impediments to success.
-- **Implemented Problem-Solving & Scaling:** Facilitating team growth and coaching your engineers to be more scientific and changing their thinking about AI and ML to be more efficient and quantified.
-- **Amplified Networking:** Help build your networks by leveraging my own. I’ll recommend experts in computer vision, LLM finetuning, Investing, and more.
-- **Long-Term Partnership:** Our collaboration can evolve to include an ongoing partnership for follow-on projects tailored to your specific needs as I get to know your business better.
-- **Framework:** Provide a structured approach based on my experiences to establish best practices that help your engineers become better scientists.
+- **Asyncronous Access & Strategic Guidance:** Anytime access for advice and strategic guidance to prioritize and overcome obstacles, fostering open communication without hourly constraints.
+- **Problem-Solving & Scaling:** Coaching for team growth and scientific thinking in AI/ML, aimed at making your engineering processes more efficient and quantified.
+- **Access to Experts:** Leverage my network to connect with specialists in computer vision, LLM finetuning, investing, and more, to build your business connections.
+- **Partnership & Framework Development:** Building a long-term partnership with follow-on project customization and providing a structured framework for best practices in AI/ML development.
 
 ### 2. Comprehensive Consulting
 
-This option is perfect for engineering teams looking to accelerate their AI development process, evaluate new technologies, improve their AI capabilities, and train their engineers to think about AI more strategically.
+Ideal for engineering teams aiming to fast-track AI development, assess new tech, enhance AI skills, and strategically upskill engineers.
 
 #### Tier 1: Research and Prototyping
 
 In addition to everything mentioned in strategic consulting, you receive:
 
-- **Ad Hoc Research:** Feasibility research into your company's problems with AI and ML. I’ll help your team build out ‘proof of concept’ like prompts, retrieval mechanisms or data extraction workflows and how to leverage them best.
-- **Data Flywheel:** Help you build a product and have instrumentation in place to not only ship a product but one that can improve over time.
-- **Implementation:** Bring implementation to production with the support of the engineering team.
-- **Written Artifacts:** I will provide detailed recommendations on how to improve your data flywheel, including how to improve your data collection, data labeling, and data quality.
+- **Ad Hoc Research & Proof of Concept:** Conduct feasibility studies on AI/ML challenges, assisting in developing initial prototypes, including prompts, retrieval systems, and data workflows.
+- **Data Flywheel Development:** Support in creating a product with the necessary tools for continuous improvement post-launch.
+- **Production Implementation:** Collaborate with the engineering team to transition projects from development to production.
+- **Optimization Strategies:** Offer comprehensive strategies to enhance data processes, focusing on collection, labeling, and quality for a robust data flywheel.
 
 #### Tier 2: Growth
 
@@ -76,13 +74,13 @@ In addition to the above, you receive:
 - **Mentorship:** From improving query systems to establishing effective metrics, I’ll work closely either on a team or one-on-one basis to enhance your engineer’s AI capabilities.
 - **Technical Writing & Ad Hoc R&D:** Produce written documents communicating decisions, methodologies, and technical blogs to improve lead generation.
 
-### Pricing
+### Pricing (Monthly)
 
 - **Async: Strategic - $7,500**
 - **Tier 1. Research and Prototyping - $25,000**
 - **Tier 2. Growth - $40,000**
 
-If you have further questions about these options or if these aren’t quite the right fit for your project, get in touch via [email](mailto:jason+hire@jxnl.co). I'm also open to discussing equity or success-based pricing models if that aligns better with your goals.
+If you have further questions about these options or if these aren’t quite the right fit for your project, get in touch via [email](mailto:jason+hire@jxnl.co). I'm also open to discussing equity  if that aligns better with your goals.
 
 ## Previous Clients
 
