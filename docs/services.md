@@ -2,21 +2,22 @@
 
 You can hire me by sending a _brief_ [email](mailto:jason+hire@jxnl.co) about what your team is looking for.
 
-## My Background
 
-Prior to my sabbatical, I was a Staff ML engineer and tech lead at Stitchfix, spearheading both the AI Algorithms Team and Direct to Consumer e-commerce initiatives, significantly aiding in technology adoption.
+??? tip "Click to see more of my background"
 
-- Spearheaded the integration of cutting-edge models like VAE-GAN, Resnets, YOLO, GPT3 into business solutions, boosting retrieval and recommendation systems. This effort led to an annual revenue increase of $50M.
+    Prior to my sabbatical, I was a Staff ML engineer and tech lead at Stitchfix, spearheading both the AI Algorithms Team and Direct to Consumer e-commerce initiatives, significantly aiding in technology adoption.
 
-- Oversaw data collection and curation, training data labelers across skill levels and building proprietary datasets for multimodal understanding, covering outfit models, search, recommendations, AI labeling, and ad creation, with a $400,000 budget.
+    - Spearheaded the integration of cutting-edge models like VAE-GAN, Resnets, YOLO, GPT3 into business solutions, boosting retrieval and recommendation systems. This effort led to an annual revenue increase of $50M.
 
-- Engineered a recommendation [framework](./writing/posts/recsys-frameworks.md) and observability tools capable of processing over 350 million daily requests.
+    - Oversaw data collection and curation, training data labelers across skill levels and building proprietary datasets for multimodal understanding, covering outfit models, search, recommendations, AI labeling, and ad creation, with a $400,000 budget.
 
-- Created a framework for technology partner due diligence, focusing on incremental performance and data access improvements, guiding the adoption of impactful technologies.
+    - Engineered a recommendation [framework](./writing/posts/recsys-frameworks.md) and observability tools capable of processing over 350 million daily requests.
 
-Throughout my career in the tech industry, I've had the privilege of working with both established organizations such as [Stitchfix](https://www.stitchfix.com/), [Meta](https://about.fb.com/), and [NYU](https://www.nyu.edu/), as well startups including [Rewind AI](https://rewind.ai/), [Naro](https://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](https://newcomputer.io/), [Modal Labs](https://modal.com/), and [Weights & Biases](https://wandb.ai/).
+    - Created a framework for technology partner due diligence, focusing on incremental performance and data access improvements, guiding the adoption of impactful technologies.
 
-In these collaborations, I've tackled diverse areas including personalization, search, data generation and management, sales, marketing, infrastructure, finance, and agent-based modeling.
+    Throughout my career in the tech industry, I've had the privilege of working with both established organizations such as [Stitchfix](https://www.stitchfix.com/), [Meta](https://about.fb.com/), and [NYU](https://www.nyu.edu/), as well startups including [Rewind AI](https://rewind.ai/), [Naro](https://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](https://newcomputer.io/), [Modal Labs](https://modal.com/), and [Weights & Biases](https://wandb.ai/).
+
+    In these collaborations, I've tackled diverse areas including personalization, search, data generation and management, sales, marketing, infrastructure, finance, and agent-based modeling.
 
 ## What do I do?
 
@@ -24,17 +25,18 @@ I provide consulting and advisory work for VCs and fast-growing startups interes
 
 For a select list of my clients, click [here](#previous-clients). 
 
-My expertise is most beneficial for projects that possess the following characteristics:
+!!! question "What does working with me look like?"
 
-- Has a strong engineering team that is looking to build more AI capabilities and needs outside help to get started and accelerate its AI strategy and development.
-- Wants to save time on research by leveraging my expertise to fast-track your team months ahead of schedule.
+    Here are some kinds of projects I can help with:
 
-## What does working with me look like?
+    * **Auditing**: Bring your team, and I'll assist in pinpointing the gaps in your AI roadmap and development process.
+    * **Prompt Prototyping**: Collaborate to create **prototype prompts** and **extractions** tailored to your needs.
+    * **Launch**: As you're launching, ensure observability is established, setting you on the path to amass the right data for a robust data flywheel.
+    * **Coaching**: Offer guidance to elevate your team's performance.
+    * **Product Vision**: Collaborate to create a product vision that aligns with your company's goals.
 
-- We'll meet to iscuss your company's goals and challenges.
-- Draft a proposal outlining our objectives, metrics, values, if applicable.
-- Connect you with a suitable expert from my network if a different expertise is needed.
-- Following our collaboration, I will compile a comprehensive report detailing your company's challenges, opportunities, vision, and strategic recommendations for moving forward.
+    Make these decisions with someone whos done it before.  Shoot me an [email](mailto:jason+hire@jxnl.co) tell me what problems you're facing and we can set up a time to chat.
+
 
 ## What do I offer?
 
@@ -74,17 +76,16 @@ In addition to the above, you receive:
 - **Mentorship:** From improving query systems to establishing effective metrics, I’ll work closely either on a team or one-on-one basis to enhance your engineer’s AI capabilities.
 - **Technical Writing & Ad Hoc R&D:** Produce written documents communicating decisions, methodologies, and technical blogs to improve lead generation.
 
-### Pricing (Monthly)
+### Pricingx
 
-- **Async: Strategic - $7,500**
-- **Tier 1. Research and Prototyping - $25,000**
-- **Tier 2. Growth - $40,000**
+- Async: Strategic - $7,500
+- Tier 1: $25,000
+- Tier 2: $40,000
 
-If you have further questions about these options or if these aren’t quite the right fit for your project, get in touch via [email](mailto:jason+hire@jxnl.co). I'm also open to discussing equity  if that aligns better with your goals.
+These are monthly prices, and I'm open to discussing equity if that aligns better with your goals.
 
+If you have further questions about these options or if these aren’t quite the right fit for your project, get in touch via [email](mailto:jason+hire@jxnl.co). 
 ## Previous Clients
-
-These are clients I've worked with recently to augment their retrieval systems, agent infrastructure, and data flywheels.
 
 - [Rewind AI](http://rewind.ai/): Rewind AI is a personal memory assistant that helps you remember, organize, and navigate your life.
 - [Naro](http://narohq.com/): Naro sits in the background, using contextual clues to proactively select the right content and messaging for each customer conversation, from emails to meetings.
