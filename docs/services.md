@@ -24,7 +24,9 @@ I've spearheaded work in applying new AI algorithms at Stitchfix from 2018-2023,
 
 ## What do I do?
 
-I provide consulting and advisory work for VCs and fast-growing startups interested in applying machine learning and AI. If you want to learn more about my work, you can browse my [resume](https://jxnl.co/) or [email](mailto:jason+hire@jxnl.co) me.
+I provide consulting and advisory work (solo) for VCs and fast-growing startups interested in applying machine learning and AI. If you want to learn more about my work, you can browse my [resume](https://jxnl.co/) or [email](mailto:jason+hire@jxnl.co) me.
+
+Currently I focus most of my time in retrieval-augmented generation, query understanding, prompt engineering, embedding finetuning, and MLOps observability
 
 For a select list of my clients, click [here](#previous-clients). 
 
