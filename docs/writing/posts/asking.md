@@ -12,9 +12,9 @@ authors:
 
 > How can I help? Do you know anyone that could use my help? Do you know anyone that could use my services?
 
-These are all examples of exceptionally low agency questions. Not only is it difficult to answer the question, You subject your victim to a lot of additional work and thinking in their busy day.
+These are all examples of exceptionally low agency questions. Not only is it difficult to answer the question, you subject your victim to a lot of additional work and thinking in their busy day.
 
-It's like seeing your mom sweating away busy cooking chopping vegetables and asking "How can I help?" It's a lot of work to manage you, and it's a lot of work to think about what you can do. Now she has to consider what's in your ability, what the unfinished work is, and prioritize that versus the other.
+It's like seeing your mom sweating away busy cooking, chopping vegetables and asking "How can I help?" It's a lot of work to manage you, and it's a lot of work to think about what you can do. Now she has to consider what's in your ability, what the unfinished work is, and prioritize that versus the other.
 
 This post is my simple framework on how I ask.
 
@@ -24,9 +24,9 @@ This post is my simple framework on how I ask.
 
 The trick is simple:
 
-1. Complement the person you're asking by qualifying them.
+1. Complement the person you're asking by qualifying them
 2. Ask a yes or no question that is high effort for them as follow up
-3. Then ask a fallback question that is easy to say yes that requires no follow up.
+3. Then ask a fallback question that is easy to say yes that requires no follow up
 
 ### Ask for a referral
 
@@ -41,7 +41,7 @@ It's pretty simple:
 1. Do the work, and think about who they know.
 2. Ask for a yes or no answer, on a higher leverage question.
 3. Make the fallback question a yes or no answer that is effortless for them to answer.
-4. 'Don't fret, it's already happening. I'm just asking for permission'
+4. 'Don't fret, it's already happening. I'm just asking for permission.'
 
 That's basically it. You do the actual work and help them reduce the cognitive load so that it is easier and easier for them to say yes.
 
@@ -57,15 +57,15 @@ To hit my word limits for the day, I've also added a couple of rants on just gen
 
     I'm very busy. I do not want to be sending emails back and forth. I do not want to be reading a five-paragraph essay in an email. But I want to be effective.
 
-    There's definitely, you know, a risk that people think you're manipulating them with comments.  Or...  There's a lack of reciprocity. But just like with everything, it's a balance.
+    There's definitely a risk that people think you're manipulating them with comments.  Or...  There's a lack of reciprocity. But just like with everything, it's a balance.
 
 ### I hate asking 'When are you free?'
 
 Making them do work is the worst thing you can do if you actually want something from them. Here's a simple example on how I set up meetings with people for the first time.
 
-I think sometimes people really think that they're being more considerate by asking them when they're free But what this actually means is now they have to go check their calendar, collect some times, and then email you again. Only for you to accept one of the answers. And then for you to either send an invite or for them. It's a lot of work.
+I think sometimes people really think that they're being more considerate by asking them when they're free but what this actually means is now they have to go check their calendar, collect some times, and then email you again. Only for you to accept one of the answers. And then for you to either send an invite or for them. It's a lot of work.
 
-Now, I want someone to ask for me to chat. I simply link my cal.com, and ask them to pick a time. It's a lot less time for everyone involved and the time it takes to book a meeting goes from 2-3 back and forths to About 5 minutes after they opened the email. It is a little bit less personal, but a lot more effective.
+Now, I want someone to ask for me to chat. I simply link my cal.com, and ask them to pick a time. It's a lot less time for everyone involved and the time it takes to book a meeting goes from 2-3 back and forths to about 5 minutes after they opened the email. It is a little bit less personal, but a lot more effective.
 
 ### I hate asking 'How can I help?'
 
@@ -77,6 +77,6 @@ Here's how I try to be a higher agency:
 2. "I see that you're trying to solve this problem. Would you like me to recommend someone I know?"
 3. "I saw that you were reading this book. If you like this, I think you'd love that."
 
-Instead of saying "how can I help?" It would be much easier if you just said "Would you like it if I did this for you? Let me know if there's anything else."
+Instead of saying "How can I help?" it would be much easier if you just said "Would you like it if I did this for you? Let me know if there's anything else."
 
-Just by putting in the minimum effort of thinking about what problem they are facing will likely show you Exactly how you can try to help.
+Just by putting in the minimum effort of thinking about what problem they are facing will likely show you exactly how you can try to help.
