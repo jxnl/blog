@@ -64,7 +64,7 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 - Strategic Consulting - $7,500
 - Comprehensive Consulting: $25,000
-- Custom Projects, Workshops, etc. : Reach out for a quote
+- Custom: Starting at $35,000, [reach out](mailto:jason+hire@jxnl.co) if you have an extraordinary project or need.
 
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
 
