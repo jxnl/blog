@@ -44,7 +44,7 @@ I offer two types of services, depending on your needs:
 
 I will help you cut through the bloat of implementing an AI strategy to improve your team's productivity and, in turn, help you grow revenue and increase market cap. Reach out via [email](mailto:jason+hire@jxnl.co) to get started.
 
-#### Here’s what you get
+**Here’s what you get:**
 
 - **On-Demand Guidance:** Asynchronous access, email, slack, adhoc meetings for strategic advice and overcoming challenges.
 - **Growth & Efficiency:** Enhance your team's skills and streamline AI/ML processes.
