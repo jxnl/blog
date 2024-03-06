@@ -28,7 +28,7 @@ I provide consulting and advisory work (solo) for VCs and fast-growing startups 
 
 Currently I focus most of my time in retrieval-augmented generation, query understanding, prompt engineering, embedding finetuning, and MLOps observability
 
-For a select list of my clients, click [here](#previous-clients). 
+For a select list of my clients, click [here](#previous-clients).
 
 !!! question "What does working with me look like?"
 
@@ -50,7 +50,8 @@ I offer two types of services, depending on your needs:
 
 I will help you cut through the bloat of implementing an AI strategy to improve your team's productivity and, in turn, help you grow revenue and increase market cap.
 
-#### Here’s what you get:
+#### Here’s what you get
+
 - **Asynchronous Access & Strategic Guidance:** Anytime access for advice and strategic guidance to prioritize and overcome obstacles, fostering open communication without hourly constraints.
 - **Problem-Solving & Scaling:** Coaching for team growth and scientific thinking in AI/ML, aimed at making your engineering processes more efficient and quantified.
 - **Access to Experts:** Leverage my network to connect with specialists in computer vision, LLM fine-tuning, investing, and more, to build your business connections.
@@ -89,6 +90,7 @@ Fifty percent is due upon acceptance, and the balance is due 30 days later. Afte
 These are monthly prices, and I'm open to discussing equity if that aligns better with your goals.
 
 If you have further questions about these options or if these aren’t quite the right fit for your project, get in touch via [email](mailto:jason+hire@jxnl.co). 
+
 ## Previous Clients
 
 - [Rewind AI](http://rewind.ai/): Rewind AI is a personal memory assistant that helps you remember, organize, and navigate your life.
