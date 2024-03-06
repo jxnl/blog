@@ -8,7 +8,7 @@ I'm not your typical consultant. For better or for worse, I've been in the trenc
 
 I've spearheaded work in applying new AI algorithms at Stitchfix from 2018-2023, increasing revenue by $50M, managed a $400,000 data curation budget, and developed high-capacity recommendation frameworks which improved personalization and observability of our overall infrastructure.
 
-__I've been using multimodal embeddings for search and personalization since 2016...__
+*I've been using multimodal embeddings for search and personalization since 2016...*
 
 ??? note "More Background"
 
