@@ -4,11 +4,11 @@ Currently working as an independent consultant. I use my expertise in recommenda
 
 If you have general questions for me trying something new, so just [make an issue](https://github.com/jxnl/blog/issues) and tag it with `question`. I'll try to answer it in a blog post.
 
-## Support
+## [Advisory or Consulting Services](./services.md)
 
-I want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl). I don't want to start a substack, but I do want to write more. So this will fund my morning coffee and tea.
+IF you want to work with me, I am available for consulting and advisory services. I can help you with your recommendation systems, AI engineering, and data science needs.
 
-## Writing
+## [Writing](./writing/index.md)
 
 - [Advice for young people](./writing/posts/advice.md)
 - [What I learned from trying](./writing/posts/learning.md)
@@ -20,6 +20,8 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 
 ## AI Engineering
 
+- [Levels of Complexity in RAG](./writing/posts/level-of-rag.md)
+- [Format your own Prompts](./writing/posts/strings.md)
 - [How to ship an MVP for AI applications](./writing/posts/mvp.md)
 - [Free course on Weights and Biases: Structured Output](https://www.wandb.courses/courses/steering-language-models)
 - [5 Questions to ask yourself as an AI Engineer](./writing/posts/stochastic-software.md)
