@@ -127,8 +127,8 @@ nav:
     - Books: 'books.md'
   - Writing:
     - "writing/index.md"
-  - Applied AI Consulting:
-    - Services: "services.md"
+  - Services:
+    - Applied AI Consulting: "services.md"
   - Contact: 'contact.md'
   
 plugins:
