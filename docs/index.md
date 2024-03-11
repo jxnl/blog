@@ -20,7 +20,7 @@ IF you want to work with me, I am available for consulting and advisory services
 
 ## AI Engineering
 
-- [Levels of Complexity in RAG](./writing/posts/level-of-rag.md)
+- [Levels of Complexity in RAG](./writing/posts/levels-of-rag.md)
 - [Format your own Prompts](./writing/posts/strings.md)
 - [How to ship an MVP for AI applications](./writing/posts/mvp.md)
 - [Free course on Weights and Biases: Structured Output](https://www.wandb.courses/courses/steering-language-models)
