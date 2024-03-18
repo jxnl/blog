@@ -124,7 +124,10 @@ markdown_extensions:
 nav:
   - Home: 
     - Introductions: 'index.md'
+    - Applied AI Consulting: "services.md"
+    - Writing: "writing/index.md"
     - Books: 'books.md'
+    - Contact: 'contact.md'
   - Writing:
     - "writing/index.md"
   - Services:
