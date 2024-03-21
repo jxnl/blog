@@ -20,6 +20,8 @@ Technological advancements have always been met with a mix of skepticism and fea
 | Printing Press | Threatening manual script work           |
 | Written Word | Weakening human memory                    |
 
+<!-- more -->
+
 However, it's crucial to understand the effect media has, especially new media. [Marshall McLuhan's Tetrad](https://en.wikipedia.org/wiki/Tetrad_of_media_effects), a useful tool for analyzing the impact of new technologies on media, applies four laws that help explain the complex relationship between technology and society.
 
 The tetrad consists of four questions.
