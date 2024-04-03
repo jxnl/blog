@@ -85,7 +85,7 @@ Our problem is so unique that it cannot be handled by a search index and a relat
 
 There's no need to understand the different types of documents that we're ingesting. How differnet could marketting content, construction documnets, and energy bills be? Just becase some have images, some have tables, and some have text doesn't mean we should treat them differently. We its all text, and so an LLM should just be able to handle it.
 
-## We should not have to build special injestion pipelines
+## We should not have to build special ingestion pipelines
 
 GPT-4 has solve all of data processing so if i handle a photo album, a pdf, and a word doc, it should be able to handle any type of document. There's no need to build special injestion pipelines for different types of documents. We should just assume that the LLM will be able to handle it. I shouldn't dont even have to think about what kinds of questions I need to answer. I should just be able to ask it anything and it should be able to answer it.
 
