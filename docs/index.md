@@ -30,6 +30,7 @@ IF you want to work with me, I am available for consulting and advisory services
 - [Rag is more than embeddings](./writing/posts/rag.md)
 - [Flight, a framework for building and executing pipelines](./writing/posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./writing/posts/llmops.md)
+- [Retrieval is more than pure chance](./writing/posts/retrieval-is-more-than-pure-chance.md)
 
 ## Talks and Podcasts
 

@@ -28,6 +28,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 - [Rag is more than embeddings](./posts/rag.md)
 - [Flight, a framework for building and executing pipelines](./posts/recsys-frameworks.md)
 - [LLM Observability is just plain observability](./posts/llmops.md)
+- [Retrieval is more than pure chance](./posts//retrieval-is-more-than-pure-chance.md)
 
 ## Talks and Podcasts
 
