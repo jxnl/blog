@@ -3,7 +3,10 @@ draft: False
 date: 2024-06-01
 categories:
   - RAG
+  - Synthethic Data
+  - LLM
 authors:
+  - ivanleomk
   - jxnl
 ---
 
@@ -526,14 +529,147 @@ This gives us the output as seen below. It makes sense to have a MRR@3/NDCG@3 at
 
 ## Putting the Pieces together
 
-TODO: Write the remaining chunk of how to implement the async batching of queries, calculate the relevant results and so on.
+Now that we've implemented all of the pieces, let's start testing our semantic search retrieval against a set of given synthethic queries. Let's first start by writing a function to get chunks that we previously embedded from our `lancedb` database. 
+
+We can do this by taking advantage of the `to_batches()` method that the `LanceTable` provides. This returns a `pyArrow` dataset that provides a`RecordBatch` object which can be consumed as an iterator.
+
+```python
+def fetch_chunks(table: LanceTable, n=int) -> Iterable[TextChunk]:
+    for batch in table.to_lance().to_batches():
+        chunk_ids = batch["chunk_id"]
+        text_arr = batch["text"]
+        for id, text in zip(chunk_ids, text_arr):
+            yield TextChunk(chunk_id=str(id), text=str(text))
+```
+
+??? info "What's in a batch?"
+    The `RecordBatch` object is a `PyArrow` specific object and returns the specific properties of each row. We therefore need to zip the chunk_ids and the texts that we get from the batch together to match the chunk_id to its specific text paragraph.
+
+    Once we do so, we convert the `StringScalar` object into its string representation so that we can use it in our query method
+
+This in turn gives us a generator containing `TextChunk` objects that we can consume like any other normal list. Once we've fetched the relevant chunks, we need to generate the relevant synthethic questions. We can use our `generate_questions` that we defined earlier to batch the generation of these questions easily with a small modification.
+
+This time, we'll set it to accept the `TextChunk` object instead so that we always get the generated question with the original chunk information. This helps prevent any potential errors arising from mixing up the generated question with the wrong chunk.
+
+```python
+async def generate_question_answer_pair(
+    chunk: TextChunk,
+) -> tuple[QuestionAnswerPair, TextChunk]:
+    return (
+        await client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "You are a world class algorithm that excels at generating great questions that can be only answered by a specific text that will soon be passed to you. ",
+                },
+                {
+                    "role": "assistant",
+                    "content": f"Generate a question and answer pair that uses information and content that is specific to the following text chunk, including a chain of thought:\n\n{chunk}",
+                },
+            ],
+            response_model=QuestionAnswerPair,
+        ),
+        chunk,
+    )
+
+async def generate_questions(
+    chunks: Iterable[TextChunk],
+) -> List[tuple[QuestionAnswerPair, TextChunk]]:
+    coros = [generate_question_answer_pair(chunk) for chunk in chunks]
+    return await asyncio.gather(*coros)
+```
+
+We can then just recycle our original `get_response` methods that we used to query our database along with the evaluation metrics we defined as seen in the code below.
+
+```python
+db = connect("./db")
+chunk_table = db.open_table("pg")
+chunks = fetch_chunks(chunk_table)
+questions = run(generate_questions(chunks))
+
+evals = {}
+SIZES = [3, 10, 25]
+for size in SIZES:
+    evals[f"RR@{size}"] = slice_predictions_decorator(size)(calculate_mrr)
+
+for size in SIZES:
+    evals[f"NDCG@{size}"] = slice_predictions_decorator(size)(calculate_ndcg)
+
+results = []
+for question in questions:
+    qa_pair, chunk = question
+    responses = get_response("./db", "pg", qa_pair.question, limit=25)
+    chunk_ids = [retrieved_chunk.chunk_id for retrieved_chunk in responses]
+    results.append(
+        {metric: fn(chunk.chunk_id, chunk_ids) for metric, fn in evals.items()}
+    )
+
+df = pd.DataFrame(results)
+console = Console()
+
+avg = df.mean()
+console.print(avg)
+```
+
+This in turn gives the following result when we run it against all the chunks in our database
+
+| Metric | MRR@3 | MRR@10 | MRR@25 | NDCG@3 | NDCG@10 | NDCG@25 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Score | 0.88 | 0.89 | 0.89 | 0.90 | 0.91 | 0.92 |
+
+This is huge! We've just managed to generate and bootstrap some synthethic data in order to test how good semantic search works with our embedded data.
 
 ### Results
 
-TODO: Look at the nicely formatted results and maybe identify some general trends
+If we look at the results, we can see that on average, we get the most relevant results within the top 3 results. This is great because it means that on average, we can expect to get good results with our synthethic search.
+
+We can use the `Rouge` metric to evaluate the first 30 questions that we've generated. This is done using the `rouge` package which we can install with 
+
+```
+pip install rouge
+```
+
+We can then modify our earlier script logic as seen below to calculate the `Rouge` score for unigrams, bigrams and the longest common subsequence.
+
+```python
+from rouge import Rouge
+
+db = connect("./db")
+chunk_table = db.open_table("pg")
+chunks = fetch_chunks(chunk_table, 30)
+questions = run(generate_questions(chunks))
+
+rouge = Rouge()
+
+results = []
+for question in questions:
+    qa_pair, chunk = question
+    scores = rouge.get_scores(qa_pair.question, chunk.text)[0]
+    scores = {
+        f"{metric}-{key}": value
+        for metric, sub_dict in scores.items()
+        for key, value in sub_dict.items()
+    }
+    results.append({**scores, "question": qa_pair.question, "text": chunk.text})
+
+df = pd.DataFrame(results)
+console = Console()
+avg = df.select_dtypes(include=["number"]).mean()
+```
+
+We want to focus on the precision here - which indicates the overlap between the generated question and the original text chunk.
+
+| Metric | rouge-1-p | rouge-2-p | rouge-l-p |
+| --- | --- | --- | --- |
+| Value | 0.51 | 0.20 | 0.46 |
+
+We can see that when it comes to unigrams and longest common subsequences, we have a ROUGE score of ~50% for both. This indicates that there is a good amount of structural or sentence-level similarity between the question and the original text chunk.
 
 ## Conclusion
 
-TODO: Look at some improvements (Eg. randomly select two chunks, find a chunk that summarizes or look at a new way of question answering ( What is the difference in opinion over the last 3 years for topic X))
+In this article, we walked you through a simple example of how to generate and evaluate the quality of your retrieval algorithm using semantic search. We also showcased some short comings of the approach, in particular, the high overlap between the generated questions and the original text chunks which might explain the high performance of the embedding search.
 
-TODO: Write nice conclusion
+There's a lot of room for improvement in terms of the chunking, generation of questions and the retrieval. Some easy ways are to generate metadata when doing data ingestion, generating questions using multiple chunks or even combining simple semantic search with BM25. 
+
+In future articles, we'll explore how to explore the results in greater detail and iteratively improve on different aspects of your RAG application.
