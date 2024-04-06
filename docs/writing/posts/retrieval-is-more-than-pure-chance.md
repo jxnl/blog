@@ -7,7 +7,7 @@ authors:
   - jxnl
 ---
 
-## Introduction
+## Coldstarting Rag Evaluations
 
 Without a method to evaluate the quality of your RAG application, we might as well be leaving its performance to pure chance. In this article, we'll walk you through a simple example to demonstrate how easy it is to get started.
 
@@ -23,6 +23,16 @@ pip install instructor openai scikit-learn rich lancedb tqdm
 ```
 
 ## Generating Evaluation Data
+
+
+??? note "Set your OPENAI_API_KEY"
+
+    Before proceeding with the rest of this tutorial, make sure to set your `OPENAI_API_KEY` inside your shell. You can do so using the command
+
+    ```bash
+    >> export OPENAI_API_KEY=<api key>
+    ```
+
 
 Given a text-chunk, we can use Instructor to generate a corresponding question using the content of the question. This means that when we make a query using that question, our text chunk is ideally going to be the first source returned by our retrieval algorithm.
 
@@ -75,7 +85,7 @@ from typing import List
 from rich import table
 from tqdm.asyncio import tqdm_asyncio as asyncio
 
-client = instructor.patch(AsyncOpenAI())
+client = instructor.from_openai(mode=instructor.Mode.TOOLS)
 
 
 class QuestionAnswerPair(BaseModel):
@@ -121,107 +131,67 @@ Note here that we're generating our questions using `async` functions. These all
 We can see the results of our function by running it using the code snippet below
 
 ```python
-if __name__ == "__main__":
-    chunk = "The companies at the Google end of the continuum are called startups\
-            when they're young. The reason I know about them is that my wife Jessica\
-            and I started something called Y Combinator that is basically a startup\
-            factory. Since 2005, Y Combinator has funded over 4000 startups.\
-            So we know exactly what you need to start a startup, because we\
-            've helped people do it for the last 19 years."
+chunk = "The companies at the Google end of the continuum are called startups\
+        when they're young. The reason I know about them is that my wife Jessica\
+        and I started something called Y Combinator that is basically a startup\
+        factory. Since 2005, Y Combinator has funded over 4000 startups.\
+        So we know exactly what you need to start a startup, because we\
+        've helped people do it for the last 19 years."
 
-    result = run(generate_question_answer_pair(chunk))
-    print(result.question)
+result = run(generate_question_answer_pair(chunk))
+print(result.model_dump_json(indent=2))
 ```
 
-This in turn gives us a sample question of `What is the name of the startup factory founded by the author and his wife, and how many startups has it funded since 2005?`.
+which in turn produces the output of
+
+```json
+{
+  "question": "What is the name of the startup factory founded by the speaker and their wife in 2005?",
+  "answer": "Y Combinator"
+}
+```
 
 ### Running our Function
 
 Now that we've defined a data model and function to extract questions from a chunk, we can use a simple wrapper function to generate multiple questions from each of our source chunks in parallel. We can do so using the snippet below.
 
 ```python
+from typing import List
+from tqdm.asyncio import tqdm_asyncio as asyncio
+
 async def generate_questions(chunks: List[str]):
     coros = [generate_question_answer_pair(chunk) for chunk in chunks]
     return await asyncio.gather(*coros)
 ```
 
-In this case, we've chosen to use `tqdm`'s asyncio module instead of the native `asyncio` module because of two main reasons 
+??? info "Why use Tqdm for async?"
+    In this case, we've chosen to use `tqdm`'s asyncio module instead of the native `asyncio` module because of two main reasons 
 
-1. `tqdm` offers an easy way to monitor the result of our question generation with it's native progress bar
-2. By importing it in as `asyncio`, we can easily swap it out down the line for the original asyncio library if our needs change
+    1. `tqdm` offers an easy way to monitor the result of our question generation with it's native progress bar
+    2. By importing it in as `asyncio`, we can easily swap it out down the line for the original asyncio library if our needs change
 
-If you want to extend this to a larger batch, consider using the `tenacity` library. With a simple `@retry` decorator, it provides useful features such as exponential backoff, error handling and maximum retries. 
+    If you want to extend this to a larger batch, consider using the `tenacity` library. With a simple `@retry` decorator, it provides useful features such as exponential backoff, error handling and maximum retries. `
 
 Let's see how our function scales out to more chunks. We'll be using the `rich` library to format the generated output.
 
 ```python
-if __name__ == "__main__":
-    chunks = [
-        "The companies at the Google end of the continuum are called startups when they're young. The reason I know about them is that my wife Jessica and I started something called Y Combinator that is basically a startup factory. Since 2005, Y Combinator has funded over 4000 startups. So we know exactly what you need to start a startup, because we've helped people do it for the last 19 years.",
-        "All you can know when you start working on a startup is that it seems worth pursuing. You can't know whether it will turn into a company worth billions or one that goes out of business. So when I say I'm going to tell you how to start Google, I mean I'm going to tell you how to get to the point where you can start a company that has as much chance of being Google as Google had of being Google.",
-        "Those of you who are taking computer science classes in school may at this point be thinking, ok, we've got this sorted. We're already being taught all about programming. But sorry, this is not enough. You have to be working on your own projects, not just learning stuff in classes. You can do well in computer science classes without ever really learning to program. In fact you can graduate with a degree in computer science from a top university and still not be any good at programming. That's why tech companies all make you take a coding test before they'll hire you, regardless of where you went to university or how well you did there. They know grades and exam results prove nothing.",
-    ]
+from asyncio import run
 
-    questions: List[QuestionAnswerPair] = run(generate_questions(chunks))
+chunks = [
+    "The companies at the Google end of the continuum are called startups when they're young. The reason I know about them is that my wife Jessica and I started something called Y Combinator that is basically a startup factory. Since 2005, Y Combinator has funded over 4000 startups. So we know exactly what you need to start a startup, because we've helped people do it for the last 19 years.",
+    "All you can know when you start working on a startup is that it seems worth pursuing. You can't know whether it will turn into a company worth billions or one that goes out of business. So when I say I'm going to tell you how to start Google, I mean I'm going to tell you how to get to the point where you can start a company that has as much chance of being Google as Google had of being Google.",
+    "Those of you who are taking computer science classes in school may at this point be thinking, ok, we've got this sorted. We're already being taught all about programming. But sorry, this is not enough. You have to be working on your own projects, not just learning stuff in classes. You can do well in computer science classes without ever really learning to program. In fact you can graduate with a degree in computer science from a top university and still not be any good at programming. That's why tech companies all make you take a coding test before they'll hire you, regardless of where you went to university or how well you did there. They know grades and exam results prove nothing.",
+]
 
-    table = Table(title="Questions and Sources", show_lines=True)
-    table.add_column(
-        "Question", style="magenta", justify="left", no_wrap=False, max_width=100
-    )
-    table.add_column(
-        "Original Source", style="cyan", justify="left", no_wrap=False, max_width=100
-    )
-
-    for question, chunk in zip(questions, chunks):
-        table.add_row(question.question, chunk)
-
-    console = Console()
-    console.print(table, justify="center")
+questions: List[QuestionAnswerPair] = run(generate_questions(chunks))
 ```
+This in turn gives us the following questions when we generate them in parallel.
 
-This in turn gives us a nicely formated table as seen below
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ Question                       ┃ Original Source                                    ┃
-┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
-│ What is the name of the        │ The companies at the Google end of the continuum   |
-│ startup factory mentioned in   │ are called startups when they're young. The reason |
-│ the text that has funded over  │ I know about them is that my wife Jessica and I    |
-│ 4000 startups since 2005?      │ started something called Y Combinator that is      |
-|                                │ basically a startup factory. Since 2005, Y         |
-|                                │ Combinator has funded over 4000 startups. So we    |
-|                                │ know exactly what you need to start a startup,     |
-|                                │ because we've helped people do it for the last 19  |
-|                                │ years.                                             |
-├────────────────────────────────┼────────────────────────────────────────────────────┤                  
-│ What does the text suggest     │ All you can know when you start working on a       |
-│ about starting a startup and   │ startup is that it seems worth pursuing. You can't |
-│ the uncertainty of its         │ know whether it will turn into a company worth     |
-│ success?                       │ billions or one that goes out of business. So when |
-|                                │ I say I'm going to tell you how to start Google, I |
-|                                │ mean I'm going to tell you how to get to the point |
-|                                │ where you can start a company that has as much     |
-|                                │ chance of being Google as Google had of being      |
-|                                │ Google.                                            |
-├────────────────────────────────┼────────────────────────────────────────────────────┤                  
-│ Why do tech companies make     │ Those of you who are taking computer science       |
-│ candidates take a coding test  │ classes in school may at this point be thinking,   |
-│ before hiring them?            │ ok, we've got this sorted. We're already being     |
-|                                │ taught all about programming. But sorry, this is   |
-|                                │ not enough. You have to be working on your own     |
-|                                │ projects, not just learning stuff in classes. You  |
-|                                │ can do well in computer science classes without    |
-|                                │ ever really learning to program. In fact you can   |
-|                                │ graduate with a degree in computer science from a  |
-|                                │ top university and still not be any good at        |
-|                                │ programming. That's why tech companies all make    |
-|                                │ you take a coding test before they'll hire you,    |
-|                                │ regardless of where you went to university or how  |
-|                                │ well you did there. They know grades and exam      |
-|                                │ results prove nothing.                             |
-└────────────────────────────────┴────────────────────────────────────────────────────┘
-```
+| Question | Original Source |
+| --- | --- |
+| What is the name of the startup factory mentioned in the text that has funded over 4000 startups since 2005? | The companies at the Google end of the continuum are called startups when they're young. The reason I know about them is that my wife Jessica and I started something called Y Combinator that is basically a startup factory. Since 2005, Y Combinator has funded over 4000 startups. So we know exactly what you need to start a startup, because we've helped people do it for the last 19 years. |
+| What does the text suggest about starting a startup and the uncertainty of its success? | All you can know when you start working on a startup is that it seems worth pursuing. You can't know whether it will turn into a company worth billions or one that goes out of business. So when I say I'm going to tell you how to start Google, I mean I'm going to tell you how to get to the point where you can start a company that has as much chance of being Google as Google had of being Google. |
+| Why do tech companies make candidates take a coding test before hiring them? | Those of you who are taking computer science classes in school may at this point be thinking, ok, we've got this sorted. We're already being taught all about programming. But sorry, this is not enough. You have to be working on your own projects, not just learning stuff in classes. You can do well in computer science classes without ever really learning to program. In fact you can graduate with a degree in computer science from a top university and still not be any good at programming. That's why tech companies all make you take a coding test before they'll hire you, regardless of where you went to university or how well you did there. They know grades and exam results prove nothing. |
 
 We can see that for each individual chunk of text that we have, we now have a well formatted question that is directly targetted at the content of the text itself. 
 
@@ -230,14 +200,6 @@ We can see that for each individual chunk of text that we have, we now have a we
 Now that we've written a simple function to generate questions from chunks, let's generate some text chunks from some Paul Graham essays. We've included 5 essays inside the `data` folder alongside our code at `/examples/synthethic-evals`. A good fit for this is the `lancedb` library which natively supports Pydantic.
 
 This gives us a Vector Database which we can define entirely using `Pydantic` base models that also handles the batching for us out of the box nicely.
-
-??? note "Set your OPENAI_API_KEY"
-
-    Before proceeding with the rest of this tutorial, make sure to set your `OPENAI_API_KEY` inside your shell. You can do so using the command
-
-    ```bash
-    >> export OPENAI_API_KEY=<api key>
-    ```
 
 ### Data Models
 
@@ -271,76 +233,77 @@ class TextChunk(LanceModel):
     chunk_id: str
     text: str = openai.SourceField()
     vector: Vector(openai.ndims()) = openai.VectorField(default=None)
-
-
-if __name__ == "__main__":
-    db_path = "./db"
-    table_name = "pg"
-    db = connect(db_path)
-    db_table = db.open_table(table_name)
 ```
 
-This creates a new folder for us at the path `./db` which will store all of our folder metadata and data.
-
-### Chunking our Data
-
-Now that we have created a new `lancedb` database locally, we need to do two things
-
-1. Read in the text data from the individual `.md` files containing the essays
-2. Split the text data by `\n`, generate an embedding for each and a corresponding hash using the `hashlib` library
-3. Split the chunks into batches and insert it into our lancedb in batches
-
-We can perform the first part by writing two simple iterators - one that returns a list of all the `.md` files in a directory and another that generates chunks from these files. This is relatively simple in python.
+This creates a new folder for us at the path `./db` which will store all of our folder metadata and data when we run the code snippet below
 
 ```python
-from lancedb.embeddings import get_registry
-from lancedb.pydantic import LanceModel, Vector
-from lancedb import connect
-from typing import Iterable, List
-from pathlib import Path
-import hashlib
-from tqdm import tqdm
-
-def read_files(path: str) -> Iterable[str]:
-    path_obj = Path(path)
-    for file in path_obj.rglob(f"*.md"):
-        yield file
-
-
-def generate_chunks(docs: Iterable[List[Path]]):
-    for doc in docs:
-        with open(doc, "r", encoding="utf-8") as file:
-            content = file.read()
-            for chunk in content.split("\n"):
-                if not chunk:
-                    continue
-                yield TextChunk(
-                    text=chunk, 
-                    chunk_id=hashlib
-                            .md5(chunk.encode("utf-8"))
-                            .hexdigest()
-                )
+db_path = "./db"
+table_name = "pg"
+db = connect(db_path)
+db_table = db.open_table(table_name)
 ```
 
-We can then batch each of these individual group of text chunks by using another iterator as 
+We chunk the data in a general way by splitting on newlines and then inserting into our lancedb database.
 
-```python
-def batch_items(chunks: List[TextChunk], batch_size: int = 20):
-    batch = []
-    for chunk in chunks:
-        batch.append(chunk)
-        if len(batch) == batch_size:
+??? info "Chunking Our Data"
+
+    Now that we have created a new `lancedb` database locally, we need to do two things
+
+    1. Read in the text data from the individual `.md` files containing the essays
+    2. Split the text data by `\n`, generate an embedding for each and a corresponding hash using the `hashlib` library
+    3. Split the chunks into batches and insert it into our lancedb in batches
+
+    We can perform the first part by writing two simple iterators - one that returns a list of all the `.md` files in a directory and another that generates chunks from these files. This is relatively simple in python.
+
+    ```python
+    from lancedb.embeddings import get_registry
+    from lancedb.pydantic import LanceModel, Vector
+    from lancedb import connect
+    from typing import Iterable, List
+    from pathlib import Path
+    import hashlib
+    from tqdm import tqdm
+
+    def read_files(path: str) -> Iterable[str]:
+        path_obj = Path(path)
+        for file in path_obj.rglob(f"*.md"):
+            yield file
+
+
+    def generate_chunks(docs: Iterable[List[Path]]):
+        for doc in docs:
+            with open(doc, "r", encoding="utf-8") as file:
+                content = file.read()
+                for chunk in content.split("\n"):
+                    if not chunk:
+                        continue
+                    yield TextChunk(
+                        text=chunk, 
+                        chunk_id=hashlib
+                                .md5(chunk.encode("utf-8"))
+                                .hexdigest()
+                    )
+    ```
+
+    We can then batch each of these individual group of text chunks by using another iterator as 
+
+    ```python
+    def batch_items(chunks: List[TextChunk], batch_size: int = 20):
+        batch = []
+        for chunk in chunks:
+            batch.append(chunk)
+            if len(batch) == batch_size:
+                yield batch
+                batch = []
+
+        if batch:
             yield batch
-            batch = []
+    ```
 
-    if batch:
-        yield batch
-```
+    Finally, we can combine all of these together into a simple function as seen below.
 
-Finally, we can combine all of these together into a simple function as seen below.
-
-```python
-if __name__ == "__main__":
+    ```python
     db_path = "./db"
     table_name = "pg"
     data_path = "./data"
@@ -355,9 +318,9 @@ if __name__ == "__main__":
 
     for batch in tqdm(batched_chunks):
         db_table.add(batch)
-```
+    ```
 
-What's really neat about this entire setup is that `lancedb` is handling the automatic batching of embedding calls and iterators for us. We don't need to manually generate the embeddings and then create new objects with these embeddings.
+    What's really neat about this entire setup is that `lancedb` is handling the automatic batching of embedding calls and iterators for us. We don't need to manually generate the embeddings and then create new objects with these embeddings.
 
 ### Retrieving Data
 
@@ -390,85 +353,26 @@ def get_response(db_path: str, table_name: str, query: str) -> List[TextChunk]:
     return db_table.search(query_vector).limit(5).to_pydantic(TextChunk)
 ```
 
-We can then run this using a few lines as seen below.
+We can then run this using a few lines as seen below which in turn gives the results in the table below
 
 ```python
-if __name__ == "__main__":
-    query = "What's the best way to be succesful?"
-    db = "./db"
-    table = "pg"
+query = "What's the best way to be succesful?"
+db = "./db"
+table = "pg"
 
-    response = get_response(db, table, query)
-
-    table = Table(title="Results", box=box.HEAVY, padding=(1, 2), show_lines=True)
-    table.add_column("Chunk Id", style="magenta")
-    table.add_column("Content", style="magenta", max_width=120)
-
-    for chunk in response:
-        table.add_row(chunk.chunk_id, chunk.text)
-
-    Console().print(table)
+response = get_response(db, table, query)
 ```
 
-This in turn gives a nicely formatted table of our text chunks as
 
-```
-                                                     Results                                                    
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                    ┃                                                                        ┃
-┃  Chunk Id                          ┃  Content                                                               ┃
-┃                                    ┃                                                                        ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                    ┃                                                                        ┃
-┃  c6e3dba2cc1f38b704ec6437eec9fb23  ┃  And there is of course one other thing you need: to be lucky. Luck    ┃
-┃                                    ┃  is always a factor, but it's even more of a factor when you're        ┃
-┃                                    ┃  working on your own rather than as part of an organization. And       ┃
-┃                                    ┃  though there are some valid aphorisms about luck being where          ┃
-┃                                    ┃  preparedness meets opportunity and so on, there's also a component    ┃
-┃                                    ┃  of true chance that you can't do anything about. The solution is to   ┃
-┃                                    ┃  take multiple shots. Which is another reason to start taking risks    ┃
-┃                                    ┃  early.                                                                ┃
-┃                                    ┃                                                                        ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                    ┃                                                                        ┃
-┃  44b1f682be6d29b399b2947a426137e8  ┃  What should you do if you're young and ambitious but don't know what  ┃
-┃                                    ┃  to work on? What you should not do is drift along passively,          ┃
-┃                                    ┃  assuming the problem will solve itself. You need to take action. But  ┃
-┃                                    ┃  there is no systematic procedure you can follow. When you read        ┃
-┃                                    ┃  biographies of people who've done great work, it's remarkable how     ┃
-┃                                    ┃  much luck is involved. They discover what to work on as a result of   ┃
-┃                                    ┃  a chance meeting, or by reading a book they happen to pick up. So     ┃
-┃                                    ┃  you need to make yourself a big target for luck, and the way to do    ┃
-┃                                    ┃  that is to be curious. Try lots of things, meet lots of people, read  ┃
-┃                                    ┃  lots of books, ask lots of questions.                                 ┃
-┃                                    ┃                                                                        ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                    ┃                                                                        ┃
-┃  5ff0ae69052dccc9af9cb6a211dfe127  ┃  The first step is to decide what to work on. The work you choose      ┃
-┃                                    ┃  needs to have three qualities: it has to be something you have a      ┃
-┃                                    ┃  natural aptitude for, that you have a deep interest in, and that      ┃
-┃                                    ┃  offers scope to do great work.                                        ┃
-┃                                    ┃                                                                        ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                    ┃                                                                        ┃
-┃  bf23afd092d5c6d8179c72d2ab7f1d46  ┃  The factors in doing great work are factors in the literal,           ┃
-┃                                    ┃  mathematical sense, and they are: ability, interest, effort, and      ┃
-┃                                    ┃  luck. Luck by definition you can't do anything about, so we can       ┃
-┃                                    ┃  ignore that. And we can assume effort, if you do in fact want to do   ┃
-┃                                    ┃  great work. So the problem boils down to ability and interest. Can    ┃
-┃                                    ┃  you find a kind of work where your ability and interest will combine  ┃
-┃                                    ┃  to yield an explosion of new ideas?                                   ┃
-┃                                    ┃                                                                        ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                    ┃                                                                        ┃
-┃  87aa6353fe45ce7dae2b7d6e42d66733  ┃  Fortunately there's a kind of economy of scale here. Though it might  ┃
-┃                                    ┃  seem like you'd be taking on a heavy burden by trying to be the       ┃
-┃                                    ┃  best, in practice you often end up net ahead. It's exciting, and      ┃
-┃                                    ┃  also strangely liberating. It simplifies things. In some ways it's    ┃
-┃                                    ┃  easier to try to be the best than to try merely to be good.           ┃
-┃                                    ┃                                                                        ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+
+| Chunk Id | Content | 
+| -- | -- |
+| c6e3dba2cc1f38b704ec6437eec9fb23 | And there is of course one other thing you need: to be lucky. Luck is always a factor, but it's even more of a factor when you're working on your own rather than as part of an organization. And though there are some valid aphorisms about luck being where preparedness meets opportunity and so on, there's also a component of true chance that you can't do anything about. The solution is to take multiple shots. Which is another reason to start taking risks early.  |
+| 44b1f682be6d29b399b2947a426137e8 | What should you do if you're young and ambitious but don't know what to work on? What you should not do is drift along passively, assuming the problem will solve itself. You need to take action. But there is no systematic procedure you can follow. When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions. |
+| 5ff0ae69052dccc9af9cb6a211dfe127 | The first step is to decide what to work on. The work you choose needs to have three qualities: it has to be something you have a natural aptitude for, that you have a deep interest in, and that offers scope to do great work. |
+| bf23afd092d5c6d8179c72d2ab7f1d46 | The factors in doing great work are factors in the literal, mathematical sense, and they are: ability, interest, effort, and luck. Luck by definition you can't do anything about, so we can ignore that. And we can assume effort, if you do in fact want to do great work. So the problem boils down to ability and interest. Can you find a kind of work where your ability and interest will combine to yield an explosion of new ideas? |
+| 87aa6353fe45ce7dae2b7d6e42d66733 | Fortunately there's a kind of economy of scale here. Though it might seem like you'd be taking on a heavy burden by trying to be the best, in practice you often end up net ahead. It's exciting, and also strangely liberating. It simplifies things. In some ways it's easier to try to be the best than to try merely to be good. |
+
 
 And with that, we've figured out how to implement retrieval
 
@@ -499,6 +403,8 @@ We can calculate the NDCG using the `sklearn` implementation as seen below.
 
 ```python
 def calculate_ndcg(chunk_id, predictions):
+    if chunk_id not in predictions:
+        return 0
     y_pred = np.linspace(1, 0, len(predictions)).tolist()
     y_true = [0 if item != chunk_id else 1 for item in predictions]
 
@@ -534,30 +440,30 @@ Once we've performed this calculation for a few different retrievals, then the M
 Now, let's bring it all together in a single call 
 
 ```python
-if __name__ == "__main__":
-    results = [["a", "b", "c"], ["b", "a", "c"], ["b", "c", "a"]]
-    
-    evals = {
-        "MRR":calculate_mrr,
-        "NDCG":calculate_ndcg
-    }
-    evaluations = [
-        {metric: fn("a", result) for metric, fn in evals.items()} for result in results
-    ]
+results = [["a", "b", "c"], ["b", "a", "c"], ["b", "c", "a"]]
 
-    df = pd.DataFrame(evaluations)
-    console = Console()
-    console.print(df)
+evals = {
+    "MRR":calculate_mrr,
+    "NDCG":calculate_ndcg
+}
+evaluations = [
+    {metric: fn("a", result) for metric, fn in evals.items()} for result in results
+]
+
+df = pd.DataFrame(evaluations)
+console = Console()
+console.print(df)
 ```
 
 This gives us the values as seen below
 
-```
-      MRR    NDCG
-0  1.000000  1.00000
-1  0.500000  0.63093
-2  0.333333  0.50000
-```
+
+|MRR |     NDCG |
+| --- | --- |
+| 1.00 |  1.00 |
+| 0.50 |  0.63 |
+| 0.33 |  0.50 |
+
 
 As we can see, as the relevant item ( in this example above 'a' ) gets shifted further, our MRR and NDCG decrease slowly. But, MRR decreases significantly faster and more aggressively than that of NDCG.
 
@@ -581,43 +487,42 @@ Let's scale our original example just now to 5 values where `a` gets shifted bac
 
 
 ```python
-if __name__ == "__main__":
-    evals = {}
-    SIZES = [3, 5]
-    for size in SIZES:
-        evals[f"MRR@{size}"] = slice_predictions_decorator(size)(calculate_mrr)
+evals = {}
+SIZES = [3, 5]
+for size in SIZES:
+    evals[f"MRR@{size}"] = slice_predictions_decorator(size)(calculate_mrr)
 
-    for size in SIZES:
-        evals[f"NDCG@{size}"] = slice_predictions_decorator(size)(calculate_ndcg)
+for size in SIZES:
+    evals[f"NDCG@{size}"] = slice_predictions_decorator(size)(calculate_ndcg)
 
-    results = [
-        ["a", "b", "c", "d", "e"],
-        ["e", "a", "b", "c", "d"],
-        ["d", "e", "a", "b", "c"],
-        ["c", "d", "e", "a", "b"],
-        ["b", "c", "d", "e", "a"],
-    ]
+results = [
+    ["a", "b", "c", "d", "e"],
+    ["e", "a", "b", "c", "d"],
+    ["d", "e", "a", "b", "c"],
+    ["c", "d", "e", "a", "b"],
+    ["b", "c", "d", "e", "a"],
+]
 
-    evaluations = [
-        {metric: fn("a", result) for metric, fn in evals.items()} for result in results
-    ]
+evaluations = [
+    {metric: fn("a", result) for metric, fn in evals.items()} for result in results
+]
 
-    df = pd.DataFrame(evaluations)
-    console = Console()
-    console.print(df)
+df = pd.DataFrame(evaluations)
+console = Console()
+console.print(df)
 ```
 
 
-This gives us the output as seen below. It makes sensse to have a MRR@3/NDCG@3 at 0 from the 4th element onwards since by that point, `a` no longer exists within the slice of the first 3 elements that we're takking.
+This gives us the output as seen below. It makes sense to have a MRR@3/NDCG@3 at 0 from the 4th element onwards since by that point, `a` no longer exists within the slice of the first 3 elements that we're takking.
 
-```
-      MRR@3     MRR@5   NDCG@3    NDCG@5
-0  1.000000  1.000000  1.00000  1.000000
-1  0.500000  0.500000  0.63093  0.630930
-2  0.333333  0.333333  0.50000  0.500000
-3  0.000000  0.250000  0.00000  0.430677
-4  0.000000  0.200000  0.00000  0.386853
-```
+
+| MRR@3 | MRR@5 | NDCG@3 | NDCG@5 |
+| --- | --- | --- | --- |
+| 1.00 | 1.00 | 1.00 | 1.00 |
+| 0.50 | 0.50 | 0.63 | 0.63 |
+| 0.33 | 0.33 | 0.50 | 0.50 |
+| 0.00 | 0.25 | 0.00 | 0.43 |
+| 0.00 | 0.20 | 0.00 | 0.39 |
 
 ## Putting the Pieces together
 
