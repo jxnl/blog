@@ -16,6 +16,8 @@ authors:
 
 As a consultant, I recognize that my perspective on hiring is influenced by the fact that part-time engagements are often more beneficial for me than full-time roles. With that said, I've observed two notable patterns in the hiring practices of startups. Part of me wonders if this is a leading insecurity of many startups to hire machine learning engineers to bolster their generative AI strengths while making them just do janitorial work for the first six months of joining.
 
+<!-- more -->
+
 ## Machine learning engineers are hired too early in a company's life cycle
 
 Many startups make the mistake of hiring machine learning engineers a bit too early in the development process, especially when the primary focus should have been on app development and integration work. I think a full-stack AI engineer can provide a lot of value at this stage since they're likely to function as a full-stack developer rather than a specialized machine learning engineer. Consequently, these engineers often find themselves assisting with app development or DevOps tasks instead of focusing on their core competencies of training models and building ML solutions.
