@@ -113,7 +113,7 @@ Once you start hitting a plateau, can you just start thinking about progressive 
 
 !!! note "How to identify the champ"
 
-    I remember that video where they were asking this Olympic weightlifter what matters more talent or hard work. And he said something along the lines of. "At the national level, everyone is talented, but when you by the time you go to the olympics hard work is the only thing that matters, there are many injuries and challenges, and the people who get it are the people who want it the most"
+    I remember that video where they were asking this Olympic weightlifter what matters more, talent or hard work. And he said something along the lines of, "At the national level, everyone is talented, but when you get to the Olympics hard work is the only thing that matters." There are many injuries and challenges, and the people who get it are the people who want it the most.
 
 ### On Season and Off Season
 
