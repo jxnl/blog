@@ -113,7 +113,7 @@ Once you start hitting a plateau, can you just start thinking about progressive 
 
 !!! note "How to identify the champ"
 
-    I remember that video where they were asking this Olympic weightlifter what matters more talent or hard work. And he said something along the lines of. "At the national level, everyone is talented, but when you by the time you go to the olympics hard work is the only thing that matters, there are many injuries and challenges, and the people who get it are the people who want it the most"
+    I remember that video where they were asking this Olympic weightlifter what matters more, talent or hard work. And he said something along the lines of, "At the national level, everyone is talented, but when you get to the Olympics hard work is the only thing that matters." There are many injuries and challenges, and the people who get it are the people who want it the most.
 
 ### On Season and Off Season
 
@@ -176,7 +176,7 @@ I used to hate writing. I was always incredibly insecure about it. English is my
 
     I've run a bunch of technical blog posts, but this is the first time I'm really speaking from my heart. This whole article took me about an hour to write using speech to text. I almost didn't write this, but then I realized that if it even helped one person feel a little less anxious for one day it would've been positive.
 
-It wasn't until November 2023 that I truly appreciated the power of writing. Writing helps me stop dwelling on the same thoughts repeatedly. Moreover, when someone asks for advice, I can simply share a link instead of repeating myself. I have found writing to be incredibly valuable because if someone is not willing to read it, they won't benefit from it. The worst outcome is not having written anything at all; it is failing to help someone who could have benefited from it. I have found that writing is a great way to help others while helping myself exorcise the thoughts from my mind and make room for new ones.
+It wasn't until November 2023 that I truly appreciated the power of writing. Writing helps me stop dwelling on the same thoughts repeatedly. Moreover, when someone asks for advice, I can simply share a link instead of repeating myself. I have found writing to be incredibly valuable because if someone is not willing to read it, they won't benefit from it. The worst outcome is not having written anything at all; it is failing to help someone who could have benefited from it. I have found that writing is a great way to help others while helping myself exercise the thoughts from my mind and make room for new ones.
 
 ## Do It Scared
 
@@ -255,7 +255,7 @@ You don’t need to believe in yourself to be an artist, you just need to believ
 
 Really value your time alone. It is the only time you can truly see yourself. It is the only time you can truly hear yourself. Isolation is time not only away from people, but also media.
 
-I believe success truly comes from being yourself, but if you're always surrounded by others the influence is too strong. But if you can truely live in the isolation, you'll be like a still pond. When others project their image onto you, you'll be able to see the ripples clearly.
+I believe success truly comes from being yourself, but if you're always surrounded by others the influence is too strong. But if you can truly live in the isolation, you'll be like a still pond. When others project their image onto you, you'll be able to see the ripples clearly.
 
 ## The world is a mirror
 
@@ -283,7 +283,7 @@ You impress nobody except yourself when you're a pessimist. It doesn't make you 
 
 !!! note "Survival"
 
-    I think pessimism as a survival mechanism is great, its the alertness that warns us potential outcomes we do not want. It's a way to protect yourself. People are also more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
+    I think pessimism can be a valuable survival mechanism. It's the alertness that warns us of potential negative outcomes. It's a way to protect yourself. People are also more able to find problems than solutions. It's a good exercise to understand if that energy is productive, can this critique of the work improve the work? Or is it just a way to feel superior or to get sympathy?
 
 > All cruelty stems from weakness, Happiness is the quality of thought
 
