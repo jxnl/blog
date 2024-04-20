@@ -49,6 +49,7 @@ I will help you cut through the bloat of implementing an AI strategy to improve 
 - **On-Demand Guidance:** Asynchronous access, email, slack, adhoc meetings for strategic advice and overcoming challenges.
 - **Growth & Efficiency:** Enhance your team's skills and streamline AI/ML processes.
 - **Expert Network:** Connect with leading specialists across various fields to expand your business network.
+- **Hiring:** Help you understand the quantitative skills needed for upcoming AI and ML roles.
 
 ### 2. Comprehensive Consulting
 
@@ -62,18 +63,24 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 ### Pricing
 
-- Strategic Consulting - $9,500
-- Comprehensive Consulting: Starting at $25,000
+- Strategic Consulting - $10,500
+- Comprehensive Consulting: Starting at $30,000
 
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
 
 If you have further questions get in touch via [email](mailto:jason+hire@jxnl.co) or book a [call](https://cal.com/jasonliu)
 
-## Previous Clients
+## Current and Past Clients
 
-- [Rewind AI](http://rewind.ai/): Rewind AI is a personal memory assistant that helps you remember, organize, and navigate your life.
+- [Limitless AI](http://limitless.ai/): Limitless AI is a personal memory assistant that helps you remember, organize, and navigate your life.
+- [Sandbar](https://sandbar.inc/): A human-AI interface company
+- [Raycast](https://raycast.com/): Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
+- [Tensorlake](https://tensorlake.ai/): Build Knowledge for LLMs from un-structured data
+- [Dunbar](https://trydunbar.com/): Dunbar brings your connections together in one place to open doors you didn't know existed.
+- [Bytebot](https://bytebot.ai/):  With Bytebot, creating web tasks is as easy as writing a prompt. 
 - [Naro](http://narohq.com/): Naro sits in the background, using contextual clues to proactively select the right content and messaging for each customer conversation, from emails to meetings.
 - [Trunk Tools](https://trunktools.com/): Trunk Tools addresses the skilled labor shortage in construction, enhancing workforce productivity through AI-based tools.
+
 - [New Computer](http://new.computer/): Dot by New Computer is an intelligent guide designed to help you remember, organize, and navigate your life.
 - [Kay.ai](http://kay.ai/): Retrieve relevant context from the semantic web for your LLM apps with fully hosted embeddings.
 - [Modal Labs](https://modal.com/): Modal specializes in cloud functions, offering a platform for running generative AI models, large-scale batch jobs, and more.
