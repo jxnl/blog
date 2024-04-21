@@ -18,9 +18,11 @@ Many startups must stop hiring machine learning engineers too early in the devel
 
 After all, my background is in mathematics and physics, not engineering. I would rather spend my days looking at data than trying to spend two or three hours debugging TypeScript build errors.
 
+<!-- more -->
+
 As a data scientist and a machine learning engineer, most of my skills are best suited for a company at a later stage in its cycle when there might already be two dozen engineers deep into building a product. To even consider joining a company at an early stage, I would have to recognize that most of my responsibilities early on will be around digging into the application, which means no data, objectives, or model. At this point, companies shouldn’t hire machine learning engineers; machine learning engineers shouldn't work for these companies in most cases. The exception to this rule would have to be a more ambitious, longer-term technical vision that requires me to step aside from research. It would have to be so exciting that I would be willing to deal with old errors and study blogging and the bones of the product to get to the more exciting meat of the problem. This diatribe isn’t meant to be a soapbox where I whine about early-stage companies, but without the opportunity to focus on research at some point in the near future and drive impact through improving models, good machine learning engineers will realize that they're better suited for another role or another company. 
 
-<!-- more -->
+
 
 ## Machine learning engineers are hired too early in a company's life cycle
 
