@@ -63,8 +63,8 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 ### Pricing
 
-- Strategic Consulting - $10,500
-- Comprehensive Consulting: Starting at $30,000
+- Strategic Consulting - $11,500
+- Comprehensive Consulting: Starting at $34,000
 
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
 
