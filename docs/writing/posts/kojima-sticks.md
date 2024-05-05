@@ -6,6 +6,7 @@ categories:
   - Language Models
 authors:
   - jxnl
+comments: true
 ---
 
 # Kojima's Philosophy in LLMs: From Sticks to Ropes

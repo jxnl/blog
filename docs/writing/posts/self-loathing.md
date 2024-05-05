@@ -6,6 +6,7 @@ categories:
   - Personal
 authors:
   - jxnl
+comments: true
 ---
 
 # I used to hate rich people.

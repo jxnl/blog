@@ -6,6 +6,7 @@ categories:
   - Personal
 authors:
   - jxnl
+comments: true
 ---
 
 # Tips for probabilistic software

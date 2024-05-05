@@ -6,6 +6,7 @@ categories:
   - Personal
 authors:
   - jxnl
+comments: true
 ---
 
 # Learning to Learn

@@ -7,6 +7,7 @@ categories:
 authors:
   - jxnl
   - jo
+comments: true
 ---
 
 # A feat of strength MVP for AI Apps

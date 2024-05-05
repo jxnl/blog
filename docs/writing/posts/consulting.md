@@ -1,6 +1,7 @@
 ---
 draft: False
 date: 2024-01-22
+comments: true
 slug: consulting
 categories:
   - Personal

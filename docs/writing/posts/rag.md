@@ -9,6 +9,7 @@ categories:
   - Search Systems
 authors:
   - jxnl
+comments: true
 ---
 
 # RAG is more than just embedding search

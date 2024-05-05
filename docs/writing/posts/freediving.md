@@ -2,6 +2,7 @@
 draft: False
 date: 2023-02-05
 slug: freediving-ice
+comments: true
 categories:
   - Personal
 authors:

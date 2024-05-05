@@ -1,5 +1,6 @@
 ---
 draft: False
+comments: true
 date: 2024-04-29
 slug: losing-my-hands
 categories:
@@ -13,8 +14,11 @@ authors:
 
 The world was ending, and I couldn't even put my pants on. My hands had cramped up so badly that I couldn't grip a water bottle or type and could barely dress myself. A few weeks earlier, I had been riding the greatest decade-high anyone could have dreamed of. I was moving to  New York, making 500k, working for an amazing company, and was engaged in what might be the most lucrative field on the planet. I was doing what I loved, getting paid well, and feeling like I was making a difference. Life was good. Well, as good as it could get during a once-in-a-lifetime pandemic. My name is Jason. I'm a machine learning engineer. And this is how I almost lost my hands.
 
- When COVID-19 hit, I was a Machine Learning Engineer at Stitch Fix. Being remote meant avoiding the worst of the pandemic, which made life easier for me than most. However, as with many others, COVID-19 brought with it less-than-ideal coping mechanisms. While the world was falling apart outside, I was in a cocoon. I felt like I was just locked in and taking my job seriously because I enjoyed the work so much. What I didn’t realize was that I was seriously harming myself. The idea that value was a measurement of the function of hard work, length of work, and economic activity became a madonna that consumed me.
- 
+<!-- more -->
+
+When COVID-19 hit, I was a Machine Learning Engineer at Stitch Fix. Being remote meant avoiding the worst of the pandemic, which made life easier for me than most. However, as with many others, COVID-19 brought with it less-than-ideal coping mechanisms. While the world was falling apart outside, I was in a cocoon. I felt like I was just locked in and taking my job seriously because I enjoyed the work so much. What I didn’t realize was that I was seriously harming myself. The idea that value was a measurement of the function of hard work, length of work, and economic activity became a madonna that consumed me.
+
+
 !!! note "The Aleph and The Zahir"
 
     The Argentinian author Jorge Luis Borges wrote of two interlinked concepts, The Aleph and The Zahir. The Aleph allows the observer to see all things, while the Zahir gradually becomes the only thing the observer can see. Not to be too melodramatic, but in a similar motion, work was what allowed me to see the world differently and opened me up to an entirely different library of experience, but eventually became the only thing I was doing.

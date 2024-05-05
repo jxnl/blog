@@ -9,6 +9,7 @@ categories:
   - Search Systems
 authors:
   - jxnl
+comments: true
 ---
 
 # How to build a terrible RAG system

@@ -1,5 +1,6 @@
 ---
 draft: False
+comments: true
 date: 2024-01-18
 slug: public-baths
 categories:

@@ -7,6 +7,7 @@ categories:
   - Personal
 authors:
   - jxnl
+comments: true
 ---
 
 # My year at 1100ng/dL

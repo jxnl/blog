@@ -6,6 +6,7 @@ categories:
   - Social Media
 authors:
   - jxnl
+comments: true
 ---
 
 # Anatomy of a Tweet

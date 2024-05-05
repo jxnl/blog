@@ -7,6 +7,7 @@ categories:
   - Language Models
 authors:
   - jxnl
+comments: true
 ---
 
 # Good LLM Observability is just plain observability

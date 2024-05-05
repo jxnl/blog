@@ -1,4 +1,5 @@
 ---
+comments: true
 draft: False
 date: 2024-06-01
 slug: advice-to-young-people

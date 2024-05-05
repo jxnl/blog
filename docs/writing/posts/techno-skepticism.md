@@ -6,6 +6,7 @@ categories:
   - LLM
 authors:
   - jxnl
+comments: true
 ---
 
 # Unraveling the History of Technological Skepticism

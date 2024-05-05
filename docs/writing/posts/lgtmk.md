@@ -7,6 +7,7 @@ categories:
   - Query Understanding
 authors:
   - jxnl
+comments: true
 ---
 
 # Stop using LGTM@Few as a metric (Better RAG)

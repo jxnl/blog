@@ -9,6 +9,7 @@ categories:
   - Observability
 authors:
   - jxnl
+comments: true
 ---
 
 # Recommendations with Flight at Stitch Fix

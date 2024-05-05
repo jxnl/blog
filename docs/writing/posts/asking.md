@@ -1,5 +1,6 @@
 ---
 draft: False
+comments: true
 date: 2024-02-07
 slug: how-to-ask
 categories:

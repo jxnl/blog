@@ -2,6 +2,7 @@
 draft: False
 date: 2024-04-20
 slug: getting-goals
+comments: true
 categories:
   - Personal
 authors:

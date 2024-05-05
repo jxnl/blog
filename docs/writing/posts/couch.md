@@ -2,6 +2,7 @@
 draft: False
 date: 2024-01-20
 slug: couchs
+comments: true
 categories:
   - Personal
 authors:

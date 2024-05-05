@@ -6,6 +6,7 @@ categories:
   - LLMs
 authors:
   - jxnl
+comments: true
 ---
 
 # Format your own prompts

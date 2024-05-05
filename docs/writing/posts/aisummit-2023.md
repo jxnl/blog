@@ -5,6 +5,7 @@ categories:
   - Personal
 authors:
   - jxnl
+comments: true
 ---
 
 # AI Engineer Keynote: Pydantic is all you need
