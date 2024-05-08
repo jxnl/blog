@@ -68,7 +68,7 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
 
-If you have further questions get in touch via [email](mailto:jason+hire@jxnl.co) or book a [call](https://cal.com/jasonliu)
+If you have further questions get in touch via [email](mailto:work@jxnl.co) or book a [call](https://cal.com/jasonliu)
 
 ## Current and Past Clients
 
