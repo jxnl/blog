@@ -11,6 +11,8 @@ IF you want to work with me, I am available for consulting and advisory services
 ## [Writing](./writing/index.md)
 
 - [Advice for young people](./writing/posts/advice.md)
+- [Getting Goals](./writing/posts/getting-goals.md)
+- [Losing my hands](./writing/posts/hands-part-1.md)
 - [What I learned from trying](./writing/posts/learning.md)
 - [Indie Consulting](./writing/posts/consulting.md)
 - [How to ask for a referral](./writing/posts/asking.md)

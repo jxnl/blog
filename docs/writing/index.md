@@ -9,6 +9,8 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 ## Writing
 
 - [Advice for young people](./posts/advice.md)
+- [Losing my hands](./posts/hands-part-1.md)
+- [Getting Goals](./posts/getting-goals.md)
 - [What I learned from trying](./posts/learning.md)
 - [Indie Consulting](./posts/consulting.md)
 - [How to ask for a referral](./posts/asking.md)
