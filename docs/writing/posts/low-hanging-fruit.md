@@ -16,6 +16,10 @@ In this post, we'll explore six key areas where you can focus your efforts to im
 
 <!-- more -->
 
+!!! note "Consulting Services"
+
+    I like to give the ideas for free but sell the implementation. If you're interested in getting some help on improving your rag application. Take a look at my [consulting services](../../services.md).
+
 By addressing these low-hanging fruit, you can take your RAG search system to the next level, providing users with more relevant, accurate, and timely information. Let's dive in and explore each of these opportunities in more detail.
 
 ## 1. Synthetic Data for Baseline Metrics
