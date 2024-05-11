@@ -21,6 +21,7 @@ I don't focus on maintaining high writing quality; instead, I prioritize writing
 ## AI Engineering
 
 - [Levels of Complexity in RAG](./posts/levels-of-rag.md)
+- [Low hanging fruit for RAG](./posts/low-hanging-fruit.md)
 - [Format your own Prompts](./posts/strings.md)
 - [How to ship an MVP for AI applications](./posts/mvp.md)
 - [Free course on Weights and Biases: Structured Output](https://www.wandb.courses/courses/steering-language-models)
