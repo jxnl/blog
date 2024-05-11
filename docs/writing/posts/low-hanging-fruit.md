@@ -10,7 +10,7 @@ authors:
 
 # Low-Hanging Fruit for RAG Search
 
-Reverse search, or RAG (Retrieval-Augmented Generation), is a powerful technique that combines information retrieval with language generation to provide relevant and accurate responses to user queries. By searching through a large corpus of text and retrieving the most relevant chunks, RAG systems can generate answers that are grounded in factual information.
+RAG (Retrieval-Augmented Generation), is a powerful technique that combines information retrieval with LLMs to provide relevant and accurate responses to user queries. By searching through a large corpus of text and retrieving the most relevant chunks, RAG systems can generate answers that are grounded in factual information.
 
 In this post, we'll explore six key areas where you can focus your efforts to improve your RAG search system. These include using synthetic data for baseline metrics, adding date filters, improving user feedback copy, tracking average cosine distance and Cohere reranking score, incorporating full-text search, and efficiently generating synthetic data for testing.
 
