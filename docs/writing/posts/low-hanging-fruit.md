@@ -14,6 +14,8 @@ Reverse search, or RAG (Retrieval-Augmented Generation), is a powerful technique
 
 In this post, we'll explore six key areas where you can focus your efforts to improve your RAG search system. These include using synthetic data for baseline metrics, adding date filters, improving user feedback copy, tracking average cosine distance and Cohere reranking score, incorporating full-text search, and efficiently generating synthetic data for testing.
 
+<!-- more -->
+
 By addressing these low-hanging fruit, you can take your RAG search system to the next level, providing users with more relevant, accurate, and timely information. Let's dive in and explore each of these opportunities in more detail.
 
 ## 1. Synthetic Data for Baseline Metrics
