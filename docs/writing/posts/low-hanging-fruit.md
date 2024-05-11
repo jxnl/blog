@@ -116,6 +116,33 @@ When generating synthetic data for testing your search system, it's more efficie
 2. More effective testing of the search system's performance
 3. Avoiding the overhead of generating embeddings for every possible question variant
 
+## 7. Including File and Document Metadata
+
+When chunking text for your search system, it's beneficial to include file and document metadata as additional text in each chunk. This metadata can provide valuable context and improve search relevance.
+
+**Benefits:**
+
+1. Improved search relevance by leveraging metadata information
+2. Ability to filter and narrow down search results based on metadata fields
+3. Enhanced understanding of the document structure and hierarchy
+
+**Costs:**
+
+Including metadata requires modifying the text chunking process to append the relevant information to each chunk. This may involve extracting metadata from file paths, document headers, or a separate metadata database. The additional text will slightly increase the storage requirements for the chunks.
+
+Example metadata to include:
+
+- File path
+- Document title
+- Author
+- Creation date
+- Tags or categories
+
+By incorporating file and document metadata, you can enrich the search experience and provide users with more targeted and relevant results.
+
+
+## Conclusion
+
 By focusing on these low-hanging fruit opportunities, you can significantly enhance the performance and usability of your RAG search system, ultimately providing a better experience for your users.
 
 If you have any questions about these details, please leave a comment below and let's get a conversation started. My goal really is to bring the unconscious conscious and being able to answer questions will really help me clarify my own thinking. 
