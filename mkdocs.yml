@@ -9,6 +9,7 @@ edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2024 Jason Liu 
 theme:
   name: material
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil 

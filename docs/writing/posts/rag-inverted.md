@@ -2,6 +2,7 @@
 draft: False
 date: 2024-01-07
 slug: inverted-thinking-rag
+comments: True
 categories:
   - Language Models
   - Retrieval Augmented Generation
