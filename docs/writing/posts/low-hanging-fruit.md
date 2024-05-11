@@ -35,6 +35,10 @@ The simplest kind of synthetic data is to take existing text chunks, generate sy
 3. Enables affordable, repeatable testing and evaluation
 4. Provides a consistent reference point when introducing new models or features, allowing for meaningful comparisons. If the baseline remains unchanged, production data can be leveraged to enhance synthetic question generation or the system as a whole.
 
+**Costs:**
+
+This should really just be a matter of writing a simple prompt that generates questions, hopefully with a few shot examples, and iterating over existing text chunks. Once you have that, you can store pairs of query strings and chunk IDs. And a simple forloup can be used to verify that the query strings are retrieving the correct chunks. 
+
 
 ## 2. Adding Date Filters
 
@@ -46,6 +50,11 @@ Incorporating date filters into your search system can significantly improve the
 2. Improved efficiency in narrowing down results
 3. Enabling trend analysis and historical context
 
+
+**Costs**
+
+I talk about this in my [blog post](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/#case-study-1-metaphor-systems) about RAG. Is probably going to add, you know, for 500, 700 milliseconds to do some kind of query understanding.
+
 ## 3. Improving Thumbs Up/Down Copy
 
 Using specific copy for your thumbs up/down buttons, such as "Did we answer your question?" instead of generic phrases, offers several benefits. This is particularly relevant when we care about question answer accuracy, but want to explicitly avoid getting negative feedback for being slow or verbose or having poor formatting. You might care about different things, but it's important to be explicit. Do not use generic copy like, did you like our response? 
@@ -55,6 +64,10 @@ Using specific copy for your thumbs up/down buttons, such as "Did we answer your
 1. Focused feedback on the relevance and quality of search results
 2. Reduced ambiguity in user interpretation
 3. Actionable insights for improving the search system
+
+**Costs**
+
+It might just be worth having a separate index or table that just stores question answer pairs and whether or not we're satisfied. This would be enough to drawing back onto our similarity data below and do some clustering and data analysis to figure out what the and priorities should be. 
 
 ## 4. Tracking Average Cosine Distance and Cohere Reranking Score
 
@@ -66,6 +79,19 @@ Monitoring the average cosine distance and Cohere reranking score for each quest
 2. Enabling targeted optimization for specific query types
 3. Data-driven decision making for resource allocation and feature prioritization
 
+**Costs**
+
+Again, here we're just logging things. As long as we have a request ID, we can do something pretty simple like...
+
+```json
+{
+    "request_id": "12345",
+    "query": "What is the latest news?",
+    "mean_cosine_distance": 0.3,
+    "mean_cohere_reranking_score": 0.4
+}
+```
+
 ## 5. Using Full-Text Search
 
 Incorporating both full-text search and semantic search (vector search) can improve the overall performance of your search system. This one is almost obvious for anyone who's building actual search systems. Include BM25 and you will likely see better results. 
@@ -75,6 +101,10 @@ Incorporating both full-text search and semantic search (vector search) can impr
 1. Identifying relevant documents based on exact keyword matches
 2. Uncovering conceptually similar documents
 3. Improving the overall effectiveness of the search system
+
+**Cost**
+
+Here you gotta make sure your user system that uses full text search. Something like [LanceDB](https://lancedb.com/) really improves the UX.
 
 ## 6. Making Text Chunks Look Like Questions
 
