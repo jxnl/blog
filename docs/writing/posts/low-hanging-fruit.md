@@ -2,6 +2,7 @@
 draft: False
 date: 2024-05-11
 slug: low-hanging-fruit-for-rag-search
+comments: true
 categories:
   - RAG
 authors:
@@ -86,3 +87,5 @@ When generating synthetic data for testing your search system, it's more efficie
 3. Avoiding the overhead of generating embeddings for every possible question variant
 
 By focusing on these low-hanging fruit opportunities, you can significantly enhance the performance and usability of your RAG search system, ultimately providing a better experience for your users.
+
+If you have any questions about these details, please leave a comment below and let's get a conversation started. My goal really is to bring the unconscious conscious and being able to answer questions will really help me clarify my own thinking. 
