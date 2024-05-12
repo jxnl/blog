@@ -1,60 +1,38 @@
 # :boom: whats up?
 
-Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://jxnl.github.io/instructor), [Flight](./writing/posts/recsys-frameworks.md), and an ML and data science educator.
+Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://github.com/jxnl/instructor), [Flight](./writing/posts/recsys-frameworks.md), and an ML and data science educator.
 
-If you have general questions for me trying something new, so just [make an issue](https://github.com/jxnl/blog/issues) and tag it with `question`. I'll try to answer it in a blog post.
+If you have general questions for me, feel free to [open an issue](https://github.com/jxnl/blog/issues) and tag it with `question`. I'll do my best to address it in a blog post. You can find my writing [here](./writing).
 
-## [Advisory or Consulting Services](./services.md)
+## Applied AI Consulting
 
-IF you want to work with me, I am available for consulting and advisory services. I can help you with your recommendation systems, AI engineering, and data science needs.
+I offer [consulting and advisory services](./services.md) to help you reason about your recommendation systems, prompt engineering, and data science. Many of my clients are fast-growing early-stage startups backed by firms like Sequoia, Andreessen Horowitz, and Accel among others.
 
-## [Writing](./writing/index.md)
+We help you identify and focus on the most critical aspects of your project. My expertise allows me to provide targeted tactics and strategies,to improve data quality, measure and improve systems and reducing the time it takes to reach your goals. Additionally, my team includes a talented writer and developer who can help you scale your developer relations and marketing efforts, further amplifying the value we can deliver.
 
-- [Advice for young people](./writing/posts/advice.md)
-- [Getting Goals](./writing/posts/getting-goals.md)
-- [Losing my hands](./writing/posts/hands-part-1.md)
-- [What I learned from trying](./writing/posts/learning.md)
-- [Indie Consulting](./writing/posts/consulting.md)
-- [How to ask for a referral](./writing/posts/asking.md)
-- [Couches](./writing/posts/couch.md)
-- [Centuar Chess](./writing/posts/centaur-chess.md)
-- [Freediving Under Ice](./writing/posts/freediving.md)
-
-## AI Engineering
-
-- [Levels of Complexity in RAG](./writing/posts/levels-of-rag.md)
-- [Format your own Prompts](./writing/posts/strings.md)
-- [How to ship an MVP for AI applications](./writing/posts/mvp.md)
-- [Free course on Weights and Biases: Structured Output](https://www.wandb.courses/courses/steering-language-models)
-- [5 Questions to ask yourself as an AI Engineer](./writing/posts/stochastic-software.md)
-- [How to build a terrible RAG system](./writing/posts/rag-inverted.md)
-- [Stop using LGTM@Few, How to improve RAG](./writing/posts/lgtmk.md)
-- [Rag is more than embeddings](./writing/posts/rag.md)
-- [Flight, a framework for building and executing pipelines](./writing/posts/recsys-frameworks.md)
-- [LLM Observability is just plain observability](./writing/posts/llmops.md)
-
-## Talks and Podcasts
-
-- [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
-- [Podcast: Weaviate](https://www.youtube.com/watch?v=higlHgYDc5E)
-- [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
-- [Podcast: Dagshub](https://www.youtube.com/watch?v=rDP44EVpHTA)
-- [Podcast: Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
-
-## Clients
-
-- [Rewind AI](http://rewind.ai): Rewind AI is a personal memory assistant that helps you remember, organize, and navigate your life.
-- [Naro](http://narohq.com): Naro sits in the background, using contextual clues to proactively select the right content and messaging for each customer conversation, from emails to meetings.
-- [Trunk Tools](https://trunktools.com/): Trunk Tools addresses the skilled labor shortage in construction, enhancing workforce productivity through AI-based tools.
-- [Modal Labs](https://modal.com/): Modal specializes in cloud functions, offering a platform for running generative AI models, large-scale batch jobs, and more.
-- [Pydantic](http://pydantic.dev): Pydantic provides data validation and settings management using Python type annotations, enforcing type hints at runtime with user-friendly error handling.
-- [Weights & Biases](https://wandb.ai/): Wandb provides a platform for tracking machine learning experiments, offering tools for visualization, comparison, and collaboration in ML projects.
-- [New Computer](http://new.computer): Dot by New Computer is an intelligent guide designed to help you remember, organize, and navigate your life.
-- [Kay.ai](http://Kay.ai): Retrieve relevant context from the semantic web for your LLM apps with fully hosted embeddings.
+If you're interested in collaborating to enhance your technical capabilities, effectively communicate your offerings, and accelerate your path to success, I invite you to reach out and discuss how we can work together.
 
 ## Work History
 
+- Startup Advisor, Angel Investor, Founder of 567 Labs - 2023 - Present
 - Sabbatical @ South Park Commons - 2023 - Present
 - Staff Machine Learning Engineer @ Stitchfix — 2016, 2018-2023
 - Prev, Meta, ActionIQ, NYU, Meltwater - 2013-2018
 - Computational Mathematics and Statistics @ University of Waterloo
+
+## Clients
+
+- [Limitless AI](http://limitless.ai/): Limitless AI is a personal memory assistant that helps you remember, organize, and navigate your life.
+- [Sandbar](https://sandbar.inc/): A human-AI interface company
+- [Raycast](https://raycast.com/): Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
+- [Tensorlake](https://tensorlake.ai/): Build Knowledge for LLMs from un-structured data
+- [Dunbar](https://trydunbar.com/): Dunbar brings your connections together in one place to open doors you didn't know existed.
+- [Bytebot](https://bytebot.ai/):  With Bytebot, creating web tasks is as easy as writing a prompt. 
+- [Naro](http://narohq.com/): Naro sits in the background, using contextual clues to proactively select the right content and messaging for each customer conversation, from emails to meetings.
+- [Trunk Tools](https://trunktools.com/): Trunk Tools addresses the skilled labor shortage in construction, enhancing workforce productivity through AI-based tools.
+- [New Computer](http://new.computer/): Dot by New Computer is an intelligent guide designed to help you remember, organize, and navigate your life.
+- [Kay.ai](http://kay.ai/): Retrieve relevant context from the semantic web for your LLM apps with fully hosted embeddings.
+- [Weights & Biases](https://wandb.ai/): Wandb provides a platform for tracking machine learning experiments, offering tools for visualization, comparison, and collaboration in ML projects.
+- [Modal Labs](https://modal.com/): Modal specializes in cloud functions, offering a platform for running generative AI models, large-scale batch jobs, and more.
+- [Pydantic](http://pydantic.dev/): Pydantic provides data validation and settings management using Python type annotations, enforcing type hints at runtime with user-friendly error handling.
+
