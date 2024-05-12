@@ -3,7 +3,7 @@ draft: False
 date: 2024-02-14
 slug: weights-and-biases-course
 tags:
-  - open source
+  - LLM
 authors:
   - jxnl
 ---

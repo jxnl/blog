@@ -3,7 +3,7 @@ draft: False
 date: 2024-01-19
 slug: tips-probabilistic-software
 categories:
-  - Personal
+  - Business
 authors:
   - jxnl
 ---

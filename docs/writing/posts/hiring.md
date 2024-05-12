@@ -3,7 +3,7 @@ draft: False
 date: 2024-04-08
 slug: hiring-mle-at-early-stage-companies
 categories:
-  - hiring
+  - Business
 authors:
   - jxnl
   - jo

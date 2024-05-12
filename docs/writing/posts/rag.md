@@ -4,10 +4,7 @@ date: 2023-09-17
 slug: rag-is-more-than-embeddings
 comments: True
 categories:
-  - Language Models
-  - Retrieval Augmented Generation
-  - Query Understanding
-  - Search Systems
+  - RAG
 authors:
   - jxnl
 ---

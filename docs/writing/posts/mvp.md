@@ -3,7 +3,7 @@ draft: False
 date: 2024-02-18
 slug: how-to-ship-an-mvp-for-ai-applications
 categories:
-  - Personal
+  - Business
 authors:
   - jxnl
   - jo

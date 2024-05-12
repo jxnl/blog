@@ -3,7 +3,7 @@ draft: False
 date: 2024-02-20
 slug: formatting-strings
 categories:
-  - LLMs
+  - LLM
 authors:
   - jxnl
 ---

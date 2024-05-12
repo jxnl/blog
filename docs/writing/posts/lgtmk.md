@@ -3,8 +3,7 @@ draft: False
 date: 2024-02-05
 slug: when-to-lgtm-at-k
 categories:
-  - Retrieval Augmented Generation
-  - Query Understanding
+  - RAG
 authors:
   - jxnl
 ---

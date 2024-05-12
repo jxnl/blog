@@ -5,6 +5,7 @@ slug: consulting
 comments: True
 categories:
   - Personal
+  - Business
 authors:
   - jxnl
 ---

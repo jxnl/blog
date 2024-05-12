@@ -3,10 +3,7 @@ draft: False
 date: 2022-08-01
 slug: stitchfix-framework
 categories:
-  - Stitch Fix
-  - Data Science
-  - Frameworks
-  - Observability
+  - Business
 authors:
   - jxnl
 ---

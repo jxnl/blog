@@ -3,7 +3,7 @@ draft: False
 date: 2023-06-01
 slug: kojima-sticks
 categories:
-  - Language Models
+  - Thoughts 
 authors:
   - jxnl
 ---

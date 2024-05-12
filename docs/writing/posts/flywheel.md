@@ -4,7 +4,7 @@ date: 2024-03-28
 slug: data-flywheel
 comments: True
 categories:
-  - AI
+  - Business
 authors:
   - jxnl
 ---

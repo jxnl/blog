@@ -3,7 +3,7 @@ draft: False
 date: 2024-01-11
 slug: anatomy-of-a-tweet
 categories:
-  - Social Media
+  - Business
 authors:
   - jxnl
 ---

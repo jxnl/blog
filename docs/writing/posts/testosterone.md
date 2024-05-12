@@ -3,7 +3,6 @@ draft: False
 date: 2024-02-03
 slug: testosterone
 categories:
-  - Funny Thoughts
   - Personal
 authors:
   - jxnl

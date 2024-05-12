@@ -3,8 +3,7 @@ draft: False
 date: 2023-04-04
 slug: good-llm-observability
 categories:
-  - Observability
-  - Language Models
+  - LLM
 authors:
   - jxnl
 ---

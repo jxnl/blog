@@ -4,7 +4,7 @@ date: 2024-04-29
 slug: losing-my-hands
 comments: True
 categories:
-  - personal
+  - Personal
 authors:
   - jxnl
   - jo
