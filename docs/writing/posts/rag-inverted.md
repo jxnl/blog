@@ -11,6 +11,10 @@ authors:
 
 # How to build a terrible RAG system
 
+!!! note "RAG Course"
+  
+    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+
 If you've seen any of my work, you know that the main message I have for anyone building a RAG system is to think of it primarily as a recommendation system. Today, I want to introduce the concept of inverted thinking to address how we should approach the challenge of creating an exceptional system.
 
 !!! note "What is inverted thinking?"
@@ -102,3 +106,7 @@ Once we run our GPT-4 self critique evaluations we'll know how well our system i
 ## Conclusion
 
 A lot of these tips seem basic, and they are, but the basics are not easy. If you want to learn about my consulting practice check out my [services](../../services.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)
+
+!!! note "RAG Course"
+  
+    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)

@@ -11,6 +11,10 @@ authors:
 
 # RAG is more than just embedding search
 
+!!! note "RAG Course"
+  
+    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+
 With the advent of large language models (LLM), retrival augmented generation (RAG) has become a hot topic. However throught the past year of [helping startups](https://jxnl.co) integrate LLMs into their stack I've noticed that the pattern of taking user queries, embedding them, and directly searching a vector store is effectively demoware.
 
 !!! note "What is RAG?"
@@ -222,6 +226,16 @@ I get this question a lot, but it's just code. Within these dispatchs you can do
 
 Both of these examples showcase how both search providors and consumers can use `instructor` to model their systems. This is a powerful pattern that allows you to build a system that can be used by anyone, and can be used to build an LLM layer, from scratch, in front of any arbitrary backend.
 
+## Related Posts
+
+For more insights on related topics, check out these posts:
+- [Levels of RAG](levels-of-rag.md)
+- [RAG++](rag_plusplus.md)
+- [Stochastic Software](stochastic-software.md)
+- [LLMOps](llmops.md)
+- [Recsys Frameworks](recsys-frameworks.md)
+
+
 ## Conclusion
 
 This isnt about fancy embedding tricks, it's just plain old information retrival and query understanding. The beauty of instructor is that it simplifies modeling the complex and lets you define the output of the language model, the prompts, and the payload we send to the backend in a single place.
@@ -231,3 +245,7 @@ This isnt about fancy embedding tricks, it's just plain old information retrival
 Here I want to show that `instructor`` isn’t just about data extraction. It’s a powerful framework for building a data model and integrating it with your LLM. Structured output is just the beginning — the untapped goldmine is skilled use of tools and APIs.
 
 If you enjoy the content or want to try out `instructor` please check out the [github](https://github.com/jxnl/instructor) and give us a star!
+
+!!! note "RAG Course"
+  
+    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)

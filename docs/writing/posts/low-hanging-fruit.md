@@ -11,6 +11,10 @@ authors:
 
 # Low-Hanging Fruit for RAG Search
 
+!!! note "RAG Course"
+  
+    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+
 RAG (Retrieval-Augmented Generation), is a powerful technique that combines information retrieval with LLMs to provide relevant and accurate responses to user queries. By searching through a large corpus of text and retrieving the most relevant chunks, RAG systems can generate answers that are grounded in factual information.
 
 In this post, we'll explore six key areas where you can focus your efforts to improve your RAG search system. These include using synthetic data for baseline metrics, adding date filters, improving user feedback copy, tracking average cosine distance and Cohere reranking score, incorporating full-text search, and efficiently generating synthetic data for testing.
@@ -146,3 +150,7 @@ By incorporating file and document metadata, you can enrich the search experienc
 By focusing on these low-hanging fruit opportunities, you can significantly enhance the performance and usability of your RAG search system, ultimately providing a better experience for your users.
 
 If you have any questions about these details, please leave a comment below and let's get a conversation started. My goal really is to bring the unconscious conscious and being able to answer questions will really help me clarify my own thinking. 
+
+!!! note "RAG Course"
+  
+    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
