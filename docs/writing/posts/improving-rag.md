@@ -14,16 +14,17 @@ authors:
   
     I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
 
+
+These are note generated after a call I had with Hamel on a 'system' to improve a rag system.
+
 By the end of this post, you'll have a clear understanding of my systematic approach to improving RAG applications for the companies I work with. We'll cover key areas such as:
 
-- Leveraging synthetic data to establish baseline performance metrics
-- Extracting and utilizing metadata to enhance search results
-- Combining full-text search and vector search for optimal retrieval 
-- Implementing user feedback mechanisms to gather valuable insights
-- Analyzing user queries and feedback to identify improvement opportunities
-- Prioritizing and implementing targeted improvements based on data-driven insights
-- Continuously monitoring, evaluating, and retraining models as real-world data grows
-- Exploring advanced techniques like query enhancement, summarization, and outcome modeling
+- Create synthetic questions and answers to quickly evaluate your system's precision and recall
+- Make sure to combine full-text search and vector search for optimal retrieval 
+- Implementing the right user feedback mechanisms to capture specifically what you're interested in studying
+- Use clustering to find segments of queries that have issues, broken down into topics and capabilities
+- Build specific systems to improve capabitilies
+- Continuously monitoring, evaluating as real world data grows
 
 Through this step-by-step runbook, you'll gain practical knowledge on how to incrementally enhance the performance and utility of your RAG applications, unlocking their full potential to deliver exceptional user experiences and drive business value. Let's dive in and explore how to systematically improve your RAG systems together!
 
