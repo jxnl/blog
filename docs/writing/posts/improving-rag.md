@@ -166,10 +166,4 @@ For example, if you're building a medical diagnostic tool, a slight increase in 
 
 ## Wrapping Up
 
-Systematically improving your RAG system is all about taking a data-driven approach and continuously iterating. By following these strategies and regularly monitoring and experimenting with your system, you'll be well on your way to building a top-notch RAG system.
-
-I hope these insights have been helpful! Feel free to reach out if you have any questions or want to chat more about RAG. Happy building!
-
-!!! note "RAG Course"
-  
-    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+This is was written based off of a 30 conversation with a client, so I know I'm skipping over many details and implementation details. Leave a comment and let me know and we can get into specifics.
