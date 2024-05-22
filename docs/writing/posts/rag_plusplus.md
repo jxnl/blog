@@ -18,6 +18,8 @@ Instead of just using Retrieval Augmented Generation (RAG) for question answerin
 
 This capability should be marketed as a way to "make decisions faster" and "get aligned", rather than merely saving time on simple question answering. The focus should be on the substantial value provided by the generated reports in terms of improved decision making and team coordination.
 
+<!-- more -->
+
 ## Examples
 
 1. **Financial Research Reports**
