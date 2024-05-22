@@ -14,8 +14,7 @@ authors:
   
     I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
 
-
-These are notes generated after a call I had with Hamel on a 'system' to improve a RAG system.
+These are notes generated after a call I had with Hamel on a 'system' to improve a RAG system. I've also written some other work like [Rag is not Embeddings](rag.md) and how to build a [Terrible RAG System](./rag-inverted.md) and how [complexity](./levels-of-rag.md) can be broken down into smaller pieces.
 
 By the end of this post, you'll have a clear understanding of my systematic approach to improving RAG applications for the companies I work with. We'll cover key areas such as:
 
