@@ -32,7 +32,7 @@ Through this step-by-step runbook, you'll gain practical knowledge on how to inc
 
 ## Start with Synthetic Data
 
-One of the biggest mistakes I see people making is spending too much time on synthesis without understanding if the data is being retrieved correctly. To avoid this, generate a large set of synthetic questions and expected answers to evaluate your system's precision and recall before using real user data.
+One of the biggest mistakes I see people making is spending too much time on synthesis / generation without understanding if the data is being retrieved correctly. To avoid this, generate a large set of synthetic questions and expected answers to evaluate your system's precision and recall before using real user data.
 
 - Create synthetic questions for each text chunk in your database
 - Use these questions to test your retrieval system
@@ -78,15 +78,21 @@ Make sure the copy for these feedback mechanisms explicitly describes what you'r
 
 Analyze user queries and feedback to identify topic clusters, capabilities, and areas of user dissatisfaction. This will help you prioritize improvements.
 
-- Use clustering algorithms to group similar user queries together
-- Identify common topics and capabilities based on the clusters
-- Analyze user feedback to find areas of dissatisfaction
-- Prioritize improvements based on the most common topics, capabilities, and issues
+Why should we do this? Let me give you an example. I once worked with a company that provided a technical documentation search system. By clustering user queries, we identified two main issues:
+
+1. Topic Clusters: Many queries were related to a recently updated product feature, but our system was retrieving outdated documentation.
+
+2. Capability Gaps: Users frequently asked for troubleshooting steps and error code explanations, which our system struggled to provide directly.
+
+Based on these insights, we prioritized updating the product feature documentation and implementing a feature to extract step-by-step instructions and error code explanations. These targeted improvements led to higher user satisfaction and reduced support requests.
 
 Look for patterns like:
 
-- Topic clusters: Are users asking about specific topics more than others? This could indicate a need for more content in those areas.
+- Topic clusters: Are users asking about specific topics more than others? This could indicate a need for better content or retrieval in those areas.
+
 - Capabilities: Are there types of questions your system categorically cannot answer? This could indicate a need for new features or capabilities.
+
+By continuously analyzing topic clusters and capability gaps, you can identify high-impact areas for improvement and allocate resources effectively.
 
 ## Continuously Monitor and Experiment
 
