@@ -95,7 +95,7 @@ while True:
         output = llm.generate(prompt_with_examples_and_inputs)
         
         # Score the generated output
-        scores.append(score_fn(inputs, output))
+        scores.append(score_fn(expected, output))
     
     # Update the best score and examples if current score is better
     if mean(scores) > best_score:
