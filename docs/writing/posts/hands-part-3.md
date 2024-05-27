@@ -26,9 +26,10 @@ You can read the previous two entries here: [Losing My Hands](./hands-part-1.md)
 
 After sharing my experience, many people asked me what I did to try to heal myself.  I tried various treatments and products to aid my recovery. Whether or not the pain was psychosomatic or physical is still unclear, which is one of the most frustrating aspects of seeking treatment.  Braces, exercises, and ergonomic devices provided some relief and support; I found that taking adequate time to rest was the most critical factor (not very sexy or satisfying, but it works wonders). In this blog, I'll share my experience with different products and provide some tips for anyone dealing with hand or wrist issues that provided relief to me.
 
-## Braces for Support and Protection
+## Products and Tips for RSI
 
-## Braces for Support and Protection
+### Using Braces
+
 
 Two braces that I found particularly helpful were:
 
@@ -42,7 +43,7 @@ Two braces that I found particularly helpful were:
 
 Braces are fantastic and super helpful for short-term relief and support. It's a reminder that it was injured and prevented me from putting too much pressure on it while sleeping or outside. One thing I abide by and heard a lot from the specialists I worked with (and to be clear, I am not a doctor, so this is me simplifying their expertise) was that your body can become reliant on braces if you use them long term, and they can actually harm you if you’re not careful with them.
 
-## Exercises for Strength and Mobility
+### Exercises for Strength and Mobility
 
 [Hand putty](https://www.amazon.com/dp/B006LN4JN4/ref=cm_sw_r_as_gl_api_gl_i_QXHND7BY49NSKRVR2ANC?linkCode=ml2&tag=567techblog-20) and [rice bucket exercises](https://www.youtube.com/watch?v=iVum3vWlh4Q) were recommended to me as they are effective for gradually improving strength and dexterity:
 
@@ -53,7 +54,7 @@ Braces are fantastic and super helpful for short-term relief and support. It's a
 
 I found these exercises more natural and beneficial than elastic finger strengtheners; performing them in the morning and evening can aid recovery. They were easy to incorporate into a daily routine and didn’t require fancy tools or expensive equipment.
 
-## Contrast Therapy for Circulation
+### Contrast Therapy for Circulation
 
 Contrast therapy involves dunking your hands in ice water and then hot water in a cycle. It addresses circulation, which is critical because circulation is already low for something like a wrist (vs a bicep). Contrast Therapy can be done with a sauna, hot tub, ice bath, or two water basins.
 
@@ -61,7 +62,7 @@ Contrast therapy involves dunking your hands in ice water and then hot water in 
 
 This was one of the best treatments I experienced for helping circulation and pain relief when done correctly.
 
-## Ergonomic Keyboard and Mouse
+### Ergonomic Keyboard and Mouse
 
 - [**Kinesis Pro keyboard**](https://www.amazon.com/dp/B0BCHMGZMD/ref=cm_sw_r_as_gl_api_gl_i_QP09RS5ZP2VVZKVV8TKA?linkCode=ml2&tag=567techblog-20) ($400+) - Expensive but effective in minimizing wrist strain. Typing speed may decrease initially but returns to baseline with practice. It also forces you to type ‘correctly’ and can help a lot of bad habits you may have picked up from using more standard layouts. But I found the thumb placement makes it so I don't have to fold my hands.
 - [**Vertical mouse**] This keeps the wrist in a neutral position. Various models are available, but one I found works really well is Logitech’s MX Vertical ergonomic mouse.
