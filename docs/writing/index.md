@@ -29,4 +29,3 @@ For RAG or LLM related posts, You can check out the categories labels in the sid
 - [Understanding Metrics](./posts/lgtmk.md)
 - [How to ship an MVP for AI applications](./posts/mvp.md)
 - [Mistakes Engineers Make](./posts/stochastic-software.md)
-- [Data Flywheels](./posts/data-flywheels.md)
