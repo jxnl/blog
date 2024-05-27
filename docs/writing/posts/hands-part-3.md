@@ -1,7 +1,7 @@
 ---
 draft: False
 date: 2024-05-27
-slug: losing-my-hands-part-3
+slug: products-and-tips-for-rsi
 comments: True
 categories:
   - Personal
@@ -12,9 +12,7 @@ authors:
 
 # Losing my Hands, Advice and Tips for RSI
 
-This is the final entry(for now) of a series I wrote regarding my experience with an RSI during COVID-19.
-
-To summarize the series up until this point, I suffered a debilitating hand injury in 2020 due to binge-working in my previous role at Stitchfix. I would work excessive hours for weeks on end with little to no breaks. 'Locked In' doesn't begin to cover it; try obsessed instead. I couldn't eat or dress myself properly, and I couldn't program. This resulted in a total upheaval of my work and personal life and eventually culminated in me doing three things: 
+This is the final entry (for now) of a series I wrote about my experience with tendonitis in both my wrists and thumbs during COVID-19. The injury occurred in 2020 due to overworking at my previous job, where I would put in excessive hours for weeks on end with minimal breaks. The debilitating pain prevented me from eating, dressing myself properly, and programming, leading to a significant disruption in my work and personal life. Ultimately, this experience led me to make three major changes:
 
 1. **Consulting full-time**: Sometimes, you need to take a leap of faith; other times, you need a swift, firm shove in the back to overcome your limitations. The RSI was the latter that lead me down the path of higher leverage.
 
