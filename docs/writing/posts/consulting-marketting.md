@@ -16,6 +16,8 @@ As a former MLE, I had always relied on my hands-on coding skills to excel in my
 - Generating leads and creating valuable content
 - Closing leads using situational assessments
 
+<!-- more -->
+
 ## How Did I Build a Marketing Plan for My Business?
 
 Transitioning from a technical role to consulting was a significant change, but I embraced the challenge. One of the helpful resources I discovered during this process was the book "One Page Marketing Plan". This book provided a simple yet effective framework for creating a marketing plan, focusing on three key areas: before the sale, during the sale, and after the sale (customer retention and referrals).
