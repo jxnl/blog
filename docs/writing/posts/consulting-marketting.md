@@ -3,7 +3,7 @@ draft: False
 date: 2024-05-29
 slug: marketing-consulting
 categories:
-  - Business
+  - Consulting 
 authors:
   - jxnl
 ---
