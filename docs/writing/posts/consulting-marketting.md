@@ -20,6 +20,10 @@ As a former MLE, I had always relied on my hands-on coding skills to excel in my
 
 ## How Did I Build a Marketing Plan for My Business?
 
+!!! note "The numbers"
+
+  I publish about 10 blogs a month and close to a 1000 tweets a month and grow about 3000 followers a month. This results in about two emails a week from potential prospects at a 50% close rate. I make anywhere between $40,000 to $80,000 a month. Everything is on a monthly subscription basis and you can see my services page [here](../../services.md)
+
 Transitioning from a technical role to consulting was a significant change, but I embraced the challenge. One of the helpful resources I discovered during this process was the book "One Page Marketing Plan". This book provided a simple yet effective framework for creating a marketing plan, focusing on three key areas: before the sale, during the sale, and after the sale (customer retention and referrals).
 
 ![One Page Marketing Plan](https://www.thinkingbusinessblog.com/wp-content/uploads/2018/10/Dib.png)
@@ -30,6 +34,17 @@ To reach my target audience, I focused on two main platforms: Twitter, where man
 
 ## How Do I Generate Leads and Leverage My Data Flywheel?
 
+!!! note "The numbers"
+
+  Up until May of 2024, I took about 140 hours of meetings every month. I would record a five-minute video for almost half the meetings, amounting to about 60 hours of meetings. This resulted in many voice memos.
+
+  - The ones that I felt were applicable, I posted online.
+  - For the ones that got the most attention, I turned them into blog posts.
+
+  I get on the front page of Hacker News about twice a month, which generates about 20,000 views a month on my blog.
+
+  ![](./img/analytics-blog.png)
+
 When you start consulting, you realize that the first step is having knowledge, but the second crucial step is generating leads. This realization led me to become not just a consultant but also a content creator and marketer. I discovered that there are four main ways to generate leads: warm outbound, cold outbound, free content, and paid ads. Given my technical background and expertise, I decided to focus primarily on creating free content to establish myself as a thought leader in the AI/ML space.
 
 A prime example of leveraging free content is my blog post "The rag is more than embeddings." RAG, which stands for Retrieval Augmented Generation, is a core area of my expertise and a popular topic in the AI/ML community. By sharing my knowledge and insights on this subject, I attracted potential clients who were seeking guidance in this area.
@@ -39,6 +54,10 @@ To ensure my content had maximum impact, I developed a data flywheel strategy. W
 Investing in high-quality content creation has proven to be highly effective, thanks to my collaboration with my writer, Joseph.
 
 ## How Do I Close Leads Using Situational Assessments?
+
+!!! note "The numbers"
+
+  In the past 3 months I have been able to close about 1000% of the situational assessments I write, Based on the 6-8 inbounds per month, maybe 2-3 result in an accessment. I've increased my prices significantly lower the amount of inbound I get.
 
 When it comes to closing leads, I rely on the situational assessment framework outlined in Alan Weiss's book, "The Consulting Bible." This framework helps me structure my proposals and communicate value to potential clients.
 
