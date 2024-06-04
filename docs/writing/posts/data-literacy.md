@@ -18,6 +18,24 @@ Data quality is the foundation upon which all analyses and models are built. Fai
 - Develop and implement data cleaning and preprocessing pipelines
 - Establish data quality metrics and monitor them regularly
 
+## Not Visualizing the Data
+
+Not visualizing your data can lead to missed insights, poor understanding of patterns and relationships, and poor communication of findings to others. AI engineers must learn the basics of visualizing data to better understand it, grok it, and communicate it.
+
+**Inversion**: Learn how to visualize data to explore, understand, and communicate the data.
+- Start with basic visualizations, such as histograms and box plots to understand distributions
+- Then, consider advanced techniques such as [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis) or [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) to discover complex patterns
+- Don't let the visual hang on its own—provide a logical narrative to guide the reader through it.
+
+## Only Relying on Aggregate Statistics
+
+Aggregate statistics such as mean and median can obscure important patterns, outliers, and subgroup differences within the data. AI engineers should understand the limitations of summary statistics lest they fall to [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox).
+
+**Inversion**: Dive deeper into the data by examining distributions, subgroups, and individual observations, in addition to aggregate statistics.
+- Consider statistics such as standard deviation, median vs. mean, and quantiles to get a sense of the data
+- Use histograms and density plots to identify skewness, multimodality, and potential outliers
+- Combine insights from aggregate statistics, distributions, subgroups to develop an understanding of the data
+
 ## Lack of Domain Understanding
 
 Analyzing data without sufficient context can result in misinterpretations and irrelevant or impractical insights. AI engineers must develop a deep understanding of the domain they are working in to ensure their analyses and models are meaningful and applicable to real-world problems.
