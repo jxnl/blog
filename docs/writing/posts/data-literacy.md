@@ -5,6 +5,7 @@ categories:
   - Thoughts
 authors:
   - jxnl
+  - eugene
 ---
 
 # 10 Ways to Be Data Illiterate (and How to Avoid Them)
