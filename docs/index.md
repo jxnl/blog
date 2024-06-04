@@ -4,14 +4,9 @@ Currently working as an independent consultant. I use my expertise in recommenda
 
 If you have general questions for me, feel free to [open an issue](https://github.com/jxnl/blog/issues) and tag it with `question`. I'll do my best to address it in a blog post. You can find my writing [here](./writing).
 
-
 ## Applied AI Consulting
 
-I offer [consulting and advisory services](./services.md) to help you reason about your recommendation systems, prompt engineering, and data science. Many of my clients are fast-growing early-stage startups backed by firms like Sequoia, Andreessen Horowitz, and Accel among others.
-
-We help you identify and focus on the most critical aspects of your project. My expertise allows me to provide targeted tactics and strategies,to improve data quality, measure and improve systems and reducing the time it takes to reach your goals. Additionally, my team includes a talented writer and developer who can help you scale your developer relations and marketing efforts, further amplifying the value we can deliver.
-
-If you're interested in collaborating to enhance your technical capabilities, effectively communicate your offerings, and accelerate your path to success, I invite you to reach out and discuss how we can work together.
+I offer [consulting and advisory services](./services.md) to help with recommendation systems, prompt engineering, and data science. My clients include fast-growing startups backed by firms like Sequoia, Andreessen Horowitz, and Accel. We identify project priorities, improve data quality, and accelerate goal achievement. Let's collaborate to enhance technical capabilities and accelerate success.
 
 ## Work History
 
