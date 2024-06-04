@@ -16,6 +16,7 @@ I offer [consulting and advisory services](./services.md) to help with recommend
 
 ## Clients
 
+- [Timescale](https://www.timescale.com/): Timescale is a global leader in time-series data analytics and quickly adapting to AI search.
 - [Limitless AI](http://limitless.ai/): Limitless AI is a personal memory assistant that helps you remember, organize, and navigate your life.
 - [Sandbar](https://sandbar.inc/): A human-AI interface company
 - [Raycast](https://raycast.com/): Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
