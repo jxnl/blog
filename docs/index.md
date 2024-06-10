@@ -1,6 +1,6 @@
 # :boom: whats up?
 
-Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://github.com/jxnl/instructor), [Flight](./writing/posts/recsys-frameworks.md), and an ML and data science educator, and working writing projects as part of [applied-llms.org]](https://applied-llms.org/).
+Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://github.com/jxnl/instructor), [Flight](./writing/posts/recsys-frameworks.md), and an ML and data science educator, and working writing projects as part of [applied-llms.org](https://applied-llms.org/).
 
 ## Applied AI Consulting
 
