@@ -139,7 +139,7 @@ nav:
 plugins:
   - redirects:
       redirect_maps:
-         jobs.md: https://applied-llm-jobs.super.site/
+         jobs.md: https://jobs.applied-llms.org/
   - social
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
