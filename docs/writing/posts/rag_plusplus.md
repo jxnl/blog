@@ -5,7 +5,7 @@ categories:
   - RAG
 authors:
   - jxnl
-  - joseph
+  - jo
 ---
 
 # Predictions for the Future of RAG

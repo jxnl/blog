@@ -134,8 +134,12 @@ nav:
   - Services:
     - Applied AI Consulting: "services.md"
   - Contact: 'contact.md'
+  - Job Board: 'jobs.md'
   
 plugins:
+  - redirects:
+      redirect_maps:
+         jobs.md: https://567-labs.notion.site/Jason-Liu-s-AI-Job-Board-2434ce1b4cb9443dad60e0d578133135?pvs=4
   - social
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
