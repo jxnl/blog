@@ -6,7 +6,7 @@ I'm not your typical consultant. For better or for worse, I've been in the trenc
 
 ---
 
-Take a look, and shoot me an [email](mailto:jason+hire@jxnl.co) about what your team is looking for.
+Take a look, and shoot me an [email](mailto:work@jxnl.co) about what your team is looking for.
 
 !!! note "More Background"
 
@@ -68,7 +68,7 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
 
-If you have further questions get in touch via [email](mailto:work@jxnl.co) or book a [call](https://cal.com/jasonliu)
+If you have further questions get in touch via [email](mailto:work@jxnl.co) or book a [call](https://cal.com/jasonliu). I really recommend reading my content to get a sense of my thought process and what I'm up to before reaching out, I give away plenty of free content.
 
 ## Current and Past Clients
 
@@ -87,4 +87,4 @@ If you have further questions get in touch via [email](mailto:work@jxnl.co) or b
 - [Pydantic](http://pydantic.dev/): Pydantic provides data validation and settings management using Python type annotations, enforcing type hints at runtime with user-friendly error handling.
 - [Weights & Biases](https://wandb.ai/): Wandb provides a platform for tracking machine learning experiments, offering tools for visualization, comparison, and collaboration in ML projects.
 
-If you have further questions about my past work or what I can do for your project and team, get in touch via [email](mailto:jason+hire@jxnl.co)
+If you have further questions about my past work or what I can do for your project and team, get in touch via [email](mailto:work@jxnl.co)

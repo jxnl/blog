@@ -1,6 +1,12 @@
 # :boom: whats up?
 
-Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://github.com/jxnl/instructor), [Flight](./writing/posts/recsys-frameworks.md), and an ML and data science educator, and working writing projects as part of [applied-llms.org](https://applied-llms.org/).
+Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://github.com/jxnl/instructor), [Flight](./writing/posts/recsys-frameworks.md), and an ML and data science educator, and working writing projects as part of [applied-llms.org](https://applied-llms.org/), as well as the job board
+
+## Subscribe to my writing
+
+I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
 
 ## Applied AI Consulting
 
@@ -30,3 +36,5 @@ I offer [consulting and advisory services](./services.md) to help with recommend
 - [Weights & Biases](https://wandb.ai/): Wandb provides a platform for tracking machine learning experiments, offering tools for visualization, comparison, and collaboration in ML projects.
 - [Modal Labs](https://modal.com/): Modal specializes in cloud functions, offering a platform for running generative AI models, large-scale batch jobs, and more.
 - [Pydantic](http://pydantic.dev/): Pydantic provides data validation and settings management using Python type annotations, enforcing type hints at runtime with user-friendly error handling.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
