@@ -15,7 +15,9 @@ I'm really not qualified to give advice.
 But enough people DM'd me on Twitter, so here it is. I don't have to answer the same question over and over again.
 After some more editing I realised that I am actually writing this for my younger sister Katherine.
 
-If you want to know who I am, check out [blog/whoami](./whoami.md) or my [Twitter](https://twitter.com/jxnlco).
+If you want to know who I am, check out [blog/whoami](./whoami.md) or my [Twitter](https://twitter.com/jxnlco). or consider subscribing to my newsletter below.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
 
 !!! warning "Don't read this if you're seeking a nuanced perspective"
 

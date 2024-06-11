@@ -10,6 +10,10 @@ authors:
 
 # 10 Ways to Be Data Illiterate (and How to Avoid Them)
 
+Data literacy is an essential skill in today's data-driven world. As AI engineers, understanding how to properly handle, analyze, and interpret data can make the difference between success and failure in our projects. In this post, we will explore ten common pitfalls that lead to data illiteracy and provide actionable strategies to avoid them. By becoming aware of these mistakes and learning how to address them, you can enhance your data literacy and ensure your work is both accurate and impactful. Let's dive in and discover how to navigate the complexities of data with confidence and competence.
+
+<!-- more -->
+
 ## Ignoring Data Quality
 
 Data quality is the foundation upon which all analyses and models are built. Failing to assess and address issues like missing values, outliers, and inconsistencies can lead to unreliable insights and poor model performance. Data literate AI engineers must prioritize data quality to ensure their work is accurate and trustworthy.
