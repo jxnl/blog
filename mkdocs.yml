@@ -134,7 +134,7 @@ nav:
   - Services:
     - Applied AI Consulting: "services.md"
   - Contact: 'contact.md'
-  - Job Board: 'jobs.md'
+  - Job Board (External): 'jobs.md'
   
 plugins:
   - redirects:
