@@ -14,6 +14,8 @@ In the next 6 to 8 months, RAG will be used primarily for report generation. We'
 
 Rag is the feature, not the benefit.
 
+<!-- more -->
+
 ## Reports over RAG
 
 So why are reports better than RAG? Simply put, RAG systems suck because the value you derive is time saved from finding an answer. This is a one-dimensional value, and it's very hard to sell any value beyond that. Meanwhile, a report is a higher-value product because it is a decision-making tool that enables better resource allocation.
