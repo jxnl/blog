@@ -1,258 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://jxnl.github.io/blog/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/assessment/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/assessment/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/books/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/books/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/contact/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/contact/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/services/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/jobs/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/services/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2023/11/02/ai-engineer-keynote-pydantic-is-all-you-need/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/06/01/advice-to-young-people/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/02/07/how-to-ask/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2023/11/02/ai-engineer-keynote-pydantic-is-all-you-need/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/18/public-baths/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/02/07/how-to-ask/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2023/02/05/centaur-chess/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/18/public-baths/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/22/consulting/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/05/29/marketing-consulting/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/20/couchs/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/22/consulting/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2023/02/05/freediving-ice/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/20/couchs/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2023/06/01/kojima-sticks/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/08/learning/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/03/28/data-flywheel/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/02/28/levels-of-complexity-rag-applications/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2023/02/05/freediving-ice/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/02/05/when-to-lgtm-at-k/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/04/20/getting-goals/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2023/04/04/good-llm-observability/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/04/29/losing-my-hands/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/02/18/how-to-ship-an-mvp-for-ai-applications/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/05/29/losing-my-hands-part-2/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/07/inverted-thinking-rag/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/05/27/products-and-tips-for-rsi/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2023/09/17/rag-is-more-than-embeddings/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/04/08/hiring-mle-at-early-stage-companies/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2022/08/01/stitchfix-framework/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/09/self-loathing/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2023/06/01/kojima-sticks/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/19/tips-probabilistic-software/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/08/learning/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/02/20/formatting-strings/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/02/28/levels-of-complexity-rag-applications/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/02/03/testosterone/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/02/05/when-to-lgtm-at-k/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/11/anatomy-of-a-tweet/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2023/04/04/good-llm-observability/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/02/14/weights-and-biases-course/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/05/11/low-hanging-fruit-for-rag-search/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/2024/01/01/whoami/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/02/18/how-to-ship-an-mvp-for-ai-applications/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/archive/2024/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/05/22/what-is-prompt-optimization/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/archive/2023/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/07/inverted-thinking-rag/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/archive/2022/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2023/09/17/rag-is-more-than-embeddings/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/personal/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/06/05/predictions-for-the-future-of-rag/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/rag/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2022/08/01/stitchfix-framework/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/llms/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/09/self-loathing/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/retrieval-augmented-generation/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/19/tips-probabilistic-software/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/query-understanding/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/02/20/formatting-strings/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/funny-thoughts/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/03/20/technology-skepticism/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/social-media/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/02/03/testosterone/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/language-models/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/11/anatomy-of-a-tweet/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/search-systems/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/02/14/weights-and-biases-course/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/observability/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/2024/01/01/whoami/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/llm/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/archive/2024/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/stitch-fix/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/archive/2023/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/data-science/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/archive/2022/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/frameworks/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/category/rag/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/page/2/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/category/thoughts/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/page/3/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/category/personal/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/archive/2024/page/2/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/category/consulting/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.github.io/blog/writing/category/personal/page/2/</loc>
-         <lastmod>2024-03-15</lastmod>
+         <loc>https://jxnl.co/writing/category/llms/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/category/business/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/category/llm/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/category/funny-thoughts/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/page/2/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/page/3/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/page/4/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/archive/2024/page/2/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/archive/2024/page/3/</loc>
+         <lastmod>2024-06-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/category/personal/page/2/</loc>
+         <lastmod>2024-06-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
