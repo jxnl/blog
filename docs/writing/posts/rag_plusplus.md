@@ -19,6 +19,7 @@ Rag is the feature, not the benefit.
 ## Reports over RAG
 
 So why are reports better than RAG? Simply put, RAG systems suck because the value you derive is time saved from finding an answer. This is a one-dimensional value, and it's very hard to sell any value beyond that. Meanwhile, a report is a higher-value product because it is a decision-making tool that enables better resource allocation.
+19121413/Aim-of-SOP-(Standard-Operating-Procedure)-copy.webp)
 
 To better illustrate this, I'll give a couple of examples: 
 
@@ -36,6 +37,8 @@ Furthermore, how reports are written is incredibly important. Scaling decision-m
 
 One of the reasons I attend workshops, get coaching, or read business books is because the outcome I am looking for is an SOP. For instance, I learned a way to write sales engagement letters that convert better. Now, all of my meetings fit this format and help make me far more money than the $40 dollar book I learned the template from cost. People are taught to give feedback and answer questions in specific ways. You get better outcomes when this output is structured correctly in something like a report or a template. Being able to pay for the right report template can be incredibly valuable because it ensures you're getting the outcome you actually need.
 
+![](https://media.geeksforgeeks.org/wp-content/uploads/202404
+
 I don't care so much about being able to read a chat transcript of a meeting I had. I care if I can turn that transcript into a format and report that I know will drive my desired business outcomes rather than just save me time. I want the AI to create a memo with clear deliverables for me or summarize the chat transcript to tell me, "This is the objective, this is how we make the decision, and here are the follow-ups."
 
 Ultimately, a report's value goes beyond a wage worker answering questions—it supports high-leverage outcomes like strategic decision-making.
@@ -43,3 +46,9 @@ Ultimately, a report's value goes beyond a wage worker answering questions—it 
 ## Future outcomes
 
 If RAG primarily becomes report generation it means two things are possible: 1. a marketplace of report-generating tools, and 2. the ability to effectively find the right report for your desired outcome. I think that question-answer sets are going to be of limited usefulness, while report generation addresses not only question-answer sets but the value of decision-making. When these reports are available in a marketplace of templates, they add further value because understanding what the template is defining becomes a skill in itself. These are the kinds of skills that people then take workshops on, get coaches for, and buy books about.
+
+## Subscribe to my writing
+
+I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>

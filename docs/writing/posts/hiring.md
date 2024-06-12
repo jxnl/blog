@@ -45,3 +45,9 @@ Simultaneously, it may be challenging for startups to justify hiring a dedicated
 To address this issue, startups should carefully consider the timing of their machine learning hires and ensure that there is sufficient data and infrastructure in place to support their work. If companies allow engineers who've caught the AI bug and are already familiar with these systems and infrastructure to be entrepreneurial and lead the development of these teams, they could move very quickly, given the tools that OpenAI and Anthropic provide us. Even if small, a dedicated research team can help maintain the momentum of AI research and development, even as the company scales and faces increased engineering demands.
 
 It's essential to recognize that for many companies, the initial AI work will likely focus on integration rather than pure research. This presents itself as a tradeoff and potential deterrent for onboarding machine learning talent. However, having team members who are strong developers and genuinely interested in AI will be crucial for the company's long-term success. By finding the right balance between research and engineering, startups can lay the foundation for sustained AI innovation and growth.
+
+## Subscribe to my writing
+
+I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>

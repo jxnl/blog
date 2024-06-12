@@ -69,3 +69,8 @@ I think the first time something really good happens to you—I mean really good
 
 Despite my injury, I still try to maintain a bulletproof growth mindset. I constantly ask myself why I shouldn't make more money every month. The worst part is I truly do not know whether this is a ‘good’ mindset to have. Should I abstract to something like ‘focusing on the process’ and results will come? Should I be working with new clients to solve new problems? Maybe this is part of what caused my injury in the first place and the poison I was leaning into. I  truly believe all I need to succeed is my hands, brain, and laptop. As long as I have these three things, I’ll be fine.
 
+## Subscribe to my writing
+
+I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>

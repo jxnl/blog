@@ -95,3 +95,9 @@ My desire to self-improve is… not hampered… but challenged by the value syst
 ## Finding My Voice Through Writing
 
 My attempt to resolve the two Jasons, the Jason I was and the Jason I am now, led to my writing in the first place. When I was injured, I realized the work I could produce with my hands became so limited that anything I did with them had to make something of greater value. Everything I did had to have more impact because it came at a much greater cost. Thankfully, I could get my thoughts out and share them with more people due to the mass adoption of LLMs. Text-to-speech became very affordable, so I started recording voice memos to myself and then running the audio through TTS and later chatGPT to clean it up. Being injured meant I had a surplus of free time from not being able to work the way I was used to, the way that was harming me. As I changed how I worked to be more sustainable, I had no excuses for not putting the information in my head into the world. Although my injury has subsided somewhat, and I can return to work in various capacities, it is always in the back of my mind and affects how I approach everything. I spent all of my life learning things, and I think in my thirties, my goal will be around sharing the thoughts and stories I've collected.
+
+## Subscribe to my writing
+
+I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
