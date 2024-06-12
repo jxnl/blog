@@ -5,6 +5,7 @@ slug: losing-my-hands-part-2
 comments: True
 categories:
   - Personal
+  - Losing my hands
 authors:
   - jxnl
   - jo

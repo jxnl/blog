@@ -5,6 +5,7 @@ slug: products-and-tips-for-rsi
 comments: True
 categories:
   - Personal
+  - Losing my hands
 authors:
   - jxnl
   - jo
