@@ -8,7 +8,7 @@ I'm not your typical consultant. For better or for worse, I've been in the trenc
 
 Take a look, and shoot me an [email](mailto:work@jxnl.co) about what your team is looking for.
 
-!!! note "More Background"
+??? note "More Background"
 
     - Led feasibility research and integrated AI models like VAE-GAN and GPT-3, boosting revenue by $50M.
 
@@ -63,8 +63,8 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 ### Pricing
 
-- Strategic Consulting - $14,500
-- Comprehensive Consulting: Starting at $46,000
+- Strategic Consulting: $14,500 per month
+- Comprehensive Consulting: Starting at $120,000 for a minimum 3 month commitment
 
 A 50% deposit is required to start, with the remainder payable within 30 days. Monthly billing thereafter. For early stage companies, I'm open to discussing equity if that aligns better with your goals.
 
