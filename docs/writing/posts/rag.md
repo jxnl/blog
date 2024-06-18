@@ -123,8 +123,8 @@ query = client.chat.completions.create(
 {
   "rewritten_query": "novel developments advancements ai artificial intelligence machine learning",
   "published_daterange": {
-    "start": "2023-09-17",
-    "end": "2021-06-17"
+    "start": "2021-06-17",
+    "end": "2023-09-17"
   },
   "domains_allow_list": ["arxiv.org"]
 }
