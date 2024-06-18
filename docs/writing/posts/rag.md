@@ -15,7 +15,7 @@ authors:
   
     I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
 
-With the advent of large language models (LLM), retrival augmented generation (RAG) has become a hot topic. However throught the past year of [helping startups](https://jxnl.co) integrate LLMs into their stack I've noticed that the pattern of taking user queries, embedding them, and directly searching a vector store is effectively demoware.
+With the advent of large language models (LLM), retrieval augmented generation (RAG) has become a hot topic. However throught the past year of [helping startups](https://jxnl.co) integrate LLMs into their stack I've noticed that the pattern of taking user queries, embedding them, and directly searching a vector store is effectively demoware.
 
 !!! note "What is RAG?"
 
@@ -183,7 +183,7 @@ from openai import OpenAI
 # Enables response_model in the openai client
 client = instructor.patch(OpenAI())
 
-retrival = client.chat.completions.create(
+retrieval = client.chat.completions.create(
     model="gpt-4",
     response_model=Retrival,
     messages=[
@@ -235,7 +235,7 @@ For more insights on related topics, check out these posts:
 
 ## Conclusion
 
-This isnt about fancy embedding tricks, it's just plain old information retrival and query understanding. The beauty of instructor is that it simplifies modeling the complex and lets you define the output of the language model, the prompts, and the payload we send to the backend in a single place.
+This isnt about fancy embedding tricks, it's just plain old information retrieval and query understanding. The beauty of instructor is that it simplifies modeling the complex and lets you define the output of the language model, the prompts, and the payload we send to the backend in a single place.
 
 ## What's Next?
 
