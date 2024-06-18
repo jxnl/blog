@@ -19,7 +19,7 @@ With the advent of large language models (LLM), retrieval augmented generation (
 
 !!! note "What is RAG?"
 
-    Retrival augmented generation (RAG) is a technique that uses an LLM to generate responses, but uses a search backend to augment the generation. In the past year using text embeddings with a vector databases has been the most popular approach I've seen being socialized.
+    Retrieval augmented generation (RAG) is a technique that uses an LLM to generate responses, but uses a search backend to augment the generation. In the past year using text embeddings with a vector databases has been the most popular approach I've seen being socialized.
 
 <figure markdown>
   ![RAG](img/dumb_rag.png)
@@ -167,7 +167,7 @@ class SearchClient(BaseModel):
         elif self.source == ClientSource.CALENDAR:
             ...
 
-class Retrival(BaseModel):
+class Retrieval(BaseModel):
     queries: List[SearchClient]
 
     async def execute(self) -> str:
@@ -185,7 +185,7 @@ client = instructor.patch(OpenAI())
 
 retrieval = client.chat.completions.create(
     model="gpt-4",
-    response_model=Retrival,
+    response_model=Retrieval,
     messages=[
         {"role": "system", "content": "You are Jason's personal assistant."},
         {"role": "user", "content": "What do I have today?"}
