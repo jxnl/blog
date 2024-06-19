@@ -131,9 +131,8 @@ nav:
     - Contact: 'contact.md'
   - Writing:
     - "writing/index.md"
-  - Services:
+  - Hire Me:
     - Applied AI Consulting: "services.md"
-  - Contact: 'contact.md'
   - Job Board (External): 'jobs.md'
   
 plugins:
