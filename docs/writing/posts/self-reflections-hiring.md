@@ -12,6 +12,8 @@ authors:
 
 In his essay ["What's Going On Here, With This Human?"](https://grahamduncan.blog/whats-going-on-here/), Graham Duncan discusses the importance of seeing people clearly, both in the context of hiring and in understanding oneself. He suggests asking the question "what's going on here with this person in front of me?" and provides a framework for expanding one's ability to see others more clearly. Inspired by this essay, I asked myself some probing questions to better understand my own strengths, weaknesses, and motivations. Here are my reflections:
 
+<!-- more -->
+
 ## When in my life or career have I experienced a moment of ignition, where I saw someone doing something intuitively, and I knew that I was wired the same way and wanted to do that? What did I learn from that experience?
 
 Ownership of code. Realizing that I can push the work I need to see, and if the work isn't done, I continue to push that work, even if it makes me the enemy. It's a mistake to attach the work product to who you are as a person. Having agency and understanding that the job needs to be done, executed well, and move on to the next thing.
