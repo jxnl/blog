@@ -6,7 +6,7 @@ categories:
   - Personal
 ---
 
-# Getting recognized at the AI engineering conference
+# On Getting Recognized
 
 ## Why I Grew My Twitter Account
 
