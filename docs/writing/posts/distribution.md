@@ -16,6 +16,8 @@ I decided to grow my Twitter account primarily for two reasons:
 
 2. I needed to be noticeable in my field, especially considering going on a speaking tour.
 
+aside: This is from the transcript of this [video](https://www.youtube.com/watch?v=R9ODCbYbx5c), I tried the AI eye contact feature and it came out a bit creepy.
+
 <!-- more -->
 
 ## Initial Recognition
