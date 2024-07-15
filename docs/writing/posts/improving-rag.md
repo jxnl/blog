@@ -12,7 +12,7 @@ authors:
 
 !!! note "RAG Course"
   
-    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.
 
 These are notes generated after a call I had with Hamel on a 'system' to improve a RAG system. I've also written some other work like [Rag is not Embeddings](rag.md) and how to build a [Terrible RAG System](./rag-inverted.md) and how [complexity](./levels-of-rag.md) can be broken down into smaller pieces.
 
@@ -166,3 +166,7 @@ For example, if you're building a medical diagnostic tool, a slight increase in 
 ## Wrapping Up
 
 This is was written based off of a 30 conversation with a client, so I know I'm skipping over many details and implementation details. Leave a comment and let me know and we can get into specifics.
+
+!!! note "RAG Course"
+  
+    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.

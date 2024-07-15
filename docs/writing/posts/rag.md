@@ -13,7 +13,7 @@ authors:
 
 !!! note "RAG Course"
   
-    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.
 
 With the advent of large language models (LLM), retrieval augmented generation (RAG) has become a hot topic. However throught the past year of [helping startups](https://jxnl.co) integrate LLMs into their stack I've noticed that the pattern of taking user queries, embedding them, and directly searching a vector store is effectively demoware.
 

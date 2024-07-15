@@ -12,7 +12,7 @@ authors:
 
 !!! note "RAG Course"
   
-    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.
 
 This post comprehensive guide to understanding and implementing RAG applications across different levels of complexity. Whether you're a beginner eager to learn the basics or an experienced developer looking to deepen your expertise, you'll find valuable insights and practical knowledge to help you on your journey. Let's embark on this exciting exploration together and unlock the full potential of RAG applications.
 
@@ -406,4 +406,4 @@ As we continue to explore the depths of RAG applications, the following areas wi
 
 !!! note "RAG Course"
   
-    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.
