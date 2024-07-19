@@ -1,72 +1,76 @@
 ---
+draft: False
 date: 2024-06-30
-authors:
-  - jxnl
+slug: on-getting-recognized
+comments: True
 categories:
   - Personal
+authors:
+  - jxnl
 ---
 
-# On Getting Recognized
+# On Getting Recognized: The Unexpected Price of Online Success
 
-## Why I Grew My Twitter Account
-
-I decided to grow my Twitter account primarily for two reasons:
-
-1. I was going back to Canada and didn't really have a network of friends in Toronto that I could talk about this kind of stuff with. So I decided to get big on Twitter and use it as a way of connecting and talking to people.
-
-2. I needed to be noticeable in my field, especially considering going on a speaking tour.
-
-aside: This is from the transcript of this [video](https://www.youtube.com/watch?v=R9ODCbYbx5c), I tried the AI eye contact feature and it came out a bit creepy.
+I never thought I'd be writing about the challenges of being recognized in public. A year ago, I was just another data scientist trying to build connections and establish myself in the field. Now, I'm grappling with the unintended consequences of my growing online presence. Here's how it all unfolded, and what I've learned about the price of distribution in the digital age.
 
 <!-- more -->
 
-## Initial Recognition
+## Why I Grew My Twitter Account
 
-In the past year, I've gotten way more recognition than I had before. Previously, I was mostly well known in the data science world maybe six, seven years ago. That just meant I would get recognized maybe once or twice a week in San Francisco, maybe once a month in New York City.
+My journey into the world of online influence began with two simple goals:
 
-When I got recognized once or twice a week, it was really fun. It felt good to know people in the real world were impacted by my work and the things I've said, whether it's advice, business stuff, or someone who uses my Python library [instructor](https://useinstructor.com).
+1. Build a network: After moving back to Canada, I needed a way to connect with like-minded professionals in my field.
+2. Gain visibility for speaking engagements: As I embarked on a speaking tour, I wanted to ensure I'd be noticeable in my industry.
 
-## Experience at the AI Conference
+Little did I know how dramatically these efforts would change my day-to-day life.
 
-When I went to San Francisco this week for the AI engineering conference, it started out fun. The first day, I even joked with my girlfriend about taking people out to a spa if I got recognized by more than 10 people.
+## The Initial Thrill of Recognition
 
-!!! note
-    My talk from last year had been very popular, almost the most popular talk for the whole year until Jerry beat me.
+At first, being recognized was exhilarating. In San Francisco, it happened once or twice a week; in New York City, maybe once a month. It felt validating to know that my work and ideas were making an impact. Whether it was advice, business insights, or my Python library [instructor](https://useinstructor.com), people were connecting with my content in the real world.
 
-However, as the second and third day happened, it got awful. I didn't really enjoy it. Every time I met someone I knew from Twitter, I wanted to talk to them. But if I talked for more than three or four minutes in the hallways, four or five people would stand around me, listening to the conversation, trying to ask me questions. I'm generally a very shy person, which is obviously why I spend so much time on Twitter posting my thoughts. I don't really want to be around more than the three or four friends I have in any given city.
+## The AI Conference: When Fun Turns to Overwhelm
 
-## Disruptive Encounters
+The recent AI engineering conference in San Francisco marked a turning point. Day one was enjoyable - I even joked about treating people to a spa day if I got recognized more than 10 times. But as the days wore on, the constant attention became overwhelming.
 
-Some encounters were particularly disruptive:
+!!! note "Popular Talk"
+    My talk from last year had been a hit, nearly the most popular of the entire conference until Jerry edged me out.
 
-- At the gym, someone approached me at the bottom of a squat (what?!).
-- An Uber driver didn't unlock the doors and tried to pitch their AI startup.
-- People would stand beside me while I had conversations with someone I knew, trying to chime in uninvited.
+By day three, I was struggling. Every conversation in the hallway attracted a crowd. As an inherently shy person (hence my preference for Twitter), I found myself retreating to my hotel room just to have a moment's peace.
 
-It got to a point where I would rather have conversations in my hotel room. Even walking to get coffee became difficult, with people constantly approaching us.
+## When Recognition Becomes Disruptive
 
-!!! warning
-    By the second and third day, I would get anxious going down the elevator, knowing I'd be recognized as soon as I left.
+Some encounters crossed the line from flattering to frankly bizarre:
 
-## Impact on Work and Personal Time
+- A gym-goer approached me mid-squat (seriously, who does that?)
+- An Uber driver held me hostage to pitch their AI startup
+- Uninvited eavesdroppers constantly tried to insert themselves into my conversations
 
-The recognition started to interfere with work and personal time:
+!!! warning "Anxiety Rising"
+    By the end of the conference, I was getting anxious just stepping into the elevator, knowing I'd be recognized as soon as I left.
 
-- During a client meeting over coffee, people would come up and try to say hi and start a conversation, Many just said hi and mentioned they know we're in the middle of something and just wanted to shake my hand, which was fine.
-But the other people just started asking me questions.
-- It became difficult to have the conversations I wanted to have at the conference.
-- I had to start telling people to meet me somewhere else outside of the conference.
-- Ultimately, it also meant me not being able to find the time and space to meet the people I really wanted to meet at the conference.
+## The Impact on Work and Personal Time
 
-## Moving Forward
+The constant recognition began to interfere with both my professional and personal life:
 
-Going forward, I'm going to be more conscious about being someone that can be recognized. I'm not going to be someone who hangs around at conferences. Instead, I'll just pop in to give my talk and pop out, or host some office hours that are a little bit more curated.
+- Client meetings were interrupted by well-meaning fans
+- Meaningful conversations at the conference became nearly impossible
+- I had to start scheduling meetings outside the conference venue just to get work done
+
+## Moving Forward: Adapting to a New Reality
+
+This experience has been a wake-up call. Going forward, I'll need to be more strategic about my public appearances:
+
+- Limiting my time at conferences to just my speaking slot
+- Hosting curated office hours instead of open-ended networking
+- Being more conscious about my visibility in public spaces
 
 ## The Price of Distribution
 
-I don't consider myself am influencer, maybe a micro-influencer. But this is the price of having distribution, and distribution is what you need if you really believe in the message.
+While I don't consider myself a full-fledged influencer (maybe a micro-influencer at best), I'm learning that this is the cost of having a platform. And despite the challenges, I still believe in the importance of sharing my message.
 
 !!! quote "Personal Reflection"
     "I still believe in the message. I think people's systems should be simpler. I think processes are more important than tools. I want to teach people, especially because now that I can't really code anymore due to my hand injury."
 
-I think it's important that I still get distribution, but this experience was very much a wake-up call as to what actually happens. I don't think this will happen regularly on a regular basis, but at conferences, it was very weird.
+Distribution is crucial if you truly believe in your message. But as I've learned, it comes with a price. While I don't expect this level of recognition in my daily life, conferences and industry events will require a new approach.
+
+This journey has been a stark reminder of the double-edged sword of online influence. As we build our platforms and share our ideas, we must also be prepared for the real-world implications of our digital success.
