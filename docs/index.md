@@ -1,6 +1,6 @@
 # :boom: whats up?
 
-I am a machine learning engineer, angel investor, and startup advisor. I am the creator of [Instructor](https://github.com/jxnl/instructor), [Flight](./writing/posts/recsys-frameworks.md), and an ML and data science educator, and working writing projects as part of [applied-llms.org](https://applied-llms.org/)
+I am a machine learning engineer, angel investor, and startup advisor. I am the creator of [Instructor](https://github.com/jxnl/instructor), an ML and data science educator. If you're looking for an interesting job check out my [job board](https://jobs.applied-llms.org/)
 
 ## Get in touch
 
