@@ -69,9 +69,9 @@ I work on a monthly retainer basis. The cost depends on the tier of service you 
 
 Pricing:
 
-- Strategic Consulting: $14,575/month
+- Strategic Consulting: $16,575/month
 
-- Comprehensive Consulting: $118,300 for a minimum 3 month commitment
+- Comprehensive Consulting: $128,300 for a minimum 3 month commitment
 
 To discuss starting an engagement, please contact me at `work@jxnl.co`. You can also book a [paid call](https://cal.com/jasonliu/expert-call) if you need immediate short-form advice.
 
