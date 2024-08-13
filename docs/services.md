@@ -65,12 +65,12 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 ### Pricing
 
-The cost depends on the tier of service you choose, a typical project ranges from $50k to $120k over a minimum 3 month period.
+- A typical project ranges from $50k to $120k over a minimum 3 month period
 
 If you're a startup with an interesting story, I'm happy to work with you on a case-by-case basis. To start discussing a project, please complete the [contact form](https://form.typeform.com/to/gqgTx3I6). You can also book a [paid call](https://cal.com/jasonliu/expert-call) if you need immediate short-form advice.
 
 
-## Current and Past Clients
+## Clients 
 
 - [Timescale](https://timescale.com/): Timescale is a time-series database for PostgreSQL, offering scalable and performant time-series data storage.
 - [Limitless AI](http://limitless.ai/): Limitless AI is a personal memory assistant that helps you remember, organize, and navigate your life.
@@ -87,4 +87,4 @@ If you're a startup with an interesting story, I'm happy to work with you on a c
 - [New Computer](http://new.computer/): Dot by New Computer is an intelligent guide designed to help you remember, organize, and navigate your life.
 - [Kay.ai](http://kay.ai/): Retrieve relevant context from the semantic web for your LLM apps with fully hosted embeddings.
 
-If you have further questions about my past work or what I can do for your project and team, get in touch via [email](mailto:work@jxnl.co)
+If you have further questions about my past work or what I can do for your project and team, get in touch via the [contact form](https://form.typeform.com/to/gqgTx3I6)
