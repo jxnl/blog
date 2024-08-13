@@ -65,15 +65,10 @@ In addition to everything mentioned in strategic consulting, you receive:
 
 ### Pricing
 
-I work on a monthly retainer basis. The cost depends on the tier of service you choose:
+The cost depends on the tier of service you choose, a typical project ranges from $50k to $120k over a minimum 3 month period.
 
-Pricing:
+If you're a startup with an interesting story, I'm happy to work with you on a case-by-case basis. To start discussing a project, please complete the [contact form](https://form.typeform.com/to/gqgTx3I6). You can also book a [paid call](https://cal.com/jasonliu/expert-call) if you need immediate short-form advice.
 
-- Strategic Consulting: $16,575/month
-
-- Comprehensive Consulting: $128,300 for a minimum 3 month commitment
-
-To discuss starting an engagement, please contact me at `work@jxnl.co`. You can also book a [paid call](https://cal.com/jasonliu/expert-call) if you need immediate short-form advice.
 
 ## Current and Past Clients
 
