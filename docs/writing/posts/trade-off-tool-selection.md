@@ -12,9 +12,9 @@ authors:
 
 !!! note "RAG Course"
 
-    This is based on a conversation that came up during office hours from my [RAG course](https://maven.com/applied-llms/rag-playbook) for engineering leaders. Theres another cohort that's coming up soon, so if you're interested in that, you can sign up [here](https://maven.com/applied-llms/rag-playbook).
+    This is based on a conversation that came up during office hours from my [RAG course](https://maven.com/applied-llms/rag-playbook) for engineering leaders. There's another cohort that's coming up soon, so if you're interested in that, you can sign up [here](https://maven.com/applied-llms/rag-playbook).
 
-When it comes to Retrieval-Augmented Generation (RAG) systems, one of the key challenges is deciding how to select and use tools effectively. As someone who's spent countless hours optimizing these systems Many people ask me whether or not they should think about using retrieval to choose which tools to put into the prompt. What this actually means is that we're interested in making precision and recall trade-offs. I've found that the key lies in balancing recall and precision. Let me break down my approach and share some insights that could help you improve your own RAG implementations.
+When it comes to Retrieval-Augmented Generation (RAG) systems, one of the key challenges is deciding how to select and use tools effectively. As someone who's spent countless hours optimizing these systems, many people ask me whether or not they should think about using retrieval to choose which tools to put into the prompt. What this actually means is that we're interested in making precision and recall trade-offs. I've found that the key lies in balancing recall and precision. Let me break down my approach and share some insights that could help you improve your own RAG implementations.
 
 In this article, we'll cover:
 
@@ -26,7 +26,11 @@ In this article, we'll cover:
 
 ## The Recall vs. Precision Tradeoff
 
-First, let's consider the typical scenario: You have a large set of tools (let's say 30) at your disposal. If you include all of them in your prompt, you're essentially aiming for 100% recall, but at the cost of precision. Why? Because having too many irrelevant tools can confuse the language model, in terms of the correct tool retrieval you'll have 100$ recall and 1/30 precision.
+First, let's consider the typical scenario: You have a large set of tools (let's say 30) at your disposal. If you include all of them in your prompt, you're essentially aiming for 100% recall, but at the cost of precision. Why? Because having too many irrelevant tools can confuse the language model. In terms of the correct tool retrieval, you'll have 100% recall and 1/30 precision.
+
+!!! note "Assumption"
+
+    It's important to note that this discussion assumes only one tool is being used at a time. In reality, multiple tools might be used in combination, which could affect the precision and recall calculations.
 
 This is where retrieval comes in. By using retrieval to inform tool selection, you're making a conscious decision to potentially lower recall in exchange for improved precision. It's a delicate balance, but one that can significantly enhance your system's performance.
 
@@ -56,7 +60,7 @@ Here's how you can put this into practice:
 2. Create a histogram of tool usage for these successful interactions.
 3. Use a cumulative sum to identify which tools account for the majority of successful cases.
 4. Designate these top performers as your "evergreen" tools.
-5. Implement a retrieval system for the remaining tools, based on query analysis or embeddings essentially using a summary index where the embeddings point to the tool information.
+5. Implement a retrieval system for the remaining tools, based on query analysis or embeddings, essentially using a summary index where the embeddings point to the tool information.
 
 By doing this, you're not just guessing anymore - you're letting the data guide your tool selection strategy.
 
@@ -81,4 +85,4 @@ Implementing this strategy has helped me significantly improve the performance o
 
 So, next time you're scratching your head over tool selection in your RAG system, remember: start with data, identify your evergreens, and use retrieval wisely. Your users (and your metrics) will thank you.
 
-If you're interested in learning more about RAG, sign up for my [RAG course](https://maven.com/applied-llms/rag-playbook), we have a new cohort coming up next year.
+If you're interested in learning more about RAG, sign up for my [RAG course](https://maven.com/applied-llms/rag-playbook). We have a new cohort coming up next year.
