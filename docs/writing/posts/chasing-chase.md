@@ -84,4 +84,10 @@ Remember, you're not just choosing a place to store your money. You're choosing 
 
 Amid this nightmare, Mercury Bank came to the rescue. They quickly onboarded me, allowing for efficient creation of both personal and business accounts. Their smooth process, upfront paperwork requirements, and understanding of small business needs were exactly what I needed after the Chase ordeal. Mercury supports everything I require - from credit cards to invoicing - that Chase was unwilling to provide.
 
-If you're a startup or small business looking for a bank that truly supports you, consider using my referral link to open an account with Mercury [here](https://app.mercury.com/r/567)
+If you're a startup or small business looking for a bank that truly supports you, consider using my referral link to open an account with [Mercury](https://app.mercury.com/r/567)
+
+## Follow my journey
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+
+I am a machine learning engineer, angel investor, and startup advisor. I plan to write more about my consulting and startup journey.
