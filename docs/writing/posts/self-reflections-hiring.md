@@ -1,7 +1,7 @@
 ---
 ---
 draft: False
-date: 2025-06-15
+date: 2024-06-15
 categories:
   - Personal
 authors:
