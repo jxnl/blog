@@ -7,7 +7,7 @@ categories:
   - Personal
 authors:
   - jxnl
-  - joseph
+  - jo
 ---
 
 # Chasing Chase: Why I'll Never Trust Chase Bank Again, A Yuppie Nightmare
