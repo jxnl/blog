@@ -1,3 +1,15 @@
+---
+draft: False
+date: 2024-09-21
+slug: chase-bank-small-business-nightmare
+comments: True
+categories:
+  - Personal
+authors:
+  - jxnl
+  - joseph
+---
+
 # Chasing Chase: My Own Personal Yuppie Hell
 
 It always goes this way. Someone will try teaching you a parable or life story, but you never really understand it until you have to experience it yourself. Some call this ‘learning things the hard way.’  Some call this life. Now, folks always told me that consulting was either a feast or famine, which sounds straightforward, but it turns out I didn’t really know what this meant until I had to deal with Chase. 
