@@ -58,7 +58,7 @@ That said, you can definitely go crazy with how you set up your availability sch
 
 - [Circleback](https://app.circleback.ai/login?ref=jason@jxnl.co): My go-to for meeting notes and follow-ups, But I often will actually take those transcripts myself and pass them into something like Cloud or Spiral Computer to produce memos and blog posts.
 
-- [Anthropic Claude](https://claude.ai/new): An AI assistant I use for various tasks (more on this in a future post). But there is nearly no way I would be as effective in producing content and research memos without using cloud projects.  For example, my proposal generation is used as a claude project, where I have plenty of different example proposals and pretty long prompts.
+- [Anthropic Claude](https://claude.ai/new): An AI assistant crucial for content creation and research. I use it for generating proposals, leveraging example templates and detailed prompts. Unexpectedly, I've also found it valuable for creating mockups - I often share Claude-generated React code to visually communicate designs to clients, going beyond verbal descriptions.
 
 - [Spiral Computer](https://spiral.computer/): I use this to generate memos and blog posts from transcripts. It's a general-purpose tool that I use to convert transcripts into tweets and blog posts, and convert blog posts into tweets.  If you're committed to producing enough content and recognize that one of the best ways of increasing your surface area is to write more, Spiral Computer is a no-brainer tool for $200 a year. You'll definitely make it back if you can double the amount of content you produce.
 
