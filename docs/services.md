@@ -3,6 +3,19 @@
 
 I'm not your typical consultant. For better or for worse, I've been in the trenches more than I'd like, and my goal is to help you minimize regret by sharing my lessons with you and giving you a clear vision on what to invest in and what to build.
 
+## Problems I Solve
+
+My expertise includes retrieval-augmented generation, query understanding, prompt engineering, embedding finetuning, and MLOps observability.
+
+You should consider hiring me if …
+
+- You don't know how to improve your LLM products systematically.
+- You want to upskill your existing engineering team on AI best practices (how to build probabilistic software)
+- Feel lost on what to prioritize and what experiments you should run.
+- Need outside expertise to evaluate your needs and vet potential talent.
+- You are overwhelmed by tools & frameworks.
+
+
 I have worked with leading companies on AI products such as [Limitless AI](http://limitless.ai/), [Sandbar](https://sandbar.inc/), [Raycast](https://raycast.com/), [Tensorlake](https://tensorlake.ai/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Naro](http://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](http://new.computer/), [Kay.ai](http://kay.ai/), [Modal Labs](https://modal.com/), [Pydantic](http://pydantic.dev/), and [Weights & Biases](https://wandb.ai/).
 
 ---
@@ -20,17 +33,6 @@ Take a look, and shoot me an [email](mailto:work@jxnl.co) about what your team i
     Throughout my career in the tech industry, I've had the privilege of working with both established organizations such as [Stitchfix](https://www.stitchfix.com/), [Meta](https://about.fb.com/), and [NYU](https://www.nyu.edu/), as well as startups including [Rewind AI](https://rewind.ai/), [Naro](https://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](https://newcomputer.io/), [Modal Labs](https://modal.com/), and [Weights & Biases](https://wandb.ai/).
 
     In these collaborations, I've tackled diverse areas including personalization, search, data generation and management, sales, marketing, infrastructure, finance, and agent-based modeling.
-
-## Problems I Solve
-
-My expertise includes retrieval-augmented generation, query understanding, prompt engineering, embedding finetuning, and MLOps observability.
-
-You should consider hiring me if …
-
-- You don't know how to improve your LLM products systematically.
-- You are overwhelmed by tools & frameworks.
-- Feel lost on what to prioritize and what experiments you should run.
-- Need outside expertise to evaluate your needs and vet potential talent.
 
 ## Services 
 
