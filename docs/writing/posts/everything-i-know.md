@@ -11,7 +11,10 @@ authors:
 
 # Everything I Learned from AI Consulting
 
+These notes are based on the livestream that I did. If you want to see the original youtube live stream, you can find it [here](https://www.youtube.com/watch?v=BgiLTtMHDjw)
+
 By the end of this post, you will understand how to transition from a task-oriented contractor to a high-value consultant. You'll learn strategies to dramatically increase your earning potential by aligning your services with client outcomes, structuring compelling proposals, and pricing based on value rather than time.
+
 
 <!-- more -->
 
