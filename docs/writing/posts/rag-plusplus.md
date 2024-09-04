@@ -51,3 +51,10 @@ If RAG primarily becomes report generation it means two things are possible: 1. 
 I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
 
 <script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+
+## Related Posts
+
+For more insights on RAG systems and related topics, check out these posts:
+- [The RAG Playbook](rag-flywheel.md) - A systematic approach to continually improve RAG systems
+- [How to build a terrible RAG system](rag-inverted.md) - An inverted thinking exercise on RAG best practices
+- [RAG is more than just embedding search](rag.md) - Exploring advanced RAG techniques beyond simple embeddings

@@ -405,35 +405,5 @@ As we continue to explore the depths of RAG applications, the following areas wi
 - Modeling Business Outcomes: Applying RAG techniques to predict and model business outcomes, facilitating strategic decision-making.
 
 !!! note "RAG Course"
-  
-    You're working on AI powered applications – there's limited time and resources, and you have to pick the best path forward.
 
-    https://maven.com/applied-llms/rag-playbook
-
-    In tech, we're all familiar with the concept of a great "product thinker" – someone who always knows what to work on, what tradeoffs are worth making, what metrics to look at, etc. Where others only see problems, they seem to naturally find solutions.
-
-    But AI is a total blackbox. The rules are changing – how do you navigate these product decisions when the inner workings of your product are shrouded in uncertainty?
-
-    Companies are currently locked in a fierce arms race, scrambling to find developers and product leaders who can help them successfully incorporate ai into their products before a competitor does it better.
-
-    Among the already scarce technical talent in AI, finding even one person with that special product sense is even rarer.
-
-    This course aims to do the impossible: Show anyone with the technical skills how to develop that other more mysterious sense of how to improve products, specifically in the context of RAG.
-
-    Your instructors, Dan and Jason, are AI product consultants with experience at companies like Google, Meta, Stitch Fix, and a dozen more, ranging from startups to Fortune 100 enterprises. When companies are struggling to make progress, they hire Jason and Dan to help their AI teams find "the path" forward.
-
-    After taking this course, you'll walk away with:
-
-    * A community of other operators and AI product thinkers
-    * The ability to identify high-impact tasks and prioritize effectively
-    * The necessary skills to make informed tradeoffs and choose relevant metrics
-    * An improved sense for focusing on what matters most in AI product development
-    * Knowledge of navigating AI product decisions in uncertain environment
-
-    Here is the improved text:
-
-    Plus, you'll also develop a technical understanding of:
-
-    * How to cold start your evaluation pipeline for retrieval
-    * The limitations of embedding models and how to think about rerankers and fine-tuning
-    * Retrieval metrics and how to use them to quickly run experiments and test instead of guessing at what will perform well
+    If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.

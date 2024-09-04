@@ -10,9 +10,9 @@ authors:
 
 # Systematically Improving Your RAG
 
-!!! note "RAG Course"
+??? note "Are you an engineering leader looking to improve your RAG system?"
   
-    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.
+    If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.
 
 These are notes generated after a call I had with Hamel on a 'system' to improve a RAG system. I've also written some other work like [Rag is not Embeddings](rag.md) and how to build a [Terrible RAG System](./rag-inverted.md) and how [complexity](./levels-of-rag.md) can be broken down into smaller pieces.
 
@@ -169,4 +169,4 @@ This is was written based off of a 30 conversation with a client, so I know I'm 
 
 !!! note "RAG Course"
   
-    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.
+    If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.

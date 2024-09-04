@@ -123,4 +123,4 @@ Remember:
 4. Structure proposals with multiple options
 5. Price based on value, not time
 
-Make these shifts, and you'll find yourself not just making more money, but delivering far more value to your clients. Theres a price where both of you are able to say thank you and celebrate.
+Make these shifts, and you'll find yourself not just making more money, but delivering far more value to your clients. Theres a price where both of you are able to say thank you and celebrate.$$

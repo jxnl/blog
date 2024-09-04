@@ -13,7 +13,7 @@ authors:
 
 !!! note "RAG Course"
   
-    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.
+    Check out [this course on systematically improving RAG applications](https://maven.com/applied-llms/rag-playbook) if you're interested in learning a repeatable process to continually evaluate and improve your RAG system.
 
 With the advent of large language models (LLM), retrieval augmented generation (RAG) has become a hot topic. However throught the past year of [helping startups](https://jxnl.co) integrate LLMs into their stack I've noticed that the pattern of taking user queries, embedding them, and directly searching a vector store is effectively demoware.
 
@@ -227,24 +227,7 @@ Both of these examples showcase how both search providers and consumers can use 
 
 For more insights on related topics, check out these posts:
 - [Levels of RAG](levels-of-rag.md)
-- [RAG++](rag_plusplus.md)
-- [Stochastic Software](stochastic-software.md)
-- [LLMOps](llmops.md)
-- [Recsys Frameworks](recsys-frameworks.md)
+- [The RAG Playbook](rag-flywheel.md) - A systematic approach to continually improve RAG systems
+- [How to build a terrible RAG system](rag-inverted.md) - An inverted thinking exercise on RAG best practices
 
-
-## Conclusion
-
-This isnt about fancy embedding tricks, it's just plain old information retrieval and query understanding. The beauty of instructor is that it simplifies modeling the complex and lets you define the output of the language model, the prompts, and the payload we send to the backend in a single place.
-
-## What's Next?
-
-Here I want to show that `instructor`` isn’t just about data extraction. It’s a powerful framework for building a data model and integrating it with your LLM. Structured output is just the beginning — the untapped goldmine is skilled use of tools and APIs.
-
-If you enjoy the content or want to try out `instructor` please check out the [github](https://github.com/jxnl/instructor) and give us a star!
-
-## Subscribe to my writing
-
-I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
-
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.

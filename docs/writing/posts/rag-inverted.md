@@ -109,4 +109,4 @@ A lot of these tips seem basic, and they are, but the basics are not easy. If yo
 
 !!! note "RAG Course"
   
-    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
+    I'm building a RAG Course right now, if you're interested in the course please check out this [link](https://maven.com/applied-llms/rag-playbook)
