@@ -73,6 +73,7 @@ If you're a startup with an interesting story, I'm happy to work with you on a c
 
 ## Clients 
 
+- [Zapier](https://zapier.com/): Zapier is a platform that allows you to automate tasks between different apps using webhooks.
 - [Timescale](https://timescale.com/): Timescale is a time-series database for PostgreSQL, offering scalable and performant time-series data storage.
 - [Limitless AI](http://limitless.ai/): Limitless AI is a personal memory assistant that helps you remember, organize, and navigate your life.
 - [Modal Labs](https://modal.com/): Modal specializes in cloud functions, offering a platform for running generative AI models, large-scale batch jobs, and more.
