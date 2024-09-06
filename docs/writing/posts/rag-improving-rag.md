@@ -10,11 +10,13 @@ authors:
 
 # Systematically Improving Your RAG
 
-??? note "Are you an engineering leader looking to improve your RAG system?"
-  
-    If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.
+This article presents a systematic approach to enhancing Retrieval-Augmented Generation (RAG) systems, drawing from insights gained during a discussion with [Hamel](https://hamel.dev). It builds upon my previous work, including:
 
-These are notes generated after a call I had with Hamel on a 'system' to improve a RAG system. I've also written some other work like [Rag is not Embeddings](rag.md) and how to build a [Terrible RAG System](./rag-inverted.md) and how [complexity](./levels-of-rag.md) can be broken down into smaller pieces.
+- [RAG is More Than Just Embeddings](./rag.md): An exploration of the broader scope of RAG beyond vector embeddings.
+- [How to Build a Terrible RAG System](./rag-inverted.md): An inverted thinking exercise to highlight best practices.
+- [Levels of RAG Complexity](./levels-of-rag.md): A breakdown of RAG complexity into manageable components.
+
+These foundational pieces set the stage for a comprehensive guide on systematically improving RAG applications, offering practical strategies for developers and organizations looking to optimize their systems.
 
 By the end of this post, you'll have a clear understanding of my systematic approach to improving RAG applications for the companies I work with. We'll cover key areas such as:
 

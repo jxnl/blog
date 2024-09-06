@@ -129,11 +129,13 @@ nav:
     - Writing: "writing/index.md"
     - Books: 'books.md'
     - Contact: 'contact.md'
+  - Advising:
+    - Applied AI Consulting: "services.md"
+  - Courses:
+    - Courses: "courses.md"
   - Writing:
     - "writing/index.md"
-  - Hire Me:
-    - Applied AI Consulting: "services.md"
-  - Job Board (External): 'jobs.md'
+  - AI Engineering Job Board: 'jobs.md'
   
 plugins:
   - redirects:

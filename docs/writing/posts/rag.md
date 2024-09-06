@@ -11,10 +11,6 @@ authors:
 
 # RAG is more than just embedding search
 
-!!! note "RAG Course"
-  
-    Check out [this course on systematically improving RAG applications](https://maven.com/applied-llms/rag-playbook) if you're interested in learning a repeatable process to continually evaluate and improve your RAG system.
-
 With the advent of large language models (LLM), retrieval augmented generation (RAG) has become a hot topic. However throught the past year of [helping startups](https://jxnl.co) integrate LLMs into their stack I've noticed that the pattern of taking user queries, embedding them, and directly searching a vector store is effectively demoware.
 
 !!! note "What is RAG?"
@@ -223,11 +219,13 @@ Notice that we have a list of queries that route to different search backends (e
 
 Both of these examples showcase how both search providers and consumers can use `instructor` to model their systems. This is a powerful pattern that allows you to build a system that can be used by anyone, and can be used to build an LLM layer, from scratch, in front of any arbitrary backend.
 
-## Related Posts
+## Further Reading
 
-For more insights on related topics, check out these posts:
-- [Levels of RAG](levels-of-rag.md)
-- [The RAG Playbook](rag-flywheel.md) - A systematic approach to continually improve RAG systems
-- [How to build a terrible RAG system](rag-inverted.md) - An inverted thinking exercise on RAG best practices
+To deepen your understanding of RAG systems and their implementation, explore these related articles:
 
-If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.
+- [Levels of RAG Complexity](./levels-of-rag.md) - A comprehensive breakdown of RAG systems from basic to advanced
+- [The RAG Flywheel: Continuous Improvement](./rag-flywheel.md) - Learn how to systematically enhance your RAG system over time
+- [How to build a terrible RAG system](./rag-inverted.md) - An inverted thinking exercise on RAG best practices
+- [RAG Beyond Embeddings](./rag.md) - Explore the broader scope of RAG beyond vector embeddings
+
+These resources offer valuable perspectives on building, optimizing, and maintaining effective RAG systems in various contexts.
