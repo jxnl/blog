@@ -1,11 +1,10 @@
-# Cohort based Courses
+# Systematically Improve Your RAG Systems in 4 Weeks
 
-## [Starting Feb 4: Systematically Improve Your RAG Systems in 4 Weeks](https://maven.com/applied-llms/rag-playbook)
+[![Course Image](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
 
+Join our intensive course starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. 
 
-![](./writing/posts/img/rag-playbook-course.png)
-
-Join our intensive course starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. [Enroll now on Maven](https://maven.com/applied-llms/rag-playbook)!
+[Enroll now on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 Build strong fundamentals in building searching systems and improve your RAG systems. I've refined these over 8 years of machine learning engineering and AI consulting. This course will equip you with the skills to:
 
@@ -18,14 +17,14 @@ Don't miss this opportunity to transform your RAG capabilities and stay ahead in
 ### Week 1: RAG System Foundations
 
 - Learn the RAG System Inference Flywheel
-- Create evaluation methods
-- Explore data representations and fine-tuning
+- Create evaluation methods, with user and synthetic data 
+- Explore data representations and fine-tuning to improve search quality
 
 ### Week 2: Query Processing
 
-- Implement query segmentation
-- Apply classification and clustering techniques
-- Develop strategies to use classifications
+- Implement query segmentation identify areas of improvement
+- Apply classification and clustering techniques to detect drift and be data driven in your approach
+- Understanding my framework on inventory and capability planning
 
 ### Week 3: Multi-Index Search and Routing
 
@@ -46,8 +45,8 @@ Don't miss this opportunity to transform your RAG capabilities and stay ahead in
 - Optimize multi-index search strategies
 - Design intuitive, feedback-rich user interfaces
 
+[Apply on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
+
 ## Our Guarantee
 
-Meaningful improvements in 5 weeks or your money back, plus a free consultation.
-
-**[Apply now to join a small cohort of teams systematically improving real RAG applications.](https://maven.com/applied-llms/rag-playbook)**
+If you don't feel better about the progress you're making in 4 weeks, you'll get your money back no questions asked.

@@ -1,6 +1,5 @@
 # Applied AI Consulting Services
 
-
 I'm not your typical consultant. For better or for worse, I've been in the trenches more than I'd like, and my goal is to help you minimize regret by sharing my lessons with you and giving you a clear vision on what to invest in and what to build.
 
 ## Problems I Solve
