@@ -44,9 +44,10 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
 
 ## Looking to improve your RAG?
 
-[Enroll in my RAG Course (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 [![RAG Course Image](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
+
+[Learn more :octicons-arrow-right-24:](./systematically-improve-your-rag.md){ .md-button .md-button--primary }
 
 Join our intensive course starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. Learn how to build robust processes for identifying system bottlenecks, significantly enhance your probabilistic systems, and implement advanced RAG techniques for real-world applications.
 
@@ -57,7 +58,7 @@ Join our intensive course starting February 2024 to systematically improve your 
 
 Don't miss this opportunity to transform your RAG capabilities and stay ahead in the rapidly evolving field of applied AI.
 
-[Apply Now](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
+[Apply Now (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 ## Stay Updated
 
