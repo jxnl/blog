@@ -1,6 +1,6 @@
 ---
 draft: False
-date: 2024-08-07
+date: 2024-09-07
 slug: content-creation-mastery
 comments: True
 categories:
