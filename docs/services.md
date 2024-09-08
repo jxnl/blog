@@ -1,28 +1,30 @@
 # Applied AI Consulting Services
 
-I'm an experienced AI consultant who has worked with various businesses in the industry. I help companies avoid common mistakes and make better decisions about AI. I share insights and provide strategic guidance to ensure your AI investments and implementations align with your business goals.
 
-My approach blends technical expertise with business understanding. This ensures your AI projects deliver real results. Whether you're improving current systems or starting new AI initiatives, I can help turn challenges into opportunities for growth.
+I've worked with companies that have raised money from top VC firms like [Sequoia Capital](https://www.sequoiacap.com/), [Y Combinator](https://www.ycombinator.com/), [Bessemer Venture Partners](https://www.bvp.com/), [Accel](https://www.accel.com/), [Benchmark](https://www.benchmark.com/), [Coatue Management](https://www.coatue.com/), [Insight Partners](https://www.insightpartners.com/), [Redpoint Ventures](https://www.redpoint.com/), and the [OpenAI Startup Fund](https://openai.com/fund/).
+
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 
 *Note: By submitting this form, you acknowledge that this is an initial inquiry and does not constitute a binding agreement for services.*
 
-## Am I a good fit?
+## AI systems falling short?
 
-You should consider engaging my services if you're experiencing any of these common challenges:
+Are you facing these issues?
 
-1. Struggling to systematically improve your LLM products, leading to stagnant performance
-2. Your engineering team lacks the necessary skills to effectively build and maintain AI systems
-3. Feeling overwhelmed by AI possibilities, unsure which initiatives to prioritize or experiments to run
-4. Difficulty in evaluating AI talent or solutions, risking costly hiring mistakes or ineffective implementations
-5. Drowning in a sea of AI tools and frameworks, unable to determine which are truly valuable for your needs
-6. Your current AI systems are unreliable or inconsistent, hampering user trust and business growth
+- **Inconsistent Performance**: Your AI systems lack an data flywheel, leading to unpredictable results without a clear path to improvement.
+- **Team Skill Gaps**: Your team struggles to keep up with AI technologies and practices.
+- **Scaling Difficulties**: You can't grow your AI capabilities while maintaining quality.
 
-My mission is to alleviate these pain points, transforming your AI challenges into opportunities for innovation, efficiency, and competitive advantage.
+## Imagine if...
 
+- You had a playbook for improving your AI systems over time.
+- Your team was learning AI techniques without disrupting work.
+- You could scale your AI initiatives, integrating practices that grow with your needs.
 
-I have worked with leading companies on AI products such as [Limitless AI](http://limitless.ai/), [Sandbar](https://sandbar.inc/), [Raycast](https://raycast.com/), [Tensorlake](https://tensorlake.ai/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Naro](http://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](http://new.computer/), [Kay.ai](http://kay.ai/), [Modal Labs](https://modal.com/), [Pydantic](http://pydantic.dev/), and [Weights & Biases](https://wandb.ai/).
+I have worked with leading companies on AI products such as [Limitless AI](http://limitless.ai/), [Sandbar](https://sandbar.inc/), [Raycast](https://raycast.com/), [Tensorlake](https://tensorlake.ai/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Naro](http://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](http://new.computer/), [Kay.ai](http://kay.ai/), [Modal Labs](https://modal.com/), [Pydantic](http://pydantic.dev/), and [Weights & Biases](https://wandb.ai/) to do just this.
+
+[Reach out](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 
 ---
 
@@ -44,49 +46,49 @@ I have worked with leading companies on AI products such as [Limitless AI](http:
 
     This experience enables me to approach AI consulting with a comprehensive perspective, aligning technical solutions with business goals.
 
+    My approach blends technical expertise with business understanding. This ensures your AI projects deliver real results. Whether you're improving current systems or starting new AI initiatives, I can help turn challenges into opportunities for growth.
+
 ## Services 
 
 I offer two types of services, depending on your needs:
+<div class="grid cards" markdown>
 
-### 1. Strategic Consulting
+-   :material-strategy:{ .lg .middle } __Strategic Consulting__
 
-I will help you implement an effective AI strategy to improve your team's productivity, grow revenue, and increase market value.
+    ---
 
-**Here’s what you get:**
+    Implement effective AI strategies to boost productivity, revenue, and market value.
 
-- **Guidance:** Access through email, Slack, and meetings for advice and problem-solving.
-- **Expert Network:** Leverage my extensive network of AI and ML specialists to answer your complex research questions and provide cutting-edge insights.
-- **Hiring Support:** Identify necessary skills for AI and ML roles and assist in attracting top talent.
+    - **Weekly 1:1:** 1-on-1 syncs to discuss to unblock your initiatives
+    - **Asynchronous Support:** Email, Slack, and ad-hoc meeting support
+    - **Expert Network:** Access to my network of AI and ML specialists.
+    - **Hiring Support:** Identify skills and attract top talent.
 
-### 2. Comprehensive Consulting
+-   :material-cog-refresh:{ .lg .middle } __Comprehensive Consulting__
 
-I work with your team to enhance AI capabilities. This suits teams aiming to speed up development, assess technologies, and train engineers in thinking.
+    ---
 
-In addition to strategic consulting, you receive:
+    Enhance AI capabilities to accelerate development, assess technologies, and train engineers.
 
-In addition to everything mentioned in strategic consulting, you receive:
+    - **Prototyping & Research:** Rapid feasibility studies and prototype development.
+    - **Process Optimization:** Streamlining workflows, enhancing efficiency, and implementing best practices for AI integration.
+    - **Coaching and Workshops:** Hands-on training to upskill your team in AI practices.
+</div>
 
-- **Quick Prototyping & Research:** Conduct rapid feasibility studies and develop prototypes for AI/ML projects.
-- **Data & Production Support:** Assist in building and launching data-driven products, with a focus on continuous improvement and production readiness.
-- **Optimization Guidance:** Provide strategies to improve data collection, labeling, and quality.
-- **Domain-Specific Evaluation Systems:** Design and implement custom evaluation systems to measure the performance and reliability of your LLMs.
-- **Hands-On Model Optimization:** Fine-tune, prompt engineer, and debug models to improve performance and efficiency.
-- **Development Tools and Infrastructure:** Build custom tools and infrastructure to streamline your AI development process.
-- **Content and Writing:** Produce written documents and blogs to communicate best practices, methodologies, and practical case studies to your stakeholders.
-- **Team Growth & Hiring:** Work with 2-4 people individually on your team to rapidly upskill them on AI. I will also help you source and evaluate key hires.
+### Minimum Level of Engagement
 
+I require a minimum engagement of 3 months for comprehensive consulting, during which we'll work together to address your specific AI challenges and goals.
 
-### Pricing
+- __Strategic Consulting__: Starts at $40k for the entire engagement
+- __Comprehensive Consulting__: Starts at $120k for the entire engagement
 
-- A typical project ranges from $50k to $120k over a minimum 3 month period
+[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button }
 
-If you're a startup with an interesting story, I'm happy to work with you on a case-by-case basis.
+### Need Immediate Help?
 
-### Get Started
+Schedule a one-on-one expert call to discuss your specific challenges and goals. Whether you need strategic guidance or technical expertise, I'm here to help.
 
-[Start a Project](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
-[Book a Paid Call](https://cal.com/jasonliu/expert-call){ .md-button .md-button--primary }
-
+[Book an Expert Call](https://calendly.com/jxnl/expert-call){ .md-button .md-button--primary }
 
 ## Clients
 
