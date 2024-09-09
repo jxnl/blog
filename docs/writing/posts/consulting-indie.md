@@ -1,7 +1,7 @@
 ---
 draft: False
 date: 2024-01-22
-slug: consulting
+slug: indie-consulting
 comments: True
 categories:
   - Consulting
@@ -9,15 +9,11 @@ authors:
   - jxnl
 ---
 
-# What I Learned from Indie Consulting
+# Indie Consulting
 
-!!! danger "Fragments"
+I define indie consulting as fundamentally distinct from the large-scale consulting practices of well-known institutions. To understand my perspective on many of these firms, I recommend watching John Oliver's insightful critique of [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ). For a more concise take, there's an excellent [TikTok video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that encapsulates the issues with big consulting firms.
 
-    If you think this writing style is strange, this is because much of this writing is actually a collected batch of voice memos [transcribed](https://betterdictation.com) into an essay using betterdictation.com's distilled whisper model. There will likely contain errors, as there are pieces and fragments of some of the thoughts I have on the topic. I welcome all most all edits and comments.
-
-I specify indie consulting as something that is completely and wholly separate from the big-time consulting we hear about from those ridiculous institutions. Check out this video roasting [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) From John Oliver to understand how I feel about many of these folks. Theres another great [video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that I saw on tiktok.
-
-If you want to learn about my consulting practice check out my [services](../../services.md) page.
+Indie consulting, in contrast, focuses on specialized expertise, direct accountability, and long-term value creation for clients. It's about leveraging personal experience and skills to solve specific problems, rather than applying generic frameworks or strategies.
 
 <!-- more -->
 
@@ -232,4 +228,10 @@ If your content addresses one, great; if it addresses two, even better. If it ad
 
 ---
 
-If you like the like content give me a follow on [twitter](https://twitter.com/jxnlco) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
+If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
+
+<form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
+    <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
+    <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
+    <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
+</form>

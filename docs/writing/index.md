@@ -2,7 +2,7 @@
 
 I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
 
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+[:material-twitter: Follow me on X](https://x.com/jxnlco){.md-button .md-button--primary}
 
 For RAG or LLM related posts, You can check out the categories labels in the side bar. I'll leave some high quality posts here as well.
 

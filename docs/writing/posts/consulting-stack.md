@@ -9,11 +9,14 @@ authors:
   - jxnl
 ---
 
-# My Consulting Stack
+# Best Tools for Indie Consultants
 
 This blog post came from a conversation with a buddy of mine who is setting up their consulting business. This is effectively a transcript of that conversation:
 
 As a consultant, having the right tools can make or break your business. Over the years, I've refined my "consulting stack" - a collection of software and services that keep my operations smooth and professional. In this post, I'll share the key components of my stack and why they matter. At the end I'll include a todo list for setting up your business foundation, and a todo list for setting up your consulting stack.
+
+
+<!-- more -->
 
 !!! note "Consulting Stack Cheatsheet"
 
@@ -64,9 +67,16 @@ That said, you can definitely go crazy with how you set up your availability sch
 
 !!! note "The power of standardization" 
 
-    Having a standard engagement letter and proposal process saves time and projects professionalism. Don't reinvent the wheel for every client. Subcribe to my news letter if you want to get notified when I publish more posts on how I set up my engagement letters and proposals examples 
+    Having a standard engagement letter and proposal process saves time and projects professionalism. Don't reinvent the wheel for every client. Subribe to my news letter if you want to get notified when I publish more posts on how I set up my engagement letters and proposals examples 
 
-    <script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+    If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
+
+    <form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
+        <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
+        <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
+        <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
+    </form>
+
 
 
 ## Scaling Your Practice
@@ -103,7 +113,7 @@ What tools are essential to your consulting practice? Have you found any game-ch
 
 ---
 
-If you found this helpful, consider following me on [Twitter](https://twitter.com/jxnlco) for more insights on consulting and tech, I plan to write a short book on all the topics around how I build my consulting practice.
+
 
 ## Consulting Stack Setup Todo List
 
@@ -136,4 +146,3 @@ If you found this helpful, consider following me on [Twitter](https://twitter.co
 
 - [ ] Implement a process for turning client calls into blog posts
 - [ ] Establish a routine for creating and sharing valuable content
-- [ ] Follow [me](https://twitter.com/jxnlco) on Twitter

@@ -13,9 +13,6 @@ authors:
 
 These notes are based on the livestream that I did. If you want to see the original youtube live stream, you can find it [here](https://www.youtube.com/watch?v=BgiLTtMHDjw)
 
-By the end of this post, you will understand how to transition from a task-oriented contractor to a high-value consultant. You'll learn strategies to dramatically increase your earning potential by aligning your services with client outcomes, structuring compelling proposals, and pricing based on value rather than time.
-
-
 <!-- more -->
 
 I've been reviewing a lot of consulting proposals lately, and I keep seeing the same mistakes I made when I first started. So many people think they're consultants, but they're really just contractors. The difference? Contractors sell tasks. Consultants sell outcomes.
@@ -124,3 +121,11 @@ Remember:
 5. Price based on value, not time
 
 Make these shifts, and you'll find yourself not just making more money, but delivering far more value to your clients. Theres a price where both of you are able to say thank you and celebrate.$$
+
+If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
+
+<form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
+    <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
+    <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
+    <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
+</form>

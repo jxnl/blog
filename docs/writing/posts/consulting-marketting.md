@@ -79,3 +79,11 @@ When presenting options to clients, I prefer to separate the options from the pr
 Transitioning from a technical role to consulting after a hand injury was challenging but rewarding. Leveraging frameworks like the "One Page Marketing Plan" and situational assessments from "The Consulting Bible" helped me grow my business and attract larger contracts.
 
 The key to my success has been creating valuable content that showcases my expertise and attracts potential clients. Continuously turning client insights into blog posts and videos maintains a steady stream of leads.
+
+If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
+
+<form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
+    <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
+    <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
+    <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
+</form>

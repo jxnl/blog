@@ -125,16 +125,12 @@ markdown_extensions:
 nav:
   - Home: 
     - Introductions: 'index.md'
+    - Applied AI Consulting Services: "services.md"
     - Books: 'books.md'
-    - Contact: 'contact.md'
-  - Consulting:
-    - Applied AI Consulting: "services.md"
-  - AI Engineering Job Board: 'jobs.md'
-  - RAG Course:
-    - RAG Course: "systematically-improve-your-rag.md"
+  - AI Engineering Job Board: "https://jobs.applied-llms.org"
+  - RAG Course: "systematically-improve-your-rag.md"
   - Writing:
     - "writing/index.md"
-  
 plugins:
   - redirects:
       redirect_maps:
