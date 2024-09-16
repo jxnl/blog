@@ -36,8 +36,17 @@ I plan to spend the spring and summer in Europe, reading and writing. I finally 
 - Vagabond by Takehiko Inoue
 - Works of Rumi, Ren Hang, and Basho
 
+## Business Stuff
+
+- First break all the rules by Mark Caine
+- 100M Offers / 100M Leads by Alex Hormozi
+- Principles by Ray Dalio
+- Consulting Bible by Alan Weiss
+- 1 Page Marketing Plan by Allan Dib
+
 ## Recommendation from others I have not yet read
 
 - The Three Cornered World by Natsume Soseki
 - Mans' Search for Meaning by Viktor Frankl
 - Pedro Paramo by Juan Rulfo
+
