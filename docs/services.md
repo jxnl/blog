@@ -1,30 +1,38 @@
 # Applied AI Consulting Services
 
-
-I've worked with companies that have raised money from top VC firms like [Sequoia Capital](https://www.sequoiacap.com/), [Y Combinator](https://www.ycombinator.com/), [Bessemer Venture Partners](https://www.bvp.com/), [Accel](https://www.accel.com/), [Benchmark](https://www.benchmark.com/), [Coatue Management](https://www.coatue.com/), [Insight Partners](https://www.insightpartners.com/), [Redpoint Ventures](https://www.redpoint.com/), and the [OpenAI Startup Fund](https://openai.com/fund/).
-
+Working with me should feel like unlocking cheat codes to building your RAG systems, guided by someone who's been in the trenches of evaluating new AI technologies and building search and recommendation systems for public companies.
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 
-*Note: By submitting this form, you acknowledge that this is an initial inquiry and does not constitute a binding agreement for services.*
+## Are you facing these challenges?
 
-## AI systems falling short?
-
-Are you facing these issues?
-
-- **Inconsistent Performance**: Your AI systems lack an data flywheel, leading to unpredictable results without a clear path to improvement.
-- **Team Skill Gaps**: Your team struggles to keep up with AI technologies and practices.
-- **Scaling Difficulties**: You can't grow your AI capabilities while maintaining quality.
+- **Data Flywheel Inefficiencies**: Your AI systems lack robust feedback loops, resulting in stagnant performance.
+- **AI Integration Complexities**: Your team struggles to seamlessly incorporate AI into existing workflows and products.
+- **Evaluation and Fine-tuning Uncertainties**: Difficulty in assessing AI model performance or optimizing for specific use cases.
+- **AI Scalability Hurdles**: Challenges in growing AI initiatives while maintaining quality and business alignment.
 
 ## Imagine if...
 
-- You had a playbook for improving your AI systems over time.
-- Your team was learning AI techniques without disrupting work.
-- You could scale your AI initiatives, integrating practices that grow with your needs.
+- You had a proven framework for data flywheels that continuously improve your AI systems' performance.
+- Your team seamlessly integrated AI technologies, enhancing existing workflows without disruption.
+- You could confidently evaluate and fine-tune AI models, optimized for your specific business needs.
+- You possessed strategies to scale AI initiatives, maintaining quality and aligning with your business goals.
 
-I have worked with leading companies on AI products such as [Limitless AI](http://limitless.ai/), [Sandbar](https://sandbar.inc/), [Raycast](https://raycast.com/), [Tensorlake](https://tensorlake.ai/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Naro](http://narohq.com/), [Trunk Tools](https://trunktools.com/), [New Computer](http://new.computer/), [Kay.ai](http://kay.ai/), [Modal Labs](https://modal.com/), [Pydantic](http://pydantic.dev/), and [Weights & Biases](https://wandb.ai/) to do just this.
+## How I can help
 
-[Reach out](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
+With 8 years of experience at Stitchfix, Meta, and NYU, I specialize in:
+
+- Designing self-improving AI systems with robust feedback loops, creating valuable data flywheels.
+- Developing and implementing Vision/Text based search systems that integrate seamlessly into existing product ecosystems.
+- Crafting comprehensive evaluation frameworks and fine-tuning algorithms for search and recommendation systems.
+- Making strategic AI research bets and evaluating vendors to drive innovation and scalable growth.
+
+I've worked with companies that have raised money from top VC firms like [Sequoia Capital](https://www.sequoiacap.com/), [Y Combinator](https://www.ycombinator.com/), [Bessemer Venture Partners](https://www.bvp.com/), [Accel](https://www.accel.com/), [Benchmark](https://www.benchmark.com/), [Coatue Management](https://www.coatue.com/), [Insight Partners](https://www.insightpartners.com/), [Redpoint Ventures](https://www.redpoint.com/), and the [OpenAI Startup Fund](https://openai.com/fund/).
+
+The only real difference between my past work and what we're doing now with language models and RAG? One deals with JPEGs, the other with text files. It's all datasets, labels, and mechanisms to collect feedback to improve the models. Models that unlock economic value for your business.
+
+
+[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 
 ---
 
