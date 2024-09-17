@@ -12,9 +12,9 @@ authors:
 
 This article presents a systematic approach to enhancing Retrieval-Augmented Generation (RAG) systems, drawing from insights gained during a discussion with [Hamel](https://hamel.dev). It builds upon my previous work, including:
 
-- [RAG is More Than Just Embeddings](./rag.md): An exploration of the broader scope of RAG beyond vector embeddings.
-- [How to Build a Terrible RAG System](./rag-inverted.md): An inverted thinking exercise to highlight best practices.
-- [Levels of RAG Complexity](./levels-of-rag.md): A breakdown of RAG complexity into manageable components.
+- [RAG is More Than Just Embeddings](../posts/rag.md): An exploration of the broader scope of RAG beyond vector embeddings.
+- [How to Build a Terrible RAG System](../posts/rag-inverted.md): An inverted thinking exercise to highlight best practices.
+- [Levels of RAG Complexity](../posts/rag-levels-of-rag.md): A breakdown of RAG complexity into manageable components.
 
 These foundational pieces set the stage for a comprehensive guide on systematically improving RAG applications, offering practical strategies for developers and organizations looking to optimize their systems.
 

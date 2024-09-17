@@ -223,9 +223,9 @@ Both of these examples showcase how both search providers and consumers can use 
 
 To deepen your understanding of RAG systems and their implementation, explore these related articles:
 
-- [Levels of RAG Complexity](./levels-of-rag.md) - A comprehensive breakdown of RAG systems from basic to advanced
-- [The RAG Flywheel: Continuous Improvement](./rag-flywheel.md) - Learn how to systematically enhance your RAG system over time
-- [How to build a terrible RAG system](./rag-inverted.md) - An inverted thinking exercise on RAG best practices
-- [RAG Beyond Embeddings](./rag.md) - Explore the broader scope of RAG beyond vector embeddings
+- [Levels of RAG Complexity](../posts/rag-levels-of-rag.md) - A comprehensive breakdown of RAG systems from basic to advanced
+- [The RAG Flywheel: Continuous Improvement](../posts/rag-flywheel.md) - Learn how to systematically enhance your RAG system over time
+- [How to build a terrible RAG system](../posts/rag-inverted.md) - An inverted thinking exercise on RAG best practices
+- [RAG Beyond Embeddings](../posts/rag.md) - Explore the broader scope of RAG beyond vector embeddings
 
 These resources offer valuable perspectives on building, optimizing, and maintaining effective RAG systems in various contexts.

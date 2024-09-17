@@ -84,4 +84,4 @@ As AI continues to occupy the forefront of our cultural and technological landsc
 
 The fact of the matter is that AI is here; it’s not going away, so you should try to take advantage; otherwise, you will be left behind. One of the best strategies for building out your project using AI and taking advantage of your most valuable asset is designing products emphasizing data collection and user feedback. From there, you can align your data flywheel with your objectives and amplify it with network effects.
 
-If you’re thinking about how AI can improve your business, check out my other writing on [MVPs](./mvp.md), [RAG Complexity](./levels-of-rag.md), and [Prompt Formatting](./strings.md).
+If you’re thinking about how AI can improve your business, check out my other writing on [MVPs](../posts/mvp.md), [RAG Complexity](../posts/rag-levels-of-rag.md), and [Prompt Formatting](../posts/strings.md).
