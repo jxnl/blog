@@ -10,8 +10,6 @@ authors:
 
 # Anatomy of a Tweet
 
-> The last two posts were hard to write, so this one is easy, but it gets my words in for the day. This is the equivalent of not wanting to miss a gym day and just walking the elliptical for 25 minutes better than nothing.
-
 The goal of this post is basically to share what I have learned about writing a tweet, how to think about writing a hook, and a few comments on how the body and the cta needs to retain and reward the user. Its not much, I've only been on twitter for about 6 month.
 
 <!-- more -->
