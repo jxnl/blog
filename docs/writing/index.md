@@ -26,7 +26,7 @@ For RAG or LLM related posts, You can check out the categories labels in the sid
 
 - [Consulting Tech Stack](./posts/consulting-stack.md)
 - [Indie Consulting](./posts/consulting.md)
-- [Everything I know about Consulting](./posts/everything-i-know.md)
+- [Everything I know about Consulting](./posts/consulting-everything-i-know.md)
 - [How to ship an MVP for AI applications](./posts/mvp.md)
 - [Mistakes Engineers Make](./posts/stochastic-software.md)
 

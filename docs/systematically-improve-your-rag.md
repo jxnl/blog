@@ -1,16 +1,20 @@
 # Systematically Improve Your RAG Applications
 
-[![Course Image](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
+[![Top 10 Course on Maven](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
 
-Join our intensive course starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. 
+Elevate your Retrieval-Augmented Generation (RAG) systems with our intensive, industry-leading course launching February 2024. This program has students from leading tech companies including Amazon, Adobe, Zapier, Meta, Intuit, Shopify, Neo4j, Cisco, as well as numerous independent AI consultants.
 
-[Enroll now on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
+Our approach decomposes your system into its core components, identifying bottlenecks and guiding you through focused experiments to enhance your system's performance end to end. We transcend vague directives like "just make it better," offering tangible, step-by-step instructions on how to effectively analyze and leverage your data. 
+
+Learn what it means to 'look at your data' and how to use it to build better products.
 
 ![RAG Playbook Course](writing/posts/img/course-review.png)
 
 ## Our Guarantee
 
 If you don't feel better about the progress you're making in 4 weeks, you'll get your money back no questions asked.
+
+[Enroll now on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 ??? note "How to get reimbursed"
 
