@@ -126,6 +126,7 @@ nav:
   - Home: 
     - Introductions: 'index.md'
     - Applied AI Consulting Services: "services.md"
+    - Investments: "investments.md"
     - User Manual: "user_manual.md"
     - Books: 'books.md'
   - AI Engineering Job Board: "https://jobs.applied-llms.org"
