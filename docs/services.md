@@ -92,6 +92,8 @@ I require a minimum engagement of 3 months for comprehensive consulting, during 
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button }
 
+
+
 ### Need Immediate Help?
 
 Schedule a one-on-one expert call to discuss your specific challenges and goals. Whether you need strategic guidance or technical expertise, I'm here to help.
@@ -193,3 +195,47 @@ Schedule a one-on-one expert call to discuss your specific challenges and goals.
     Supplies hosted embedding services to extract relevant context from the semantic web, enhancing LLM application capabilities.
 
 </div>
+
+??? tip "Access to my network of AI and ML specialists"
+
+    Over the years, I've cultivated an extensive network of AI and ML specialists, vendors, and industry experts. As part of both the comprehensive and strategic consulting packages, you'll benefit from:
+
+    Some of the experts in my network include, 
+
+    - [Hamel Husain](https://www.linkedin.com/in/hamelhusain/)
+      LLM Consultant, R&D at Answer AI. Expert in ML tools, infrastructure, and LLM evaluations.
+
+    - [Eugene Yan](https://www.linkedin.com/in/eugeneyan/)
+      ML Research Scientist at Amazon. Specializes in Recommender Systems and Large Language Models, evaluations and best practices.
+
+    - [Thomas Millar](https://www.linkedin.com/in/thmsmlr/)
+      ML and Data Platforms expert. Develops high-performance inference servers in Python and Elixir.
+
+    - [Shreya Shankar](https://www.linkedin.com/in/shrshnk/)
+      Leading Expert in LLM Evals, PhD at Berkeley. Focuses on practical ML solutions in real-world applications.
+    
+    - [Skylar Payne](https://www.linkedin.com/in/skylar-payne-766a1988/)
+      Independent Consultant, Executive Coach. Ex-VP of Engineering & Data Science.
+
+    **Trusted Vendors**
+
+    - **Braintrust**: [Ankur Goyal](https://www.linkedin.com/in/ankrgyl)
+      CEO. Leading LLM evals and obserability platform.
+
+    - **LanceDB**: [Chang She](https://www.linkedin.com/in/changshe)
+      CEO. The Database for Multimodal AI
+
+    - **Modal Labs**: [Akshat Bubna](https://www.linkedin.com/in/akshat-bubna-188885103/)
+      Co-founder. The serverless platform for AI, data and ML teams.
+
+    - **Vespa.ai**: [Jo Kristian Bergum](https://no.linkedin.com/in/jo-bergum)
+      Chief Scientist. Specializes in search, recommendation, and ranking systems.
+
+    - **Extend**: [Kushal Byatnal](https://www.linkedin.com/in/kushal-byatnal-92a33085/)
+      CEO. Focuses on AI-driven document processing and business transformation.
+
+    - **Shaped**: [Tullie Murrell](https://www.linkedin.com/in/tullie/)
+      CEO. AI recommendation and search platform for marketplaces, e-commerce, and content companies.
+
+    - **Haize Labs**: [Leonard Tang](https://www.linkedin.com/in/leonard-tang/)
+      CEO. Specializes in robustifying LLMs through red teaming and observability techniques.
