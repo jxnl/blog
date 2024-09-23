@@ -19,7 +19,6 @@ For RAG or LLM related posts, You can check out the categories labels in the sid
 - [How to build a terrible RAG system](./posts/rag-inverted.md)
 - [Low hanging fruit for RAG](./posts/rag-low-hanging-fruit.md)
 - [RAG System Inference Flywheel](./posts/rag-flywheel.md)
-- [Trade offs in Tool Use](./posts/trade-offs-tool-selection.md)
 - [Understanding Search Quality Metrics](./posts/rag-lgtmk.md)
 
 ## Technical Coaching

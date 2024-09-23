@@ -11,11 +11,11 @@ authors:
 
 # A surprising reason to not list your consulting prices
 
-A common question I get from the newsletter is whether or not I should lower my prices.
+As I've shared insights on [indie consulting](./consulting-indie.md), [marketing strategies](./consulting-marketing.md), and [referral techniques](./consulting-referrals.md), a recurring question from my newsletter subscribers is about pricing. Specifically, many ask if they should lower their rates or make them public.
 
-In this course, I'll explain why it might not be good to list your prices, whether you aim to communicate that you're affordable or exclusive.
+In this article, we'll delve into the counterintuitive reasons why listing your consulting prices might not be the best strategy, regardless of whether you're aiming to appear affordable or exclusive. We'll explore the potential drawbacks of transparent pricing, introduce more effective alternatives like minimum level of engagement pricing, and provide actionable strategies to help you maximize your value and earnings as a consultant.
 
-In this article, we'll explore the pitfalls of transparent pricing, introduce more effective alternatives like minimum level of engagement pricing, and provide actionable strategies to maximize your value and earnings as a consultant.
+Building on the foundation laid in my previous posts about [building a consulting practice](./consulting-everything-i-know.md) and [using the right tools](./consulting-stack.md), this piece will add another crucial element to your consulting toolkit: strategic pricing.
 
 <!-- more -->   
 
@@ -84,3 +84,26 @@ If you found this helpful, subscribe to my newsletter for more posts on how I bu
     <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
     <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
 </form>
+
+
+## Recommended Reading
+
+To further enhance your understanding of consulting practices and pricing strategies, I recommend exploring these related articles:
+
+1. [Consulting Referrals](./consulting-referrals.md)
+   - Learn how to effectively ask for and manage referrals, a crucial aspect of growing your consulting business.
+
+2. [Consulting Stack](./consulting-stack.md)
+   - Discover the essential tools and software I use to run my consulting practice efficiently.
+
+3. [Marketing, Positioning, and Scaling Consulting](./consulting-marketing.md)
+   - Gain insights into how to market your services, position yourself effectively, and scale your consulting business.
+
+4. [Everything I Know About Consulting](./consulting-everything-i-know.md)
+   - A comprehensive overview of my consulting experience and insights, covering various aspects of the profession.
+
+5. [Indie Consulting](./consulting-indie.md)
+   - Explore the world of independent consulting and how to succeed in this space.
+
+These resources draw from my personal experience and provide practical, actionable advice for both aspiring and established consultants. They cover a range of topics from business development to technical insights, offering a well-rounded view of the consulting landscape.
+

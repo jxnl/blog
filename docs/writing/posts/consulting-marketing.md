@@ -10,6 +10,8 @@ authors:
 
 # Thoughts on Marketing, Positioning, and Scaling my Consulting
 
+I've enjoyed writing about my [indie](./consulting-indie.md) [consulting](./consulting-everything-i-know.md) process. Today, I want to share some insights on marketing, positioning, and scaling my consulting business. This post builds on my previous discussions about [referrals](./consulting-referrals.md) and the [tools I use](./consulting-stack.md), focusing on how I've grown my practice through strategic marketing efforts.
+
 As a former MLE, I had always relied on my hands-on coding skills to excel in my career. However, a hand injury forced me to adapt and pivot towards consulting. In this essay, I share my journey of becoming a successful AI consultant and the lessons I've learned about marketing, positioning, and scaling my business.
 
 - Transitioning to consulting and building a marketing plan
@@ -87,3 +89,22 @@ If you found this helpful, subscribe to my newsletter for more posts on how I bu
     <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
     <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
 </form>
+
+
+## Recommended Reading
+
+To further enhance your consulting and marketing skills, I highly recommend the following resources:
+
+1. [Consulting Referrals](./consulting-referrals.md)
+   - Learn how to master the art of referrals, including when to ask for them and how to follow up effectively.
+
+2. [Consulting Stack](./consulting-stack.md)
+   - Discover the essential tools and software I use to keep my consulting operations smooth and professional.
+
+3. [Everything I Know About Consulting](./consulting-everything-i-know.md)
+   - A comprehensive overview of my consulting experience and insights.
+
+4. [Indie Consulting](./consulting-indie.md)
+   - Explore the world of independent consulting and how to succeed in this space.
+
+These resources draw from my personal experience and provide practical, actionable advice for aspiring and established consultants alike. They cover a range of topics from business development to technical insights, offering a well-rounded view of the consulting landscape.

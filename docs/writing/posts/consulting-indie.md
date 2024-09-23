@@ -11,9 +11,11 @@ authors:
 
 # Indie Consulting
 
-I define indie consulting as fundamentally distinct from the large-scale consulting practices of well-known institutions. To understand my perspective on many of these firms, I recommend watching John Oliver's insightful critique of [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ). For a more concise take, there's an excellent [TikTok video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that encapsulates the issues with big consulting firms.
+As I've shared insights on [building a consulting practice](./consulting-everything-i-know.md), [marketing strategies](./consulting-marketing.md), and [referral techniques](./consulting-referrals.md), it's important to understand the unique position of indie consulting in the broader landscape. In this post, we'll explore how indie consulting differs from traditional large-scale consulting firms and why it can offer more value to clients.
 
-Indie consulting, in contrast, focuses on specialized expertise, direct accountability, and long-term value creation for clients. It's about leveraging personal experience and skills to solve specific problems, rather than applying generic frameworks or strategies.
+Indie consulting is fundamentally distinct from the practices of well-known institutions. For a critical perspective on these large firms, I recommend watching John Oliver's insightful critique of [McKinsey](https://www.youtube.com/watch?v=AiOUojVd6xQ) or this concise [TikTok video](https://www.youtube.com/watch?v=vZE0j_WCRvI) that encapsulates the issues with big consulting firms.
+
+In contrast to these large firms, indie consulting focuses on specialized expertise, direct accountability, and long-term value creation for clients. It's about leveraging personal experience and skills to solve specific problems, rather than applying generic frameworks or strategies. This approach aligns closely with the [pricing strategies](./consulting-listing-prices.md) and [tools](./consulting-stack.md) I've discussed in previous posts, all aimed at delivering maximum value to clients.
 
 <!-- more -->
 

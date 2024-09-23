@@ -12,7 +12,7 @@ authors:
 
 # Affective Consulting: Referrals
 
-I've been thinking a lot about referrals lately. They're the lifeblood of many businesses, yet so many of us fumble when it comes to handling them effectively. Today, I want to share some insights on how to master the art of referrals, especially when you're asking for them and following up.
+I've enjoyed writing about my [indie](./consulting-indie.md) [consulting](./consulting-everything-i-know.md) process and [marketing](./consulting-marketing.md) strategy. Today, I want to share some insights on how to master the art of referrals, especially when you're asking for them and following up.
 
 <!-- more -->
 
@@ -118,3 +118,5 @@ If you found this helpful and want to build out your consulting practice, subscr
     <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
     <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
 </form>
+
+If you're interest in my other writing checkout my post on my [consulting stack](./consulting-stack.md).

@@ -11,7 +11,9 @@ authors:
 
 # Everything I Learned from AI Consulting
 
-These notes are based on the livestream that I did. If you want to see the original youtube live stream, you can find it [here](https://www.youtube.com/watch?v=BgiLTtMHDjw)
+As I've shared insights on [building a consulting practice](consulting-indie.md), [marketing strategies](consulting-marketing.md), and [referral techniques](consulting-referrals.md), I've realized there's so much more to discuss about the world of AI consulting. This post aims to consolidate everything I've learned, building upon the foundation laid in my previous articles. Whether you're just starting out or looking to refine your approach, this comprehensive guide will provide valuable insights into the consulting process, from positioning yourself as an expert to closing high-value deals. For those interested in the tools that support my consulting work, don't forget to check out my article on the [consulting stack](consulting-stack.md) I use.
+
+These insights are drawn from my extensive experience, including a livestream I conducted on the topic. If you're interested in the original discussion, you can find the YouTube live stream [here](https://www.youtube.com/watch?v=BgiLTtMHDjw).
 
 <!-- more -->
 
