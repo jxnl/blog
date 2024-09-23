@@ -59,6 +59,7 @@ The only real difference between my past work and what we're doing now with lang
 ## Services 
 
 I offer two types of services, depending on your needs:
+
 <div class="grid cards" markdown>
 
 -   :material-strategy:{ .lg .middle } __Strategic Consulting__
@@ -85,14 +86,14 @@ I offer two types of services, depending on your needs:
 
 ### Minimum Level of Engagement
 
-I require a minimum engagement of 3 months for comprehensive consulting, during which we'll work together to address your specific AI challenges and goals.
+I require a minimum engagement of 3 months for outside of async support.
 
+- __Async Support__: $9,500 per month, 45 minute weekly syncs and unlimited email/slack access.
 - __Strategic Consulting__: Starts at $40k for the entire engagement
 - __Comprehensive Consulting__: Starts at $120k for the entire engagement
 
-[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button }
-
-
+[Book Async Support](https://buy.stripe.com/dR66rEbTC1OPgF23cj){ .md-button .md-button--primary }
+[Schedule a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--secondary }
 
 ### Need Immediate Help?
 
