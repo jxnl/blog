@@ -130,7 +130,7 @@ nav:
     - User Manual: "user_manual.md"
     - Books: 'books.md'
   - AI Engineering Job Board: "https://jobs.applied-llms.org"
-  - RAG Course: "systematically-improve-your-rag.md"
+  - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
   - Writing:
     - "writing/index.md"
 plugins:
