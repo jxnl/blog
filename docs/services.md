@@ -218,6 +218,9 @@ Schedule a one-on-one expert call to discuss your specific challenges and goals.
     - [Skylar Payne](https://www.linkedin.com/in/skylar-payne-766a1988/)
       Independent Consultant, Executive Coach. Ex-VP of Engineering & Data Science.
 
+    - [John Berryman](https://arcturus-labs.com/)
+      Author of [Relevant Search](https://www.amazon.com/Relevant-Search-applications-Solr-Elasticsearch/dp/161729277X) and [Prompt Engineering for LLMs](https://oreillymedia.pxf.io/c/5303529/1975458/15173). Ex GitHub Code Search and Copilot.
+
     **Trusted Vendors**
 
     - **Braintrust**: [Ankur Goyal](https://www.linkedin.com/in/ankrgyl)
