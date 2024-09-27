@@ -30,6 +30,7 @@ As a consultant, having the right tools can make or break your business. Over th
     - [Circleback](https://app.circleback.ai/login?ref=jason@jxnl.co): A platform for meeting notes and follow-ups.
     - [Anthropic Claude](https://claude.ai/new): An AI assistant for various tasks, including content creation and research.
     - [Spiral Computer](https://spiral.computer/): A tool for generating memos and blog posts from transcripts.
+    - [Better Diction](https://betterdictation.com/?via=jason): A tool for transcribing and improving the quality of your audio recordings.
 
 <!-- more -->
 
@@ -64,6 +65,8 @@ That said, you can definitely go crazy with how you set up your availability sch
 - [Anthropic Claude](https://claude.ai/new): An AI assistant crucial for content creation and research. I use it for generating proposals, leveraging example templates and detailed prompts. Unexpectedly, I've also found it valuable for creating mockups - I often share Claude-generated React code to visually communicate designs to clients, going beyond verbal descriptions.
 
 - [Spiral Computer](https://spiral.computer/): I use this to generate memos and blog posts from transcripts. It's a general-purpose tool that I use to convert transcripts into tweets and blog posts, and convert blog posts into tweets.  If you're committed to producing enough content and recognize that one of the best ways of increasing your surface area is to write more, Spiral Computer is a no-brainer tool for $200 a year. You'll definitely make it back if you can double the amount of content you produce.
+
+- [Better Diction](https://betterdictation.com/?via=jason): A tool for transcribing and improving the quality of your audio recordings, which i used to control cursor, and writing. You can also use PROMO `JASON20` for a discount.
 
 !!! note "The power of standardization" 
 
