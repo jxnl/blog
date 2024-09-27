@@ -48,6 +48,24 @@ This is for professionals who are serious about building production-ready RAG sy
 - Learn from real-world case studies across industries
 - Connect with professionals facing similar challenges
 
+## What are people saying?
+
+### Max (Software Engineer, Launch School)
+⭐⭐⭐⭐⭐
+This course was exactly what I was looking for, as an engineer building a production RAG system. I took away practical lessons from every lecture that I could go back and implement in my own work. More than that, interacting with the other students and guest speakers felt like I was learning from a community on the vanguard of this emerging field. A lot of the best practices in this field are still unpublished (or buried in technical papers). This course was a head start on what I suspect will be established conventions in a few years.
+
+### Christopher (Senior Data/AI Architect, Procurement Sciences AI)
+⭐⭐⭐⭐⭐
+This course does an excellent job of stressing the fundamentals while providing useful metric tools to measure the current state of your RAG system and then show concrete improvement. The teachers have a deep background in RAG and recommendation system. The guest speakers are professionals working at the edges of RAG technologies and share their insights and journey. The peer group is also fantastic and built from peers also working in the field on actual RAG implementations.
+
+### Vitor (Staff Software Engineer, Zapier)
+⭐⭐⭐⭐⭐
+Anyone can ship a shiny RAG demo, but evolving it into something actually useful and accurate is a whole different story-- Jason and Dan help set you on the right path with this course that's jam-packed with content, insights, and practical lessons from their experience working with industry leaders. I especially enjoyed the emphasis on looking at your data and building a flywheel that's grounded on evaluations and metrics, and not "vibes"-based AI engineering. If you want to get serious about building RAG systems, this course can save you months of trial and error. Highly recommended!
+
+### Moose (Founder & CEO, Sociail, Inc.)
+⭐⭐⭐⭐⭐
+Wow, this six-week online course on Improving RAG was a game-changer! I had an absolute blast learning alongside more than 100 fellow coursemates, all bringing different levels of experience to the table. The guest lectures were a real treat, adding some serious firepower to our learning. But here's the real kicker — despite our varied backgrounds, Jason and Dan somehow managed to create a solid baseline for everyone. They've got this knack for breaking down complex RAG concepts into a framework that just clicks, no matter where you're starting from. I walked away with great validation and practical ideas we could apply to our production RAG implementation right away in our startup, which is precisely what I was hoping for. The course delivered great value, striking that perfect balance between theory and real-world application. It's pretty amazing how they pulled it off, considering they only had six weeks and how quickly the RAG field is evolving. Kudos to Jason, Dan, and the whole team for putting together such an incredible learning experience!
+
 ## Our Guarantee
 
 If you don't feel better about the progress you're making in 4 weeks, you'll get your money back no questions asked.
@@ -76,8 +94,6 @@ If you don't feel better about the progress you're making in 4 weeks, you'll get
     {Your Name}
 
     P.S. Other teams have sent a few people to the course together because it's an efficient way to get shared context that otherwise takes back-and-forth time to build. It might make sense for us to send a few folks to this course.
-
-[Apply on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 
 ## Limited Availability: Expert RAG Consulting
