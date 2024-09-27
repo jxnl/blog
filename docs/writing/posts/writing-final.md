@@ -14,6 +14,8 @@ authors:
 
 Look, creating content that matters is hard. Here's how to craft impactful content without the bullshit.
 
+<!-- more -->
+
 ## 1. Start with the Tweet
 
 Your journey begins with mastering micro-content. Here's how to nail a tweet:
