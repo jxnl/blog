@@ -2,7 +2,7 @@
 
 I'm a machine learning engineer, angel investor, and startup advisor. Creator of [Instructor](https://github.com/jxnl/instructor) and ML/data science educator. I write about consulting, open source, personal work, and applying LLMs. 
 
-[Learn how to improve your RAG](./systematically-improve-your-rag.md){ .md-button .md-button--primary }
+[Help me improve my RAG](./systematically-improve-your-rag.md){ .md-button .md-button--primary }
 [Work with me](services.md){ .md-button .md-button--secondary }
 
 
