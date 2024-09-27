@@ -72,7 +72,7 @@ If you don't feel better about the progress you're making in 4 weeks, you'll get
 
 [Enroll now on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
-??? note "How to get reimbursed"
+!!! note "How to get reimbursed"
 
     Hey {manager},
 
