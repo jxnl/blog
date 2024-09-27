@@ -76,17 +76,18 @@ If you don't feel better about the progress you're making in 4 weeks, you'll get
 
     Hey {manager},
 
-    There's a course called Systematically Improving RAG Applications that I'd love to enroll in. It's a live, online course with peers who are in similar roles to me, and it's run on Maven, where 40,000+ professionals from companies like Meta, Google, Airbnb, and NASA go to level up when they need to learn quickly and efficiently.
+    There's a course called "Systematically Improving RAG Applications" that I'd like to enroll in. It's a live, online course run on Maven, where professionals from companies like Meta, Google, and Airbnb go to level up their skills. Here are the key points:
 
-    A few highlights:
+    • Expert Instruction: Direct access to Jason Liu, who has 8 years of experience building recommendation systems and multimodal semantic search products.
+    • Practical Learning: 6-week curriculum covering crucial topics like synthetic data generation, query routing, and fine-tuning embeddings.
+    • Immediate Application: Hands-on working sessions to implement concepts like fast evaluations and streaming interfaces.
+    • Comprehensive Framework: Covers optimizing search quality, designing feedback loops, and implementing data-driven strategies.
+    • ROI Potential: Learn to reduce development time, improve user satisfaction, and increase engagement.
+    • Future-Proofing: Focus on enduring principles to evaluate and integrate new technologies rapidly.
+    • Bonuses: Over $1,500 in credits for tools like Cohere, LanceDB, and Modal Labs.
+    • Risk-Free: Full refund if we don't see meaningful improvements within 5 weeks.
 
-    Direct access to Jason Liu and Dan Becker, the expert instructors teaching the course
-    Hands-on working sessions to test new tactics and ideas
-    Latest thinking in the space on how to solve problems we're facing
-
-    I anticipate being able to put my learnings directly into practice during the course. After the course, I can share the learnings with the team so our entire team levels up.
-
-    The course costs $1,650. If you like, you can review course details here, including the instructor’s bio: https://maven.com/applied-llms/rag-playbook
+    The course costs $1,650. I can share the learnings with our team, multiplying the value of this investment. Course details: https://maven.com/applied-llms/rag-playbook
 
     What do you think?
 
