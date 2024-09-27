@@ -21,19 +21,20 @@ Don't miss this opportunity to transform your RAG skills and stay ahead in the c
 
 ## Why now?
 
-- RAG is becoming essential for competitive AI integration
-- Focus is shifting from basic implementation to performance optimization
-- Core principles of effective RAG systems are crystallizing
-- Early adopters gain significant market advantages
-- Instructor's real-world experience provides immediately applicable insights
+- RAG is a new field, creating a level playing field for all learners
+- Everyone is starting from the ground up, regardless of prior experience
+- This course offers a unique opportunity to get ahead of the curve
+- Early understanding of RAG principles can lead to significant competitive advantages
+- The timing is perfect to build a strong foundation in this emerging technology
+- Instructor's insights are particularly valuable in this nascent stage of RAG development
 
 ## Won't a lot change by February?
 
-- Course focuses on enduring principles, not just current tools
-- You'll learn to evaluate and integrate new technologies rapidly
-- By February, you'll be positioned to leverage new developments immediately
-- Course content will be updated to reflect any significant changes
-- Skills developed are foundational and will remain relevant
+- Course focuses on timeless fundamentals of problem decomposition
+- You'll learn to conduct rapid evaluations and identify bottlenecks
+- Emphasis on efficient resource allocation for RAG systems
+- Skills in building UIs that generate valuable training data
+- These core competencies remain relevant regardless of technological changes
 
 ## Why does my team need this?
 
