@@ -19,6 +19,8 @@ Don't miss this opportunity to transform your RAG skills and stay ahead in the c
 
 ![RAG Playbook Course](writing/posts/img/course-review.png)
 
+This is for professionals who are serious about building production-ready RAG systems. 
+
 ## Why now?
 
 - RAG is a new field, creating a level playing field for all learners
