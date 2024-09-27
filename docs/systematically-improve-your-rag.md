@@ -10,6 +10,32 @@ Learn what it means to 'look at your data' and how to use it to build better pro
 
 ![RAG Playbook Course](writing/posts/img/course-review.png)
 
+## Why now?
+
+- RAG is becoming essential for competitive AI integration
+- Focus is shifting from basic implementation to performance optimization
+- Core principles of effective RAG systems are crystallizing
+- Early adopters gain significant market advantages
+- Instructor's real-world experience provides immediately applicable insights
+
+## Won't a lot change by February?
+
+- Course focuses on enduring principles, not just current tools
+- You'll learn to evaluate and integrate new technologies rapidly
+- By February, you'll be positioned to leverage new developments immediately
+- Course content will be updated to reflect any significant changes
+- Skills developed are foundational and will remain relevant
+
+## Why does my team need this?
+
+- Align your team on RAG best practices
+- Save months of trial and error
+- Build scalable systems that prevent future rewrites
+- Foster a data-driven culture of continuous improvement
+- Bridge gaps between technical and business teams
+- Learn from real-world case studies across industries
+- Connect with professionals facing similar challenges
+
 ## Our Guarantee
 
 If you don't feel better about the progress you're making in 4 weeks, you'll get your money back no questions asked.
@@ -40,3 +66,8 @@ If you don't feel better about the progress you're making in 4 weeks, you'll get
     P.S. Other teams have sent a few people to the course together because it's an efficient way to get shared context that otherwise takes back-and-forth time to build. It might make sense for us to send a few folks to this course.
 
 [Apply on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
+
+
+## Limited Availability: Expert RAG Consulting
+
+If your RAG system is underperforming, costing you time and resources I'm available to help. I have extensive experience helping teams build better RAG systems, you can check out my [consulting services](services.md) for more information. Minimum engagement is $50,000.

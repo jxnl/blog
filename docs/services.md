@@ -58,7 +58,21 @@ The only real difference between my past work and what we're doing now with lang
 
 ## Services 
 
-I offer two types of services, depending on your needs:
+### Subscription based support
+
+Flexible, on-demand assistance for your AI initiatives. This service provides:
+
+- **Weekly Check-ins:** 45-minute sync calls to discuss progress and address challenges.
+- **Unlimited Communication:** Continuous support via email and Slack for quick problem-solving.
+- **Strategic Guidance:** Advice on AI integration, vendor selection, and technology adoption.
+- **Access to Experts:** Access to my network of AI and ML specialists.
+- **Cancel Anytime:** Cancel anytime, no questions asked.
+
+Ideal for teams looking for ongoing expert support without full-time commitment.
+
+[Book Async Support (Stripe)](https://buy.stripe.com/dR66rEbTC1OPgF23cj){ .md-button .md-button--secondary }
+
+### Consulting / Project Based
 
 <div class="grid cards" markdown>
 
@@ -84,7 +98,7 @@ I offer two types of services, depending on your needs:
     - **Coaching and Workshops:** Hands-on training to upskill your team in AI practices.
 </div>
 
-### Minimum Level of Engagement
+#### Minimum Level of Engagement
 
 I require a minimum engagement of 3 months for outside of async support.
 
@@ -92,14 +106,8 @@ I require a minimum engagement of 3 months for outside of async support.
 - __Strategic Consulting__: Starts at $40k for the entire engagement
 - __Comprehensive Consulting__: Starts at $120k for the entire engagement
 
-[Book Async Support](https://buy.stripe.com/dR66rEbTC1OPgF23cj){ .md-button .md-button--primary }
-[Schedule a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--secondary }
-
-### Need Immediate Help?
-
-Schedule a one-on-one expert call to discuss your specific challenges and goals. Whether you need strategic guidance or technical expertise, I'm here to help.
-
-[Book an Expert Call](https://calendly.com/jxnl/expert-call){ .md-button .md-button--primary }
+[Contact Me](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
+[Book Async Support (Stripe)](https://buy.stripe.com/dR66rEbTC1OPgF23cj){ .md-button .md-button--secondary }
 
 ## Clients
 
