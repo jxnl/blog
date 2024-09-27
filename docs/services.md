@@ -85,6 +85,7 @@ Ideal for teams looking for ongoing expert support without full-time commitment.
     - **Weekly 1:1:** 1-on-1 syncs to discuss to unblock your initiatives
     - **Asynchronous Support:** Email, Slack, and ad-hoc meeting support
     - **Expert Network:** Access to my network of AI and ML specialists.
+    - **Content Support:** Help with writing blog posts, and other content to help with your initiatives.
     - **Hiring Support:** Identify skills and attract top talent.
 
 -   :material-cog-refresh:{ .lg .middle } __Comprehensive Consulting__
@@ -103,7 +104,7 @@ Ideal for teams looking for ongoing expert support without full-time commitment.
 I require a minimum engagement of 3 months for outside of async support.
 
 - __Async Support__: $9,500 per month, 45 minute weekly syncs and unlimited email/slack access.
-- __Strategic Consulting__: Starts at $40k for the entire engagement
+- __Strategic Consulting__: Starts at $50k for the entire engagement
 - __Comprehensive Consulting__: Starts at $120k for the entire engagement
 
 [Contact Me](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }

@@ -80,8 +80,26 @@ If you don't feel better about the progress you're making in 4 weeks, you'll get
 
 ## Limited Availability: Expert RAG Consulting
 
-I can also help you with tailored solutions to your specific challenges.
+I can also help you with tailored solutions to your specific challenges through my Applied AI Consulting Services. With 8 years of experience at companies like Stitchfix, Meta, and NYU, I specialize in:
+
+- Designing self-improving AI systems with robust feedback loops
+- Developing and implementing Vision/Text based search systems
+- Crafting comprehensive evaluation frameworks for search and recommendation systems
+- Making strategic AI research bets and evaluating vendors
+
+My services include:
+
+1. **Subscription-based Support**: Flexible, on-demand assistance with weekly check-ins, unlimited communication, and strategic guidance.
+
+2. **Strategic Consulting**: Implement effective AI strategies to boost productivity, revenue, and market value. Includes weekly 1:1 syncs, asynchronous support, and access to my expert network.
+
+3. **Comprehensive Consulting**: Enhance AI capabilities through prototyping, research, process optimization, and team training.
+
+I've worked with companies backed by top VC firms and can help turn your AI challenges into opportunities for growth.
 
 [Explore Consulting Services](services.md){ .md-button .md-button--secondary }
 
-Minimum engagement: $50,000
+Minimum engagement: 
+- Async Support: $9,500 per month
+- Strategic Consulting: Starts at $50,000 for a 3-month engagement
+- Comprehensive Consulting: Starts at $120,000 for a 3-month engagement
