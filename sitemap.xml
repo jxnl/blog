@@ -2,332 +2,442 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jxnl.co/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/assessment/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/books/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/contact/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/expert-calls/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/experts-and-vendors/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/investments/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/jobs/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/services/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/systematically-improve-your-rag/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/user_manual/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/06/01/advice-to-young-people/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2023/11/02/ai-engineer-keynote-pydantic-is-all-you-need/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/02/07/how-to-ask/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/01/18/public-baths/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/09/21/chase-bank-small-business-nightmare/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/08/26/everything-i-know-about-consulting/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/01/22/indie-consulting/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/09/17/pricing-strategy-for-consultants/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/05/29/marketing-consulting/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.co/writing/2024/01/22/consulting/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <loc>https://jxnl.co/writing/2024/09/13/consulting-referrals/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/08/23/consulting-stack/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/01/20/couchs/</loc>
-         <lastmod>2024-07-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them/</loc>
-         <lastmod>2024-07-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jxnl.co/writing/2024/06/30/on-getting-recognized/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/03/28/data-flywheel/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2023/02/05/freediving-ice/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/04/20/getting-goals/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/04/29/losing-my-hands/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/05/29/losing-my-hands-part-2/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/05/27/products-and-tips-for-rsi/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/04/08/hiring-mle-at-early-stage-companies/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <loc>https://jxnl.co/writing/2024/06/30/how-i-want-you-to-write/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2023/06/01/kojima-sticks/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/01/08/learning/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.co/writing/2024/02/28/levels-of-complexity-rag-applications/</loc>
-         <lastmod>2024-07-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jxnl.co/writing/2024/02/05/when-to-lgtm-at-k/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <loc>https://jxnl.co/writing/2024/06/30/life-with-twenty-million/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2023/04/04/good-llm-observability/</loc>
-         <lastmod>2024-07-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jxnl.co/writing/2024/05/11/low-hanging-fruit-for-rag-search/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/02/18/how-to-ship-an-mvp-for-ai-applications/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/08/30/naturalistic-dialogue-ai/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/05/22/what-is-prompt-optimization/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/08/19/rag-flywheel/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/01/07/inverted-thinking-rag/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.co/writing/2023/09/17/rag-is-more-than-embeddings/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <loc>https://jxnl.co/writing/2024/02/28/levels-of-complexity-rag-applications/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/02/05/when-to-lgtm-at-k/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/05/11/low-hanging-fruit-for-rag-search/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/06/05/predictions-for-the-future-of-rag/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2023/09/17/rag-is-more-than-embeddings/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2022/08/01/stitchfix-framework/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/01/09/self-loathing/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2025/06/15/my-self-reflection-on-success-and-growth/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/01/19/tips-probabilistic-software/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/02/20/formatting-strings/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/03/20/technology-skepticism/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/02/03/testosterone/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/06/29/art-of-looking-at-rag-data/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.co/writing/2024/01/11/anatomy-of-a-tweet/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <loc>https://jxnl.co/writing/2024/08/21/trade-off-tool-selection/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/02/14/weights-and-biases-course/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/2024/01/01/whoami/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/06/30/on-getting-recognized/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/10/01/content-creation-mastery/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/09/07/content-creation-mastery/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/2024/01/11/anatomy-of-a-tweet/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/archive/2025/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/archive/2024/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/archive/2023/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/archive/2022/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/category/personal/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.co/writing/category/rag/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <loc>https://jxnl.co/writing/category/writing/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jxnl.co/writing/category/thoughts/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <loc>https://jxnl.co/writing/category/marketing/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/category/consulting/</loc>
-         <lastmod>2024-07-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jxnl.co/writing/category/losing-my-hands/</loc>
-         <lastmod>2024-07-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jxnl.co/writing/category/llms/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/category/business/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/category/rag/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/category/thoughts/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/category/losing-my-hands/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/category/llms/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/category/llm/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/category/funny-thoughts/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/page/2/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/page/3/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/page/4/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/page/5/</loc>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/page/6/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/archive/2024/page/2/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/archive/2024/page/3/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/archive/2024/page/4/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jxnl.co/writing/archive/2024/page/5/</loc>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jxnl.co/writing/category/personal/page/2/</loc>
-         <lastmod>2024-07-19</lastmod>
+         <lastmod>2024-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
