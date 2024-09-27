@@ -2,11 +2,20 @@
 
 [![Top 10 Course on Maven](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
 
-Elevate your Retrieval-Augmented Generation (RAG) systems with our intensive, industry-leading course launching February 2024. This program has students from leading tech companies including Amazon, Adobe, Zapier, Meta, Intuit, Shopify, Neo4j, Cisco, as well as numerous independent AI consultants.
+Elevate your Retrieval-Augmented Generation (RAG) systems with our intensive, industry-leading course launching February 2024.
 
-Our approach decomposes your system into its core components, identifying bottlenecks and guiding you through focused experiments to enhance your system's performance end to end. We transcend vague directives like "just make it better," offering tangible, step-by-step instructions on how to effectively analyze and leverage your data. 
+This program has attracted students from tech giants like Amazon, Adobe, Zapier, Meta, Intuit, Shopify, Neo4j, Cisco, as well as numerous independent AI consultants. Our approach decomposes your system into its core components, identifying bottlenecks and guiding you through focused experiments to enhance your system's performance end to end.
 
-Learn what it means to 'look at your data' and how to use it to build better products.
+We transcend vague directives like "just make it better," offering tangible, step-by-step instructions on how to effectively analyze and leverage your data. Learn what it means to 'look at your data' and how to use it to build better products.
+
+Enroll now to benefit from:
+
+- Hands-on, practical learnin
+- Real-world case studies
+- 12 hours of dedicated office hours with expert instructors
+- A community of like-minded professionals
+
+Don't miss this opportunity to transform your RAG skills and stay ahead in the competitive AI landscape.
 
 ![RAG Playbook Course](writing/posts/img/course-review.png)
 
@@ -70,4 +79,8 @@ If you don't feel better about the progress you're making in 4 weeks, you'll get
 
 ## Limited Availability: Expert RAG Consulting
 
-If your RAG system is underperforming, costing you time and resources I'm available to help. I have extensive experience helping teams build better RAG systems, you can check out my [consulting services](services.md) for more information. Minimum engagement is $50,000.
+I can also help you with tailored solutions to your specific challenges.
+
+[Explore Consulting Services](services.md){ .md-button .md-button--secondary }
+
+Minimum engagement: $50,000
