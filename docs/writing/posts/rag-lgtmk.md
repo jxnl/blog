@@ -235,6 +235,8 @@ I hope this post has provided you with better intuition on how to think about re
 2. Notice that for MRR and NDCG, they depend on the rank of the relevant document. This is why they are often used in the context of ranking. If you end up building a sophisticated RAG application, you'll find that a lot of the time, many of the queries are just asking for documents which great opportunity to consider a ranking metric above just a regular context retrieval mechanism. If each document is 20 pages, you'll likely really care about which document shows up first.
 3. Showing your work is super important for products that need to gain the user's trust. Again, ranking becomes really relevant even though language models themselves might not care.
 
-!!! note "RAG Course"
+# Subscribe for more content
 
-    If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.
+If you liked this content, consider subscribing to my newsletter.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>

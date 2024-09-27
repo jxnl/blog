@@ -169,6 +169,8 @@ For example, if you're building a medical diagnostic tool, a slight increase in 
 
 This is was written based off of a 30 conversation with a client, so I know I'm skipping over many details and implementation details. Leave a comment and let me know and we can get into specifics.
 
-!!! note "RAG Course"
-  
-    If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.
+## Subscribe for more content
+
+If you liked this content, consider subscribing to my newsletter.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>

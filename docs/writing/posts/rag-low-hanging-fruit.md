@@ -151,6 +151,8 @@ By focusing on these low-hanging fruit opportunities, you can significantly enha
 
 If you have any questions about these details, please leave a comment below and let's get a conversation started. My goal really is to bring the unconscious conscious and being able to answer questions will really help me clarify my own thinking. 
 
-!!! note "RAG Course"
+# Subscribe for more content
 
-  If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.
+If you liked this content, consider subscribing to my newsletter.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>

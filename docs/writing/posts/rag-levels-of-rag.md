@@ -404,6 +404,9 @@ As we continue to explore the depths of RAG applications, the following areas wi
 
 - Modeling Business Outcomes: Applying RAG techniques to predict and model business outcomes, facilitating strategic decision-making.
 
-!!! note "RAG Course"
 
-    If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.
+## Subscribe for more content
+
+If you liked this content, consider subscribing to my newsletter.
+
+<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
