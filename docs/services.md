@@ -4,9 +4,11 @@ Working with me should feel like unlocking cheat codes to building your RAG syst
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 
-## I Work directly with early stage companies
+## Direct Support for Engineering and Product Leaders
 
-Engineering and Product Leaders work directly with me to help you with your AI initiatives, technical coaching, building teams, strategy, and both internal and external education.
+I work directly with companies to support their AI initiatives, providing technical coaching, team building guidance, strategic planning, and both internal and external education. My expertise, combined with a [network](./experts-and-vendors.md) of industry-leading specialists and trusted vendors.
+
+> My job simply put is to help you figure out what is easy, what is hard, and to minimize regret.
 
 | Client | Description | Contact | Industry |
 |--------|-------------|---------|----------|
