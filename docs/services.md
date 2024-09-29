@@ -4,6 +4,28 @@ Working with me should feel like unlocking cheat codes to building your RAG syst
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 
+## I Work directly with early stage companies
+
+Engineering and Product Leaders work directly with me to help you with your AI initiatives, technical coaching, building teams, strategy, and both internal and external education.
+
+| Client | Description | Contact | Industry |
+|--------|-------------|---------|----------|
+| [Zapier](https://zapier.com/) | Automates workflows by connecting apps and services | VP of Product | Automation |
+| [Timescale](https://timescale.com/) | PostgreSQL-based time-series database | PM | Database |
+| [Limitless AI](http://limitless.ai/) | AI-powered personal memory assistant | CTO | AI |
+| [Trunk Tools](https://trunktools.com/) | AI for construction workforce productivity | VP Eng | Construction |
+| [Tensorlake](https://tensorlake.ai/) | Knowledge bases for LLMs from unstructured data | CEO | Knowledge |
+| [Sandbar](https://sandbar.inc/) | Human-AI interface development | CTO | Interface |
+| [Dunbar](https://trydunbar.com/) | Professional connection analysis | CEO | Networking |
+| [Bytebot](https://bytebot.ai/) | Web-based automation through prompts | CEO | Web Automation |
+| [Naro](http://narohq.com/) | Contextual content delivery for customer interactions | CTO | Sales & Marketing |
+| [New Computer](http://new.computer/) | AI-powered personal assistant | CEO | Personal Assistant |
+| [Kay.ai](http://kay.ai/) | Hosted embedding services for LLM applications | CTO | Automation |
+| [Raycast](https://raycast.com/) | Customizable productivity launcher | CEO | Productivity |
+| [Weights & Biases](https://wandb.ai/) | Platform for ML experiment tracking | PM | ML |
+| [Modal Labs](https://modal.com/) | Cloud platform for AI models and batch jobs | Founder | Cloud |
+| [Pydantic](http://pydantic.dev/) | Python library for data validation | CEO | Development |
+
 ## Are you facing these challenges?
 
 - **Data Flywheel Inefficiencies**: Your AI systems lack robust feedback loops, resulting in stagnant performance.
@@ -109,99 +131,3 @@ I require a minimum engagement of 3 months for outside of async support.
 
 [Contact Me](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 [Book Async Support (Stripe)](https://buy.stripe.com/dR66rEbTC1OPgF23cj){ .md-button .md-button--secondary }
-
-## Clients
-
-<div class="grid cards" markdown>
-
--   :material-briefcase:{ .lg .middle } [__Zapier__](https://zapier.com/)
-
-    ---
-
-    Automates workflows by connecting apps and services, enabling users to create custom integrations without coding.
-
--   :material-database:{ .lg .middle } [__Timescale__](https://timescale.com/)
-
-    ---
-
-    Offers a scalable PostgreSQL-based time-series database for efficient storage and analysis of time-stamped data.
-
--   :material-brain:{ .lg .middle } [__Limitless AI__](http://limitless.ai/)
-
-    ---
-
-    Provides an AI-powered personal memory assistant that helps users organize, recall, and navigate their daily information.
-
--   :material-cloud:{ .lg .middle } [__Modal Labs__](https://modal.com/)
-
-    ---
-
-    Delivers a cloud platform optimized for running AI models and large-scale batch jobs with seamless scaling.
-
--   :material-check-decagram:{ .lg .middle } [__Pydantic__](http://pydantic.dev/)
-
-    ---
-
-    Offers a Python library for data validation and settings management using type annotations, ensuring runtime type safety.
-
--   :material-rocket-launch:{ .lg .middle } [__Raycast__](https://raycast.com/)
-
-    ---
-
-    Presents a customizable launcher that boosts productivity by simplifying common tasks and providing quick access to tools.
-
--   :material-chart-box:{ .lg .middle } [__Weights & Biases__](https://wandb.ai/)
-
-    ---
-
-    Provides a comprehensive platform for tracking, visualizing, and optimizing machine learning experiments and models.
-
--   :material-hammer-wrench:{ .lg .middle } [__Trunk Tools__](https://trunktools.com/)
-
-    ---
-
-    Utilizes AI to enhance construction workforce productivity, addressing skilled labor shortages in the industry.
-
--   :material-database-cog:{ .lg .middle } [__Tensorlake__](https://tensorlake.ai/)
-
-    ---
-
-    Specializes in creating knowledge bases for Large Language Models from unstructured data, improving AI comprehension.
-
--   :material-human-greeting:{ .lg .middle } [__Sandbar__](https://sandbar.inc/)
-
-    ---
-
-    Focuses on developing sophisticated human-AI interfaces to enhance interaction between users and AI technologies.
-
--   :material-account-group:{ .lg .middle } [__Dunbar__](https://trydunbar.com/)
-
-    ---
-
-    Consolidates and analyzes professional connections to uncover networking opportunities and expand business relationships.
-
--   :material-robot:{ .lg .middle } [__Bytebot__](https://bytebot.ai/)
-
-    ---
-
-    Enables users to create web-based automation tasks through intuitive prompts, without requiring coding expertise.
-
--   :material-message-text:{ .lg .middle } [__Naro__](http://narohq.com/)
-
-    ---
-
-    Employs contextual analysis to automatically select and deliver appropriate content for various customer interactions.
-
--   :material-desktop-classic:{ .lg .middle } [__New Computer__](http://new.computer/)
-
-    ---
-
-    Offers an AI-powered personal assistant that helps users organize, remember, and navigate both personal and professional information.
-
--   :material-web:{ .lg .middle } [__Kay.ai__](http://kay.ai/)
-
-    ---
-
-    Supplies hosted embedding services to extract relevant context from the semantic web, enhancing LLM application capabilities.
-
-</div>
