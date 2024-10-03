@@ -30,26 +30,26 @@ I work directly with companies to support their AI initiatives, providing techni
 
 ## Are you facing these challenges?
 
-- **Data Flywheel Inefficiencies**: Your AI systems lack robust feedback loops, resulting in stagnant performance.
-- **AI Integration Complexities**: Your team struggles to seamlessly incorporate AI into existing workflows and products.
-- **Evaluation and Fine-tuning Uncertainties**: Difficulty in assessing AI model performance or optimizing for specific use cases.
-- **AI Scalability Hurdles**: Challenges in growing AI initiatives while maintaining quality and business alignment.
+- **Data Feedback Loop Inefficiencies**: Your AI systems lack effective mechanisms for continuous improvement, resulting in stagnant performance.
+- **AI Integration Complexities**: Your team encounters difficulties in seamlessly incorporating AI technologies into existing workflows and products.
+- **Evaluation and Optimization Uncertainties**: You struggle to accurately assess AI model performance or fine-tune models for specific use cases.
+- **AI Scalability Hurdles**: You face challenges in expanding AI initiatives while maintaining quality and aligning with business objectives.
 
 ## Imagine if...
 
-- You had a proven framework for data flywheels that continuously improve your AI systems' performance.
-- Your team seamlessly integrated AI technologies, enhancing existing workflows without disruption.
-- You could confidently evaluate and fine-tune AI models, optimized for your specific business needs.
-- You possessed strategies to scale AI initiatives, maintaining quality and aligning with your business goals.
+- Implementing a proven framework for data feedback loops that consistently enhance your AI systems' performance.
+- Your team effortlessly integrating AI technologies, augmenting existing workflows without disruption.
+- Confidently evaluating and optimizing AI models, tailored precisely to your business requirements.
+- Possessing strategies to scale AI initiatives while maintaining quality and ensuring alignment with your business goals.
 
-## How I can help
+## How I can contribute
 
 With 8 years of experience at Stitchfix, Meta, and NYU, I specialize in:
 
-- Designing self-improving AI systems with robust feedback loops, creating valuable data flywheels.
-- Developing and implementing Vision/Text based search systems that integrate seamlessly into existing product ecosystems.
-- Crafting comprehensive evaluation frameworks and fine-tuning algorithms for search and recommendation systems.
-- Making strategic AI research bets and evaluating vendors to drive innovation and scalable growth.
+- Architecting self-improving AI systems with robust feedback mechanisms, creating valuable data ecosystems.
+- Developing and implementing multimodal search systems that integrate seamlessly into existing product infrastructures.
+- Designing comprehensive evaluation frameworks and fine-tuning methodologies for search and recommendation systems.
+- Strategically directing AI research investments and conducting thorough vendor evaluations to drive innovation and scalable growth.
 
 I've worked with companies that have raised money from top VC firms like [Sequoia Capital](https://www.sequoiacap.com/), [Y Combinator](https://www.ycombinator.com/), [Bessemer Venture Partners](https://www.bvp.com/), [Accel](https://www.accel.com/), [Benchmark](https://www.benchmark.com/), [Coatue Management](https://www.coatue.com/), [Insight Partners](https://www.insightpartners.com/), [Redpoint Ventures](https://www.redpoint.com/), and the [OpenAI Startup Fund](https://openai.com/fund/).
 
@@ -133,3 +133,6 @@ I require a minimum engagement of 3 months for outside of async support.
 
 [Contact Me](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 [Book Async Support (Stripe)](https://buy.stripe.com/dR66rEbTC1OPgF23cj){ .md-button .md-button--secondary }
+
+
+<iframe id='testimonialto-jxnl-co-tag-all-light' src="https://embed-v2.testimonial.to/w/jxnl-co?theme=light&card=base&loadMore=off&initialCount=20&tag=all" frameborder="0" scrolling="no" width="100%"></iframe>

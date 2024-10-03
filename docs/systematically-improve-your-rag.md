@@ -2,51 +2,42 @@
 
 [![Top 10 Course on Maven](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
 
-Elevate your Retrieval-Augmented Generation (RAG) systems with our intensive, industry-leading course launching February 2024.
+Enhance your Retrieval-Augmented Generation (RAG) systems with our advanced course launching in February 2024.
 
-This program has attracted students from tech giants like Amazon, Adobe, Zapier, Meta, Intuit, Shopify, Neo4j, Cisco, as well as numerous independent AI consultants. Our approach decomposes your system into its core components, identifying bottlenecks and guiding you through focused experiments to enhance your system's performance end to end.
+Our program has drawn students from major tech companies like Amazon, Adobe, and Zapier, as well as independent AI consultants. We break down your system into its key parts, identify problem areas, and guide you through targeted experiments to improve your system's overall performance.
 
-We transcend vague directives like "just make it better," offering tangible, step-by-step instructions on how to effectively analyze and leverage your data. Learn what it means to 'look at your data' and how to use it to build better products.
+We go beyond vague advice like "just make it better." Instead, we offer clear, step-by-step instructions on how to effectively analyze and use your data. You'll learn what it truly means to 'examine your data' and how to apply this knowledge to create superior products.
 
-Enroll now to benefit from:
+Sign up now to gain:
 
-- Hands-on, practical learnin
+- Practical, hands-on learning experiences
 - Real-world case studies
-- 12 hours of dedicated office hours with expert instructors
-- A community of like-minded professionals
+- 12 hours of dedicated time with expert instructors
+- Access to a community of like-minded professionals
 
-Don't miss this opportunity to transform your RAG skills and stay ahead in the competitive AI landscape.
+Don't miss this opportunity to elevate your RAG skills and maintain a competitive edge in the rapidly evolving AI field.
 
 ![RAG Playbook Course](writing/posts/img/course-review.png)
 
-This is for professionals who are serious about building production-ready RAG systems. 
+This course is for professionals who want to build real-world RAG systems.
 
 ## Why now?
 
-- RAG is a new field, creating a level playing field for all learners
-- Everyone is starting from the ground up, regardless of prior experience
-- This course offers a unique opportunity to get ahead of the curve
-- Early understanding of RAG principles can lead to significant competitive advantages
-- The timing is perfect to build a strong foundation in this emerging technology
-- Instructor's insights are particularly valuable in this nascent stage of RAG development
+- RAG is new, so everyone starts at the same level
+- It's a chance to learn before others do
+- Understanding RAG early can give you an edge
 
-## Won't a lot change by February?
+## Will things change a lot by February?
 
-- Course focuses on timeless fundamentals of problem decomposition
-- You'll learn to conduct rapid evaluations and identify bottlenecks
-- Emphasis on efficient resource allocation for RAG systems
-- Skills in building UIs that generate valuable training data
-- These core competencies remain relevant regardless of technological changes
+- The course teaches problem-solving skills that don't change
+- You'll learn how to test and find issues quickly
+- You'll learn how to use resources well in RAG systems
 
-## Why does my team need this?
+## Why should my team take this course?
 
-- Align your team on RAG best practices
-- Save months of trial and error
-- Build scalable systems that prevent future rewrites
-- Foster a data-driven culture of continuous improvement
-- Bridge gaps between technical and business teams
-- Learn from real-world case studies across industries
-- Connect with professionals facing similar challenges
+- Get everyone on the same page about RAG best practices
+- Save time by avoiding mistakes
+- Build systems that can grow without needing to start over
 
 ## What are people saying?
 
@@ -77,15 +68,14 @@ If you don't feel better about the progress you're making in 4 weeks, you'll get
     Hey {manager},
 
     There's a course called "Systematically Improving RAG Applications" that I'd like to enroll in. It's a live, online course run on Maven, where professionals from companies like Meta, Google, and Airbnb go to level up their skills. Here are the key points:
-
-    • Expert Instruction: Direct access to Jason Liu, who has 8 years of experience building recommendation systems and multimodal semantic search products.
-    • Practical Learning: 6-week curriculum covering crucial topics like synthetic data generation, query routing, and fine-tuning embeddings.
-    • Immediate Application: Hands-on working sessions to implement concepts like fast evaluations and streaming interfaces.
-    • Comprehensive Framework: Covers optimizing search quality, designing feedback loops, and implementing data-driven strategies.
-    • ROI Potential: Learn to reduce development time, improve user satisfaction, and increase engagement.
-    • Future-Proofing: Focus on enduring principles to evaluate and integrate new technologies rapidly.
-    • Bonuses: Over $1,500 in credits for tools like Cohere, LanceDB, and Modal Labs.
-    • Risk-Free: Full refund if we don't see meaningful improvements within 5 weeks.
+    • Expert Teacher: Learn from Jason Liu, who has 8 years of experience building systems that suggest things and search for information.
+    • Hands-on Learning: 6-week course covering important topics like making fake data, directing questions, and improving how computers understand words.
+    • Use It Now: Practice sessions to try out ideas like quick testing and live data streaming.
+    • Big Picture View: Learn how to make searches better, get feedback, and use data to make smart choices.
+    • Save Time and Money: Learn how to work faster, make users happier, and keep them coming back.
+    • Ready for the Future: Focus on ideas that will help you quickly test and use new tech.
+    • Free Stuff: Get over $1,500 in free credits for tools like Cohere, LanceDB, and Modal Labs.
+    • No Risk: Get your money back if you don't see real improvements in 5 weeks.
 
     The course costs $1,650. I can share the learnings with our team, multiplying the value of this investment. Course details: https://maven.com/applied-llms/rag-playbook
 
@@ -99,26 +89,26 @@ If you don't feel better about the progress you're making in 4 weeks, you'll get
 
 ## Limited Availability: Expert RAG Consulting
 
-I can also help you with tailored solutions to your specific challenges through my Applied AI Consulting Services. With 8 years of experience at companies like Stitchfix, Meta, and NYU, I specialize in:
+I can also help you with custom solutions for your AI problems through my Applied AI Consulting Services. With 8 years of experience at companies like Stitchfix, Meta, and NYU, I'm good at:
 
-- Designing self-improving AI systems with robust feedback loops
-- Developing and implementing Vision/Text based search systems
-- Crafting comprehensive evaluation frameworks for search and recommendation systems
-- Making strategic AI research bets and evaluating vendors
+- Making AI systems that get better on their own
+- Building search systems that use pictures and words
+- Creating ways to test search and recommendation systems
+- Choosing smart AI research projects and checking out AI companies
 
 My services include:
 
-1. **Subscription-based Support**: Flexible, on-demand assistance with weekly check-ins, unlimited communication, and strategic guidance.
+1. **Support You Can Count On**: Help when you need it, with weekly check-ins, lots of communication, and advice on what to do next.
 
-2. **Strategic Consulting**: Implement effective AI strategies to boost productivity, revenue, and market value. Includes weekly 1:1 syncs, asynchronous support, and access to my expert network.
+2. **Big Picture Planning**: Use AI to make your business better, make more money, and be worth more. We'll talk every week, help you anytime, and connect you with other experts.
 
-3. **Comprehensive Consulting**: Enhance AI capabilities through prototyping, research, process optimization, and team training.
+3. **Full Service Help**: Make your AI better by trying new things, doing research, fixing how you work, and teaching your team.
 
-I've worked with companies backed by top VC firms and can help turn your AI challenges into opportunities for growth.
+I've worked with companies that big investors believe in. I can help turn your AI problems into ways to grow your business.
 
-[Explore Consulting Services](services.md){ .md-button .md-button--secondary }
+[Learn More About Consulting](services.md){ .md-button .md-button--secondary }
 
-Minimum engagement: 
-- Async Support: $9,500 per month
-- Strategic Consulting: Starts at $50,000 for a 3-month engagement
-- Comprehensive Consulting: Starts at $120,000 for a 3-month engagement
+Lowest prices: 
+- Help anytime: $9,500 per month
+- Big Picture Planning: Starts at $50,000 for 3 months
+- Full Service Help: Starts at $120,000 for 3 months
