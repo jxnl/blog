@@ -11,9 +11,11 @@ authors:
 
 # Best Tools for Indie Consultants
 
-This blog post came from a conversation with a buddy of mine who is setting up their consulting business. This is effectively a transcript of that conversation:
+As an [indie consultant](./consulting-indie.md), having the right tools can make or break your business. Over the years, I've refined my "consulting stack" - a collection of software and services that keep my operations smooth and professional. This post is an extension of my thoughts on [AI consulting](./consulting-marketing.md) and [freelancing in the AI gold rush](./consulting-predictions.md).
 
-As a consultant, having the right tools can make or break your business. Over the years, I've refined my "consulting stack" - a collection of software and services that keep my operations smooth and professional. In this post, I'll share the key components of my stack and why they matter. At the end I'll include a todo list for setting up your business foundation, and a todo list for setting up your consulting stack.
+In this guide, I'll share the key components of my stack and why they matter. Whether you're just starting out or looking to optimize your existing practice, these tools can help streamline your operations and enhance your professional image. I'll cover everything from setting up your business foundation to essential software for day-to-day operations.
+
+By the end, you'll have a comprehensive todo list for setting up your business foundation and implementing your own consulting stack. This advice stems from my personal experience and [lessons learned from AI consulting](./consulting-stack.md), aimed at helping you avoid common pitfalls and accelerate your success in the consulting world.
 
 
 <!-- more -->

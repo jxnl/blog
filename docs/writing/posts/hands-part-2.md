@@ -13,9 +13,9 @@ authors:
 
 # Losing My Hands Pt. 2: The Two Jasons
 
-This is part of an ongoing series that discusses my experience of suffering an RSI during the COVID-19 Pandemic and the ongoing struggles and disruptions it still causes. You can read [part one here](./hands-part-1.md). My goal here is to interrogate how the injury affected my values and my approach to life. You'll probably be disappointed if you're looking for a detailed medical report.
+This is part of a series about my experience with a repetitive strain injury (RSI) during the COVID-19 pandemic. It talks about how this injury changed my life and what I think about now. If you want to know more about what happened, you can read [part one here](./hands-part-1.md). I'm not going to give a lot of medical details. Instead, I want to look at how this injury changed what's important to me and how I live my life.
 
-This [comment](https://twitter.com/jxnlco/status/1785775187104833592) partly inspired this installation of the series. This article isn't meant to be preachy but rather introspective of the value systems that shape me and many other men.
+A [comment on Twitter](https://twitter.com/jxnlco/status/1785775187104833592) made me want to write this part of the series. I'm not trying to tell anyone how to live. I just want to think about the values that shape me and other men like me. This connects to some ideas I wrote about in my article on [data literacy](./data-literacy.md), where I talk about how we understand and use information in our lives.
 
 <!-- more -->
 

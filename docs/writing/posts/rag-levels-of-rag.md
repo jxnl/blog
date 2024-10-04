@@ -10,15 +10,23 @@ authors:
 
 # Levels of Complexity: RAG Applications
 
-!!! note "RAG Course"
-  
-    Check out [this course](https://maven.com/applied-llms/rag-playbook) if you're interested in systematically improving RAG.
+This guide explores different levels of complexity in Retrieval-Augmented Generation (RAG) applications. We'll cover everything from basic ideas to advanced methods, making it useful for beginners and experienced developers alike.
 
-This post comprehensive guide to understanding and implementing RAG applications across different levels of complexity. Whether you're a beginner eager to learn the basics or an experienced developer looking to deepen your expertise, you'll find valuable insights and practical knowledge to help you on your journey. Let's embark on this exciting exploration together and unlock the full potential of RAG applications.
+We'll start with the basics, like breaking text into chunks, creating embeddings, and storing data. Then, we'll move on to more complex topics such as improved search methods, creating structured responses, and making systems work better. By the end, you'll know how to build strong RAG systems that can answer tricky questions accurately.
 
-If you want to learn about my consulting practice check out my [services](../../services.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)
+As we explore these topics, we'll use ideas from other resources, like our articles on [data flywheels](writing/posts/data-flywheel.md) and [improving tool retrieval in RAG systems](writing/posts/trade-off-tool-selection.md). These ideas will help you understand how to create systems that keep improving themselves, making your product better and keeping users more engaged.
 
-!!! tip "This is a work in progress and mostly an outline of what I want to write. I'm mostly looking for feedback"
+Key topics we'll explore include:
+
+1. Basic text processing and embedding techniques
+2. Efficient data storage and retrieval methods
+3. Advanced search and ranking algorithms
+4. Asynchronous programming for improved performance
+5. Observability and logging for system monitoring
+6. Evaluation strategies using synthetic and real-world data
+7. Query enhancement and summarization techniques
+
+This guide aligns with the insights from our [RAG flywheel article](writing/posts/rag-flywheel.md), which emphasizes the importance of continuous improvement in RAG systems through data-driven iterations and user feedback integration.
 
 <!-- more -->
 

@@ -4,35 +4,35 @@ I write about a mix of consulting, open source, personal work, and applying llms
 
 [:material-twitter: Follow me on X](https://x.com/jxnlco){.md-button .md-button--primary}
 
-For RAG or LLM related posts, You can check out the categories labels in the side bar. I'll leave some high quality posts here as well.
+For posts about RAG (Retrieval-Augmented Generation) or LLMs (Large Language Models), check out the category labels in the sidebar. Here are some of my best posts on these topics:
 
-## Personal Writing
+## Personal Stories
 
-- [Advice for young people](./posts/advice.md)
-- [Losing my hands](./posts/hands-part-1.md)
+- [Advice for Young People](./posts/advice.md): Tips and insights for those starting their journey
+- [Losing My Hands](./posts/hands-part-1.md): My experience with a career-changing injury
 
-## Short Technical Posts
+## RAG and LLM Insights
 
-- [Rag is more than embeddings](./posts/rag.md)
-- [Levels of Complexity in RAG](./posts/rag-levels-of-rag.md)
-- [Systematically Improve Your RAG](./posts/rag-improving-rag.md)
-- [How to build a terrible RAG system](./posts/rag-inverted.md)
-- [Low hanging fruit for RAG](./posts/rag-low-hanging-fruit.md)
-- [RAG System Inference Flywheel](./posts/rag-flywheel.md)
-- [Understanding Search Quality Metrics](./posts/rag-lgtmk.md)
+- [RAG: More Than Just Embeddings](./posts/rag.md): Understanding the full scope of RAG systems
+- [RAG Complexity Levels](./posts/rag-levels-of-rag.md): Breaking down the layers of RAG implementation
+- [Improving Your RAG System](./posts/rag-improving-rag.md): Steps to enhance RAG performance
+- [Common RAG Mistakes](./posts/rag-inverted.md): What not to do when building a RAG system
+- [Easy Wins for RAG](./posts/rag-low-hanging-fruit.md): Simple ways to boost your RAG system
+- [RAG Feedback Loop](./posts/rag-flywheel.md): Creating a self-improving RAG system
+- [RAG Search Metrics](./posts/rag-lgtmk.md): How to measure RAG search quality
 
-## Technical Coaching
+## Consulting and Tech Advice
 
-- [Consulting Tech Stack](./posts/consulting-stack.md)
-- [Indie Consulting](./posts/consulting-indie.md)
-- [Everything I know about Consulting](./posts/consulting-everything-i-know.md)
-- [How to ship an MVP for AI applications](./posts/mvp.md)
-- [Mistakes Engineers Make](./posts/stochastic-software.md)
+- [Tools for Consulting](./posts/consulting-stack.md): Essential tech for consultants
+- [Solo Consulting Guide](./posts/consulting-indie.md): Tips for independent consultants
+- [Consulting 101](./posts/consulting-everything-i-know.md): Key lessons from my consulting experience
+- [Building AI App MVPs](./posts/mvp.md): How to launch a basic AI application
+- [Common Engineering Errors](./posts/stochastic-software.md): Mistakes to avoid in software development
 
-## Talks and Podcasts
+## Talks and Interviews
 
-- [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
-- [Podcast: Weaviate](https://www.youtube.com/watch?v=higlHgYDc5E)
-- [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
-- [Podcast: Dagshub](https://www.youtube.com/watch?v=rDP44EVpHTA)
-- [Podcast: Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
+- [Pydantic Keynote](https://www.youtube.com/watch?v=yj-wSRJwrrc&): Why Pydantic is crucial for Python developers
+- [Weaviate Podcast](https://www.youtube.com/watch?v=higlHgYDc5E): Discussion on vector databases
+- [AI Development Podcast](https://www.youtube.com/watch?v=RuLTElrphnk): Insights on building with AI
+- [Dagshub Interview](https://www.youtube.com/watch?v=rDP44EVpHTA): Exploring data science tools
+- [Talking Heads Podcast](https://www.youtube.com/watch?v=5-5jf3_mvBg): Thoughts on AI and tech trends

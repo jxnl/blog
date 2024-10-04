@@ -10,22 +10,26 @@ authors:
 
 # Systematically Improving Your RAG
 
-This article presents a systematic approach to enhancing Retrieval-Augmented Generation (RAG) systems, drawing from insights gained during a discussion with [Hamel](https://hamel.dev). It builds upon my previous work, including:
+This article explains how to make Retrieval-Augmented Generation (RAG) systems better. It's based on a talk I had with [Hamel](https://hamel.dev) and builds on other articles I've written about RAG.
 
-- [RAG is More Than Just Embeddings](../posts/rag.md): An exploration of the broader scope of RAG beyond vector embeddings.
-- [How to Build a Terrible RAG System](../posts/rag-inverted.md): An inverted thinking exercise to highlight best practices.
-- [Levels of RAG Complexity](../posts/rag-levels-of-rag.md): A breakdown of RAG complexity into manageable components.
+In [RAG is More Than Just Embeddings](../posts/rag.md), I talk about how RAG is more than just vector embeddings. This helps you understand RAG better. I also wrote [How to Build a Terrible RAG System](../posts/rag-inverted.md), where I show what not to do, which can help you learn good practices.
 
-These foundational pieces set the stage for a comprehensive guide on systematically improving RAG applications, offering practical strategies for developers and organizations looking to optimize their systems.
+If you want to learn about how complex RAG systems can be, check out [Levels of RAG Complexity](../posts/rag-levels-of-rag.md). This article breaks down RAG into smaller parts, making it easier to understand. For quick tips on making your RAG system better, read [Low Hanging Fruit in RAG](../posts/rag-low-hanging-fruit.md).
 
-By the end of this post, you'll have a clear understanding of my systematic approach to improving RAG applications for the companies I work with. We'll cover key areas such as:
+I also wrote about what I think will happen with RAG in the future in [Predictions for the Future of RAG](../posts/rag-plusplus.md). This article talks about how RAG might be used to create reports in the future.
 
-- Create synthetic questions and answers to quickly evaluate your system's precision and recall
-- Make sure to combine full-text search and vector search for optimal retrieval 
-- Implementing the right user feedback mechanisms to capture specifically what you're interested in studying
-- Use clustering to find segments of queries that have issues, broken down into topics and capabilities
-- Build specific systems to improve capabilities
-- Continuously monitoring, evaluating as real-world data grows
+All these articles work together to give you a full guide on how to make RAG systems better. They offer useful tips for developers and companies who want to improve their systems. If you're interested in AI engineering in general, you might enjoy my talk at the [AI Engineer Summit](../posts/aisummit-2023.md). In this talk, I explain how tools like Pydantic can help with prompt engineering, which is useful for building RAG systems.
+
+Through all these articles, I try to give you a complete view of RAG systems. I cover everything from basic ideas to advanced uses and future predictions. This should help you understand and do well in this fast-changing field.
+
+By the end of this post, you'll understand my step-by-step approach to making RAG applications better for the companies I work with. We'll look at important areas like:
+
+- Making fake questions and answers to quickly test how well your system works
+- Using both full-text search and vector search together for the best results
+- Setting up the right ways to get feedback from users about what you want to study
+- Using grouping to find sets of questions that have problems, sorted by topics and abilities
+- Building specific systems to improve abilities
+- Constantly checking and testing as you get more real-world data
 
 Through this step-by-step runbook, you'll gain practical knowledge on how to incrementally enhance the performance and utility of your RAG applications, unlocking their full potential to deliver exceptional user experiences and drive business value. Let's dive in and explore how to systematically improve your RAG systems together!
 

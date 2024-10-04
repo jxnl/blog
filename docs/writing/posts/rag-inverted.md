@@ -11,15 +11,13 @@ authors:
 
 # How to build a terrible RAG system
 
-!!! note "RAG Course"
-  
-    I'm building a RAG Course right now, if you're interested in the course please fill out this [form](https://q7gjsgfstrp.typeform.com/ragcourse)
-
-If you've seen any of my work, you know that the main message I have for anyone building a RAG system is to think of it primarily as a recommendation system. Today, I want to introduce the concept of inverted thinking to address how we should approach the challenge of creating an exceptional system.
+If you've followed my work on RAG systems, you'll know I emphasize treating them as recommendation systems at their core. In this post, we'll explore the concept of inverted thinking to tackle the challenge of building an exceptional RAG system.
 
 !!! note "What is inverted thinking?"
 
-    Inversion is the practice of thinking through problems in reverse. It's the practice of “inverting” a problem - turning it upside down - to see it from a different perspective. In its most powerful form, inversion is asking how an endeavor could fail, and then being careful to avoid those pitfalls. [[1]](https://www.wealest.com/articles/inversion-examples#:~:text=Inversion%20is%20the%20practice%20of,careful%20to%20avoid%20those%20pitfalls.)
+    Inverted thinking is a problem-solving approach that flips the perspective. Instead of asking, "How can I build a great RAG system?", we ask, "How could I create the worst possible RAG system?" By identifying potential pitfalls, we can more effectively avoid them and build towards excellence.
+
+This approach aligns with our broader discussion on RAG systems, which you can explore further in our [RAG flywheel article](./rag-flywheel.md) and our comprehensive guide on [Levels of Complexity in RAG Applications](./rag-levels-of-rag.md).
 
 <!-- more -->
 

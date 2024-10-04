@@ -1,0 +1,765 @@
+assessment.md:
+  hash: 7bed94a7acfc39e185de97edacc91f93
+  summary: This document outlines a collaboration opportunity for a company aiming
+    to enhance its product through research and development on memory and retrieval
+    features. Leveraging experience in preprocessing and retrieval, the collaboration
+    seeks to accelerate R&D efforts through conversations, brainstorming, and code
+    contributions. Key objectives include integrating new features into the retrieval
+    engine and improving performance on critical customer queries. Various collaboration
+    models are offered, including asynchronous support and involvement in technical
+    writing and strategy, with corresponding fees. Success is measured by enhanced
+    feature integration and customer satisfaction, with a flexible and responsive
+    communication strategy.
+books.md:
+  hash: a490c4c020cd2048a38a2119bb4ae9d2
+  summary: The list outlines a diverse range of books that have influenced the author's
+    life, categorized into sections based on impact, reading phases, and genres. The
+    "Influences on my life" section includes profound works like the "Tao Te Ching"
+    by Lao Tzu and "Book of Disquiet" by Fernando Pessoa, highlighting personal growth
+    and philosophical insights. The "Prince Era" reflects an upcoming period of reading
+    European philosophy, with plans to explore existential works by Sartre and Camus.
+    The "Highlights" section merges influential books across genres, featuring authors
+    like bell hooks and Byung Chul Han. The "Business Stuff" section covers practical
+    and strategic insights with books by Ray Dalio and Alex Hormozi, while unread
+    recommendations include classics like "Man's Search for Meaning" by Viktor Frankl.
+    Key themes include personal development, philosophy, existentialism, strategic
+    business principles, and literary exploration.
+contact.md:
+  hash: 9539445a763fd86732ec6e40a220df0b
+  summary: This professional offers expertise in applied AI, focusing on collaboration
+    with fast-growing startups ready to invest in this field. Potential clients can
+    explore detailed services on the [services](services.md) page or initiate a project
+    discussion by completing the [contact form](https://form.typeform.com/to/gqgTx3I6).
+    For immediate advice, a [paid call](https://cal.com/jasonliu/expert-call) is available.
+    Additionally, the expert is open to speaking engagements and can be contacted
+    via [email](mailto:work@jxnl.co) for events or podcasts. Key terms include applied
+    AI, startups, consulting services, and speaking engagements.
+expert-calls.md:
+  hash: 8118860d0cc6f56abca4eb9e3fe9d163
+  summary: 'Jason Liu offers expert AI consultations tailored to address your challenges,
+    with two main options: Quick and Comprehensive Consultations. The Quick Consultation
+    (25 minutes) is designed for focused problem-solving, while the Comprehensive
+    Consultation (55 minutes) includes pre-call preparation, in-depth analysis, and
+    a post-call summary memo with recommendations. These services aim to provide technical
+    insights, strategy checks, and effective planning for AI initiatives, making them
+    ideal for advancing projects and resolving roadblocks. Key services include AI
+    strategy development, technical query resolution, and AI project planning.'
+experts-and-vendors.md:
+  hash: 15ee6b344563c9f8d2281e035849fcf7
+  summary: Discover a comprehensive network of AI and ML specialists, vendors, and
+    industry experts, offering access to top talent for strategic consulting purposes.
+    Key experts include Hamel Husain, an LLM consultant; Eugene Yan, an ML Research
+    Scientist at Amazon; and Shreya Shankar, a PhD student at Berkeley focused on
+    practical ML solutions. Trusted vendors like Braintrust, LanceDB, and Vespa.ai
+    provide cutting-edge platforms and services in LLM evaluations, multimodal AI
+    databases, and search and recommendation systems. Optimize your AI and ML strategies
+    with insights from leaders in AI-driven document processing, serverless platforms,
+    and recommendation technologies.
+index.md:
+  hash: 4cd3df2d4a41d844676ca5df6b996a44
+  summary: 'This website is managed by a machine learning engineer, angel investor,
+    and startup advisor who specializes in consulting, open source, and applying large
+    language models (LLMs). The site offers free resources for enhancing skills in
+    Retrieval-Augmented Generation (RAG), AI engineering job listings, and insights
+    on consulting practices. It features a comprehensive RAG course starting in February
+    2024, focusing on building robust systems and optimizing AI processes. Stay updated
+    with content and resources shared on various platforms like YouTube, Twitter,
+    and GitHub. Keywords: machine learning, angel investor, startup advisor, RAG,
+    LLMs, AI engineering, consulting, open source, course, evaluation pipelines, user
+    interfaces.'
+investments.md:
+  hash: 02a1c61326bb80e4b068440605d1454e
+  summary: 'Discover innovative companies revolutionizing their industries. Augmental
+    enhances digital accessibility with its MouthPad, a hands-free trackpad operated
+    by the tongue. Haize Labs develops AI tools for stress testing of large language
+    models, focusing on risk identification. Exa offers an AI-powered search engine
+    API for real-time web data integration, ideal for developers. Shaped AI provides
+    configurable AI recommendations and search systems to boost engagement and revenue.
+    Pydantic Logire delivers cloud-based inventory management solutions for seamless
+    supply chain integration. Vantager transforms financial data into actionable insights
+    with its AI-native investment platform. Empower Sleep leverages data-driven sleep
+    care to offer personalized treatment plans and improve health outcomes. Keywords:
+    wearable technology, AI-based tools, semantic search, configurable recommendations,
+    inventory management, data-driven investment, sleep care.'
+jobs.md:
+  hash: d41d8cd98f00b204e9800998ecf8427e
+  summary: Of course, I'd be happy to help with an SEO summary! However, I'll need
+    you to provide the specific content you want summarized. Once you do, I'll be
+    able to create a concise summary highlighting the core ideas, objectives, important
+    details, and relevant keywords.
+services.md:
+  hash: 7d876fcb84fd4187bdaddca154529cec
+  summary: Applied AI Consulting Services offers expert guidance for engineering and
+    product leaders in developing and optimizing AI systems, including search and
+    recommendation engines. The consultant brings over 8 years of experience from
+    companies like Stitchfix, Meta, and NYU, specializing in AI integration, strategic
+    planning, and team building. Key services include subscription-based support for
+    ongoing assistance and project-based consulting for strategic and comprehensive
+    AI solutions, with a focus on enhancing data feedback loops, overcoming integration
+    challenges, and scaling AI initiatives. The consultant has worked with high-profile
+    clients like Zapier and Timescale, and offers access to a network of AI and ML
+    experts. Key terms include AI consulting, RAG systems, data feedback loops, AI
+    integration, and scalable growth.
+systematically-improve-your-rag.md:
+  hash: 4e35db2028c3b104606dd7617ed678ed
+  summary: Enhance your Retrieval-Augmented Generation (RAG) systems with a comprehensive
+    course starting February 2024. This advanced program is designed for professionals
+    aiming to build real-world RAG systems and has attracted participants from companies
+    like Amazon, Adobe, and Zapier. The course offers practical, hands-on learning
+    experiences, real-world case studies, and 12 hours of expert instruction, all
+    aimed at improving your system's performance. Enroll to gain actionable insights,
+    learn best practices, and achieve a competitive edge in AI. Additional expert
+    consulting services are available for personalized AI solution development and
+    strategic planning. Key offerings include RAG system enhancements, expert-led
+    instruction, practical applications, and AI consulting.
+user_manual.md:
+  hash: 03357f7dd195f5a7f0b81618c8ef5c64
+  summary: 'The content outlines an individual''s approach to management and communication,
+    emphasizing the values of constant learning and growth, moving fast, and time
+    freedom through asynchronous communication. Key preferences include direct and
+    brief messaging, minimizing typing due to a hand injury, and prioritizing health.
+    The individual prefers clear, quick-skimming messages, using Slack or text, with
+    a focus on client work and delegation. Frequent updates and feedback are crucial
+    to reduce anxiety and promote growth. The leadership style is hands-off, encouraging
+    ownership and decision-making in the team. Keywords: management approach, asynchronous
+    communication, growth, feedback, delegation, leadership style, team empowerment,
+    direct communication.'
+writing/index.md:
+  hash: 089c8c9334b6450bf61e70922ab47876
+  summary: This blog focuses on a variety of topics including consulting, open source
+    projects, personal experiences, and the application of large language models (LLMs).
+    It features personal writings such as advice for young people and experiences
+    like adapting to losing physical abilities. The site provides a rich collection
+    of short technical posts on Retrieval-Augmented Generation (RAG), exploring its
+    complexities and offering insights on how to build and enhance RAG systems effectively.
+    Additionally, it covers topics in technical coaching, discussing consulting strategies,
+    MVP development for AI applications, and common engineering mistakes. The blog
+    also links to talks and podcasts, highlighting discussions on Pydantic, AI application
+    development, and data-focused platforms. Core keywords include consulting, open
+    source, LLMs, RAG, technical coaching, MVP, and engineering.
+writing/posts/advice.md:
+  hash: 5811b313eb2cb5bf8e464e8ca50e0479
+  summary: 'The blog post "Advice to Young People, The Lies I Tell Myself" by jxnl
+    offers personal insights and advice for navigating life, focusing on themes like
+    choice, luck, and authenticity. Jxnl emphasizes the importance of making conscious
+    decisions, recognizing opportunities, and living authentically. The author shares
+    personal experiences related to job searching, confidence building, and skill
+    development, advocating for action despite fear and embracing simplicity over
+    complexity. Other key concepts include self-worth, social media, and the power
+    of writing and self-talk. The post underscores the importance of understanding
+    oneself and contributing to personal growth and resilience. Keywords: life advice,
+    personal development, authenticity, decision-making, confidence, self-worth, resilience.'
+writing/posts/aisummit-2023.md:
+  hash: 7c1ae68949492baa7248f47644d72bca
+  summary: In a recent keynote at the inaugural AI Engineer Summit, speaker jxnl discussed
+    the pivotal role of Pydantic in effective prompt engineering. The talk emphasized
+    how Pydantic, a powerful data validation and settings management tool in Python,
+    can streamline and enhance AI development processes. The presentation aimed to
+    provide insights beyond traditional documentation and blog posts, offering practical
+    applications for AI engineers. Viewers are encouraged to watch the full talk on
+    YouTube and provide feedback to help refine future presentations. Key topics include
+    AI engineering, Pydantic, and prompt engineering.
+writing/posts/asking.md:
+  hash: 0eaf5f876aa50f52f62be8dcb56e3acb
+  summary: "The article \"How to Ask for Referrals (Among other things)\" by jxnl\
+    \ offers a framework for effectively requesting referrals and other favors by\
+    \ reducing the cognitive load on others. It emphasizes asking targeted, high-agency\
+    \ questions\u2014such as using specific names from the person\u2019s network\u2014\
+    and providing simple yes or no alternatives. Key strategies include doing preliminary\
+    \ work yourself, making interactions straightforward, and avoiding generic questions\
+    \ that require others to think deeply or perform additional tasks. The piece critiques\
+    \ common low-agency inquiries, such as \"How can I help?\" or \"When are you free?\"\
+    , and advocates for offering precise, actionable assistance instead. The focus\
+    \ is on efficiency, minimizing email exchanges, and enhancing productivity while\
+    \ maintaining genuine connections."
+writing/posts/baths.md:
+  hash: 1bb5b800fc21599774f41062562b081d
+  summary: 'The article "Public Baths" contrasts the author''s experiences at bathhouses
+    in Japan and the United States. In Japan, visiting onsens is described as a natural
+    and spiritual experience where hygiene rituals are practiced collectively, fostering
+    relaxation and connection with nature. In contrast, American bathhouses, particularly
+    in LA and New York, are depicted as places focused on personal optimization rather
+    than relaxation, often feeling artificial and work-like. The author highlights
+    the cultural differences, criticizing American bathhouse practices as rushed and
+    unsanitary compared to the tranquil, communal atmosphere of Japanese onsens. Keywords:
+    public baths, American bathhouses, Japanese onsens, cultural differences, relaxation,
+    hygiene, natural experience.'
+writing/posts/chasing-chase.md:
+  hash: c84cad30533eb77b88c7dc54a75ffcbc
+  summary: 'In "Chasing Chase: A Yuppie Nightmare," the author recounts their harrowing
+    experience with Chase Bank, which froze $180,000 of their funds without warning,
+    leaving their small business in turmoil. Despite a decade-long loyal relationship
+    with Chase, the author faced a maze of bureaucracy, lack of communication, and
+    unexplained accusations, resulting in months of financial strain. This ordeal
+    underscores the importance of diversifying bank partnerships, as the author ultimately
+    switched to Mercury Bank, which provided efficient and supportive banking services
+    for their business needs. Key points include the challenges faced by entrepreneurs,
+    the need for diversified banking, and the benefits of alternative financial institutions
+    like Mercury Bank.'
+writing/posts/consulting-everything-i-know.md:
+  hash: 50afaa899244c59e001e330b3aeb507f
+  summary: 'In "Everything I Learned from AI Consulting," the author shares valuable
+    insights on transitioning from a contractor to a consultant by focusing on outcomes
+    rather than tasks. Key points include the importance of understanding client pain
+    points, creating content to demonstrate expertise, and structuring proposals with
+    multiple pricing options to reflect value rather than time. The article emphasizes
+    building a sustainable consulting practice by shifting mindset, delivering high-value
+    solutions, and exploring scalable products like courses and tools. Keywords: AI
+    consulting, consultant vs contractor, value-based pricing, client pain points,
+    proposal structure, consulting outcomes.'
+writing/posts/consulting-indie.md:
+  hash: 1a00796a6b2a763bc25e97231ce82dc1
+  summary: 'This article explores the concept of indie consulting, contrasting it
+    with traditional large-scale consulting firms like McKinsey. It emphasizes the
+    value of specialized expertise, direct accountability, and long-term value creation.
+    The author, faced with a career-altering injury, shifted to consulting for its
+    flexibility. Key strategies include understanding the client''s value equation,
+    focusing on niche markets, and leveraging content creation for marketing. The
+    post also discusses the importance of establishing clear metrics, demonstrating
+    expertise through situational assessments, and pricing services based on perceived
+    value. Keywords: indie consulting, value creation, niche markets, content marketing,
+    situational assessment, pricing strategies.'
+writing/posts/consulting-listing-prices.md:
+  hash: c5ee62c1f3c5eaf5574fcfdd454159f8
+  summary: This article explores the drawbacks of publicly listing consulting prices
+    and offers strategic pricing alternatives for consultants. Key points include
+    avoiding fixed rates to prevent limiting earning potential and deterring potential
+    clients, using tiered pricing models similar to airlines, and emphasizing value-based
+    pricing, where prices reflect the value delivered rather than time spent. The
+    piece also highlights the importance of providing minimum engagement estimates
+    and using discovery calls to tailor pricing to client needs. By adopting these
+    strategies, consultants can effectively price their services, attract the right
+    clients, and maximize their value and earnings. Keywords include consulting pricing
+    strategy, value-based pricing, tiered pricing model, and maximizing consulting
+    revenue.
+writing/posts/consulting-marketing.md:
+  hash: 15a62226a74b9ca511432fea010da6fa
+  summary: This article explores the transition from a technical role to a successful
+    AI consulting business, emphasizing key strategies in marketing, positioning,
+    and scaling. The core strategies include generating leads through content creation
+    on platforms like Twitter and blogs, leveraging data flywheels, and utilizing
+    frameworks like the "One Page Marketing Plan" and situational assessments. The
+    author shares insights on how creating valuable content and structuring client
+    proposals have driven significant growth, highlighting the importance of strategic
+    marketing and thought leadership in the AI/ML space. Keywords include AI consulting,
+    marketing strategies, lead generation, content creation, and situational assessments.
+writing/posts/consulting-predictions.md:
+  hash: 4ed4aa4d6599c76abb61ae374a0631e9
+  summary: 'The "Why Freelancers Will Win the AI Gold Rush" article discusses how
+    AI freelancers and consultants are poised to capitalize on the burgeoning AI Boom,
+    similar to web developers in the 1990s and mobile developers in the 2000s. It
+    highlights the unique demand for AI specialists due to the complexity of building
+    AI systems and the widespread need across industries. Freelancers are positioned
+    as "architects" who can leverage their skills to work on various AI projects,
+    enhance productivity, and gain a compounding advantage over time. The article
+    emphasizes the limited window of opportunity in AI freelancing before the market
+    becomes saturated, urging those with technical expertise to swiftly engage in
+    freelancing and build their reputation. Keywords: AI freelancers, AI specialists,
+    AI boom, freelancing, consulting, technological revolution, AI systems, AI architects.'
+writing/posts/consulting-referrals.md:
+  hash: f46df4e82113f4657d73e27bffe44910
+  summary: 'The article "Affective Consulting: Referrals" offers a comprehensive guide
+    on mastering the art of asking for and handling referrals in the consulting industry.
+    It emphasizes the importance of timing when requesting referrals and provides
+    a structured approach to engage with clients effectively. Key strategies include
+    getting clients to articulate the value they received, asking for specific referrals
+    related to problems you''ve solved, and guiding the introduction process to ensure
+    a warm and productive connection. The article also highlights the importance of
+    respectful follow-ups and focusing on potential challenges rather than solutions.
+    By implementing these techniques, consultants can build trust, avoid resistance,
+    and position themselves as effective problem-solvers. Keywords: consulting, referrals,
+    client engagement, problem-solving, business growth strategies.'
+writing/posts/consulting-stack.md:
+  hash: 9068d7ae2cc9745443f11c694fcea33f
+  summary: This blog post provides a comprehensive guide for indie consultants looking
+    to optimize their business operations using a curated "consulting stack" of essential
+    tools and services. Key components include Doola for LLC setup, Mercury for business
+    banking, Stripe for invoicing, and Dropbox Sign for contract management. Additionally,
+    tools like Cal.com for scheduling, Circleback for meeting notes, and Anthropic
+    Claude for AI-assisted content creation are highlighted. The post emphasizes the
+    importance of establishing a strong business foundation, managing finances, and
+    effectively scaling operations while offering practical checklists for implementing
+    these tools. Key topics include tax benefits, content strategy, hiring an EA,
+    and standardizing engagement processes.
+writing/posts/couch.md:
+  hash: 4c497c1257bb7eb7b10bc5fd6e3532f8
+  summary: The article presents a critique of couches, arguing that they limit the
+    functional and aesthetic potential of living spaces by imposing a fixed orientation
+    typically towards a TV, promoting passive consumption rather than active engagement.
+    It explores how this arrangement affects social interactions, creating awkward
+    dynamics and enforcing unnecessary physical distances. The author suggests alternatives,
+    such as using modular seating options like rugs or bean bags, and drawing inspiration
+    from multipurpose spaces like tatami rooms, which offer the flexibility to support
+    various activities and enhance personal interaction. The critique also emphasizes
+    the health implications of prolonged sitting, advocating for more dynamic seating
+    arrangements to foster movement, improve health, and maximize space utilization.
+writing/posts/data-flywheel.md:
+  hash: eb73c54554ac3fe15112aeab5080c64f
+  summary: 'The article "Data Flywheel Go Brrr: Using Your Users to Build Better Products"
+    explores how businesses can leverage user interactions to enhance product development
+    through data flywheels. It emphasizes the importance of collecting user data to
+    create self-reinforcing systems that continually refine AI models, enhancing product
+    quality and user engagement. Key examples include Netflix and Spotify, which use
+    data to personalize content and attract more users, creating a virtuous cycle.
+    The article highlights the need for aligning data flywheels with business objectives
+    to drive tangible results, urging companies to embrace this strategy in the AI-driven
+    future. Key topics include network effects, data collection, AI improvement, and
+    user-centric product design.'
+writing/posts/data-literacy.md:
+  hash: a621f249b559728ba5ca062ca62c6e1b
+  summary: 'The article "10 Ways to Be Data Illiterate (and How to Avoid Them)" outlines
+    essential strategies for AI engineers to improve data literacy, ensuring accuracy
+    and impact in data-driven projects. It addresses common pitfalls such as ignoring
+    data quality, lack of domain understanding, improper data splits, and overfitting
+    models, and provides actionable solutions like conducting exploratory data analysis,
+    engaging with domain experts, and using appropriate evaluation metrics. Key topics
+    include data visualization, understanding sampling bias, ensuring data privacy
+    and security, and distinguishing between correlation and causation. Emphasizing
+    interpretability and explainability is also highlighted as crucial for building
+    transparent and trustworthy AI systems. Keywords: data literacy, AI engineers,
+    data quality, domain understanding, model evaluation, interpretability.'
+writing/posts/freediving.md:
+  hash: 3fb6111a3a3fdeb249dbe17eea207361
+  summary: The article "Freediving under Ice" shares a personal journey of discovering
+    freediving as a passion, particularly after suffering hand injuries during the
+    COVID pandemic that restricted other physical activities. Initially engaging in
+    various sports like ping pong, rock climbing, and jiu-jitsu, the author shifted
+    focus to swimming and freediving, culminating in a thrilling ice dive experience
+    in Northern Ontario, Canada. This adventure sparked a deep interest in the sport,
+    with future aspirations to explore underwater environments and wildlife across
+    the world. Key topics include freediving, ice diving, physical fitness, and personal
+    growth through overcoming physical challenges.
+writing/posts/getting-goals.md:
+  hash: 3661dd1fb07440c37771f3d73f04c13f
+  summary: This article discusses effective goal-setting and metric selection by distinguishing
+    between leading and lagging metrics. Leading metrics, which are directly influenceable,
+    drive the desired outcomes reflected in lagging metrics. Outcome goals, often
+    tied to these lagging metrics, can lead to dissatisfaction even when achieved.
+    Instead, the focus should be on process goals linked to leading metrics, fostering
+    habits that naturally lead to long-term success. Examples such as pottery, UFC
+    training, and business growth illustrate the importance of process-oriented over
+    outcome-oriented approaches, highlighting the fulfillment and clarity that come
+    from this mindset shift. Key strategies include measuring and adjusting leading
+    metrics and enjoying the journey through consistent process goals.
+writing/posts/hands-part-1.md:
+  hash: 720db136728dc8ffa7d98289bc07b9e1
+  summary: 'In "Losing My Hands," Jason, a machine learning engineer, shares his personal
+    journey of struggling with severe hand pain during the COVID-19 pandemic due to
+    overworking. Earning a high salary and thriving professionally, he became consumed
+    by work, leading to debilitating hand cramps and the ability to perform daily
+    tasks, ultimately forcing him to take a two-year hiatus. He reflects on the societal
+    pressures of deriving self-worth from productivity, undergoing various treatments,
+    and his ongoing recovery process. Emphasizing a resilient mindset, he now focuses
+    on open-source projects and consulting, aiming to maintain a healthier work-life
+    balance. Keywords: machine learning, overworking, work-life balance, injury, productivity,
+    self-worth, pandemic, resilience.'
+writing/posts/hands-part-2.md:
+  hash: a63f46958f86748785dd7b79d1fec578
+  summary: 'In "Losing My Hands Pt. 2: The Two Jasons," the author reflects on the
+    impact of a repetitive strain injury (RSI) during the COVID-19 pandemic on their
+    personal values and identity. The narrative explores the author''s upbringing
+    as a child of immigrants, emphasizing the influence of traditional values like
+    stoicism and utility while grappling with modern expectations. Through introspective
+    storytelling, the author examines the dichotomy between their past and present
+    selves, discussing existentialism and the importance of relationships and personal
+    growth over purely financial or professional achievements. Keywords: RSI, COVID-19
+    pandemic, existentialism, immigrant experience, personal growth, traditional values,
+    modern identity, introspection.'
+writing/posts/hands-part-3.md:
+  hash: 29dfd6193b7a209a8e31f15eb632385a
+  summary: 'This blog entry, titled "Losing My Hands, Advice and Tips for RSI," details
+    the author''s battle with tendonitis in their wrists and thumbs, caused by overworking
+    during COVID-19. It outlines significant life changes such as transitioning to
+    full-time consulting, reevaluating personal values, and embracing writing as a
+    form of expression. The post provides practical advice for managing RSI, including
+    the use of specific braces, exercises, contrast therapy, and ergonomic devices
+    like the Kinesis Pro keyboard and a vertical mouse. Emphasizing the importance
+    of rest for recovery, the author shares insights into leveraging skills beyond
+    physical capabilities and highlights the importance of continuous learning and
+    teaching. Keywords: RSI, tendonitis, ergonomic devices, rest, Kinesis Pro keyboard,
+    consulting, writing.'
+writing/posts/hiring.md:
+  hash: 2212ab61fca965480c8b59f2821e0eac
+  summary: 'The article "Hiring MLEs at Early-Stage Companies" discusses common mistakes
+    startups make when hiring machine learning engineers (MLEs) too early in their
+    development process. It argues that hiring specialized MLEs when the focus should
+    be on app development and integration often leads to these professionals performing
+    non-core tasks. The piece emphasizes the importance of having a full-stack AI
+    engineer in initial stages and highlights the lack of dedicated research teams
+    as a hindrance to AI progress. It suggests that startups should focus on building
+    robust infrastructure and integration capabilities before bringing in MLEs to
+    maintain momentum and efficiency. Keywords: early-stage startups, machine learning
+    engineers, app development, integration, AI progress, research teams, infrastructure,
+    startup hiring practices.'
+writing/posts/how-to-write.md:
+  hash: f94a45263e29f82f365f1a82f8642d5c
+  summary: 'This article outlines a strategic approach to writing compelling and effective
+    content, emphasizing strong titles, evidence-based claims, reader-focused perspectives,
+    and engaging introductions. It advises against using adjectives in favor of quantifiable
+    data and stresses the importance of connecting with the reader''s emotions and
+    needs. The piece highlights techniques such as using lists, foreshadowing content,
+    and creating strong hooks to retain and engage readers. Additionally, it underscores
+    the significance of positioning oneself as a knowledgeable leader or oracle and
+    encourages the inclusion of a clear call-to-action (CTA). Core ideas focus on
+    audience engagement, emotional connection, and providing tangible value, aiming
+    to help writers craft impactful content. Keywords: content writing, titles, evidence-based
+    claims, reader engagement, emotional connection, call-to-action, audience-focused
+    writing.'
+writing/posts/kojima-sticks.md:
+  hash: b35705839e85dcdcc73b17d7510149e0
+  summary: The article explores Hideo Kojima's philosophy of using 'ropes' instead
+    of 'sticks' in game design to empower users, and applies this to the use of Large
+    Language Models (LLMs). It argues that LLMs should go beyond simple tasks like
+    answering questions or content generation to foster critical thinking and creativity,
+    thus serving as catalysts for intellectual growth. By shifting from passive content
+    delivery to active learning, LLMs can revolutionize user engagement. The text
+    advocates for incorporating Kojima's philosophy into LLMs to enhance their potential
+    in education and personal development, encouraging users to explore and engage
+    more deeply with content. Key concepts include empowerment, creative thinking,
+    user engagement, and the transformation of LLM applications.
+writing/posts/learning.md:
+  hash: 434905558f237b137b87dacce470fc2c
+  summary: The blog post "Learning to Learn" by jxnl explores the author's personal
+    learning journey, illustrating effective strategies for acquiring new skills.
+    Key concepts include the importance of cultivating a distraction-free environment,
+    prioritizing process-based goals over outcomes, and leveraging teaching to reinforce
+    learning. The author emphasizes "periodizing training" to manage learning volume
+    effectively and advocates learning from actively engaged experts. The post also
+    highlights the significance of mastering fundamentals to avoid unforced errors,
+    with examples drawn from various disciplines like design, data science, pottery,
+    weightlifting, and Rocket League. These insights aim to guide readers in developing
+    a structured approach to skill acquisition and personal growth.
+writing/posts/life-millions.md:
+  hash: cb38c5084d6337781ab0e856eb43e478
+  summary: 'This article explores a thought experiment on how life might change with
+    $20 million, focusing on financial freedom and its impact on lifestyle choices.
+    Key aspects include optimizing work-life balance by working on passion projects,
+    creating an inspiring home environment, and dedicating time to activities like
+    pottery, Brazilian Jiu-Jitsu, swimming, and spearfishing. Travel plans emphasize
+    intentional, enriching experiences with quarterly trips and international adventures.
+    The author emphasizes quality over quantity, with a focus on personal growth,
+    learning, and fostering meaningful relationships. The exercise helps clarify priorities,
+    underscoring that many elements of an ideal life are attainable through intentional
+    decisions, regardless of wealth. Keywords: financial freedom, lifestyle choices,
+    work-life balance, personal growth, intentional living.'
+writing/posts/llmops.md:
+  hash: 50db587a3bf3c30bd1dda859f60f6540
+  summary: "This article, \"Good LLM Observability is Just Plain Observability,\"\
+    \ explores the application of traditional observability tools in enhancing large\
+    \ language models (LLMs) and AI agents. By integrating Open Telemetry\u2014a suite\
+    \ of APIs and tools for generating and analyzing telemetry data\u2014agents can\
+    \ achieve improved performance, transparency, and self-optimization. The article\
+    \ highlights the importance of comprehensive telemetry, moving beyond superficial\
+    \ dashboard insights to deeply analyze LLM operations and refine agent behavior.\
+    \ Key examples include using telemetry for evaluating and fine-tuning AI models,\
+    \ such as a GPT-3.5 model enhanced by GPT-4 outputs. This approach bridges AI\
+    \ and distributed systems, facilitating self-improvement and robust incident detection."
+writing/posts/mvp.md:
+  hash: d28d41bcce8bdab307055f17797e2f9b
+  summary: 'This article, titled "A Feat of Strength MVP for AI Apps," discusses how
+    to effectively ship a minimum viable product (MVP) for AI applications. It emphasizes
+    understanding the Pareto principle in AI contexts, focusing on serving well-defined
+    user segments, and the importance of educating users about the application''s
+    limitations. Key points include recognizing the limitations of AI systems beyond
+    summary statistics, learning to reject certain tasks, and prioritizing feature
+    development based on user needs. The article highlights the benefits of targeting
+    specific niches, obtaining rapid user feedback, and iterating quickly to enhance
+    the product''s performance and trustworthiness. Keywords: AI applications, MVP,
+    Pareto principle, user segments, feedback, niche targeting.'
+writing/posts/natrualistic-diaglogue.md:
+  hash: e4c6d83228233506c70753abbd10bcd1
+  summary: 'The post "Implementing Naturalistic Dialogue in AI Companions" explores
+    how AI can improve conversational realism by mimicking naturalistic dialogue,
+    characterized by contextual efficiency, implicit references, fragmentation, and
+    organic flow. Key challenges include AI''s tendency to over-explain due to its
+    reliance on Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs),
+    which often prioritize explicit communication. The author proposes enhancing AI
+    dialogue through a memory distillation process and a response planning algorithm,
+    enabling AI to use chain-of-thought reasoning and create responses that feel spontaneous
+    and human-like. Keywords: naturalistic dialogue, AI companions, contextual efficiency,
+    implicit communication, LLM, RAG, memory distillation.'
+writing/posts/prompt-optimization.md:
+  hash: 42de209c9053ced50abb15c2445df98d
+  summary: The article "What is prompt optimization?" by jxnl explores the concept
+    of prompt optimization in the context of language models (LLMs) and how it enhances
+    content generation by refining prompts with few-shot learning examples. This process
+    involves treating few-shot examples as hyperparameters, experimenting with various
+    combinations to improve output quality. A significant challenge mentioned is finding
+    a reliable function to score outputs, vital for evaluating effectiveness in production
+    settings. The article highlights the importance of strategic example selection
+    and the difficulty of quantifying subjective qualities like motivation or persuasion
+    in generated content. Keywords include prompt optimization, few-shot learning,
+    language models, hyperparameters, and output scoring.
+writing/posts/rag-flywheel.md:
+  hash: 1aa0f62ab56e59a5a35747b1ed979b24
+  summary: 'This article outlines a systematic approach for building and improving
+    Retrieval-Augmented Generation (RAG) systems, emphasizing the importance of prioritizing
+    search accuracy before generation. It introduces a nine-step flywheel process:
+    initial implementation, synthetic data generation, fast evaluations, real-world
+    data collection, classification and analysis, system improvements, production
+    monitoring, user feedback integration, and iteration. Key strategies include using
+    synthetic data for baseline evaluations, focusing on leading metrics like precision
+    and recall, and implementing fast, unit test-like evaluations. The approach also
+    emphasizes real-world data clustering and a continuous improvement loop to adapt
+    to changing user needs. This RAG playbook ensures data-driven product decisions
+    and ongoing enhancement of AI-driven systems. Keywords: RAG systems, synthetic
+    data, retrieval accuracy, continuous improvement, data-driven decisions.'
+writing/posts/rag-improving-rag.md:
+  hash: c5a44f56e8951553518c7e253bb2c7a3
+  summary: This article offers a comprehensive guide to systematically improving Retrieval-Augmented
+    Generation (RAG) systems, presenting practical strategies for developers and organizations.
+    Key areas covered include the use of synthetic data for precision and recall evaluation,
+    combining full-text and vector searches for optimal retrieval, implementing effective
+    user feedback mechanisms, and leveraging metadata. The guide emphasizes the importance
+    of clustering user queries to identify issues and continuously monitoring and
+    experimenting with system performance to make informed improvements. Additionally,
+    it discusses the balance between latency and performance based on specific use
+    cases.
+writing/posts/rag-inverted.md:
+  hash: 74b54f742d943334f26b730fdb2bd713
+  summary: The article discusses the concept of inverted thinking to illustrate how
+    not to build a Retrieval-Augmented Generation (RAG) system, emphasizing the importance
+    of considering a RAG system primarily as a recommendation platform. Key points
+    include avoiding latency issues, displaying intermediate results, not showing
+    source documents, ignoring user churn, and avoiding customization in UI, search,
+    and embeddings. It stresses the need for manual curation of inventory, analysis
+    of inbound queries, and the involvement of machine learning engineers in data
+    ingestion. The article humorously critiques the neglect of custom pipelines, clean
+    data requests, clustering, and the reliance on local evaluations over A/B tests,
+    highlighting the pitfalls these practices can lead to.
+writing/posts/rag-levels-of-rag.md:
+  hash: e526b7ad2288dcd0f5f2b7bafac88143
+  summary: 'This comprehensive guide explores the different levels of complexity in
+    implementing Retrieval-Augmented Generation (RAG) applications. It starts with
+    the basics, introducing foundational concepts such as text chunking, embedding,
+    and database storage. As it progresses to more advanced levels, it covers improved
+    asynchronous programming, advanced search and ranking algorithms, and structured
+    response generation. The guide also emphasizes the importance of observability
+    and logging for performance monitoring, evaluations using both synthetic and real
+    data, and understanding application shortcomings through data analysis. Advanced
+    topics like query enhancement and summarization techniques are also mentioned
+    as future areas of exploration. Keywords: RAG applications, text processing, embedding,
+    search optimization, observability, evaluations, query enhancement, summarization.'
+writing/posts/rag-lgtmk.md:
+  hash: 2f2be9b1624d8c3f5d6053e48071b6da
+  summary: This blog post by Jxnl critiques the use of "LGTM@Few" as a metric for
+    evaluating retrieval-augmented generation (RAG) systems, arguing it's ineffective.
+    The post advises on when to rely on data over intuition, emphasizes the importance
+    of velocity in testing and iterating metrics, and discusses several evaluative
+    metrics like Mean Average Recall (MAR), Mean Average Precision (MAP), Mean Reciprocal
+    Rank (MRR), and Normalized Discounted Cumulative Gain (NDCG). It highlights the
+    need for metrics to align with business outcomes such as user satisfaction, engagement,
+    conversion, and retention, and warns against pitfalls like Simpson's Paradox.
+    Key points include balancing fast metrics with business goals and understanding
+    the relevancy and ranking of text chunks to enhance system performance.
+writing/posts/rag-low-hanging-fruit.md:
+  hash: 6edfb2fa5b23057df4297f424838877b
+  summary: This blog post explores strategies for enhancing RAG (Retrieval-Augmented
+    Generation) search systems, providing practical tips for improving search accuracy
+    and relevance. Key areas of focus include using synthetic data to establish baseline
+    metrics, implementing date filters for more relevant results, refining user feedback
+    mechanisms, tracking metrics like average cosine distance and Cohere reranking
+    scores, and combining full-text with semantic search. Additionally, it advocates
+    for restructuring text chunks into question-like formats and incorporating file
+    and document metadata to optimize search results. These insights aim to improve
+    RAG systems' performance, providing more accurate and timely information to users.
+writing/posts/rag-plusplus.md:
+  hash: a0b6c6fb2bc60bfb83c172e7cf7e2bca
+  summary: In the article "Predictions for the Future of RAG," the authors discuss
+    the evolving role of Retrieval-Augmented Generation (RAG) systems, predicting
+    a shift from question-answering applications to report generation over the next
+    6 to 8 months. This transformation is driven by the higher value reports provide
+    as decision-making tools, compared to the limited scope of current RAG systems.
+    The article emphasizes the importance of using Standard Operating Procedures (SOPs)
+    to standardize report formats, ensuring outcomes align with business objectives.
+    The authors foresee a future where report-generating tools populate marketplaces,
+    maximizing RAG's potential for strategic decision-making. Keywords include RAG,
+    report generation, decision-making, SOPs, and value.
+writing/posts/rag.md:
+  hash: 5a81db08d443426b17fec3843ef24b32
+  summary: 'The article discusses the limitations of the basic Retrieval Augmented
+    Generation (RAG) models that rely solely on embedding search in vector databases,
+    labeling this approach as "demoware." It introduces more advanced RAG models that
+    incorporate query understanding to improve precision and recall, allowing for
+    nuanced and tailored searches across multiple backends. Two case studies are presented:
+    Metaphor Systems, which optimizes natural language queries for search, and a personal
+    assistant that dispatches queries to different backends like email and calendar.
+    The article highlights the use of tools like Pydantic and the instructor library
+    to model and execute complex queries, aiming to demonstrate how an efficient RAG
+    system can be implemented. Key terms include RAG, large language models (LLMs),
+    query understanding, vector databases, and search optimization.'
+writing/posts/recsys-frameworks.md:
+  hash: 7fe2447e32c2b4c04009d25fa35e1217
+  summary: Stitch Fix's "Flight" framework revolutionizes the management of data pipelines,
+    aiming to streamline recommendation systems by providing a modular and efficient
+    architecture. Flight acts as a semantic bridge for data scientists, enabling business
+    users to define pipelines in plain English, while offering robust logging, debugging,
+    and tracing capabilities. Key features include error handling, distributed tracing
+    with OpenTelemetry, dynamic execution, and detailed debugging tools. By implementing
+    modular operator classes for data transformations, Flight enhances reliability
+    and performance monitoring in real-time systems, crucial for efficient and scalable
+    data pipeline operations.
+writing/posts/self-loathing.md:
+  hash: 7271b84624939425fa4535bc22f6cb45
+  summary: "This piece reflects on personal experiences of overcoming self-loathing\
+    \ and resentment towards wealth and privilege, authored by someone who once despised\
+    \ rich people due to a challenging upbringing. The narrative delves into struggles\
+    \ with poverty, familial relationships, and the drive to achieve financial security\
+    \ while grappling with personal injuries and self-worth. Key themes include the\
+    \ journey of choosing happiness, overcoming impostor syndrome, and understanding\
+    \ individual suffering without comparison. Insight is drawn from the writer's\
+    \ experiences, aiming to help others\u2014including the author's sister\u2014\
+    with advice on resilience and self-acceptance. The article also highlights reactions\
+    \ from various audiences, illustrating diverse interpretations of the writer's\
+    \ advice. The message is punctuated with a quote from Naval, emphasizing that\
+    \ resenting wealth can prevent its attainment."
+writing/posts/self-reflections-hiring.md:
+  hash: 7b190400dc4cf378b6380e23d474e273
+  summary: 'This self-reflection essay explores personal growth and success, inspired
+    by Graham Duncan''s insights on understanding oneself and others. Key themes include
+    the importance of ownership in work, a drive for simplified and high-leverage
+    decision-making frameworks, and the ability to prioritize effectively. The author
+    reflects on feedback regarding work-life balance and emphasizes the value of being
+    open to change and admitting mistakes. Significant growth is noted in adapting
+    to challenges and finding leverage in professional projects, with a focus on people
+    who exhibit obsession and curiosity as being exceptional colleagues. Keywords:
+    self-reflection, personal growth, success, decision-making, leverage, work-life
+    balance, ownership, curiosity.'
+writing/posts/stochastic-software.md:
+  hash: acdaa1f305bc5326d6d82f82c0a2d974
+  summary: 'The article "Tips for Probabilistic Software" offers guidance for junior
+    software engineers transitioning into machine learning, focusing on decision-making
+    under uncertainty. It emphasizes understanding the nature of probabilistic systems
+    and provides critical questions to guide developers: the utility of experiments,
+    measurement of specific improvements, the decision-making utility of results,
+    and conditions for reevaluation. Key insights include managing the long tails
+    of probabilistic systems versus deterministic edge cases, designing effective
+    experiments and metrics, and making focused decisions. The article highlights
+    the importance of learning from both positive and negative results, documenting
+    outcomes, and fostering team learning. Keywords include probabilistic software,
+    machine learning, decision-making, experiments, metrics, edge cases, long tails,
+    and junior software engineers.'
+writing/posts/strings.md:
+  hash: fb1d1c28cc57ea945b8c55e46c70f070
+  summary: The article criticizes the complexity added by many LLM libraries when
+    formatting prompts, advocating for a simpler approach to interact with APIs like
+    OpenAI by directly using arrays of messages. The author highlights issues with
+    libraries that force users to format prompts as string blocks or use convoluted
+    methods like manipulating docstrings, which can limit flexibility in prompt engineering.
+    The piece emphasizes the benefits of minimal abstraction, allowing immediate use
+    of new API features such as additional message types, image URLs, and Base64 encoded
+    images, without waiting for library updates. The author supports a straightforward,
+    extensible approach where developers can easily integrate new capabilities and
+    handle complex interactions like function or tool call responses.
+writing/posts/techno-skepticism.md:
+  hash: 9ea1907588af62d8054a3b71a224bdb4
+  summary: The article "Unraveling the History of Technological Skepticism" explores
+    the recurring theme of skepticism towards new technologies, using examples like
+    the telephone and calculators. It highlights Marshall McLuhan's Tetrad of Media
+    Effects to analyze the impact of technology, emphasizing that innovations, including
+    AI, should be seen as collaborative tools rather than threats. Concepts like Centaur
+    Chess illustrate AI's potential to augment human abilities. The article underscores
+    AI's role in enhancing skills without replacing human insight, advocating for
+    a balanced approach in integrating AI into education and society. Key terms include
+    technological skepticism, AI collaboration, McLuhan's Tetrad, and Centaur Chess.
+writing/posts/testosterone.md:
+  hash: 5887e5332e2bff61a7ee1d48266915ea
+  summary: In the blog "My year at 1100ng/dL," the author shares their personal experience
+    of doubling testosterone levels from 500 ng/dl to 1100 ng/dl over a year through
+    a combination of supplements, diet, and intense exercise. They discuss the motivations
+    behind this experiment, influenced by the likes of Andrew Huberman and David Sinclair,
+    and the impact it had on their physical and mental state, including increased
+    motivation and energy but also altered perceptions of others. The author emphasizes
+    the importance of understanding testosterone levels for every man, while cautioning
+    that the extreme drive and mindset induced may not be sustainable long-term. Key
+    elements include testosterone, supplements, motivation, health, and personal development.
+writing/posts/topics_and_capabilities.md:
+  hash: 42ab5d572dd7cafea5083ba741b8662f
+  summary: 'The article "Art of Looking at RAG Data" emphasizes improving RAG (Retrieval-Augmented
+    Generation) applications by focusing on two main aspects of search systems: topics
+    and capabilities. "Topics" relate to content coverage, ensuring that user queries
+    can be answered by having the necessary information in the database. "Capabilities"
+    involve the effective retrieval and presentation of this information, facilitated
+    through proper metadata and indexing. Examples from industries like Netflix and
+    food delivery services illustrate how identifying topic gaps and enhancing search
+    capabilities can drive improvements. Key objectives include content relevance,
+    efficient search functionality, and minimizing data mismatches through strategic
+    content and metadata management.'
+writing/posts/trade-off-tool-selection.md:
+  hash: 26cbe2f97abc9233ff6c3d1e055eb11d
+  summary: 'The article "Optimizing Tool Retrieval in RAG Systems: A Balanced Approach"
+    discusses strategies for improving tool selection in Retrieval-Augmented Generation
+    (RAG) systems by balancing recall and precision. It highlights the challenge of
+    selecting effective tools among a large set, emphasizing the trade-off between
+    including all tools for high recall versus optimizing precision to enhance system
+    performance. The article introduces the "Evergreen Tools" strategy, which involves
+    identifying and consistently using the top 20% of tools that handle most use cases
+    while employing retrieval methods for the less frequently used tools. By analyzing
+    usage data, creating a histogram of tool usage, and understanding the Pareto principle,
+    system efficiency and precision are improved. The piece underscores the need for
+    ongoing analysis to adapt to changing user needs. Key terms include tool retrieval,
+    RAG systems, precision, recall, and data-driven optimization.'
+writing/posts/wandb-course.md:
+  hash: bc523d3c49018174f804ad7f4dfe6b04
+  summary: Explore the free "Weights and Biases" course, designed for anyone interested
+    in learning about steering language models. Created by JXNL and available at [wandb.courses](https://www.wandb.courses/courses/steering-language-models),
+    this course is accessible, concise, and under an hour long. Dive into the fundamentals
+    of managing and understanding language model behaviors, with practical insights
+    and techniques. Perfect for those looking to enhance their skills in machine learning
+    and artificial intelligence using Weights and Biases tools.
+writing/posts/whoami.md:
+  hash: 4647ba6726493100d741e0620496354f
+  summary: This blog post introduces the author, who plans to share a blend of technical
+    machine learning insights and personal reflections in the upcoming year. The author,
+    originally from a rural Chinese village, delved into art, science, and eventually
+    machine learning, with pivotal experiences at Waterloo University, Facebook, and
+    Stitch Fix. A significant personal challenge arose with a diagnosis of RSI in
+    2020, prompting a reevaluation of self-worth away from productivity. Embracing
+    new interests like martial arts, pottery, and writing, the author now advises
+    startups and seeks to capture thoughts in writing as a form of personal fulfillment.
+    Key themes include machine learning, personal growth, career transitions, overcoming
+    adversity, and self-discovery.
+writing/posts/writing-distribution.md:
+  hash: 968d3a73995ad7baf7ebf68cc0f69e23
+  summary: This article discusses the challenges and unexpected consequences of online
+    recognition as a data scientist. Initially motivated by the desire to build a
+    professional network and visibility for speaking engagements, the author shares
+    their experience of being recognized in public, which has transitioned from exciting
+    to overwhelming. Highlights include the impact of being frequently approached
+    during industry events, disruption of personal and professional time, and the
+    need for strategic public appearances. The article underscores the double-edged
+    sword of online influence, emphasizing the importance of distribution and adapting
+    to the real-world implications of digital success. Key topics include online presence,
+    public recognition, personal challenges, and strategies for managing visibility.
+writing/posts/writing-final.md:
+  hash: 59e768cb613697692c4e0651bf84377a
+  summary: 'This article, "Content Creation Mastery: From Tweets to Long-Form," offers
+    practical strategies for crafting impactful content across various formats, from
+    concise tweets to comprehensive long-form articles. Core ideas include creating
+    attention-grabbing hooks and titles, using data-driven evidence over vague adjectives,
+    structuring content for easy scanning, and focusing on reader-centric writing.
+    It emphasizes the importance of including clear calls-to-action and iterating
+    content based on data analytics. Keywords include content creation, writing, marketing,
+    tweets, long-form content, SEO, and audience engagement.'
+writing/posts/writing-style-guide.md:
+  hash: e36f0c24b271a4c9a59952bf5a072e43
+  summary: '"Content Creation Mastery: 9 Strategies to 10x Your Impact" provides actionable
+    insights for creating impactful content. Key strategies include crafting attention-grabbing
+    titles, using powerful intros, providing evidence over adjectives, and foreshadowing
+    value. The guide emphasizes structuring content for easy skimming, focusing on
+    audience needs, predicting future trends, offering a clear call-to-action, and
+    iterating based on data. Core ideas revolve around enhancing engagement by addressing
+    reader pain points, being specific, and ensuring content is both compelling and
+    data-driven. Keywords: content creation, audience engagement, data-driven strategies,
+    impactful content, SEO, call-to-action.'
+writing/posts/writing-tweet.md:
+  hash: c8f14f9f3a8b674081f432dbca725898
+  summary: The article "Anatomy of a Tweet" explores strategies for crafting effective
+    tweets to grow a Twitter following, focusing on writing compelling hooks, engaging
+    content, and strong calls to action. Key points include the importance of creating
+    a clear benefit for readers, using lists or metrics, and maintaining relevance
+    and engagement throughout the tweet. Additionally, the article emphasizes the
+    significance of a call to action to maximize conversions, such as requesting follows
+    or shares. The author also highlights using Twitter for generating business leads
+    and testing content ideas. Keywords include Twitter, tweet writing, hooks, engagement,
+    calls to action, social media strategy, and follower growth.
