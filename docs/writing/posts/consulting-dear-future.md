@@ -22,7 +22,7 @@ Picture this: Four AI engineers walk out of some big tech office, maybe its layo
 
 As an AI consultant, I've built a personal brand, grown an audience, and mastered marketing and distribution - all while confidently selling my expertise. I've made friends with VCs, hosted dinners for industry leaders, and built a network that spans the tech world.
 
-The best part? I've got $500K sitting in my business account. If I ever decide to start a company, raise money, or build a product, I've already developed all the skills I need - plus the cash to get started.
+The best part? I've got $500K sitting in my business account, deployed 100k in angel investments and have paid my friends 100s of 1000s of dollars to work together and on projects we love. If I ever decide to start a company, raise money, or build a product, I've already developed all the skills I need - plus the cash to get started.
 
 ## What Made The Difference?
 
