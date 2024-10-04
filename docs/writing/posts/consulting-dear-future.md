@@ -1,7 +1,6 @@
 ---
-draft: True
+draft: False
 date: 2024-10-04
-
 categories:
   - Consulting
 authors:
