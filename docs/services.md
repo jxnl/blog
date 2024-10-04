@@ -1,14 +1,68 @@
-# Applied AI Consulting Services
+# Independent Advisor
 
-Working with me should feel like unlocking cheat codes to building your RAG systems, guided by someone who's been in the trenches of evaluating new AI technologies and building search and recommendation systems for public companies.
+In the past few years, LLMs have taken over. Companies are investing in tools and infrastructure, and everyone is trying to figure out how best to leverage language models for economic value.
+
+But now, imagine two businesses, both have incredible founders and innovators. Both with great investors, and an incredible team of engineers.
+
+But a year down the road, while they might be very alike, there is a big difference.
+
+One is still struggling to scale their prototype from demo into production, while the other was successfully raising another round, deploying a production-ready AI system that is generating revenue.
+
+**What's the difference?**
+
+You see, having worked with over a dozen clients, I realized that it isn't that one wants to succeed and the other does not. 
+
+The difference lies in how each company navigates the complex journey of probabilistic software from prototypes to production. 
+
+- It is the systems they build, in code and the best practices they choose as a team
+- It is the experiments they choose to prioritize, and these ones they cut early
+- It is how they are able to manage what they can measure.
+
+When building on these models that are constantly improving, technology is not what builds the business. It fundamentally changes how the product is built. You often cannot choose what science can do.
+
+Between waitlist, demos, and 'early alpha's. The transition from deterministic software to probabilistic software has not been easy and smooth for everyone.
+
+## My background is not like many others
+
+I developed most of my skills at Stitchfix over the past 8 years, mostly training models, building production systems, and working with data.
+
+The mandate when I joined was simply 'vision models work now, how do we make money, how do we get to product'. I managed data labeling teams, trained vision fine-tunes, for both generative models and multi-modal embeddings to understand product search and relevance.
+
+Sound familiar?
+
+- Text Models work now, how do we make money?
+- How do we do search? 
+- How do we understand relevance?
+- And more importantly, how do we build a system that can improve over time using user feedback?
+
+I have been building with stochastic systems, focusing on experimentation, and exploring what is possible with AI for a long time. And I am not just another researcher hoping to get paid to play with shiny new models.
+
+I will tell you to:
+1. Have simple baselines
+2. Focus on simple systems
+3. Focus on business outcomes
+
+The only difference is that we're working with text instead of pixels.
+
+History does not repeat, but it often rhymes.
+
+And over the past two years I've worked with a dozen companies to help them navigate the landscape. I've seen what works, and what doesn't, and for everything else, I have a network of trusted experts and battle-tested vendors to help you out.
+
+## Why don't I start my own company?
+
+Unfortunately, due to a [hand injury](./writing/posts/hand-injury.md), I am unable to code as much as I used to, so I want to make sure the code I do has the highest leverage possible.
+
+## An investment in regret minimization
+
+I cannot promise that you will achieve product-market fit or instantly succeed if you work with me. But I can help you create a sound roadmap, push your team to stay simple and run experiments, and ultimately help you think about the right problems. 
+
+I have seen companies burn months and millions.
+
+My job, simply put, is to help you figure out what is easy, what is hard, and to minimize regret.
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 
-## Direct Support for Engineering and Product Leaders
-
 I work directly with companies to support their AI initiatives, providing technical coaching, team building guidance, strategic planning, and both internal and external education. My expertise, combined with a [network](./experts-and-vendors.md) of industry-leading specialists and trusted vendors.
-
-> My job simply put is to help you figure out what is easy, what is hard, and to minimize regret.
 
 | Client | Description | Contact | Industry |
 |--------|-------------|---------|----------|
@@ -16,71 +70,20 @@ I work directly with companies to support their AI initiatives, providing techni
 | [Timescale](https://timescale.com/) | PostgreSQL-based time-series database | PM | Database |
 | [Limitless AI](http://limitless.ai/) | AI-powered personal memory assistant | CTO | AI |
 | [Trunk Tools](https://trunktools.com/) | AI for construction workforce productivity | VP Eng | Construction |
-| [Tensorlake](https://tensorlake.ai/) | Knowledge bases for LLMs from unstructured data | CEO | Knowledge |
-| [Sandbar](https://sandbar.inc/) | Human-AI interface development | CTO | Interface |
-| [Dunbar](https://trydunbar.com/) | Professional connection analysis | CEO | Networking |
-| [Bytebot](https://bytebot.ai/) | Web-based automation through prompts | CEO | Web Automation |
 | [Naro](http://narohq.com/) | Contextual content delivery for customer interactions | CTO | Sales & Marketing |
-| [New Computer](http://new.computer/) | AI-powered personal assistant | CEO | Personal Assistant |
-| [Kay.ai](http://kay.ai/) | Hosted embedding services for LLM applications | CTO | Automation |
-| [Raycast](https://raycast.com/) | Customizable productivity launcher | CEO | Productivity |
-| [Weights & Biases](https://wandb.ai/) | Platform for ML experiment tracking | PM | ML |
-| [Modal Labs](https://modal.com/) | Cloud platform for AI models and batch jobs | Founder | Cloud |
-| [Pydantic](http://pydantic.dev/) | Python library for data validation | CEO | Development |
-
-## Are you facing these challenges?
-
-- **Data Feedback Loop Inefficiencies**: Your AI systems lack effective mechanisms for continuous improvement, resulting in stagnant performance.
-- **AI Integration Complexities**: Your team encounters difficulties in seamlessly incorporating AI technologies into existing workflows and products.
-- **Evaluation and Optimization Uncertainties**: You struggle to accurately assess AI model performance or fine-tune models for specific use cases.
-- **AI Scalability Hurdles**: You face challenges in expanding AI initiatives while maintaining quality and aligning with business objectives.
-
-## Imagine if...
-
-- Implementing a proven framework for data feedback loops that consistently enhance your AI systems' performance.
-- Your team effortlessly integrating AI technologies, augmenting existing workflows without disruption.
-- Confidently evaluating and optimizing AI models, tailored precisely to your business requirements.
-- Possessing strategies to scale AI initiatives while maintaining quality and ensuring alignment with your business goals.
-
-## How I can contribute
-
-With 8 years of experience at Stitchfix, Meta, and NYU, I specialize in:
-
-- Architecting self-improving AI systems with robust feedback mechanisms, creating valuable data ecosystems.
-- Developing and implementing multimodal search systems that integrate seamlessly into existing product infrastructures.
-- Designing comprehensive evaluation frameworks and fine-tuning methodologies for search and recommendation systems.
-- Strategically directing AI research investments and conducting thorough vendor evaluations to drive innovation and scalable growth.
-
-I've worked with companies that have raised money from top VC firms like [Sequoia Capital](https://www.sequoiacap.com/), [Y Combinator](https://www.ycombinator.com/), [Bessemer Venture Partners](https://www.bvp.com/), [Accel](https://www.accel.com/), [Benchmark](https://www.benchmark.com/), [Coatue Management](https://www.coatue.com/), [Insight Partners](https://www.insightpartners.com/), [Redpoint Ventures](https://www.redpoint.com/), and the [OpenAI Startup Fund](https://openai.com/fund/).
-
-The only real difference between my past work and what we're doing now with language models and RAG? One deals with JPEGs, the other with text files. It's all datasets, labels, and mechanisms to collect feedback to improve the models. Models that unlock economic value for your business.
 
 
-[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
+... including many others like [Tensorlake](https://tensorlake.ai/), [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), and [Pydantic](http://pydantic.dev/).
 
----
+## How best to work with me
 
-!!! note "More Background"
+There are three ways to work with me:
 
-    Key achievements in AI and machine learning at Stitchfix, Meta, and NYU:
+1. One is on a subscription-based model with a recurring 45 minute meeting and unlimited email/slack access and access to my network of experts and vendors which I will pay myself to help you out.
+2. Other other is a project-based engagement where we tackle a specific initiative with a fixed scope and budget, including helping you write content, do research, and anything else that you need.
+3. The third is a more traditional consulting relationship where we meet regularly to discuss strategy, planning, and execution and I potentially bring in additional staff.
 
-    - Led research and integration of VAE-GAN and GPT-3 models, increasing revenue by $50M.
-    - Managed a $400,000 budget for AI data curation.
-    - Developed a recommendation [framework](./writing/posts/recsys-frameworks.md) and observability tools handling 350 million daily requests over three years.
-    - Led successful pivots into AI-enabled products and services, in industries including fashion, social media, and education, marketting, sales, productivity, and more.
-
-    Areas of expertise:
-
-    - Personalization, Search, Recommendations
-    - Structured data generation and curation for evals and training
-    - Retrieval-Augmented Generation (RAG)
-    - Prompt engineering in sales and marketing, transcription and data mining
-
-    This experience enables me to approach AI consulting with a comprehensive perspective, aligning technical solutions with business goals.
-
-    My approach blends technical expertise with business understanding. This ensures your AI projects deliver real results. Whether you're improving current systems or starting new AI initiatives, I can help turn challenges into opportunities for growth.
-
-## Services 
+I don't work on hourly rates, and my work is guaranteed. With the work that we're doing together, I'm always happy to refund any fees.
 
 ### Subscription based support
 
@@ -132,7 +135,3 @@ I require a minimum engagement of 3 months for outside of async support.
 - __Comprehensive Consulting__: Starts at $120k for the entire engagement
 
 [Contact Me](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
-[Book Async Support (Stripe)](https://buy.stripe.com/dR66rEbTC1OPgF23cj){ .md-button .md-button--secondary }
-
-
-<iframe id='testimonialto-jxnl-co-tag-all-light' src="https://embed-v2.testimonial.to/w/jxnl-co?theme=light&card=base&loadMore=off&initialCount=20&tag=all" frameborder="0" scrolling="no" width="100%"></iframe>
