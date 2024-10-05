@@ -82,7 +82,7 @@ There are three ways to work with me:
 
 3. **Traditional consulting relationship**: We meet every week to discuss strategy, planning, and execution. I may bring in extra staff.
 
-I don't work on hourly rates, and my work is guaranteed. With the work that we're doing together, I'm always happy to refund any fees.
+I don't work on hourly rates, and my work is guaranteed. With the work that we're doing together, **I'm always happy to refund any fees.**
 
 ### Minimum Level of Engagement
 
