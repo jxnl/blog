@@ -17,7 +17,7 @@ After consulting with over a dozen companies and investing in a few, it's not a 
 The difference is in how each company navigates the journey of probabilistic software from prototypes to production. It's a complex task:
 
 - **Systems** they build, in code and best practices chosen as a team
-- **Experiments* they prioritize, and ones they cut early
+- **Experiments** they prioritize, and ones they cut early
 - How they **manage what they can measure**
 
 With ever-improving models, technology fundamentally changes how products are built. You often cannot choose what science can do.
