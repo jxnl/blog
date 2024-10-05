@@ -8,7 +8,7 @@ Imagine two businesses, both have incredible founders and innovators. Both with 
 
 But a year down the road, while they might be very alike, there is a big difference.
 
-**One is still trying to ship its prototype to production. The other, is raising their next round to invest in scaling their product.**
+**One is still trying to ship its prototype to production. The other is raising their next round to invest in scaling their product.**
 
 ## What's the difference?
 
