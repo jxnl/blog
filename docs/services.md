@@ -1,5 +1,6 @@
 # Consulting Services
 
+
 ??? warning "I'm currently at capacity until the end of April 2025"
 
     If you'd like to work with me, please [request a consultation](https://form.typeform.com/to/gqgTx3I6) or book a [call](./expert-calls.md).
@@ -61,6 +62,8 @@ My job is simple: to tell you when what you think is easy is actually hard, and 
 
 Success is about minimizing regret.
 
+## Selected Clients
+
 
 | Client | Description | Contact | Industry |
 |--------|-------------|---------|----------|
@@ -71,6 +74,24 @@ Success is about minimizing regret.
 | [Naro](http://narohq.com/) | Contextual content delivery for customer interactions | CTO | Sales & Marketing |
 
 ... including many others like [Tensorlake](https://tensorlake.ai/), [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), and [Pydantic](http://pydantic.dev/).
+
+
+## What people are saying
+
+### [Christian](https://twitter.com/cblovescode), Founder at Dunbar
+Can attest that you've been tremendously helpful for the team at Dunbar, the value has gone beyond acceleration of our product too - best way I describe it is full-stack AI-business guidance in a box.
+
+### [Taylor](https://twitter.com/tayhalliday), Head of Product at Zapier
+Jason helped us accelerate our RAG offering at Zapier in so many ways. He's a pro if you're looking for someone to come in and give your AI product some added horsepower.
+
+### [Avthar](https://twitter.com/avthars), Lead PM at Timescale
+I highly recommend working with Jason. He's brought a wealth of experience and developer understanding to our team, helping us develop better ideas and move faster. 100% worth it.
+
+### [Vitor](https://twitter.com/vitorbal), Staff Software Engineer at Zapier
+Highly recommend reaching out to Jason if you want to level up your AI product and team! I always came out of our conversations with insights and ideas to make Zapier Central better.
+
+### [Luke](https://twitter.com/lukeigel), CEO of Kino AI
+Definitely speak with Jason if you're doing RAG, semantic search, etc. Amazingly helpful.
 
 ## How best to work with me
 
