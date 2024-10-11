@@ -2,6 +2,10 @@
 
 Here are some of the companies I've invested in that I find very interesting.
 
+## [Kino.ai](https://kino.ai/)
+
+Kino AI helps filmmakers search, log and organize their footage using AI and search.
+
 ## [Augmental](https://www.augmental.tech/)
 
 Innovative wearable technology company, creator of MouthPad - a hands-free trackpad operated by the tongue. Enhances digital accessibility for users with limited mobility.
