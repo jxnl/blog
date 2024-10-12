@@ -22,7 +22,7 @@ AI-powered search engine API connecting AI systems to real-time web data. Offers
 
 AI-powered configurable recommendations and search systems for increased engagement and revenue. Specializes in real-time adaptability across various industries.
 
-## [Pydantic Logire](https://logfire.pydantic.dev/)
+## [Pydantic Logfire](https://logfire.pydantic.dev/)
 
 Cloud-based inventory and warehouse management solutions for multi-channel retailers, manufacturers, and logistics providers. Integrates supply chain from source to shelf.
 
