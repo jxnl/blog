@@ -1,3 +1,8 @@
+---
+description: Enhance your RAG applications with our expert-led course. Learn practical
+  strategies for retrieval-augmented generation from industry leaders.
+---
+
 # Systematically Improve Your RAG Applications
 
 [![Top 10 Course on Maven](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)

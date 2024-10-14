@@ -1,12 +1,15 @@
 ---
-draft: False
-date: 2024-02-18
-slug: how-to-ship-an-mvp-for-ai-applications
-categories:
-  - Business
 authors:
-  - jxnl
-  - jo
+- jxnl
+- jo
+categories:
+- Business
+comments: true
+date: 2024-02-18
+description: Explore the essentials of building an MVP for AI applications, focusing
+  on user segments and effective education for better product iteration.
+draft: false
+slug: how-to-ship-an-mvp-for-ai-applications
 ---
 
 # A feat of strength MVP for AI Apps

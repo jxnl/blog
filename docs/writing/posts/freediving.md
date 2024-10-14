@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2023-02-05
-slug: freediving-ice
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2023-02-05
+description: Explore the thrilling journey of ice freediving in Canada, from overcoming
+  injuries to a dream of swimming with whales.
+draft: false
+slug: freediving-ice
 ---
 
 # Freediving under ice

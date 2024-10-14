@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-06-01
-slug: advice-to-young-people
-comments: True
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-06-01
+description: Explore practical advice for young people on confidence, career, happiness,
+  and self-worth, rooted in personal experiences and insights.
+draft: false
+slug: advice-to-young-people
 ---
 
 # Advice to Young People, The Lies I Tell Myself

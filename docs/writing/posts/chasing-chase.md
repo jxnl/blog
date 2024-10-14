@@ -1,13 +1,15 @@
 ---
-draft: False
-date: 2024-09-21
-slug: chase-bank-small-business-nightmare
-comments: True
-categories:
-  - Personal
 authors:
-  - jxnl
-  - jo
+- jxnl
+- jo
+categories:
+- Personal
+comments: true
+date: 2024-09-21
+description: A cautionary tale of banking with Chase Bank, highlighting the importance
+  of diversifying your financial partners as a small business owner.
+draft: false
+slug: chase-bank-small-business-nightmare
 ---
 
 # Chasing Chase: Why I'll Never Trust Chase Bank Again, A Yuppie Nightmare

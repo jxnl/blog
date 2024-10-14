@@ -1,10 +1,13 @@
 ---
-draft: False
-date: 2024-06-29
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2024-06-29
+description: Explore improving RAG applications by analyzing user queries, focusing
+  on topics and capabilities for effective search functionality.
+draft: false
 ---
 
 # Art of Looking at RAG Data

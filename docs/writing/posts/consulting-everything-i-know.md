@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-08-26
-slug: everything-i-know-about-consulting
-comments: True
-categories:
-  - Consulting
 authors:
-  - jxnl
+- jxnl
+categories:
+- Consulting
+comments: true
+date: 2024-08-26
+description: Discover insights on AI consulting, shifting from tasks to outcomes,
+  and structuring proposals for success. Unlock your consulting potential!
+draft: false
+slug: everything-i-know-about-consulting
 ---
 
 # Everything I Learned from AI Consulting

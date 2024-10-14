@@ -1,13 +1,15 @@
 ---
-draft: False
-date: 2024-10-01
-slug: content-creation-mastery
-comments: True
-categories:
-  - Writing
-  - Marketing
 authors:
-  - jxnl
+- jxnl
+categories:
+- Writing
+- Marketing
+comments: true
+date: 2024-10-01
+description: Master content creation from tweets to long-form. Learn impactful strategies,
+  audience engagement, and data-driven results for effective writing.
+draft: false
+slug: content-creation-mastery
 ---
 
 # Content Creation Mastery: From Tweets to Long-Form

@@ -1,11 +1,14 @@
 ---
-draft: False
+authors:
+- jxnl
+comments: true
 date: 2024-02-14
+description: Explore our free, under-an-hour course on Weights and Biases. Perfect
+  for all skill levels, accessible to everyone!
+draft: false
 slug: weights-and-biases-course
 tags:
-  - LLM
-authors:
-  - jxnl
+- LLM
 ---
 
 # Free course on Weights and Biases

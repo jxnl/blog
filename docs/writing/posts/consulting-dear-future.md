@@ -1,10 +1,13 @@
 ---
-draft: False
-date: 2024-10-04
-categories:
-  - Consulting
 authors:
-  - jxnl
+- jxnl
+categories:
+- Consulting
+comments: true
+date: 2024-10-04
+description: Unlock your AI consulting potential with insights from an experienced
+  engineer. Subscribe for actionable strategies and build your freedom and success!
+draft: false
 ---
 
 # Dear Future AI Consultant

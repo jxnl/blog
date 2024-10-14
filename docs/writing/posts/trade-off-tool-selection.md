@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-08-21
-slug: trade-off-tool-selection
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2024-08-21
+description: Learn effective strategies for optimizing tool retrieval in RAG systems,
+  balancing precision and recall for improved performance.
+draft: false
+slug: trade-off-tool-selection
 ---
 
 # Optimizing Tool Retrieval in RAG Systems: A Balanced Approach

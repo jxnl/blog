@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-02-07
-slug: how-to-ask
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-02-07
+description: Learn effective strategies for asking for referrals without burdening
+  your network, fostering higher agency and meaningful connections.
+draft: false
+slug: how-to-ask
 ---
 
 # How to ask for Referrals (Among other things)

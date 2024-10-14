@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-01-09
-slug: self-loathing
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-01-09
+description: A personal reflection on overcoming resentment towards wealth, exploring
+  themes of struggle, identity, and the impact of childhood experiences.
+draft: false
+slug: self-loathing
 ---
 
 # I used to hate rich people.

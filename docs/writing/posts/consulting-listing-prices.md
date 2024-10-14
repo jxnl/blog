@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-09-17
-slug: pricing-strategy-for-consultants
-comments: True
-categories:
-  - Consulting
 authors:
-  - jxnl
+- jxnl
+categories:
+- Consulting
+comments: true
+date: 2024-09-17
+description: Discover why listing consulting prices can limit your success. Learn
+  effective pricing strategies to maximize value and earnings.
+draft: false
+slug: pricing-strategy-for-consultants
 ---
 
 # A surprising reason to not list your consulting prices
@@ -106,4 +108,3 @@ To further enhance your understanding of consulting practices and pricing strate
    - Explore the world of independent consulting and how to succeed in this space.
 
 These resources draw from my personal experience and provide practical, actionable advice for both aspiring and established consultants. They cover a range of topics from business development to technical insights, offering a well-rounded view of the consulting landscape.
-

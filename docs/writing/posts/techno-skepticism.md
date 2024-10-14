@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-03-20
-slug: technology-skepticism
-categories:
-  - LLM
 authors:
-  - jxnl
+- jxnl
+categories:
+- LLM
+comments: true
+date: 2024-03-20
+description: Explore the history of technological skepticism, AI collaboration in
+  education, and the impact of new media through McLuhan's Tetrad.
+draft: false
+slug: technology-skepticism
 ---
 
 # Unraveling the History of Technological Skepticism

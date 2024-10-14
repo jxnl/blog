@@ -1,3 +1,8 @@
+---
+description: Explore RAG techniques, AI engineering jobs, and consulting insights
+  from a machine learning expert. Join our upcoming RAG course!
+---
+
 # :boom: What's up?
 
 I'm a machine learning engineer, angel investor, and startup advisor. Creator of [Instructor](https://github.com/jxnl/instructor) and ML/data science educator. I write about consulting, open source, personal work, and applying LLMs. 

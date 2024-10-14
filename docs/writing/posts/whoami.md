@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-01-01
-slug: whoami
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-01-01
+description: Personal journey of a machine learning enthusiast sharing insights on
+  life, work, and growth through unique experiences in AI and writing.
+draft: false
+slug: whoami
 ---
 
 # Who am I?

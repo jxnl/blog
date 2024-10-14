@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-08-23
-slug: consulting-stack
-comments: True
-categories:
-  - Consulting
 authors:
-  - jxnl
+- jxnl
+categories:
+- Consulting
+comments: true
+date: 2024-08-23
+description: Discover essential tools and strategies for indie consultants to streamline
+  operations and enhance professionalism in their practices.
+draft: false
+slug: consulting-stack
 ---
 
 # Best Tools for Indie Consultants

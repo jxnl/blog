@@ -1,5 +1,9 @@
 ---
+comments: true
+description: Explore my self-reflection on success, growth, and insights gained from
+  personal experiences in work and life. Discover valuable lessons.
 ---
+
 draft: False
 date: 2024-06-15
 categories:

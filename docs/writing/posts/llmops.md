@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2023-04-04
-slug: good-llm-observability
-categories:
-  - LLM
 authors:
-  - jxnl
+- jxnl
+categories:
+- LLM
+comments: true
+date: 2023-04-04
+description: Discover how Open Telemetry enhances LLM observability and AI agent performance
+  through comprehensive telemetry for model self-improvement.
+draft: false
+slug: good-llm-observability
 ---
 
 # Good LLM Observability is just plain observability

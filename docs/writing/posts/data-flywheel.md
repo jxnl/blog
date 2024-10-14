@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-03-28
-slug: data-flywheel
-comments: True
-categories:
-  - Business
 authors:
-  - jxnl
+- jxnl
+categories:
+- Business
+comments: true
+date: 2024-03-28
+description: Learn how to leverage user data to create effective data flywheels that
+  enhance your AI products and drive business growth.
+draft: false
+slug: data-flywheel
 ---
 
 # Data Flywheel Go Brrr: Using Your Users to Build Better Products

@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-01-08
-slug: learning
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-01-08
+description: Explore a personal journey of learning through diverse experiences in
+  design, data science, pottery, weightlifting, and more.
+draft: false
+slug: learning
 ---
 
 # Learning to Learn

@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2023-09-17
-slug: rag-is-more-than-embeddings
-comments: True
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2023-09-17
+description: Explore advanced Retrieval Augmented Generation (RAG) techniques that
+  enhance search capabilities beyond simple embedding methods.
+draft: false
+slug: rag-is-more-than-embeddings
 ---
 
 # RAG is more than just embedding search

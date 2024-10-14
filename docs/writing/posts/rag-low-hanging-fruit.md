@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-05-11
-slug: low-hanging-fruit-for-rag-search
-comments: true
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2024-05-11
+description: Explore key strategies to enhance your RAG search system, including synthetic
+  data, date filters, and full-text search for better results.
+draft: false
+slug: low-hanging-fruit-for-rag-search
 ---
 
 # Low-Hanging Fruit for RAG Search

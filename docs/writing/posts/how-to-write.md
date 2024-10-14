@@ -1,11 +1,13 @@
 ---
-draft: False
-date: 2024-06-30
-comments: True
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-06-30
+description: Unlock the secrets to impactful writing with practical tips on titles,
+  introductions, hooks, and CTAs to engage your audience effectively.
+draft: false
 ---
 
 # How I want you to write 

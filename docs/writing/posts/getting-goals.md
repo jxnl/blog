@@ -1,13 +1,15 @@
 ---
-draft: False
-date: 2024-04-20
-slug: getting-goals
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-04-20
+description: Explore how to choose impactful metrics and set process goals for meaningful
+  success, avoiding the pitfalls of outcome-driven thinking.
+draft: false
+slug: getting-goals
 ---
-
 
 # Picking Metrics and Setting Goals
 

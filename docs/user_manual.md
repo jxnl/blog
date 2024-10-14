@@ -1,3 +1,8 @@
+---
+description: Explore effective management and communication strategies for new leaders
+  prioritizing team growth, ownership, and efficient task delegation.
+---
+
 I'm learning and taking on new roles. Right now, I'm focusing more on marketing and copywriting rather than technical details.
 First and foremost, I'm learning how to be a manager and specifically delegate more work to my team so I can focus on the high-leverage work possible
 

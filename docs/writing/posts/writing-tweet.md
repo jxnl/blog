@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-01-11
-slug: anatomy-of-a-tweet
-categories:
-  - Business
 authors:
-  - jxnl
+- jxnl
+categories:
+- Business
+comments: true
+date: 2024-01-11
+description: Learn to craft the perfect tweet with effective hooks, body content,
+  and calls to action, boosting engagement and followers on Twitter.
+draft: false
+slug: anatomy-of-a-tweet
 ---
 
 # Anatomy of a Tweet

@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-06-30
-slug: on-getting-recognized
-comments: True
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-06-30
+description: Explore the challenges of online recognition, balancing visibility and
+  personal space, and the unexpected consequences of digital success.
+draft: false
+slug: on-getting-recognized
 ---
 
 # On Getting Recognized: The Unexpected Price of Online Success

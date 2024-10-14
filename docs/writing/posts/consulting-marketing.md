@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-05-29
-slug: marketing-consulting
-categories:
-  - Consulting 
 authors:
-  - jxnl
+- jxnl
+categories:
+- Consulting
+comments: true
+date: 2024-05-29
+description: Insights on marketing, positioning, and scaling a consulting business
+  in AI/ML, sharing strategies for generating leads and closing sales.
+draft: false
+slug: marketing-consulting
 ---
 
 # Thoughts on Marketing, Positioning, and Scaling my Consulting

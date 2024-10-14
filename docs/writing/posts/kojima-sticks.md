@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2023-06-01
-slug: kojima-sticks
-categories:
-  - Thoughts 
 authors:
-  - jxnl
+- jxnl
+categories:
+- Thoughts
+comments: true
+date: 2023-06-01
+description: Explore Kojima's philosophy applied to LLMs, emphasizing empowerment
+  and creative engagement over mere information delivery.
+draft: false
+slug: kojima-sticks
 ---
 
 # Kojima's Philosophy in LLMs: From Sticks to Ropes

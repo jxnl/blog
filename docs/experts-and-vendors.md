@@ -1,3 +1,8 @@
+---
+description: Access a network of AI & ML experts and trusted vendors for comprehensive
+  consulting packages. Leverage industry expertise for growth!
+---
+
 # Experts and Vendors
 
 Over the years, I've built a network of AI and ML specialists, vendors, and industry experts. As part of both the comprehensive and strategic consulting packages, you'll have access to this network, including:

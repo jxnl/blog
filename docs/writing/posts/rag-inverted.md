@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-01-07
-slug: inverted-thinking-rag
-comments: True
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2024-01-07
+description: Explore the pitfalls of RAG systems in this unconventional guide, focusing
+  on inverted thinking to enhance recommendation techniques.
+draft: false
+slug: inverted-thinking-rag
 ---
 
 # How to build a terrible RAG system

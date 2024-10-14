@@ -1,13 +1,15 @@
 ---
-draft: False
-date: 2024-09-13
-slug: consulting-referrals
-comments: True
-categories:
-  - Business
-  - Consulting
 authors:
-  - jxnl
+- jxnl
+categories:
+- Business
+- Consulting
+comments: true
+date: 2024-09-13
+description: 'Master the art of referrals in consulting: learn when to ask, how to
+  approach clients, and techniques for effective introductions.'
+draft: false
+slug: consulting-referrals
 ---
 
 # Affective Consulting: Referrals

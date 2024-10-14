@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-02-20
-slug: formatting-strings
-categories:
-  - LLM
 authors:
-  - jxnl
+- jxnl
+categories:
+- LLM
+comments: true
+date: 2024-02-20
+description: Explore the drawbacks of LLM libraries' string formatting and the importance
+  of flexibility in prompt construction for richer interactions.
+draft: false
+slug: formatting-strings
 ---
 
 # Format your own prompts

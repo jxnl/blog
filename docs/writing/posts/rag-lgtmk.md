@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-02-05
-slug: when-to-lgtm-at-k
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2024-02-05
+description: Explore effective metrics for retrieval augmented generation systems,
+  emphasizing precision, recall, and the importance of quick iterations.
+draft: false
+slug: when-to-lgtm-at-k
 ---
 
 # Stop using LGTM@Few as a metric (Better RAG)

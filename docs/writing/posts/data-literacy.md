@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-06-02
-categories:
-  - Thoughts
 authors:
-  - jxnl
-  - eugene
+- jxnl
+- eugene
+categories:
+- Thoughts
+comments: true
+date: 2024-06-02
+description: Discover 10 common data literacy pitfalls for AI engineers and learn
+  how to avoid them to enhance your data handling and analysis skills.
+draft: false
 ---
 
 # 10 Ways to Be Data Illiterate (and How to Avoid Them)

@@ -1,11 +1,13 @@
 ---
-draft: False
-date: 2024-05-22
-comments: True
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2024-05-22
+description: Learn how to systematically improve Retrieval-Augmented Generation (RAG)
+  systems with practical tips, data analysis, and user feedback.
+draft: false
 ---
 
 # Systematically Improving Your RAG

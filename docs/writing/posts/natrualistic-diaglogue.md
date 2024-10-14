@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-08-30
-slug: naturalistic-dialogue-ai
-comments: True
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-08-30
+description: Explore how to implement naturalistic dialogue in AI companions for more
+  engaging and realistic conversations, enhancing digital interactions.
+draft: false
+slug: naturalistic-dialogue-ai
 ---
 
 # Implementing Naturalistic Dialogue in AI Companions

@@ -1,3 +1,8 @@
+---
+description: Expert consulting services to accelerate AI product development, minimize
+  regrets, and drive business outcomes. Book a consultation today!
+---
+
 # Consulting Services
 
 

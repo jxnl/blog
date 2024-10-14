@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2022-08-01
-slug: stitchfix-framework
-categories:
-  - Business
 authors:
-  - jxnl
+- jxnl
+categories:
+- Business
+comments: true
+date: 2022-08-01
+description: Discover Flight, a framework at Stitch Fix that enhances real-time recommendation
+  systems through modular data pipelines and improved performance metrics.
+draft: false
+slug: stitchfix-framework
 ---
 
 # Recommendations with Flight at Stitch Fix

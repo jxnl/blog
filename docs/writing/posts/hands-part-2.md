@@ -1,14 +1,16 @@
 ---
-draft: False
-date: 2024-05-29
-slug: losing-my-hands-part-2
-comments: True
-categories:
-  - Personal
-  - Losing my hands
 authors:
-  - jxnl
-  - jo
+- jxnl
+- jo
+categories:
+- Personal
+- Losing my hands
+comments: true
+date: 2024-05-29
+description: Explore personal growth, immigrant values, and the impact of a repetitive
+  strain injury on life choices and identity in a digital age.
+draft: false
+slug: losing-my-hands-part-2
 ---
 
 # Losing My Hands Pt. 2: The Two Jasons

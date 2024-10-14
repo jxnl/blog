@@ -1,10 +1,13 @@
 ---
-draft: False
-date: 2023-11-02
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2023-11-02
+description: Discover insights on Pydantic for prompt engineering from the AI Engineer
+  Summit. Watch the keynote talk and enhance your AI skills!
+draft: false
 ---
 
 # AI Engineer Keynote: Pydantic is all you need

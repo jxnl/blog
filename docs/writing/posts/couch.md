@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-01-20
-slug: couchs
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-01-20
+description: Exploring the limitations of couches in living spaces, and advocating
+  for more dynamic, multi-purpose seating arrangements that enhance social interaction.
+draft: false
+slug: couchs
 ---
 
 # A Critique on Couches

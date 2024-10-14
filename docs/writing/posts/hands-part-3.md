@@ -1,14 +1,16 @@
 ---
-draft: False
-date: 2024-05-27
-slug: products-and-tips-for-rsi
-comments: True
-categories:
-  - Personal
-  - Losing my hands
 authors:
-  - jxnl
-  - jo
+- jxnl
+- jo
+categories:
+- Personal
+- Losing my hands
+comments: true
+date: 2024-05-27
+description: Explore my journey recovering from RSI, tips for healing, essential products,
+  and insights on personal growth through adversity.
+draft: false
+slug: products-and-tips-for-rsi
 ---
 
 # Losing my Hands, Advice and Tips for RSI
@@ -84,4 +86,4 @@ I will likely bang this drum for the next few years of my life, but again, the s
 
 Not to be too mystical, but this entire experience of losing my hands has called me to develop a new skill set. One that relies not on my hands but on the skills and knowledge I can leverage. I feel responsible for sharing what I know and have learned with others. If you produce work that impacts nobody, that strikes me as a sad way to live. We are not living in caves isolated from each other. Everything we do depends on how we can impact other living beings.  The other significant push factor was I realized very few experts write. A lot of content on the internet is for beginners because that's the most significant population to speak to. I hope that by becoming more involved in producing content and being successful at it, more experts will see the value in producing it themselves.
 
-Thank you, everyone, for reading, listening, and sharing your experiences with similar injuries. The road to recovery has been full of ups and downs, but sharing it with everyone and being vulnerable for a moment has been an incredible delight—not something I had imagined doing when starting this blog. 
+Thank you, everyone, for reading, listening, and sharing your experiences with similar injuries. The road to recovery has been full of ups and downs, but sharing it with everyone and being vulnerable for a moment has been an incredible delight—not something I had imagined doing when starting this blog.

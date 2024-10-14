@@ -1,3 +1,8 @@
+---
+description: Explore innovative investments in AI, health tech, and wearable technology,
+  enhancing accessibility, data management, and personalized solutions.
+---
+
 # Investments
 
 Here are some of the companies I've invested in that I find very interesting.

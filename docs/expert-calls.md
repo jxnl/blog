@@ -1,3 +1,8 @@
+---
+description: Book expert AI consultations with Jason Liu. Choose between quick and
+  comprehensive sessions to address your AI challenges effectively.
+---
+
 # Expert Calls with Jason Liu
 
 ## AI Consultation Options

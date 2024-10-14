@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-01-22
-slug: indie-consulting
-comments: True
-categories:
-  - Consulting
 authors:
-  - jxnl
+- jxnl
+categories:
+- Consulting
+comments: true
+date: 2024-01-22
+description: Explore the advantages of indie consulting versus traditional firms,
+  focusing on personalized value, expertise, and flexible engagement.
+draft: false
+slug: indie-consulting
 ---
 
 # Indie Consulting

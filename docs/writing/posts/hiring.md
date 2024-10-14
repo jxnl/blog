@@ -1,12 +1,15 @@
 ---
-draft: False
-date: 2024-04-08
-slug: hiring-mle-at-early-stage-companies
-categories:
-  - Business
 authors:
-  - jxnl
-  - jo
+- jxnl
+- jo
+categories:
+- Business
+comments: true
+date: 2024-04-08
+description: Exploring the pitfalls of early hiring practices for Machine Learning
+  Engineers in startups, emphasizing the need for dedicated research teams.
+draft: false
+slug: hiring-mle-at-early-stage-companies
 ---
 
 # Hiring MLEs at early stage companies

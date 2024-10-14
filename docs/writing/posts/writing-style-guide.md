@@ -1,13 +1,15 @@
 ---
-draft: False
-date: 2024-09-07
-slug: content-creation-mastery
-comments: True
-categories:
-  - Writing
-  - Marketing
 authors:
-  - jxnl
+- jxnl
+categories:
+- Writing
+- Marketing
+comments: true
+date: 2024-09-07
+description: Master content creation with 9 essential strategies to enhance your impact
+  and efficiently engage your audience.
+draft: false
+slug: content-creation-mastery
 ---
 
 # Content Creation Mastery: 9 Strategies to 10x Your Impact

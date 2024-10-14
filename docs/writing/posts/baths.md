@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-01-18
-slug: public-baths
-categories:
-  - Funny Thoughts
 authors:
-  - jxnl
+- jxnl
+categories:
+- Funny Thoughts
+comments: true
+date: 2024-01-18
+description: Explore the contrasting experiences of bathing in American bathhouses
+  versus Japanese onsens, focusing on culture, relaxation, and ritual.
+draft: false
+slug: public-baths
 ---
 
 # Public Baths

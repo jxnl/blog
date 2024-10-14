@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-01-19
-slug: tips-probabilistic-software
-categories:
-  - Business
 authors:
-  - jxnl
+- jxnl
+categories:
+- Business
+comments: true
+date: 2024-01-19
+description: Learn essential tips for developing probabilistic software, focusing
+  on experiments, metrics, and decision-making in machine learning.
+draft: false
+slug: tips-probabilistic-software
 ---
 
 # Tips for probabilistic software

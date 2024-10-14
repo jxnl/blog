@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-08-19
-slug: rag-flywheel
-comments: True
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2024-08-19
+description: 'Discover a systematic approach to enhance Retrieval-Augmented Generation
+  (RAG) systems: from synthetic data to continuous improvement.'
+draft: false
+slug: rag-flywheel
 ---
 
 # The RAG Playbook

@@ -1,3 +1,8 @@
+---
+description: Explore my reading journey through influential books, philosophical works,
+  business insights, and recommendations for personal growth.
+---
+
 # Books I read
 
 ## Influences on my life
@@ -49,4 +54,3 @@ I plan to spend the spring and summer in Europe, reading and writing. I finally 
 - The Three Cornered World by Natsume Soseki
 - Mans' Search for Meaning by Viktor Frankl
 - Pedro Paramo by Juan Rulfo
-

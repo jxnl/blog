@@ -1,11 +1,13 @@
 ---
-draft: False
-date: 2024-05-22
-comments: True
-categories:
-  - LLMs
 authors:
-  - jxnl
+- jxnl
+categories:
+- LLMs
+comments: true
+date: 2024-05-22
+description: Learn about prompt optimization, scoring outputs, and selecting few-shot
+  examples to enhance content generation in AI.
+draft: false
 ---
 
 # What is prompt optimization?
@@ -112,4 +114,3 @@ However, this entire process relies on having a reliable function to score the q
 ## Conclusion
 
 In conclusion, optimizing prompts and selecting few-shot examples seems straightforward but relies on assumptions about data quality and output scoring. The approach appears simple but ensuring representative data and accurate scoring is still where most of the complexity lies.
-

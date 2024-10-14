@@ -1,11 +1,13 @@
 ---
-draft: False
-date: 2024-02-28
-comments: True
-categories:
-  - RAG
 authors:
-  - jxnl
+- jxnl
+categories:
+- RAG
+comments: true
+date: 2024-02-28
+description: Explore the complexities of Retrieval-Augmented Generation (RAG) applications,
+  from basics to advanced techniques, enhancing your development skills.
+draft: false
 ---
 
 # Levels of Complexity: RAG Applications

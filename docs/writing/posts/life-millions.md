@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-06-30
-slug: life-with-twenty-million
-comments: True
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-06-30
+description: Explore a $20 million daydream of life balance, creativity, and intentional
+  living through work, hobbies, travel, and personal growth.
+draft: false
+slug: life-with-twenty-million
 ---
 
 # Living My Best Life: A $20 Million Daydream

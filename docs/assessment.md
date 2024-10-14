@@ -1,3 +1,8 @@
+---
+description: Collaborate to enhance R&D on memory and retrieval features, improving
+  performance and scalability in knowledge tasks and customer satisfaction.
+---
+
 # Sample Situational Assessment
 
 A company is seeking to enhance their product by conducting research and development (R&D) on memory and retrieval aspects. My experience in building preprocessing features for retrieval presents an opportunity for collaboration and idea sharing. This collaboration aims to accelerate the development and R&D cycle of agent/memory/retrieval features.

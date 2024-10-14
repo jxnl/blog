@@ -1,14 +1,16 @@
 ---
-draft: False
-date: 2024-04-29
-slug: losing-my-hands
-comments: True
-categories:
-  - Personal
-  - Losing my hands
 authors:
-  - jxnl
-  - jo
+- jxnl
+- jo
+categories:
+- Personal
+- Losing my hands
+comments: true
+date: 2024-04-29
+description: A personal story about losing the ability to work as a software engineer
+  during the pandemic and the journey to recovery and self-worth.
+draft: false
+slug: losing-my-hands
 ---
 
 # Losing My Hands

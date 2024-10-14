@@ -1,11 +1,14 @@
 ---
-draft: False
-date: 2024-02-03
-slug: testosterone
-categories:
-  - Personal
 authors:
-  - jxnl
+- jxnl
+categories:
+- Personal
+comments: true
+date: 2024-02-03
+description: Discover my journey of doubling testosterone levels, the impacts, and
+  insights gained on motivation, perception, and self-discovery.
+draft: false
+slug: testosterone
 ---
 
 # My year at 1100ng/dL

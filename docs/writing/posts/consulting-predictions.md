@@ -1,12 +1,14 @@
 ---
-draft: False
-date: 2024-09-27
-slug: why-freelancers-will-win-the-ai-gold-rush
-comments: True
-categories:
-  - Consulting
 authors:
-  - jxnl
+- jxnl
+categories:
+- Consulting
+comments: true
+date: 2024-09-27
+description: Explore how freelancing in AI offers unique opportunities for tech professionals
+  to thrive in the emerging AI revolution.
+draft: false
+slug: why-freelancers-will-win-the-ai-gold-rush
 ---
 
 # Why Freelancers Will Win the AI Gold Rush
