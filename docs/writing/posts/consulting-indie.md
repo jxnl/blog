@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Consulting
+- Entrepreneurship
 comments: true
 date: 2024-01-22
-description: Explore the advantages of indie consulting versus traditional firms,
-  focusing on personalized value, expertise, and flexible engagement.
+description: Explore the unique value of indie consulting, its differences from big
+  firms, and how to thrive as an independent consultant.
 draft: false
 slug: indie-consulting
+tags:
+- indie consulting
+- consultant value
+- entrepreneurship
+- consulting strategies
+- independent business
 ---
 
 # Indie Consulting

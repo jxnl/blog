@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Business
+- Applied AI
 comments: true
 date: 2024-03-28
-description: Learn how to leverage user data to create effective data flywheels that
-  enhance your AI products and drive business growth.
+description: Explore how data flywheels leverage user feedback to enhance product
+  development and achieve business success with AI.
 draft: false
 slug: data-flywheel
+tags:
+- data flywheel
+- AI
+- user feedback
+- product development
+- machine learning
 ---
 
 # Data Flywheel Go Brrr: Using Your Users to Build Better Products

@@ -5,9 +5,15 @@ categories:
 - RAG
 comments: true
 date: 2024-02-28
-description: Explore the complexities of Retrieval-Augmented Generation (RAG) applications,
-  from basics to advanced techniques, enhancing your development skills.
+description: Explore levels of complexity in RAG applications, from basics to advanced
+  methods for building effective systems.
 draft: false
+tags:
+- Retrieval-Augmented Generation
+- Data Processing
+- Asynchronous Programming
+- System Optimization
+- User Engagement
 ---
 
 # Levels of Complexity: RAG Applications

@@ -5,10 +5,16 @@ categories:
 - RAG
 comments: true
 date: 2024-08-19
-description: 'Discover a systematic approach to enhance Retrieval-Augmented Generation
-  (RAG) systems: from synthetic data to continuous improvement.'
+description: Discover a systematic approach to enhance Retrieval-Augmented Generation
+  (RAG) systems for improved performance and user satisfaction.
 draft: false
 slug: rag-flywheel
+tags:
+- RAG
+- Data Optimization
+- User Feedback
+- Continuous Improvement
+- Machine Learning
 ---
 
 # The RAG Playbook

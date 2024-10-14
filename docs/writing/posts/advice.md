@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2024-06-01
-description: Explore practical advice for young people on confidence, career, happiness,
-  and self-worth, rooted in personal experiences and insights.
+description: Discover insightful advice for young people, emphasizing choices, confidence,
+  and personal growth through lived experiences.
 draft: false
 slug: advice-to-young-people
+tags:
+- advice
+- personal growth
+- self-improvement
+- career tips
+- mental health
 ---
 
 # Advice to Young People, The Lies I Tell Myself

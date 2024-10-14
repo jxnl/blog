@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2024-02-03
-description: Discover my journey of doubling testosterone levels, the impacts, and
-  insights gained on motivation, perception, and self-discovery.
+description: Discover one man’s transformative journey of doubling testosterone levels
+  and its effects on motivation and perception.
 draft: false
 slug: testosterone
+tags:
+- testosterone
+- motivation
+- health
+- supplements
+- personal experiences
 ---
 
 # My year at 1100ng/dL

@@ -3,14 +3,19 @@ authors:
 - jxnl
 - jo
 categories:
-- Personal
-- Losing my hands
+- Personal Growth
 comments: true
 date: 2024-04-29
-description: A personal story about losing the ability to work as a software engineer
-  during the pandemic and the journey to recovery and self-worth.
+description: A personal journey exploring the struggle of a machine learning engineer
+  as he faces the consequences of overwork and injury during the pandemic.
 draft: false
 slug: losing-my-hands
+tags:
+- Mental Health
+- Work-Life Balance
+- Machine Learning
+- Personal Growth
+- COVID-19
 ---
 
 # Losing My Hands

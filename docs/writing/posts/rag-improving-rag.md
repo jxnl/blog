@@ -2,12 +2,18 @@
 authors:
 - jxnl
 categories:
-- RAG
+- Software Engineering
 comments: true
 date: 2024-05-22
-description: Learn how to systematically improve Retrieval-Augmented Generation (RAG)
-  systems with practical tips, data analysis, and user feedback.
+description: Discover systematic strategies to enhance your Retrieval-Augmented Generation
+  (RAG) systems for better performance and user experience.
 draft: false
+tags:
+- RAG
+- AI
+- Machine Learning
+- Data Retrieval
+- Performance Optimization
 ---
 
 # Systematically Improving Your RAG

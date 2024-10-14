@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- LLM
+- Applied AI
 comments: true
 date: 2024-03-20
-description: Explore the history of technological skepticism, AI collaboration in
-  education, and the impact of new media through McLuhan's Tetrad.
+description: Explore the role of skepticism in technology's evolution, highlighting
+  AI as a collaborative partner in education and creativity.
 draft: false
 slug: technology-skepticism
+tags:
+- Technological Skepticism
+- AI Collaboration
+- Educational Tools
+- Marshall McLuhan
+- Centaur Chess
 ---
 
 # Unraveling the History of Technological Skepticism

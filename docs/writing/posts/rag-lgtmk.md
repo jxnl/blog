@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- RAG
+- Applied AI
 comments: true
 date: 2024-02-05
-description: Explore effective metrics for retrieval augmented generation systems,
-  emphasizing precision, recall, and the importance of quick iterations.
+description: Explore why LGTM@Few is an ineffective metric for retrieval augmented
+  generation and discover better alternatives for startups.
 draft: false
 slug: when-to-lgtm-at-k
+tags:
+- RAG
+- Metrics
+- AI
+- Startups
+- Data Analysis
 ---
 
 # Stop using LGTM@Few as a metric (Better RAG)

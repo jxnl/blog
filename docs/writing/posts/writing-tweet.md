@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Business
+- Writing and Communication
 comments: true
 date: 2024-01-11
-description: Learn to craft the perfect tweet with effective hooks, body content,
-  and calls to action, boosting engagement and followers on Twitter.
+description: Learn effective strategies for writing impactful tweets, including crafting
+  hooks, retaining attention, and creating engaging calls to action.
 draft: false
 slug: anatomy-of-a-tweet
+tags:
+- Tweet Writing
+- Social Media Strategies
+- Content Creation
+- Twitter Tips
+- Hook and Retain
 ---
 
 # Anatomy of a Tweet

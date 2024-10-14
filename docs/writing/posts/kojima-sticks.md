@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Thoughts
+- Applied AI
 comments: true
 date: 2023-06-01
-description: Explore Kojima's philosophy applied to LLMs, emphasizing empowerment
-  and creative engagement over mere information delivery.
+description: Explore Kojima's philosophy on empowerment in LLMs, advocating creativity
+  and engagement over mere tool usage.
 draft: false
 slug: kojima-sticks
+tags:
+- Kojima
+- Large Language Models
+- Empowerment
+- Creative Thinking
+- AI Philosophy
 ---
 
 # Kojima's Philosophy in LLMs: From Sticks to Ropes

@@ -1,14 +1,20 @@
 ---
 authors:
 - jxnl
+categories:
+- Applied AI
 comments: true
 date: 2024-02-14
-description: Explore our free, under-an-hour course on Weights and Biases. Perfect
-  for all skill levels, accessible to everyone!
+description: Explore our free, one-hour course on Weights and Biases and enhance your
+  machine learning skills.
 draft: false
 slug: weights-and-biases-course
 tags:
-- LLM
+- Weights and Biases
+- Machine Learning
+- Free Course
+- AI
+- Data Science
 ---
 
 # Free course on Weights and Biases

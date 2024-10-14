@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Consulting
+- Entrepreneurship
 comments: true
 date: 2024-05-29
-description: Insights on marketing, positioning, and scaling a consulting business
-  in AI/ML, sharing strategies for generating leads and closing sales.
+description: Explore marketing, positioning, and scaling strategies for AI consulting.
+  Learn to generate leads and close deals effectively.
 draft: false
 slug: marketing-consulting
+tags:
+- consulting
+- marketing
+- lead generation
+- AI
+- positioning
 ---
 
 # Thoughts on Marketing, Positioning, and Scaling my Consulting

@@ -1,7 +1,15 @@
 ---
+categories:
+- Entrepreneurship
 comments: true
-description: Explore insights on consulting, open source, LLMs, and personal stories
-  from an expert's perspective. Join the journey of learning and growth.
+description: Explore insights on consulting, open source, and AI applications through
+  personal stories and expert tips.
+tags:
+- consulting
+- AI
+- open source
+- writing
+- RAG
 ---
 
 # Writing and mumblings

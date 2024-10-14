@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2024-06-30
-description: Explore the challenges of online recognition, balancing visibility and
-  personal space, and the unexpected consequences of digital success.
+description: Explore the challenges of online recognition and its impact on personal
+  and professional life in today's digital age.
 draft: false
 slug: on-getting-recognized
+tags:
+- online presence
+- personal growth
+- digital influence
+- recognition
+- networking
 ---
 
 # On Getting Recognized: The Unexpected Price of Online Success

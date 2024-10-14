@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- RAG
+- Software Engineering
 comments: true
 date: 2024-01-07
-description: Explore the pitfalls of RAG systems in this unconventional guide, focusing
-  on inverted thinking to enhance recommendation techniques.
+description: Explore inverted thinking to build a terrible RAG system and learn pitfalls
+  to avoid for better recommendations.
 draft: false
 slug: inverted-thinking-rag
+tags:
+- RAG systems
+- inverted thinking
+- recommendation systems
+- machine learning
+- software engineering
 ---
 
 # How to build a terrible RAG system

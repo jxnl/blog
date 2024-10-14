@@ -2,12 +2,18 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Writing and Communication
 comments: true
 date: 2024-06-30
-description: Unlock the secrets to impactful writing with practical tips on titles,
-  introductions, hooks, and CTAs to engage your audience effectively.
+description: Learn effective writing strategies to engage readers, craft compelling
+  content, and enhance your storytelling approach.
 draft: false
+tags:
+- writing tips
+- engagement
+- storytelling
+- content creation
+- effective communication
 ---
 
 # How I want you to write 

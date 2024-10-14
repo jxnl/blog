@@ -2,12 +2,18 @@
 authors:
 - jxnl
 categories:
-- RAG
+- Applied AI
 comments: true
 date: 2024-06-29
-description: Explore improving RAG applications by analyzing user queries, focusing
-  on topics and capabilities for effective search functionality.
+description: Explore the significance of topics and capabilities in enhancing RAG
+  data applications and search functionalities across industries.
 draft: false
+tags:
+- RAG
+- Data Analysis
+- Search Functionality
+- Capabilities
+- Topics
 ---
 
 # Art of Looking at RAG Data

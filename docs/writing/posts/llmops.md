@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- LLM
+- Applied AI
 comments: true
 date: 2023-04-04
-description: Discover how Open Telemetry enhances LLM observability and AI agent performance
-  through comprehensive telemetry for model self-improvement.
+description: Explore how to enhance AI agents with LLM observability and Open Telemetry
+  for better performance and optimization.
 draft: false
 slug: good-llm-observability
+tags:
+- LLM
+- Open Telemetry
+- AI Agents
+- Observability
+- Metrics
 ---
 
 # Good LLM Observability is just plain observability

@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Funny Thoughts
+- Personal Growth
 comments: true
 date: 2024-01-18
-description: Explore the contrasting experiences of bathing in American bathhouses
-  versus Japanese onsens, focusing on culture, relaxation, and ritual.
+description: Exploring the contrasting experiences of public baths in America vs.
+  Japan, highlighting cultural differences in relaxation and hygiene.
 draft: false
 slug: public-baths
+tags:
+- bathing
+- onsen
+- cultural differences
+- personal growth
+- spa
 ---
 
 # Public Baths

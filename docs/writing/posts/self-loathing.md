@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2024-01-09
-description: A personal reflection on overcoming resentment towards wealth, exploring
-  themes of struggle, identity, and the impact of childhood experiences.
+description: A reflective piece on self-loathing and the complexities of wealth, envy,
+  and personal growth written from a vulnerable perspective.
 draft: false
 slug: self-loathing
+tags:
+- self-loathing
+- wealth
+- personal growth
+- vulnerability
+- imposter syndrome
 ---
 
 # I used to hate rich people.

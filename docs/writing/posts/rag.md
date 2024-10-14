@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- RAG
+- Applied AI
 comments: true
 date: 2023-09-17
-description: Explore advanced Retrieval Augmented Generation (RAG) techniques that
-  enhance search capabilities beyond simple embedding methods.
+description: Explore the nuances of Retrieval Augmented Generation (RAG) and how query
+  understanding enhances search efficiency.
 draft: false
 slug: rag-is-more-than-embeddings
+tags:
+- RAG
+- Query Understanding
+- AI Systems
+- Search Optimization
+- LLM
 ---
 
 # RAG is more than just embedding search

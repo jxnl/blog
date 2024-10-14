@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Consulting
+- Entrepreneurship
 comments: true
 date: 2024-08-26
-description: Discover insights on AI consulting, shifting from tasks to outcomes,
-  and structuring proposals for success. Unlock your consulting potential!
+description: Discover essential insights on AI consulting, from selling outcomes to
+  structuring proposals and maximizing your value.
 draft: false
 slug: everything-i-know-about-consulting
+tags:
+- AI Consulting
+- Consulting Strategy
+- Building a Consulting Practice
+- Value-Based Pricing
+- Outcomes
 ---
 
 # Everything I Learned from AI Consulting

@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2023-02-05
-description: Explore the thrilling journey of ice freediving in Canada, from overcoming
-  injuries to a dream of swimming with whales.
+description: Dive into the thrilling world of freediving under ice, exploring physical
+  challenges and the beauty of underwater experiences.
 draft: false
 slug: freediving-ice
+tags:
+- freediving
+- ice diving
+- underwater adventure
+- breath-holding
+- fitness journey
 ---
 
 # Freediving under ice

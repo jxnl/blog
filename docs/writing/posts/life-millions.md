@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2024-06-30
-description: Explore a $20 million daydream of life balance, creativity, and intentional
-  living through work, hobbies, travel, and personal growth.
+description: Explore a $20 million daydream focusing on work-life balance, personal
+  growth, and the pursuit of passions for a fulfilling lifestyle.
 draft: false
 slug: life-with-twenty-million
+tags:
+- financial freedom
+- lifestyle design
+- personal growth
+- work-life balance
+- dream life
 ---
 
 # Living My Best Life: A $20 Million Daydream

@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2024-01-08
-description: Explore a personal journey of learning through diverse experiences in
-  design, data science, pottery, weightlifting, and more.
+description: Explore effective learning strategies through the author's life experiences
+  in academia and various hobbies.
 draft: false
 slug: learning
+tags:
+- Learning
+- Personal Development
+- Education
+- Growth Mindset
+- Skill Acquisition
 ---
 
 # Learning to Learn

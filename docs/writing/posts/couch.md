@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2024-01-20
-description: Exploring the limitations of couches in living spaces, and advocating
-  for more dynamic, multi-purpose seating arrangements that enhance social interaction.
+description: Explore a critique on couches, challenging their role in living spaces
+  and promoting more dynamic, multipurpose arrangements for better engagement.
 draft: false
 slug: couchs
+tags:
+- Couches
+- Living Space
+- Personal Growth
+- Health
+- Home Design
 ---
 
 # A Critique on Couches

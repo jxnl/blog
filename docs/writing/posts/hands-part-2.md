@@ -3,14 +3,19 @@ authors:
 - jxnl
 - jo
 categories:
-- Personal
-- Losing my hands
+- Losing my Hands
 comments: true
 date: 2024-05-29
-description: Explore personal growth, immigrant values, and the impact of a repetitive
-  strain injury on life choices and identity in a digital age.
+description: Explore the impact of a repetitive strain injury on identity and values
+  in a personal reflection by Jason.
 draft: false
 slug: losing-my-hands-part-2
+tags:
+- repetitive strain injury
+- personal growth
+- identity
+- values
+- self-reflection
 ---
 
 # Losing My Hands Pt. 2: The Two Jasons

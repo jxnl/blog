@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Consulting
+- Entrepreneurship
 comments: true
 date: 2024-08-23
 description: Discover essential tools and strategies for indie consultants to streamline
-  operations and enhance professionalism in their practices.
+  operations and enhance professionalism in your practice.
 draft: false
 slug: consulting-stack
+tags:
+- Consulting Tools
+- Indie Consultant
+- Business Setup
+- Software Recommendations
+- AI Consulting
 ---
 
 # Best Tools for Indie Consultants

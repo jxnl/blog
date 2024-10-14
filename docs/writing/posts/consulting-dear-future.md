@@ -2,12 +2,18 @@
 authors:
 - jxnl
 categories:
-- Consulting
+- Entrepreneurship
 comments: true
 date: 2024-10-04
-description: Unlock your AI consulting potential with insights from an experienced
-  engineer. Subscribe for actionable strategies and build your freedom and success!
+description: Discover how to leverage your AI skills into a profitable consulting
+  career. Join the Indie AI Consultant newsletter for actionable insights.
 draft: false
+tags:
+- AI consulting
+- freelancing
+- Indie AI Consultant
+- entrepreneurship
+- business growth
 ---
 
 # Dear Future AI Consultant

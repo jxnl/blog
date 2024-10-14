@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Business
+- Software Engineering
 comments: true
 date: 2022-08-01
-description: Discover Flight, a framework at Stitch Fix that enhances real-time recommendation
-  systems through modular data pipelines and improved performance metrics.
+description: Discover how the Flight framework enhances recommendation systems at
+  Stitch Fix, streamlining data pipelines and improving performance.
 draft: false
 slug: stitchfix-framework
+tags:
+- recommendation system
+- data pipelines
+- Stitch Fix
+- Flight framework
+- real-time systems
 ---
 
 # Recommendations with Flight at Stitch Fix

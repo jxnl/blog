@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Entrepreneurship
 comments: true
 date: 2024-02-07
-description: Learn effective strategies for asking for referrals without burdening
-  your network, fostering higher agency and meaningful connections.
+description: Learn effective ways to ask for referrals and improve your networking
+  approach with simple, high-agency strategies.
 draft: false
 slug: how-to-ask
+tags:
+- Networking
+- Referrals
+- Personal Branding
+- Communication
+- Entrepreneurship
 ---
 
 # How to ask for Referrals (Among other things)

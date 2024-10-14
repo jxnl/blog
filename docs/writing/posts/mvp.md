@@ -3,13 +3,19 @@ authors:
 - jxnl
 - jo
 categories:
-- Business
+- Applied AI
 comments: true
 date: 2024-02-18
-description: Explore the essentials of building an MVP for AI applications, focusing
-  on user segments and effective education for better product iteration.
+description: Explore how to define a successful MVP for AI applications by focusing
+  on key segments, limitations, and user education.
 draft: false
 slug: how-to-ship-an-mvp-for-ai-applications
+tags:
+- MVP
+- AI Applications
+- User Education
+- Product Development
+- Entrepreneurship
 ---
 
 # A feat of strength MVP for AI Apps

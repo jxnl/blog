@@ -3,12 +3,18 @@ authors:
 - jxnl
 - eugene
 categories:
-- Thoughts
+- Applied AI
 comments: true
 date: 2024-06-02
-description: Discover 10 common data literacy pitfalls for AI engineers and learn
-  how to avoid them to enhance your data handling and analysis skills.
+description: Explore 10 data literacy pitfalls AI engineers face and learn strategies
+  to enhance data skills for impactful decision-making.
 draft: false
+tags:
+- data literacy
+- AI engineers
+- data analysis
+- machine learning
+- data-driven decision-making
 ---
 
 # 10 Ways to Be Data Illiterate (and How to Avoid Them)

@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Personal
+- Personal Growth
 comments: true
 date: 2024-04-20
-description: Explore how to choose impactful metrics and set process goals for meaningful
-  success, avoiding the pitfalls of outcome-driven thinking.
+description: Discover how to choose effective metrics and set meaningful goals by
+  focusing on leading indicators and process over outcomes.
 draft: false
 slug: getting-goals
+tags:
+- goal setting
+- metrics
+- personal growth
+- leading vs lagging metrics
+- process goals
 ---
 
 # Picking Metrics and Setting Goals

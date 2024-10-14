@@ -1,12 +1,12 @@
 import os
-from typing import Optional, List, Set
+from typing import Optional, List, Set, Literal
 import asyncio
 from openai import AsyncOpenAI
 import typer
 from rich.console import Console
 from rich.progress import Progress
 from rich.table import Table
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 import instructor
 import frontmatter
 
@@ -14,23 +14,39 @@ console = Console()
 client = instructor.from_openai(AsyncOpenAI())
 
 
-async def generate_description(
-    client: AsyncOpenAI, content: str, categories: List[str]
-) -> str:
+async def generate_ai_frontmatter(
+    client: AsyncOpenAI, title: str, content: str, categories: List[str]
+):
     """
-    Generate a description for the given content using AI.
+    Generate a description and categories for the given content using AI.
 
     Args:
         client (AsyncOpenAI): The AsyncOpenAI client.
+        title (str): The title of the markdown file.
         content (str): The content of the file.
         categories (List[str]): List of all available categories.
 
     Returns:
-        str: The generated description.
+        DescriptionAndCategories: The generated description, categories, tags, and reasoning.
     """
 
-    class Description(BaseModel):
+    class DescriptionAndCategories(BaseModel):
         description: str
+        reasoning: str = Field(
+            ..., description="The reasoning for the correct categories"
+        )
+        tags: List[str]
+        categories: List[
+            Literal[
+                "RAG",
+                "Applied AI",
+                "Losing my Hands",
+                "Entrepreneurship",
+                "Personal Growth",
+                "Software Engineering",
+                "Writing and Communication",
+            ]
+        ]
 
     response = await client.chat.completions.create(
         model="gpt-4o-mini",
@@ -39,16 +55,16 @@ async def generate_description(
                 "role": "system",
                 "content": "You are an AI assistant that generates SEO-friendly descriptions for markdown files.",
             },
-            {"role": "user", "content": content},
+            {"role": "user", "content": f"Title: {title}\n\nContent: {content}"},
             {
                 "role": "user",
-                "content": f"Based on the content, generate a brief description (max 160 characters) that would be suitable for SEO purposes. Available categories are: {', '.join(categories)}. Use these categories if relevant.",
+                "content": f"Based on the title and content, generate a brief description (max 160 characters) that would be suitable for SEO purposes. Also, select up to 3 relevant categories from the following list: {', '.join(categories)}. Return both the description and the selected categories. The categories should be pretty strict, so only choose one if you're really sure it's the best choice. Also, suggest up to 5 relevant tags.",
             },
         ],
-        max_tokens=50,
-        response_model=Description,
+        max_tokens=150,
+        response_model=DescriptionAndCategories,
     )
-    return response.description
+    return response
 
 
 def get_all_categories(root_dir: str) -> Set[str]:
@@ -95,7 +111,7 @@ async def process_file(
     client: AsyncOpenAI, file_path: str, categories: List[str], enable_comments: bool
 ) -> None:
     """
-    Process a single file, adding or updating the description in the front matter.
+    Process a single file, adding or updating the description and categories in the front matter.
 
     Args:
         client (AsyncOpenAI): The AsyncOpenAI client.
@@ -104,9 +120,12 @@ async def process_file(
         enable_comments (bool): Whether to enable comments in the front matter.
     """
     post = frontmatter.load(file_path)
+    title = post.metadata.get("title", os.path.basename(file_path))
 
-    description = await generate_description(client, post.content, categories)
-    post.metadata["description"] = description
+    response = await generate_ai_frontmatter(client, title, post.content, categories)
+    post.metadata["description"] = response.description
+    post.metadata["categories"] = response.categories
+    post.metadata["tags"] = response.tags
 
     if enable_comments:
         post.metadata["comments"] = True
@@ -118,7 +137,10 @@ async def process_file(
 
 
 async def process_files(
-    root_dir: str, api_key: Optional[str] = None, use_categories: bool = False, enable_comments: bool = False
+    root_dir: str,
+    api_key: Optional[str] = None,
+    use_categories: bool = False,
+    enable_comments: bool = False,
 ) -> None:
     """
     Process all markdown files in the given directory and its subdirectories.
@@ -142,9 +164,12 @@ async def process_files(
             "[green]Processing files...", total=len(markdown_files)
         )
 
-        for file_path in markdown_files:
+        async def process_and_update(file_path: str) -> None:
             await process_file(client, file_path, categories, enable_comments)
             progress.update(task, advance=1)
+
+        tasks = [process_and_update(file_path) for file_path in markdown_files]
+        await asyncio.gather(*tasks)
 
     console.print("[bold green]All files processed successfully![/bold green]")
 

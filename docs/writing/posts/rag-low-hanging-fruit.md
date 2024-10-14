@@ -5,10 +5,16 @@ categories:
 - RAG
 comments: true
 date: 2024-05-11
-description: Explore key strategies to enhance your RAG search system, including synthetic
-  data, date filters, and full-text search for better results.
+description: Explore low-hanging fruit strategies to enhance your RAG search systems
+  and improve user experience with practical techniques.
 draft: false
 slug: low-hanging-fruit-for-rag-search
+tags:
+- RAG
+- search optimization
+- data-driven
+- user feedback
+- synthetic data
 ---
 
 # Low-Hanging Fruit for RAG Search

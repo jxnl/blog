@@ -5,10 +5,16 @@ categories:
 - RAG
 comments: true
 date: 2024-08-21
-description: Learn effective strategies for optimizing tool retrieval in RAG systems,
-  balancing precision and recall for improved performance.
+description: Learn to optimize tool retrieval in RAG systems by balancing recall and
+  precision for improved performance and efficiency.
 draft: false
 slug: trade-off-tool-selection
+tags:
+- RAG systems
+- tool optimization
+- retrieval strategies
+- precision and recall
+- data analysis
 ---
 
 # Optimizing Tool Retrieval in RAG Systems: A Balanced Approach

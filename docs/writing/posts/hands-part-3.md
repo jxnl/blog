@@ -3,14 +3,19 @@ authors:
 - jxnl
 - jo
 categories:
-- Personal
-- Losing my hands
+- Losing my Hands
 comments: true
 date: 2024-05-27
-description: Explore my journey recovering from RSI, tips for healing, essential products,
-  and insights on personal growth through adversity.
+description: Explore practical advice and tips for managing RSI, drawing from a personal
+  journey of recovery and mindful usage of hands.
 draft: false
 slug: products-and-tips-for-rsi
+tags:
+- RSI
+- Tendonitis
+- Hand Health
+- Personal Recovery
+- Ergonomics
 ---
 
 # Losing my Hands, Advice and Tips for RSI

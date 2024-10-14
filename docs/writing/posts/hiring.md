@@ -3,13 +3,19 @@ authors:
 - jxnl
 - jo
 categories:
-- Business
+- Software Engineering
 comments: true
 date: 2024-04-08
-description: Exploring the pitfalls of early hiring practices for Machine Learning
-  Engineers in startups, emphasizing the need for dedicated research teams.
+description: Explore the pitfalls of hiring machine learning engineers too early in
+  startup cycles and the need for dedicated research teams.
 draft: false
 slug: hiring-mle-at-early-stage-companies
+tags:
+- Machine Learning
+- Startup Hiring
+- AI Research
+- Consulting
+- Engineering
 ---
 
 # Hiring MLEs at early stage companies

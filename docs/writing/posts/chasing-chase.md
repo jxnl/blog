@@ -3,13 +3,19 @@ authors:
 - jxnl
 - jo
 categories:
-- Personal
+- Entrepreneurship
 comments: true
 date: 2024-09-21
-description: A cautionary tale of banking with Chase Bank, highlighting the importance
-  of diversifying your financial partners as a small business owner.
+description: A cautionary tale of a business owner's nightmare with Chase Bank, revealing
+  crucial banking lessons for entrepreneurs.
 draft: false
 slug: chase-bank-small-business-nightmare
+tags:
+- Chase Bank
+- Entrepreneurial Lessons
+- Banking Nightmare
+- Small Business
+- Consulting
 ---
 
 # Chasing Chase: Why I'll Never Trust Chase Bank Again, A Yuppie Nightmare

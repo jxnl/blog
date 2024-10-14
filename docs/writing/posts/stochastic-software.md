@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Business
+- Software Engineering
 comments: true
 date: 2024-01-19
-description: Learn essential tips for developing probabilistic software, focusing
-  on experiments, metrics, and decision-making in machine learning.
+description: Explore key tips for developing probabilistic software and improving
+  decision-making under uncertainty for junior engineers.
 draft: false
 slug: tips-probabilistic-software
+tags:
+- probabilistic software
+- machine learning
+- junior developers
+- decision making
+- experiment design
 ---
 
 # Tips for probabilistic software

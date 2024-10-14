@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- Consulting
+- Applied AI
 comments: true
 date: 2024-09-17
-description: Discover why listing consulting prices can limit your success. Learn
-  effective pricing strategies to maximize value and earnings.
+description: Explore the pitfalls of listing consulting prices and discover effective
+  value-based pricing strategies for maximizing earnings.
 draft: false
 slug: pricing-strategy-for-consultants
+tags:
+- consulting
+- pricing strategy
+- value-based pricing
+- discovery calls
+- business development
 ---
 
 # A surprising reason to not list your consulting prices

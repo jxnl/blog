@@ -2,13 +2,19 @@
 authors:
 - jxnl
 categories:
-- LLM
+- Software Engineering
 comments: true
 date: 2024-02-20
-description: Explore the drawbacks of LLM libraries' string formatting and the importance
-  of flexibility in prompt construction for richer interactions.
+description: Learn how to format prompts correctly for LLM libraries, avoiding common
+  pitfalls in string formatting and library limitations.
 draft: false
 slug: formatting-strings
+tags:
+- LLM
+- string formatting
+- API
+- prompt engineering
+- Python
 ---
 
 # Format your own prompts

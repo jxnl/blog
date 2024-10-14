@@ -2,14 +2,19 @@
 authors:
 - jxnl
 categories:
-- Business
-- Consulting
+- Entrepreneurship
 comments: true
 date: 2024-09-13
-description: 'Master the art of referrals in consulting: learn when to ask, how to
-  approach clients, and techniques for effective introductions.'
+description: Learn effective strategies for requesting and managing consulting referrals
+  to enhance your freelance consulting practice.
 draft: false
 slug: consulting-referrals
+tags:
+- consulting
+- referrals
+- networking
+- business strategy
+- client relationships
 ---
 
 # Affective Consulting: Referrals

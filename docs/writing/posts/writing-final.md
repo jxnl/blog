@@ -2,14 +2,19 @@
 authors:
 - jxnl
 categories:
-- Writing
-- Marketing
+- Writing and Communication
 comments: true
 date: 2024-10-01
-description: Master content creation from tweets to long-form. Learn impactful strategies,
-  audience engagement, and data-driven results for effective writing.
+description: Master content creation from tweets to long-form articles. Learn impactful
+  strategies to engage your audience and drive results.
 draft: false
 slug: content-creation-mastery
+tags:
+- Content Creation
+- Copywriting
+- Digital Marketing
+- Social Media Strategy
+- SEO Writing
 ---
 
 # Content Creation Mastery: From Tweets to Long-Form

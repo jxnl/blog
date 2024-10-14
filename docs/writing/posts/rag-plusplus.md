@@ -6,9 +6,15 @@ categories:
 - RAG
 comments: true
 date: 2024-06-05
-description: Explore the future of RAG as it shifts from Q&A systems to report generation,
-  enhancing decision-making and resource allocation.
+description: Explore the future of RAG in report generation, enhancing decision-making
+  and resource allocation for businesses.
 draft: false
+tags:
+- RAG
+- report generation
+- decision making
+- AI consulting
+- SOP
 ---
 
 # Predictions for the Future of RAG
