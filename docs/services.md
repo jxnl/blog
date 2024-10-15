@@ -53,7 +53,7 @@ These principles ensure that your AI initiatives remain grounded in real-world a
 
 And over the past two years I've worked with a dozen companies to help them navigate the landscape. **I know what works and what doesn't.** For everything else, I have a network of trusted experts and vendors to help us.
 
-You might wonder why I don't start my own company. Sadly, a [hand injury](./writing/posts/hand-injury.md) limits how much I can code. Because of this, I want my coding time to have the biggest impact possible. That's why I mainly focus on [instructor](https://python.useinstructor.com) and [education](./systematically-improve-your-rag.md).
+You might wonder why I don't start my own company. Sadly, a [hand injury](./writing/posts/hands-part-1.md) limits how much I can code. Because of this, I want my coding time to have the biggest impact possible. That's why I mainly focus on [instructor](https://python.useinstructor.com) and [education](./systematically-improve-your-rag.md).
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 

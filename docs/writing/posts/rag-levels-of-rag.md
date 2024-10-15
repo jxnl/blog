@@ -22,7 +22,7 @@ This guide explores different levels of complexity in Retrieval-Augmented Genera
 
 We'll start with the basics, like breaking text into chunks, creating embeddings, and storing data. Then, we'll move on to more complex topics such as improved search methods, creating structured responses, and making systems work better. By the end, you'll know how to build strong RAG systems that can answer tricky questions accurately.
 
-As we explore these topics, we'll use ideas from other resources, like our articles on [data flywheels](writing/posts/data-flywheel.md) and [improving tool retrieval in RAG systems](writing/posts/trade-off-tool-selection.md). These ideas will help you understand how to create systems that keep improving themselves, making your product better and keeping users more engaged.
+As we explore these topics, we'll use ideas from other resources, like our articles on [data flywheels](./data-flywheel.md) and [improving tool retrieval in RAG systems](./trade-off-tool-selection.md). These ideas will help you understand how to create systems that keep improving themselves, making your product better and keeping users more engaged.
 
 Key topics we'll explore include:
 
@@ -34,7 +34,7 @@ Key topics we'll explore include:
 6. Evaluation strategies using synthetic and real-world data
 7. Query enhancement and summarization techniques
 
-This guide aligns with the insights from our [RAG flywheel article](writing/posts/rag-flywheel.md), which emphasizes the importance of continuous improvement in RAG systems through data-driven iterations and user feedback integration.
+This guide aligns with the insights from our [RAG flywheel article](./rag-flywheel.md), which emphasizes the importance of continuous improvement in RAG systems through data-driven iterations and user feedback integration.
 
 <!-- more -->
 
