@@ -108,5 +108,3 @@ Some key takeaways:
 While I may not have $20 million, this exercise has clarified my priorities and given me a roadmap for the life I want to create. It's a reminder that many aspects of our "ideal" life are within reach if we're intentional about our choices.
 
 What would your $20 million life look like? More importantly, what elements of that life can you start incorporating today?
-
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
