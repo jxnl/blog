@@ -21,7 +21,7 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
 
     Enhance your RAG skills with insights on techniques and best practices. Find valuable tips to improve your implementation, from beginner to advanced levels.
 
-    [:octicons-arrow-right-24: Explore RAG resources](/writing/category/rag/)
+    [:octicons-arrow-right-24: Explore RAG resources](writing/category/rag/)
 
 -   :material-briefcase-search:{ .lg .middle } __Looking for AI Engineering Jobs?__
 
@@ -37,7 +37,7 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
 
      practices, strategies, and industry trends. Learn from real-world experiences and expert advice to enhance your consulting skills or make informed decisions for your business.
 
-    [:octicons-arrow-right-24: Read consulting articles](/writing/category/consulting/)
+    [:octicons-arrow-right-24: Read consulting articles](writing/category/consulting/)
 
 
 -   :material-account-group:{ .lg .middle } __Social Media__
