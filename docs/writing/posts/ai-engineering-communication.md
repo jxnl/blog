@@ -13,6 +13,8 @@ tags:
   - "Search Optimization"
 date: 2024-10-15
 comments: true
+authors:
+   - jxnl
 ---
 
 # The right way to do AI engineering updates
