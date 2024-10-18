@@ -21,9 +21,23 @@ comments: true
 
 ---
 
-After working with over a dozen startups trying to build out their AI engineering teams and helping them transition their software engineering practices to applied AI, I noticed a couple of shortcomings, there's a pressing need to adapt our communication methods to better reflect the complexities and uncertainties inherent in these systems.
+In the dynamic realm of AI engineering, effective communication is crucial for project success. Consider two scenarios:
 
-In this post, we'll explore how adopting a more rigorous approach to updates—focusing on hypotheses, interventions, results, and trade-offs—can significantly improve project outcomes. We'll delve into real-world examples, highlighting successes, failures, and the invaluable lessons learned along the way. Whether you're a software engineer new to AI, a junior AI engineer, or a VP of engineering overseeing AI initiatives, this guide aims to enhance your understanding of effective communication in the realm of AI engineering.
+Scenario A: "We made some improvements to the model. It seems better now."
+
+Scenario B: "Our hypothesis was that fine-tuning on domain-specific data would improve accuracy. We implemented this change and observed a 15% increase in F1 score, from 0.72 to 0.83, on our test set. However, inference time increased by 20ms on average."
+
+Scenario B clearly provides more value and allows for informed decision-making. After collaborating with numerous startups on their AI initiatives, I've witnessed the transformative power of precise, data-driven communication. It's not just about relaying information; it's about enabling action, fostering alignment, and driving progress.
+
+<!-- more -->
+
+This post explores the art and science of crafting AI engineering updates that:
+
+1. Clearly articulate hypotheses and interventions
+2. Provide quantifiable results
+3. Highlight trade-offs and implications
+
+By mastering these principles, you'll not only keep your AI projects on track but also cultivate a culture of rigorous experimentation and continuous improvement.
 
 ---
 
@@ -48,13 +62,32 @@ It's a description of an activity, not a description of an experiment.
 | Recall @ 5   | 73%      | 85% (+16.4%)  | 88% (+20.5%) |
 | Recall @ 10  | 80%      | 93% (+16.3%)  | 95% (+18.8%) |
 
+This update effectively communicates several key aspects:
 
-This is a good update. It's clear what was done, the results are quantifiable, and the trade-offs are acknowledged. and came with a table to show the results, no adjectives needed.
+1. **Clear Hypothesis**: The update implies a hypothesis that combining different search techniques (lexical, semantic, and hybrid) would improve recall.
 
-> I tried adding a re-ranking layer. It improves results by like 3% but adds 70ms to 700ms latency to the application. Based on other things I've looked up, it might not be worth it. That said, if any of these re-ranking models were to get faster in the next couple of months, I'd definitely think we should revisit.
+2. **Specific Interventions**: It clearly states what was tried - lexical search, semantic search, and hybrid indexing.
 
-This is also great, even though results are lower, the trade-off is clearly understood and communicated. We even have a plan to revisit if certain conditions are met, like faster or smarter re-ranking models.
+3. **Quantifiable Results**: The update provides precise metrics:
+   - Recall @ 5 improved to 85%
+   - Recall @ 10 improved to 93%
+   - A relative improvement of about 16% from the current deployment
 
+4. **Actionability**: It mentions that the change is "only a few lines of code" and "should be pretty cheap to roll out", providing practical implementation insights.
+
+5. **Data Presentation**: The use of a table to present the results makes it easy to compare the performance of different approaches at a glance.
+
+The key differences between this good update and a bad update are:
+
+1. **Specificity**: It avoids vague terms like "better" and instead provides exact percentages.
+2. **Measurability**: It uses concrete metrics (Recall @ 5 and @ 10) rather than subjective assessments.
+3. **Comparability**: By providing baseline and improvement figures, it allows for easy evaluation of progress.
+4. **Actionability**: It gives an indication of the ease of implementation, which is crucial for decision-making.
+
+This approach to updates enables more informed discussions and decisions about the project's direction and resource allocation.
+
+
+---
 
 ## The Challenge of Communicating
 
@@ -62,6 +95,7 @@ Imagine you're part of a team building an AI agent designed to provide accurate 
 
 Traditional update formats—like stating what you did last week or identifying blockers—aren't sufficient. Instead, we need to shift our focus towards:
 
+- **Assumptions:** What are the underlying beliefs or conditions we're working with?
 - **Hypotheses:** What do we believe will happen if we make a certain change?
 - **Interventions:** What specific actions are we taking to test our hypotheses?
 - **Results:** What are the quantitative outcomes of these interventions?
@@ -118,7 +152,7 @@ Integrating a **hybrid search index** combining BM25 and semantic search will si
 - **Complexity:** Moderate increase in system complexity due to the integration of multiple search techniques.
 - **Computational Cost:** Slight increase in processing time per query (~50ms additional latency).
 
-### **Conclusion**
+### **Takeaway**
 
 The substantial improvement in recall metrics and positive user engagement justified the added complexity and computational costs. This intervention was definitely worth pursuing.
 
@@ -160,7 +194,7 @@ Implementing query expansion using a large language model will enhance search qu
 - **Maintenance Burden:** Higher complexity makes the system more difficult to maintain and scale.
 - **Resource Consumption:** Integrating a large language model requires additional computational resources.
 
-### **Conclusion**
+### **Takeaway**
 
 Despite the modest improvements in recall metrics, the substantial increase in latency and system complexity made this intervention impractical. The potential negative impact on user experience due to increased response times outweighed the marginal gains in search accuracy. Therefore, we decided not to proceed with this intervention. 
 
@@ -260,3 +294,5 @@ These examples and insights demonstrate the value of embracing failure as a lear
 Building and improving AI systems is an iterative journey filled with uncertainties and learning opportunities. By adopting a rigorous approach to updates—focusing on hypotheses, interventions, results, and trade-offs—we can enhance communication, make better-informed decisions, and ultimately build more effective AI agents.
 
 For software engineers transitioning into AI roles, junior AI engineers honing their skills, and VPs overseeing these projects, embracing this communication style is key to navigating the complexities of probabilistic systems. It fosters transparency, encourages collaboration, and drives continuous improvement.
+
+Remember, the goal isn't just to report on what happened, but to provide insights that drive action and progress. By implementing these strategies, you'll not only improve your AI engineering processes but also position yourself as a valuable asset in the rapidly evolving field of applied AI.
