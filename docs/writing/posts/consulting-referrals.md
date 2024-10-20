@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-09-13
 description: Learn effective strategies for requesting and managing consulting referrals

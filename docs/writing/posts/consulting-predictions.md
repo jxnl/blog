@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-09-27
 description: Explore why AI freelancing presents unparalleled opportunities for experts

@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-02-07
 description: Learn effective ways to ask for referrals and improve your networking

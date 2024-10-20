@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-08-26
 description: Discover essential insights on AI consulting, from selling outcomes to

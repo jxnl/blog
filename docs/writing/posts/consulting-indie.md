@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-01-22
 description: Explore the unique value of indie consulting, its differences from big

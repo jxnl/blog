@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-08-23
 description: Discover essential tools and strategies for indie consultants to streamline

@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-05-29
 description: Explore marketing, positioning, and scaling strategies for AI consulting.

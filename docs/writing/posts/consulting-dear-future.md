@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-10-04
 description: Discover how to leverage your AI skills into a profitable consulting

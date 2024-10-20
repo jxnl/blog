@@ -15,7 +15,7 @@ tags:
 - AI Applications
 - User Education
 - Product Development
-- Entrepreneurship
+- Consulting
 ---
 
 # A feat of strength MVP for AI Apps

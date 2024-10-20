@@ -3,7 +3,7 @@ authors:
 - jxnl
 - jo
 categories:
-- Entrepreneurship
+- Consulting
 comments: true
 date: 2024-09-21
 description: A cautionary tale of a business owner's nightmare with Chase Bank, revealing
