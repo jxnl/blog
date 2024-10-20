@@ -5,30 +5,22 @@ description: Expert consulting services to accelerate AI product development, mi
 
 # Consulting Services
 
-
 ??? warning "I'm currently at capacity until the end of April 2025"
 
-    If you'd like to work with me, please [request a consultation](https://form.typeform.com/to/gqgTx3I6) or book a [call](./expert-calls.md).
+## Selected Clients
 
-Imagine two businesses, both have incredible founders and innovators. Both with great investors, and an incredible team of engineers.
+| Client | Description | Contact | Industry |
+|--------|-------------|---------|----------|
+| [Zapier](https://zapier.com/) | Automates workflows by connecting apps and services | VP of Product | Automation |
+| [Timescale](https://timescale.com/) | PostgreSQL-based time-series database | PM | Database |
+| [Limitless AI](http://limitless.ai/) | AI-powered personal memory assistant | CTO | AI |
+| [Trunk Tools](https://trunktools.com/) | AI for construction workforce productivity | VP Eng | Construction |
+| [Naro](http://narohq.com/) | Contextual content delivery for customer interactions | CTO | Sales & Marketing |
 
-But a year down the road, while they might be very alike, there is a big difference.
+... including many others like [Tensorlake](https://tensorlake.ai/), [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), and [Pydantic](http://pydantic.dev/).
 
-**One is still trying to ship its prototype to production. The other is raising their next round to invest in scaling their product.**
-
-## What's the difference?
-
-After consulting with over a dozen companies and investing in a few, it's not a matter of wanting to succeed.
-
-The difference is in how each company navigates the journey of probabilistic software from prototypes to production. It's a complex task:
-
-- **Systems** they build, in code and best practices chosen as a team
-- **Experiments** they prioritize, and ones they cut early
-- How they **manage what they can measure**
-
-With ever-improving models, technology fundamentally changes how products are built. You often cannot choose what science can do.
-
-The switch from deterministic to probabilistic software hasn't been easy.
+[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
+[See Testimonials](#what-people-are-saying){ .md-button }
 
 ## My background is not like many others
 
@@ -42,6 +34,7 @@ Sound familiar?
 - *How do we do search?* 
 - *How do we understand relevance?*
 - *How do we build a system that can improve over time using user feedback?*
+- *How do we set goals, prioritize experiments, and allocate resources?*
 
 I'm not a researcher stuck on shiny models. Instead, I'll guide you towards practical solutions. 
 
@@ -51,7 +44,7 @@ I'm not a researcher stuck on shiny models. Instead, I'll guide you towards prac
 
 These principles ensure that your AI initiatives remain grounded in real-world applications and deliver tangible results.
 
-And over the past two years I've worked with a dozen companies to help them navigate the landscape. **I know what works and what doesn't.** For everything else, I have a network of trusted experts and vendors to help us.
+And over the past few years I've worked with a dozen companies to help them navigate the landscape. **I know what works and what doesn't.** For everything else, I have a network of trusted experts and vendors to help us.
 
 You might wonder why I don't start my own company. Sadly, a [hand injury](./writing/posts/hands-part-1.md) limits how much I can code. Because of this, I want my coding time to have the biggest impact possible. That's why I mainly focus on [instructor](https://python.useinstructor.com) and [education](./systematically-improve-your-rag.md).
 
@@ -66,20 +59,6 @@ I can't promise you'll succeed or find product-market fit if you work together, 
 My job is simple: to tell you when what you think is easy is actually hard, and when what you think is hard is actually easy.
 
 Success is about minimizing regret.
-
-## Selected Clients
-
-
-| Client | Description | Contact | Industry |
-|--------|-------------|---------|----------|
-| [Zapier](https://zapier.com/) | Automates workflows by connecting apps and services | VP of Product | Automation |
-| [Timescale](https://timescale.com/) | PostgreSQL-based time-series database | PM | Database |
-| [Limitless AI](http://limitless.ai/) | AI-powered personal memory assistant | CTO | AI |
-| [Trunk Tools](https://trunktools.com/) | AI for construction workforce productivity | VP Eng | Construction |
-| [Naro](http://narohq.com/) | Contextual content delivery for customer interactions | CTO | Sales & Marketing |
-
-... including many others like [Tensorlake](https://tensorlake.ai/), [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), and [Pydantic](http://pydantic.dev/).
-
 
 ## What people are saying
 
