@@ -7,17 +7,26 @@ description: Expert consulting services to accelerate AI product development, mi
 
 ??? warning "I'm currently at capacity until the end of April 2025"
 
-## Selected Clients
+If you're an engineering leader at a startup looking to systematically improve your AI product, I'd love to help. My experience includes:
 
-| Client | Description | Contact | Industry |
-|--------|-------------|---------|----------|
-| [Zapier](https://zapier.com/) | Automates workflows by connecting apps and services | VP of Product | Automation |
-| [Timescale](https://timescale.com/) | PostgreSQL-based time-series database | PM | Database |
-| [Limitless AI](http://limitless.ai/) | AI-powered personal memory assistant | CTO | AI |
-| [Trunk Tools](https://trunktools.com/) | AI for construction workforce productivity | VP Eng | Construction |
-| [Naro](http://narohq.com/) | Contextual content delivery for customer interactions | CTO | Sales & Marketing |
+- Helping companies hire and screen AI engineering teams to secure Series B funding
+- Pivoting products to AI-powered solutions that collect data for model improvement
+- Training and upskilling teams transitioning from software engineering to building probabilistic applications
 
-... including many others like [Tensorlake](https://tensorlake.ai/), [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), and [Pydantic](http://pydantic.dev/).
+I can guide you through the challenges of AI product development, ensuring your team is well-equipped to succeed in this rapidly evolving field.
+
+## Some of my clients
+
+| Client                                        | Description                                                | Contact      | Industry           |
+|-----------------------------------------------|------------------------------------------------------------|--------------|--------------------|
+| [Zapier](https://zapier.com/)                 | Automates workflows by connecting apps and services        | VP of Product| Automation         |
+| [Timescale](https://timescale.com/)           | PostgreSQL-based time-series database                      | PM           | Database           |
+| [Tensorlake](https://tensorlake.ai/)          | AI-native Data Lake / Extraction                           | CEO          | Data               |
+| [Limitless AI](http://limitless.ai/)          | AI-powered personal memory assistant                       | CTO          | AI                 |
+| [Trunk Tools](https://trunktools.com/)        | AI for construction workforce productivity                 | VP Eng       | Construction       |
+| [Naro](http://narohq.com/)                    | Contextual content delivery for customer interactions      | CTO          | Sales & Marketing  |
+
+... including many others like[New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), and [Pydantic](http://pydantic.dev/).
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 [See Testimonials](#what-people-are-saying){ .md-button }
