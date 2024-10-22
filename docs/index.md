@@ -7,7 +7,7 @@ description: Explore RAG techniques, AI engineering jobs, and consulting insight
 
 I'm a machine learning engineer, angel investor, and startup advisor. Creator of [Instructor](https://github.com/jxnl/instructor) and ML/data science educator. I write about consulting, open source, personal work, and applying LLMs. 
 
-[Help me improve my RAG](./systematically-improve-your-rag.md){ .md-button .md-button--primary }
+[Subscribe to my Newsletter]([./systematically-improve-your-rag.md](https://subscribe.jxnl.co/)){ .md-button .md-button--primary }
 [Work with me](services.md){ .md-button .md-button--secondary }
 
 
