@@ -5,7 +5,7 @@ description: Expert consulting services to accelerate AI product development, mi
 
 # Consulting Services
 
-??? warning "I'm currently at capacity until the end of April 2025"
+??? warning "I'm currently at capacity until the end of March 2025"
 
 If you're an engineering leader at a startup looking to systematically improve your AI product, I'd love to help. My experience includes:
 
