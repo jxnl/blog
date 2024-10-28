@@ -109,8 +109,8 @@ Theres only one kind of inventory and one kind of question. We should just assum
 
 Once we run our GPT-4 self critique evaluations we'll know how well our system is doing and it'll make us more money, We should spend most of our time writing evaluation prompts and measuring precision / recall and just launching the best one. A/B tests are a waste of time and we should just assume that the best performing prompt will be the best performing business outcome.
 
-## Subscribe for more content
+## Want to learn more?
 
-If you liked this content, consider subscribing to my newsletter.
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
 
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

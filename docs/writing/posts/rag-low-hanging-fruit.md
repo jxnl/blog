@@ -159,8 +159,8 @@ By focusing on these low-hanging fruit opportunities, you can significantly enha
 
 If you have any questions about these details, please leave a comment below and let's get a conversation started. My goal really is to bring the unconscious conscious and being able to answer questions will really help me clarify my own thinking. 
 
-# Subscribe for more content
+## Want to learn more?
 
-If you liked this content, consider subscribing to my newsletter.
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
 
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

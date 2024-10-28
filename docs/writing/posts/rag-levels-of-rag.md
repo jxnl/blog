@@ -420,9 +420,8 @@ As we continue to explore the depths of RAG applications, the following areas wi
 
 - Modeling Business Outcomes: Applying RAG techniques to predict and model business outcomes, facilitating strategic decision-making.
 
+## Want to learn more?
 
-## Subscribe for more content
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
 
-If you liked this content, consider subscribing to my newsletter.
-
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

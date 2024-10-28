@@ -127,8 +127,8 @@ This systematic approach does more than just improve your RAG system. It fundame
 
 Remember, the goal isn't to have a perfect system on day one. It's to build a flywheel of continuous improvement that compounds over time. Start simple, measure relentlessly, and iterate based on real-world feedback. That's how you build RAG applications that truly deliver value.
 
-# Subscribe for more content
+## Want to learn more?
 
-If you liked this content, consider subscribing to my newsletter.
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
 
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

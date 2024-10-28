@@ -55,11 +55,12 @@ Ultimately, a report's value goes beyond a wage worker answering questions—it 
 
 If RAG primarily becomes report generation it means two things are possible: 1. a marketplace of report-generating tools, and 2. the ability to effectively find the right report for your desired outcome. I think that question-answer sets are going to be of limited usefulness, while report generation addresses not only question-answer sets but the value of decision-making. When these reports are available in a marketplace of templates, they add further value because understanding what the template is defining becomes a skill in itself. These are the kinds of skills that people then take workshops on, get coaches for, and buy books about.
 
-## Subscribe to my writing
+## Want to learn more?
 
-I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
 
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
 
 ## Related Posts
 

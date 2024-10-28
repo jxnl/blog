@@ -181,8 +181,8 @@ For example, if you're building a medical diagnostic tool, a slight increase in 
 
 This is was written based off of a 30 conversation with a client, so I know I'm skipping over many details and implementation details. Leave a comment and let me know and we can get into specifics.
 
-## Subscribe for more content
+## Want to learn more?
 
-If you liked this content, consider subscribing to my newsletter.
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
 
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
