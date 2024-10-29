@@ -21,6 +21,8 @@ When I talk to engineering leaders struggling with their AI teams, I often hear 
 
 This frustration stems from a fundamental misunderstanding: AI development isn't just engineering - it's applied research. And this changes everything about how we need to think about progress, goals, and team management. In a previous article I wrote about [communication](./ai-engineering-communication.md) for AI teams. Today I want to talk about standups specifically.
 
+The ticket is not the feature, the ticket is the experiment, the outcome is learning.
+
 <!--more-->
 
 !!! "note" "Who am I?"
@@ -210,4 +212,4 @@ The fundamental nature of AI development as research rather than pure engineerin
 
 The key is shifting focus from output metrics ("why isn't accuracy improving?") to input metrics ("how can we run more experiments?"). This not only leads to better decision-making but also helps build the scientific intuition necessary for long-term success in AI development.
 
-Remember: You're not just building features as if you're connecting a react app to a database - you're pushing the boundaries of what's possible as new models are developed. 
+Remember: You're not just building features as if you're connecting a react app to a database - you're pushing the boundaries of what's possible as new models are developed.; 
