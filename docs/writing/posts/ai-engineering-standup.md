@@ -23,10 +23,9 @@ This frustration stems from a fundamental misunderstanding: AI development isn't
 
 The ticket is not the feature, the ticket is the experiment, the outcome is learning.
 
-<!--more-->
+<!-- more -->
 
 !!! "note" "Who am I?"
-
     I'm an AI engineering consultant specializing in process improvement for rapidly growing startups. With a background as a staff machine learning engineer, I've spent the past year collaborating with numerous AI startups. This experience has given me unique insights into common pitfalls and best practices in the field. My goal is to help engineering teams avoid recurring mistakes and implement more effective, data-driven processes for AI development and deployment.
 
 ## The Fundamental Difference
@@ -212,4 +211,8 @@ The fundamental nature of AI development as research rather than pure engineerin
 
 The key is shifting focus from output metrics ("why isn't accuracy improving?") to input metrics ("how can we run more experiments?"). This not only leads to better decision-making but also helps build the scientific intuition necessary for long-term success in AI development.
 
+<<<<<<< HEAD
 Remember: You're not just building features as if you're connecting a react app to a database - you're pushing the boundaries of what's possible as new models are developed.; 
+=======
+Remember: You're not just building features as if you're connecting a react app to a database - you're pushing the boundaries of what's possible as new models are developed. 
+>>>>>>> refs/remotes/origin/main
