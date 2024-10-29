@@ -21,10 +21,9 @@ When I talk to engineering leaders struggling with their AI teams, I often hear 
 
 This frustration stems from a fundamental misunderstanding: AI development isn't just engineering - it's applied research. And this changes everything about how we need to think about progress, goals, and team management. In a previous article I wrote about [communication](./ai-engineering-communication.md) for AI teams. Today I want to talk about standups specifically.
 
-<!--more-->
+<!-- more -->
 
 !!! "note" "Who am I?"
-
     I'm an AI engineering consultant specializing in process improvement for rapidly growing startups. With a background as a staff machine learning engineer, I've spent the past year collaborating with numerous AI startups. This experience has given me unique insights into common pitfalls and best practices in the field. My goal is to help engineering teams avoid recurring mistakes and implement more effective, data-driven processes for AI development and deployment.
 
 ## The Fundamental Difference
