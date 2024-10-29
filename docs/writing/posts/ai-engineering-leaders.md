@@ -11,6 +11,7 @@ date: 2024-10-29
 comments: true
 authors:
    - jxnl
+   - skylar
 ---
 
 # How to Lead AI Engineering Teams
