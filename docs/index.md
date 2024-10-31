@@ -15,13 +15,16 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
 
 <div class="grid cards" markdown>
 
--   :material-book-open-variant:{ .lg .middle } __Struggling with RAG?__
+-   :material-school:{ .lg .middle } __Free Education__
 
     ---
 
-    Enhance your RAG skills with insights on techniques and best practices. Find valuable tips to improve your implementation, from beginner to advanced levels.
+    Join our free email courses: Learn a proven framework for improving RAG performance and quality, or get insights from advising 30+ companies on AI implementation. Perfect for both technical practitioners and busy executives.
 
-    [:octicons-arrow-right-24: Explore RAG resources](writing/category/rag/)
+    [:octicons-arrow-right-24: Improving RAG](https://fivesixseven.ck.page/2994ff4e37)
+
+    [:octicons-arrow-right-24: AI for Executives](https://dub.link/ai-mastery-execs)
+
 
 -   :material-briefcase-search:{ .lg .middle } __Looking for AI Engineering Jobs?__
 
@@ -30,6 +33,14 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
     Discover AI engineering roles at well-funded startups. Our job board features companies with strong growth potential and innovative projects.
 
     [:octicons-arrow-right-24: Browse AI jobs](https://jobs.applied-llms.org/)
+    
+-   :material-book-open-variant:{ .lg .middle } __Struggling with RAG?__
+
+    ---
+
+    Enhance your RAG skills with insights on techniques and best practices. Find valuable tips to improve your implementation, from beginner to advanced levels.
+
+    [:octicons-arrow-right-24: Explore RAG resources](writing/category/rag/)
 
 -   :material-pencil:{ .lg .middle } __Consulting Insights__
 
