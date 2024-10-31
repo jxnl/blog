@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Applied AI
+- RAG
 comments: true
 date: 2024-02-05
 description: Explore why LGTM@Few is an ineffective metric for retrieval augmented

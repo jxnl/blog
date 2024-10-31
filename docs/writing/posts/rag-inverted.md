@@ -2,9 +2,9 @@
 authors:
 - jxnl
 categories:
-- Software Engineering
+- RAG
 comments: true
-date: 2024-01-07
+date: 2024-10-31
 description: Explore inverted thinking to build a terrible RAG system and learn pitfalls
   to avoid for better recommendations.
 draft: false

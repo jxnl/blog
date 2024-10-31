@@ -4,7 +4,7 @@ authors:
 categories:
 - Personal Growth
 comments: true
-date: 2024-01-01
+date: 2024-10-31
 description: A personal journey exploring machine learning, art, and life experiences
   while learning to cope with RSI and redefining self-worth.
 draft: false

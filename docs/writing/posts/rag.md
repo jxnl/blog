@@ -2,7 +2,7 @@
 authors:
 - jxnl
 categories:
-- Applied AI
+- RAG
 comments: true
 date: 2023-09-17
 description: Explore the nuances of Retrieval Augmented Generation (RAG) and how query

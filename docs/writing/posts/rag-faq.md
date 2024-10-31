@@ -1,5 +1,12 @@
 ---
-description: "Answers to frequently asked questions about the 'Systematically Improving RAG Applications' course"
+authors:
+- jxnl
+categories:
+- RAG
+comments: true
+description: Answers to frequently asked questions about the "Systematically Improving RAG Applications" course
+draft: false
+
 date: 2024-10-26
 ---
 

@@ -2,9 +2,9 @@
 authors:
 - jxnl
 categories:
-- Software Engineering
+- RAG
 comments: true
-date: 2024-05-22
+date: 2024-10-31
 description: Discover systematic strategies to enhance your Retrieval-Augmented Generation
   (RAG) systems for better performance and user experience.
 draft: false
