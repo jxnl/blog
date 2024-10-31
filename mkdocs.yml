@@ -128,18 +128,16 @@ nav:
     - Investments: "investments.md"
     - User Manual: "user_manual.md"
     - Books: 'books.md'
+  - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
   - Consulting:
     - Consulting Services: "services.md"
     - Jump on a Call: "expert-calls.md"
     - Experts and Vendors: "experts-and-vendors.md"
-  - AI Engineering Job Board: "https://jobs.applied-llms.org"
-  - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
+  - Job Board: "https://jobs.applied-llms.org"
+  - For Busy Executives: "https://dub.link/ai-mastery-execs"
   - Writing:
     - "writing/index.md"
 plugins:
-  - redirects:
-      redirect_maps:
-          jobs.md: https://jobs.applied-llms.org
   - social
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
