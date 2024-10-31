@@ -27,6 +27,10 @@ In contrast to these large firms, indie consulting focuses on specialized expert
 
 <!-- more -->
 
+If you want to get a slow drip of educational content checkout my newsletter dedicated to indie consulting
+
+[Subscribe to my Indie Consulting Newsletter](https://indieconsulting.podia.com/){ .md-button .md-button--primary }
+
 !!! warning "The failure of big time consulting"
 
     The difference between Indie Consulting and Big Time Consulting as I define it can be captured in one simple idea. Something that [Steve Jobs once talked about](https://www.youtube.com/watch?v=-c4CNB80SRc):
