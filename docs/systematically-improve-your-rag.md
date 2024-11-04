@@ -9,6 +9,11 @@ description: Enhance your RAG applications with our expert-led course. Learn pra
 
 Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive course launching in February 2024. Learn to build a powerful flywheel for continuous improvement in your AI applications, guided by industry experts.
 
+### Students from Notable Companies:
+
+[Google](https://www.google.com), [OpenAI](https://www.openai.com), [Stanford University](https://www.stanford.edu), [University of California, Berkeley](https://www.berkeley.edu), [Adobe](https://www.adobe.com), [Shopify](https://www.shopify.com), [ClickUp](https://www.clickup.com), [GitLab](https://www.gitlab.com), [Zapier](https://www.zapier.com), [Novo Nordisk](https://www.novonordisk.com), [DraftKings](https://www.draftkings.com), [ProtonMail](https://www.protonmail.com), [Miro](https://www.miro.com), [Bain & Company](https://www.bain.com), [Klaviyo](https://www.klaviyo.com)
+
+
 ## What You'll Learn
 
 Our six-week program is designed to take you from RAG basics to advanced implementation strategies. Here's a breakdown of what you can expect:

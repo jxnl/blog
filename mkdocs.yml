@@ -55,18 +55,7 @@ theme:
     - search.suggest
     - toc.follow
   palette:
-      - scheme: default 
-        primary: black 
-        accent: indigo
-        toggle:
-          icon: material/brightness-7
-          name: Switch to dark mode
-      - scheme: slate
-        primary: black
-        accent: indigo
-        toggle:
-          icon: material/brightness-4
-          name: Switch to light mode
+      - scheme: youtube
   font:
     text: Roboto
     code: Roboto Mono
@@ -167,6 +156,8 @@ extra:
       link: https://twitter.com/jxnlco
     - icon: fontawesome/brands/github
       link: https://github.com/jxnl
+extra_css:
+  - stylesheets/extra.css
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/analytics.js
