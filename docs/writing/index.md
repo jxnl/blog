@@ -27,7 +27,7 @@ For posts about RAG (Retrieval-Augmented Generation) or LLMs (Large Language Mod
 
 ## RAG and LLM Insights
 
-- [Future of RAG](./posts/rag-plus-plus.md): What's next for RAG?
+- [Future of RAG](./posts/rag-plusplus.md): What's next for RAG?
 - [RAG: More Than Just Embeddings](./posts/rag.md): Understanding the full scope of RAG systems
 - [RAG Complexity Levels](./posts/rag-levels-of-rag.md): Breaking down the layers of RAG implementation
 - [Improving Your RAG System](./posts/rag-improving-rag.md): Steps to enhance RAG performance
