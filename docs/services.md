@@ -15,6 +15,8 @@ If you're an engineering leader at a startup looking to systematically improve y
 
 I can guide you through the challenges of AI product development, ensuring your team is well-equipped to succeed in this rapidly evolving field.
 
+And over the past few years I've worked with a dozen companies to help them navigate the landscape. **I've seen what works and what doesn't.** For everything else, we can lean on a network of trusted experts and founders.
+
 ## Some of my clients
 
 | Client                                        | Description                                                | Contact      | Industry           |
@@ -55,7 +57,6 @@ I'm not a researcher stuck on shiny models. Instead, I'll guide you towards prac
 
 These principles ensure that your AI initiatives remain grounded in real-world applications and deliver tangible results.
 
-And over the past few years I've worked with a dozen companies to help them navigate the landscape. **I know what works and what doesn't.** For everything else, I have a network of trusted experts and vendors to help us.
 
 You might wonder why I don't start my own company. Sadly, a [hand injury](./writing/posts/hands-part-1.md) limits how much I can code. Because of this, I want my coding time to have the biggest impact possible. That's why I mainly focus on [instructor](https://python.useinstructor.com) and [education](./systematically-improve-your-rag.md).
 
