@@ -20,13 +20,15 @@ I can guide you through the challenges of AI product development, ensuring your 
 | Client                                        | Description                                                | Contact      | Industry           |
 |-----------------------------------------------|------------------------------------------------------------|--------------|--------------------|
 | [Zapier](https://zapier.com/)                 | Automates workflows by connecting apps and services        | VP of Product| Automation         |
-| [Timescale](https://timescale.com/)           | PostgreSQL-based time-series database                      | PM           | Database           |
+| [HubSpot](https://hubspot.com/)               | CRM and marketing automation platform                      | GM           | Sales & Marketing  |
+| [Enterpret](https://enterpret.com/)           | AI-powered customer feedback analysis                      | CTO          | Analytics          |
 | [Tensorlake](https://tensorlake.ai/)          | AI-native Data Lake / Extraction                           | CEO          | Data               |
 | [Limitless AI](http://limitless.ai/)          | AI-powered personal memory assistant                       | CTO          | AI                 |
 | [Trunk Tools](https://trunktools.com/)        | AI for construction workforce productivity                 | VP Eng       | Construction       |
 | [Naro](http://narohq.com/)                    | Contextual content delivery for customer interactions      | CTO          | Sales & Marketing  |
+| [New Computer](http://new.computer/)          | AI-powered software development tools                      | CEO          | Developer Tools    |
 
-... including many others like[New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), and [Pydantic](http://pydantic.dev/).
+... including many others like [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 [See Testimonials](#what-people-are-saying){ .md-button }
