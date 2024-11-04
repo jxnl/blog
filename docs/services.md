@@ -9,13 +9,19 @@ description: Expert consulting services to accelerate AI product development, mi
 
 If you're an engineering leader at a startup looking to systematically improve your AI product, I'd love to help. My experience includes:
 
-- Helping companies hire and screen AI engineering teams to secure Series B funding
-- Pivoting products to AI-powered solutions that collect data for model improvement
 - Training and upskilling teams transitioning from software engineering to building probabilistic applications
+- Pivoting products to AI-powered solutions that collect data for model improvement
+- Hiring and screening AI engineering teams
 
 I can guide you through the challenges of AI product development, ensuring your team is well-equipped to succeed in this rapidly evolving field.
 
 And over the past few years I've worked with a dozen companies to help them navigate the landscape. **I've seen what works and what doesn't.** For everything else, we can lean on a network of trusted experts and founders.
+
+I'm not a researcher stuck on shiny models. Instead, I'll guide you towards practical solutions. 
+
+- Create simple baselines
+- Focus on simple systems
+- Prioritize business outcomes
 
 ## Some of my clients
 
@@ -49,13 +55,6 @@ Sound familiar?
 - *How do we build a system that can improve over time using user feedback?*
 - *How do we set goals, prioritize experiments, and allocate resources?*
 
-I'm not a researcher stuck on shiny models. Instead, I'll guide you towards practical solutions. 
-
-- Create simple baselines
-- Focus on simple systems
-- Prioritize business outcomes
-
-These principles ensure that your AI initiatives remain grounded in real-world applications and deliver tangible results.
 
 
 You might wonder why I don't start my own company. Sadly, a [hand injury](./writing/posts/hands-part-1.md) limits how much I can code. Because of this, I want my coding time to have the biggest impact possible. That's why I mainly focus on [instructor](https://python.useinstructor.com) and [education](./systematically-improve-your-rag.md).
