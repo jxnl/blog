@@ -11,12 +11,19 @@ Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive
 
 ### Students from Notable Companies:
 
-[Google](https://www.google.com), [OpenAI](https://www.openai.com), [Stanford University](https://www.stanford.edu), [University of California, Berkeley](https://www.berkeley.edu), [Adobe](https://www.adobe.com), [Shopify](https://www.shopify.com), [ClickUp](https://www.clickup.com), [GitLab](https://www.gitlab.com), [Zapier](https://www.zapier.com), [Novo Nordisk](https://www.novonordisk.com), [DraftKings](https://www.draftkings.com), [ProtonMail](https://www.protonmail.com), [Miro](https://www.miro.com), [Bain & Company](https://www.bain.com), [Klaviyo](https://www.klaviyo.com)
+[Amazon](https://www.amazon.com), [Google](https://www.google.com), [OpenAI](https://www.openai.com), [Stanford University](https://www.stanford.edu), [University of California, Berkeley](https://www.berkeley.edu), [Adobe](https://www.adobe.com), [Shopify](https://www.shopify.com), [ClickUp](https://www.clickup.com), [GitLab](https://www.gitlab.com), [Zapier](https://www.zapier.com), [Novo Nordisk](https://www.novonordisk.com), [DraftKings](https://www.draftkings.com), [ProtonMail](https://www.protonmail.com), [Miro](https://www.miro.com), [Bain & Company](https://www.bain.com), [Klaviyo](https://www.klaviyo.com)
 
+## Not ready for a course? Check out my free RAG Playbook
+
+Not ready to invest in a paid course yet? Start with my free RAG Playbook newsletter course. You'll get bite-sized lessons delivered straight to your inbox, covering the fundamentals of RAG systems and practical tips for improvement.
+
+[Free 6 Day RAG Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
+
+Once you're comfortable with the basics and ready to take your RAG skills to the next level, consider enrolling in our comprehensive course in February 2024.
 
 ## What You'll Learn
 
-Our six-week program is designed to take you from RAG basics to advanced implementation strategies. Here's a breakdown of what you can expect:
+Our six-week program is designed to take you from RAG basics to advanced implementation strategies. Perfect for those who deployed RAG systems and want to improve them and cover the last mile of RAG. Here's a breakdown of what you can expect:
 
 ### Weeks 1-2: Foundations and Evaluation
 
