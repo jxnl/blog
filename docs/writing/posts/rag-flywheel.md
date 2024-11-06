@@ -39,6 +39,12 @@ Let's break this down step-by-step:
 
 <!-- more -->
 
+
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
+
 ## 1. Start with Synthetic Data
 
 The biggest mistake I see teams make is spending too much time on complex generation before understanding if their retrieval even works. Synthetic data is your secret weapon here.

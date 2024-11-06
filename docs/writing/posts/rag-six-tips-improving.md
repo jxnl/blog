@@ -17,6 +17,12 @@ tags:
 
 In the rapidly evolving landscape of AI applications, Retrieval-Augmented Generation (RAG) has emerged as a crucial technology for building reliable, knowledge-grounded AI systems. However, many organizations struggle to move beyond basic implementations to create truly effective RAG applications. This comprehensive guide explores six proven strategies to significantly improve your RAG system's performance.
 
+<!-- more -->
+
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
 ## 1. Building a Data Flywheel with Synthetic Testing
 
 One of the most common pitfalls in RAG development is relying on "looks good to me" testing instead of systematic evaluation. The solution? Start with synthetic testing data.

@@ -29,6 +29,10 @@ This approach aligns with our broader discussion on RAG systems, which you can e
 
 <!-- more -->
 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
 !!! tip "Inventory"
 
     You'll often see me use the term inventory. I use it to refer to the set of documents that we're searching over. It's a term that I picked up from the e-commerce world. It's a great term because it's a lot more general than the term corpus. It's also a lot more specific than the term collection. It's a term that can be used to refer to the set of documents that we're searching over, the set of products that we're selling, or the set of items that we're recommending.

@@ -36,6 +36,12 @@ I'll cover the different relevancy and ranking metrics, some stories to help you
 
 <!-- more -->
 
+
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
+
 ## When to look at data?
 
 Look at data when the problem is very new. Do not rely on any kinds of metrics just yet. Look at the queries people are asking. Look at the documents that people are submitting. Look at the text chunks and see whether or not a single text chunk could possibly answer a question your user might have, or if you need multiple text chunks to piece together a complete answer. Look at the results from initial prototypes to understand if the retrieval task is technically feasible.

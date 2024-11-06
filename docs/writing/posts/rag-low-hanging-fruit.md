@@ -29,9 +29,10 @@ In this post, we'll explore six key areas where you can focus your efforts to im
 
 <!-- more -->
 
-!!! note "Consulting Services"
 
-    I like to give the ideas for free but sell the implementation. If you're interested in getting some help on improving your rag application. Take a look at my [consulting services](../../services.md).
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
 
 By addressing these low-hanging fruit, you can take your RAG search system to the next level, providing users with more relevant, accurate, and timely information. Let's dive in and explore each of these opportunities in more detail.
 
