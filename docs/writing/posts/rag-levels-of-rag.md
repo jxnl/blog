@@ -38,6 +38,10 @@ This guide aligns with the insights from our [RAG flywheel article](./rag-flywhe
 
 <!-- more -->
 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
 ## Level 1: The Basics
 
 Welcome to the foundational level of RAG applications! Here, we'll start with the basics, laying the groundwork for your journey into the realm of Retrieval-Augmented Generation. This level is designed to introduce you to the core concepts and techniques essential for working with RAG models. By the end of this section, you'll have a solid understanding of how to traverse file systems for text generation, chunk and batch text for processing, and interact with embedding APIs. Let's dive in and explore the exciting capabilities of RAG applications together!
