@@ -65,7 +65,7 @@ You might wonder why I don't start my own company. Sadly, a [hand injury](./writ
 
 I've seen companies waste months and millions.
 
-I can't promise you'll succeed or find product-market fit if you work together, but I can promise that I can help you make a clear plan, push your team to keep trying simple experiments, and focus on what really matters.
+I can't promise you'll succeed or find product-market fit if we work together, but I can promise to help you make a clear plan, encourage your team to keep trying simple experiments, and focus on what really matters.
 
 My job is simple: to tell you when what you think is easy is actually hard, and when what you think is hard is actually easy.
 
