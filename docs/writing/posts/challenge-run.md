@@ -18,6 +18,12 @@ Here's the biggest lesson I learned about business and life through Elden Ring: 
 
 If you've ever watched Elden Ring or played the game, you'll notice something fascinating: there are countless ways to play. You can use summons, magic, or focus on dexterity builds. But scroll through the comments, and you'll find an endless purity contest:
 
+<!-- more -->
+
+I'm going to try to write more personal work on my substack, so if you want to read more, [check it out here](https://jxnl.substack.com/p/purity-olympics-your-life-is-not){ .md-button .md-button--primary }.
+
+Ok, lets continue.
+
 "Oh, you use summons? That's cheap." "Magic? Real players don't use magic." "A true gamer beats it with melee, learn to dodge and parry."
 
 But here's the kicker – while these "purists" are arguing about the "right" way to play, there's someone out there beating the entire game with DDR dance pads or Donkey Kong bongos. And those absolute legends? They're not the ones judging how others play. They're just happy people are enjoying the game.
