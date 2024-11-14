@@ -7,20 +7,16 @@ description: Expert consulting services to accelerate AI product development, mi
 
 ??? warning "I'm currently at capacity until the end of March 2025"
 
-If you're an engineering leader at a startup looking to systematically improve your AI product, I'd love to help. My experience includes:
+If you're an engineering leader at a startup aiming to roll out your AI to production, I can help. My experience includes:
 
-- Training and upskilling teams transitioning from software engineering to building probabilistic applications
-- Pivoting products to AI-powered solutions that collect data for model improvement
-- Hiring and screening AI engineering teams
+- Training teams transitioning to probabilistic applications
+- Pivoting products to AI-powered solutions that collect data 
+- Hiring and evaluating AI engineering teams
 
-I can guide you through the challenges of AI product development, ensuring your team is well-equipped to succeed in this rapidly evolving field.
+I've guided numerous companies through AI product development and know what works. For everything else, we can tap into a network of trusted experts. I focus on practical solutions over flashy models:
 
-And over the past few years I've worked with a dozen companies to help them navigate the landscape. **I've seen what works and what doesn't.** For everything else, we can lean on a network of trusted experts and founders.
-
-I'm not a researcher stuck on shiny models. Instead, I'll guide you towards practical solutions. 
-
-- Create simple baselines
-- Focus on simple systems
+- Establish simple baselines
+- Use straightforward systems
 - Prioritize business outcomes
 
 ## Some of my clients
