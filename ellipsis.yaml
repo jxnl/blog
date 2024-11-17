@@ -11,3 +11,4 @@ pr_review:
     - "Make sure The dates and tags are relevant."
     - "Make great suggestions for titles for SEO"
     - "Highlight opportunities to add hyperlinks for SEO purposes."
+    - "Make sure each blog post has a `<!-- more -->` tag."
