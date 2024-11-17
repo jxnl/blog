@@ -20,6 +20,8 @@ tags:
 
 Picture this: You're sitting at your desk, contemplating the leap into AI consulting. Maybe you're a seasoned ML engineer looking to transition from contractor to consultant, or perhaps you've been building AI products and want to branch out independently. Whatever brought you here, you're wondering how to transform your technical expertise into a thriving consulting practice.
 
+<!-- more -->
+
 I get it. A few years ago, I was in your shoes. After [a hand injury](./hands-part-1.md) forced me to step back from intensive coding, I had to [reinvent my career](./whoami.md). What started as a necessity evolved into an incredible journey – my consulting business now generates $50,000-$120,000 monthly [helping companies build better AI systems](./services.md), with more flexibility and fewer hours than my previous engineering role.
 
 I've documented everything I've learned along the way: from [setting up the essential consulting tech stack](./consulting-stack.md) and [marketing strategies that actually work](./consulting-marketing.md), to [building referral networks](./consulting-referrals.md) and [transitioning from contractor to consultant](./consulting-indie.md). But before diving into those specifics, let me share the fundamental principles from [everything I've learned in AI consulting](./consulting-everything.md) that took me years to figure out. Drawing from my experience [building AI applications](./mvp.md) and [working with early-stage companies](./hiring.md), I'll walk you through what I wish someone had told me when I started this journey.
