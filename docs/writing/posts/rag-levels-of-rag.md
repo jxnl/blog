@@ -297,7 +297,7 @@ By attaching this little metadata, we will be able to very cheaply identify quer
 | Query                          | Rewritten Query                | ... | Mean Cosine Score | Reranker Score |
 | ------------------------------ | ------------------------------ | --- | ----------------- | -------------- |
 | What is the capital of France? | What is the capital of France? | ... | 0.9               | 0.8            |
-| Who modified the file last?    | Who modified the file last?    | ... | 0.2               | 0.1            |
+| Who modified the file last?    | Who was last in the race?    | ... | 0.2               | 0.1            |
 
 Here you might see "oh clearly i can't answer questions about file modification" thats not even in my index.
 
