@@ -1,7 +1,7 @@
-site_name: jxnl.co
+site_name: Jason Liu
 site_author: Jason Liu
 site_description: >-
-  Notes about my hobbies and other things I find interesting.
+  AI Consulting, RAG, and other personal notes.
 repo_name: blog
 repo_url: https://github.com/jxnl/blog/
 site_url: https://jxnl.co/
@@ -152,6 +152,7 @@ extra:
     provider: google
     property: G-686PKP2V2V
   social:
+
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/jxnlco
     - icon: fontawesome/brands/github
