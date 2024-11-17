@@ -5,10 +5,10 @@ description: Explore RAG techniques, AI engineering jobs, and consulting insight
 
 # :boom: What's up?
 
-I'm a machine learning engineer, angel investor, and startup advisor. Creator of [Instructor](https://github.com/jxnl/instructor) and ML/data science educator. I write about consulting, open source, personal work, and applying LLMs. 
+I'm a machine learning engineer, angel investor, and startup advisor. Creator of [Instructor](https://github.com/jxnl/instructor) and ML/data science educator. I write about consulting, open source, personal work, and applying LLMs.
 
 [Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
-[Work with me](services.md){ .md-button .md-button--secondary }
+[Work with me](expert-calls.md){ .md-button .md-button--secondary }
 
 
 ## Free Resources
@@ -33,14 +33,14 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
     Discover AI engineering roles at well-funded startups. Our job board features companies with strong growth potential and innovative projects.
 
     [:octicons-arrow-right-24: Browse AI jobs](https://jobs.applied-llms.org/)
-    
+
 -   :material-book-open-variant:{ .lg .middle } __Struggling with RAG?__
 
     ---
 
     Enhance your RAG skills with insights on techniques and best practices. Find valuable tips to improve your implementation, from beginner to advanced levels.
 
-    [:octicons-arrow-right-24: Explore RAG resources](writing/category/rag/)
+    [:octicons-arrow-right-24: Explore RAG resources](systematically-improve-your-rag.md)
 
 -   :material-pencil:{ .lg .middle } __Consulting Insights__
 
@@ -48,7 +48,7 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
 
      practices, strategies, and industry trends. Learn from real-world experiences and expert advice to enhance your consulting skills or make informed decisions for your business.
 
-    [:octicons-arrow-right-24: Read consulting articles](writing/category/consulting/)
+    [:octicons-arrow-right-24: Read consulting articles](writing/posts/consulting-start.md)
 
 
 -   :material-account-group:{ .lg .middle } __Social Media__

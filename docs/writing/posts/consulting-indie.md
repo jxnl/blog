@@ -168,7 +168,7 @@ I also try to make a good attempt at guessing exactly what their outcomes are an
 
 Undoubtedly the most significant aspect of my own practice, the situational assessment provides me with a valuable opportunity to effectively highlight and showcase my knowledge about the business. It allows me to demonstrate my understanding of the desired outcomes, such as reducing churn or improving performance, and present a methodology to achieve them. Although it may take two or three hours, I find it extremely valuable for both personal growth and as a sales tool.
 
-I'll provide an example of what I wrote [here](../../assessment.md). This example is inspired by Alan Weiss, and I have successfully implemented it. You can find some of his [examples](https://www.alanweiss.com/wp-content/uploads/Sample%20Proposals.pdf) here.
+I'll provide an example in Alan Weiss's style, which has worked well for me. You can find some of his [examples](https://www.alanweiss.com/wp-content/uploads/Sample%20Proposals.pdf) here.
 
 ### Structure of the Proposal
 
@@ -217,8 +217,8 @@ Hate to say it, but it works. You just gotta provide substance. Long-form articl
 
 Most of my presence is now in long-form content:
 
-- Instructor Blog: [https://jxnl.github.io/instructor/blog/](https://jxnl.github.io/instructor/blog/)
-- This Blog: [https://jxnl.github.io/blog/](https://jxnl.github.io/blog/)
+- Instructor Blog: [https://instructor-ai.github.io/instructor/blog/](https://instructor-ai.github.io/instructor/blog/)
+- This Blog: [https://jxnl.co/](https://jxnl.co/)
 
 If they get the value, I don't think most people care where it comes from. But you have to make sure there's enough identity attached that this is 'something I read that Jason wrote', vs 'something I saw on Medium', that light brand attachment is pretty valuable. You can give the knowledge away for free but keep the implementation paywalled. Obviously, talk to your clients and make sure IP is protected for any definition. But I think it's a great way to build trust and demonstrate expertise, especially if this is how they found out about you in the first place.
 

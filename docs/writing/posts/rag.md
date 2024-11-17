@@ -26,7 +26,7 @@ With the advent of large language models (LLM), retrieval augmented generation (
     Retrieval augmented generation (RAG) is a technique that uses an LLM to generate responses, but uses a search backend to augment the generation. In the past year using text embeddings with a vector databases has been the most popular approach I've seen being socialized.
 
 <figure markdown>
-  ![RAG](img/dumb_rag.png)
+  ![RAG](./img/dumb_rag.png)
   <figcaption>Simple RAG that embedded the user query and makes a search.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Much of this work has been inspired by / done in collab with a few of my clients
 Ultimately what you want to deploy is a [system that understands](https://en.wikipedia.org/wiki/Query_understanding) how to take the query and rewrite it to improve precision and recall.
 
 <figure markdown>
-  ![RAG](img/query_understanding.png)
+  ![RAG](./img/query_understanding.png)
   <figcaption>Query Understanding system routes to multiple search backends.</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Instructor uses Pydantic to simplify the interaction between the programmer and 
 Take [Metaphor Systems](https://metaphor.systems), which turns natural language queries into their custom search-optimized query. If you take a look web UI you'll notice that they have an auto-prompt option, which uses function calls to furthur optimize your query using a language model, and turns it into a fully specified metaphor systems query.
 
 <figure markdown>
-![Metaphor Systems](img/meta.png)
+![Metaphor Systems](./img/meta.png)
 <figcaption>Metaphor Systems UI</figcaption>
 </figure>
 
@@ -231,9 +231,9 @@ Both of these examples showcase how both search providers and consumers can use 
 
 To deepen your understanding of RAG systems and their implementation, explore these related articles:
 
-- [Levels of RAG Complexity](../posts/rag-levels-of-rag.md) - A comprehensive breakdown of RAG systems from basic to advanced
-- [The RAG Flywheel: Continuous Improvement](../posts/rag-flywheel.md) - Learn how to systematically enhance your RAG system over time
-- [How to build a terrible RAG system](../posts/rag-inverted.md) - An inverted thinking exercise on RAG best practices
-- [RAG Beyond Embeddings](../posts/rag.md) - Explore the broader scope of RAG beyond vector embeddings
+- [Levels of RAG Complexity](./rag-levels-of-rag.md) - A comprehensive breakdown of RAG systems from basic to advanced
+- [The RAG Flywheel: Continuous Improvement](./rag-flywheel.md) - Learn how to systematically enhance your RAG system over time
+- [How to build a terrible RAG system](./rag-inverted.md) - An inverted thinking exercise on RAG best practices
+- [RAG Beyond Embeddings](./rag.md) - Explore the broader scope of RAG beyond vector embeddings
 
 These resources offer valuable perspectives on building, optimizing, and maintaining effective RAG systems in various contexts.

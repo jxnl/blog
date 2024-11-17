@@ -21,7 +21,7 @@ tags:
 
 In this post, I aim to demystify the concept of LLM observability. I'll illustrate how everyday tools employed in system monitoring and debugging can be effectively harnessed to enhance AI agents. Using Open Telemetry, we'll delve into creating comprehensive telemetry for intricate agent actions, spanning from question answering to autonomous decision-making.
 
-If you want to learn about my consulting practice check out my [services](../../services.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)
+If you want to learn about my consulting practice check out my [expert calls](../../expert-calls.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)
 
 !!! question "What is Open Telemetry?"
 
@@ -53,4 +53,4 @@ Telemetry in the realm of AGI might well be akin to a detailed diary, instrument
 
 In essence, observing LLM systems doesn't necessitate new tools; it requires viewing agent systems through the lens of distributed systems. The distinction lies in the potential exportation of this data for the refinement and distillation of other models.
 
-A prime example of this distillation process can be found in the [Instructor blog](https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/), where a GPT-3.5 model is fine-tuned using GPT-4 outputs, demonstrating the power of leveraging telemetry data for model enhancement.
+A prime example of this process can be found in the [Instructor documentation](https://instructor-ai.github.io/instructor/), where techniques for model distillation and fine-tuning are discussed, demonstrating the power of leveraging telemetry data for model enhancement.
