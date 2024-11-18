@@ -20,6 +20,15 @@ tags:
 
 There's a reason Google has separate interfaces for Maps, Images, News, and Shopping. The same reason explains why many RAG systems today are hitting a performance ceiling. After working with dozens of companies implementing RAG, I've discovered that most teams focus on optimizing embeddings while missing two fundamental dimensions that matter far more: Topics and Capabilities.
 
+<!--more-->
+
+If you're interested in learning more about how to systematically improve RAG systems, you can sign up for the free email course here:
+
+[Sign up for the Free Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
+Now, let's dive into some frequently asked questions from the course:
+
+
 ## A Tale of Unmet Expectations 
 
 Let me share a recent case study that illustrates this perfectly:
@@ -143,3 +152,7 @@ Remember: The goal isn't to build a perfect system. It's to build a system that 
 ---
 
 *If you're working on a RAG system right now, try this: Take your last 20 failed queries and sort them into topic vs capability issues. You might be surprised by what patterns emerge.*
+
+If you're interested in learning more about how to systematically improve RAG systems, you can sign up for the free email course here:
+
+[Sign up for the Free Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
