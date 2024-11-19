@@ -23,8 +23,6 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
 
     [:octicons-arrow-right-24: Improving RAG](https://fivesixseven.ck.page/2994ff4e37)
 
-    [:octicons-arrow-right-24: AI for Executives](https://dub.link/ai-mastery-execs)
-
 
 -   :material-briefcase-search:{ .lg .middle } __Looking for AI Engineering Jobs?__
 
