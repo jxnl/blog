@@ -5,11 +5,13 @@ description: Explore RAG techniques, AI engineering jobs, and consulting insight
 
 # :boom: What's up?
 
-I'm an independent consultant, staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. I'm also the creator of [Instructor](https://github.com/jxnl/instructor) and an ML/data science educator. I write about consulting, open source, personal work, and applying LLMs.
+I'm an [independent consultant](./services.md), staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. I write about open source, consulting, and how to systematically improve AI applications.
 
 [Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
 
-## Consulting: Helping Businesses Build Better AI Systems
+I'm also the creator of [Instructor](https://python.useinstructor.com/), a popular Python library for structured outputs from LLMs, which was cited by the OpenAI team as inspiration for their `structured output` feature. We currently have over 8000 stars and 1M monthly downloads.
+
+## Independent Consulting
 
 I run a solo consulting practice focused on helping startups build better practises as many software companies transition to AI.
 
@@ -28,11 +30,11 @@ I run a solo consulting practice focused on helping startups build better practi
 
 [Work with me](./services.md){ .md-button .md-button--primary }
 
-## Training: Systematically Improve Your RAG
+## Systematically Improve Your RAG (Enrollment Open)
 
 Join our intensive [6 week certification](./systematically-improve-your-rag.md) starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. Learn how to build robust processes for identifying system bottlenecks, significantly enhance your probabilistic systems, and implement advanced RAG techniques for real-world applications.
 
-Trusted by employees from these companies:
+**Trusted by employees from these companies:**
 
 | Company | Industry |
 |--------------|----------|
