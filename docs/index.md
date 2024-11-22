@@ -62,15 +62,6 @@ Trusted by employees from these companies:
 
 <div class="grid cards" markdown>
 
--   :material-school:{ .lg .middle } __Free Education__
-
-    ---
-
-    Join our free email courses: Learn a proven framework for improving RAG performance and quality, or get insights from advising 30+ companies on AI implementation. Perfect for both technical practitioners and busy executives.
-
-    [:octicons-arrow-right-24: Improving RAG](https://fivesixseven.ck.page/2994ff4e37)
-
-
 -   :material-briefcase-search:{ .lg .middle } __Looking for AI Engineering Jobs?__
 
     ---
@@ -79,23 +70,6 @@ Trusted by employees from these companies:
 
     [:octicons-arrow-right-24: Browse AI jobs](https://jobs.applied-llms.org/)
 
--   :material-book-open-variant:{ .lg .middle } __Struggling with RAG?__
-
-    ---
-
-    Enhance your RAG skills with insights on techniques and best practices. Find valuable tips to improve your implementation, from beginner to advanced levels.
-
-    [:octicons-arrow-right-24: Explore RAG resources](systematically-improve-your-rag.md)
-
--   :material-pencil:{ .lg .middle } __Consulting Insights__
-
-    ---
-
-     practices, strategies, and industry trends. Learn from real-world experiences and expert advice to enhance your consulting skills or make informed decisions for your business.
-
-    [:octicons-arrow-right-24: Read consulting articles](writing/posts/consulting-start.md)
-
-
 -   :material-account-group:{ .lg .middle } __Social Media__
 
     ---
@@ -103,3 +77,5 @@ Trusted by employees from these companies:
     Stay connected and get the latest updates by following me on [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/@jxnlco), [:fontawesome-brands-x-twitter: Twitter](https://x.com/jxnlco), and [:fontawesome-brands-github: GitHub](https://github.com/jxnl). These platforms are where I share my latest content, thoughts, and projects in the world of AI and machine learning.
 
 </div>
+
+If you're not sure where to start, [subscribe to my newsletter](https://dub.link/S4G5XGs) to get the latest updates on my work.
