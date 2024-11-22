@@ -5,11 +5,58 @@ description: Explore RAG techniques, AI engineering jobs, and consulting insight
 
 # :boom: What's up?
 
-I'm a machine learning engineer, angel investor, and startup advisor. Creator of [Instructor](https://github.com/jxnl/instructor) and ML/data science educator. I write about consulting, open source, personal work, and applying LLMs.
+I'm an independent consultant, staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. I'm also the creator of [Instructor](https://github.com/jxnl/instructor) and an ML/data science educator. I write about consulting, open source, personal work, and applying LLMs.
 
 [Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
-[Work with me](expert-calls.md){ .md-button .md-button--secondary }
 
+## Consulting: Helping Businesses Build Better AI Systems
+
+I run a solo consulting practice focused on helping startups build better practises as many software companies transition to AI.
+
+| Client                                        | Description                                                | Contact      | Industry           |
+|-----------------------------------------------|------------------------------------------------------------|--------------|--------------------|
+| [Zapier](https://zapier.com/)                 | Automates workflows by connecting apps and services        | VP of Product| Automation         |
+| [HubSpot](https://hubspot.com/)               | CRM and marketing automation platform                      | GM           | Sales & Marketing  |
+| [Enterpret](https://enterpret.com/)           | AI-powered customer feedback analysis                      | CTO          | Analytics          |
+| [Tensorlake](https://tensorlake.ai/)          | AI-native Data Lake / Extraction                           | CEO          | Data               |
+| [Limitless AI](http://limitless.ai/)          | AI-powered personal memory assistant                       | CTO          | AI                 |
+| [Trunk Tools](https://trunktools.com/)        | AI for construction workforce productivity                 | VP Eng       | Construction       |
+| [Naro](http://narohq.com/)                    | Contextual content delivery for customer interactions      | CTO          | Sales & Marketing  |
+| [New Computer](http://new.computer/)          | AI-powered software development tools                      | CEO          | Developer Tools    |
+
+... including many others like [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
+
+[Work with me](./services.md){ .md-button .md-button--primary }
+
+## Training: Systematically Improve Your RAG
+
+Join our intensive [6 week certification](./systematically-improve-your-rag.md) starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. Learn how to build robust processes for identifying system bottlenecks, significantly enhance your probabilistic systems, and implement advanced RAG techniques for real-world applications.
+
+Trusted by employees from these companies:
+
+| Company | Industry |
+|--------------|----------|
+| [OpenAI](https://openai.com) | AI Research & Development |
+| [Google](https://google.com) | Search Engine |
+| [Stanford University](https://stanford.edu) | Education |
+| [MIT](https://mit.edu) | Education |
+| [Berkeley](https://berkeley.edu) | Education |
+| [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
+| [Zapier](https://zapier.com) | Automation Software |
+| [Adobe](https://adobe.com) | Software, Creative Tools |
+| [Intuit](https://intuit.com) | Financial Software |
+| [Timescale](https://timescale.com) | Database Technology |
+| [Accenture](https://accenture.com) | Consulting, Technology Services |
+| [McKinsey & Company](https://mckinsey.com) | Management Consulting |
+| [Bain & Company](https://bain.com) | Consulting |
+| [Novo Nordisk](https://novonordisk.com) | Pharmaceuticals |
+| [Cisco](https://cisco.com) | Networking Technology |
+| [Electronic Arts](https://ea.com) | Gaming |
+| [Shopify](https://shopify.com) | E-commerce Platform |
+| [DraftKings](https://draftkings.com) | Sports Betting |
+
+[Free 6 Day RAG Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
+[Learn more :octicons-arrow-right-24:](./systematically-improve-your-rag.md){ .md-button .md-button--secondary }
 
 ## Free Resources
 
@@ -56,26 +103,3 @@ I'm a machine learning engineer, angel investor, and startup advisor. Creator of
     Stay connected and get the latest updates by following me on [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/@jxnlco), [:fontawesome-brands-x-twitter: Twitter](https://x.com/jxnlco), and [:fontawesome-brands-github: GitHub](https://github.com/jxnl). These platforms are where I share my latest content, thoughts, and projects in the world of AI and machine learning.
 
 </div>
-
-## Looking to improve your RAG?
-
-
-[![RAG Course Image](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
-
-[Learn more :octicons-arrow-right-24:](./systematically-improve-your-rag.md){ .md-button .md-button--primary }
-
-Join our intensive course starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. Learn how to build robust processes for identifying system bottlenecks, significantly enhance your probabilistic systems, and implement advanced RAG techniques for real-world applications.
-
-- Establish evaluation pipelines using synthetic data and user feedback to build evals and fine-tune systems
-- Implement classification systems to segment queries, identify bottlenecks, and detect drift
-- Optimize multi-index search strategies to improve search quality with routers and query understanding
-- Design user interfaces to collect feedback and help users understand system operations
-
-Don't miss this opportunity to transform your RAG capabilities and stay ahead in the rapidly evolving field of applied AI.
-
-[Apply Now (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
-
-## Stay Updated
-
-I share interesting content, including my own writing, thoughts, and experiences, no more than twice a month.
-<script async data-uid="fe6b71773e" src="https://fivesixseven.ck.page/fe6b71773e/index.js"></script>

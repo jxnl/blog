@@ -167,20 +167,3 @@ We're so confident in the value of this course that we offer a money-back guaran
     {Your Name}
 
     P.S. I've heard that other teams are sending multiple team members to build shared context efficiently. Should we consider a similar approach?
-
-## Expert RAG Consulting Available
-
-For those seeking more personalized guidance, I also offer custom AI solutions backed by my 8 years of experience at companies like Stitchfix, Meta, and NYU.
-
-Specialties:
-- Developing self-improving AI systems
-- Building advanced multimodal search systems
-- Creating robust testing frameworks for search and recommendation systems
-- Strategic AI research planning and company evaluation
-
-Service Tiers:
-1. **Ongoing Support:** $9,500/month
-2. **Strategic Planning:** Starting at $50,000 for 3 months
-3. **Comprehensive Solutions:** Starting at $120,000 for 3 months
-
-[Learn More About Consulting](services.md){ .md-button .md-button--secondary }
