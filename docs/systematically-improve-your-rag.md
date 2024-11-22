@@ -7,11 +7,35 @@ description: Enhance your RAG applications with our expert-led course. Learn pra
 
 [![Top 10 Course on Maven](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
 
-Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive course launching in February 2024. Learn to build a powerful flywheel for continuous improvement in your AI applications, guided by industry experts.
+Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive course launching our second cohort on February 4, 2024. Learn to build a powerful flywheel for continuous improvement in your AI applications, guided by industry experts.
 
-### Students from Notable Companies:
+## Trusted by employees from these companies:
 
-[Amazon](https://www.amazon.com), [Google](https://www.google.com), [OpenAI](https://www.openai.com), [Stanford University](https://www.stanford.edu), [University of California, Berkeley](https://www.berkeley.edu), [Adobe](https://www.adobe.com), [Shopify](https://www.shopify.com), [ClickUp](https://www.clickup.com), [GitLab](https://www.gitlab.com), [Zapier](https://www.zapier.com), [Novo Nordisk](https://www.novonordisk.com), [DraftKings](https://www.draftkings.com), [ProtonMail](https://www.protonmail.com), [Miro](https://www.miro.com), [Bain & Company](https://www.bain.com), [Klaviyo](https://www.klaviyo.com)
+| Company | Industry |
+|--------------|----------|
+| [OpenAI](https://openai.com) | AI Research & Development |
+| [Google](https://google.com) | Search Engine |
+| [Stanford University](https://stanford.edu) | Education |
+| [MIT](https://mit.edu) | Education |
+| [Berkeley](https://berkeley.edu) | Education |
+| [GitLab](https://gitlab.com) | Software Development |
+| [Bain & Company](https://bain.com) | Consulting |
+| [Miro](https://miro.com) | Collaboration |
+| [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
+| [Zapier](https://zapier.com) | Automation Software |
+| [Adobe](https://adobe.com) | Software, Creative Tools |
+| [Intuit](https://intuit.com) | Financial Software |
+| [Timescale](https://timescale.com) | Database Technology |
+| [Accenture](https://accenture.com) | Consulting, Technology Services |
+| [McKinsey & Company](https://mckinsey.com) | Management Consulting |
+| [Novo Nordisk](https://novonordisk.com) | Pharmaceuticals |
+| [Cisco](https://cisco.com) | Networking Technology |
+| [Electronic Arts](https://ea.com) | Gaming |
+| [Shopify](https://shopify.com) | E-commerce Platform |
+| [Enterpret](https://enterpret.com) | Customer Analytics |
+| [Vantager](https://vantager.com) | Business Intelligence |
+| [DraftKings](https://draftkings.com) | Sports Betting |
+| [Trail of Bits](https://trailofbits.com) | Cybersecurity |
 
 ## Not ready for a course? Check out my free RAG Playbook
 
