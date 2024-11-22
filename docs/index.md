@@ -34,28 +34,32 @@ I run a solo consulting practice focused on helping startups build better practi
 
 Join our intensive [6 week certification](./systematically-improve-your-rag.md) starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. Learn how to build robust processes for identifying system bottlenecks, significantly enhance your probabilistic systems, and implement advanced RAG techniques for real-world applications.
 
-**Trusted by employees from these companies:**
+Trusted by employees from these companies:
+
+<div class="grid two-columns" markdown="1">
 
 | Company | Industry |
 |--------------|----------|
 | [OpenAI](https://openai.com) | AI Research & Development |
 | [Google](https://google.com) | Search Engine |
-| [Stanford University](https://stanford.edu) | Education |
-| [MIT](https://mit.edu) | Education |
-| [Berkeley](https://berkeley.edu) | Education |
+| [Microsoft](https://microsoft.com) | Software, Cloud Computing |
 | [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
 | [Zapier](https://zapier.com) | Automation Software |
 | [Adobe](https://adobe.com) | Software, Creative Tools |
 | [Intuit](https://intuit.com) | Financial Software |
 | [Timescale](https://timescale.com) | Database Technology |
+
+| Company | Industry |
+|--------------|----------|
 | [Accenture](https://accenture.com) | Consulting, Technology Services |
 | [McKinsey & Company](https://mckinsey.com) | Management Consulting |
 | [Bain & Company](https://bain.com) | Consulting |
-| [Novo Nordisk](https://novonordisk.com) | Pharmaceuticals |
 | [Cisco](https://cisco.com) | Networking Technology |
 | [Electronic Arts](https://ea.com) | Gaming |
 | [Shopify](https://shopify.com) | E-commerce Platform |
 | [DraftKings](https://draftkings.com) | Sports Betting |
+
+</div>
 
 [Free 6 Day RAG Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
 [Learn more :octicons-arrow-right-24:](./systematically-improve-your-rag.md){ .md-button .md-button--secondary }
