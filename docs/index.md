@@ -7,7 +7,7 @@ description: Explore RAG techniques, AI engineering jobs, and consulting insight
 
 I'm an [independent consultant](./services.md), staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. I write about open source, consulting, and how to systematically improve AI applications.
 
-[Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
+[:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
 
 I'm also the creator of [Instructor](https://python.useinstructor.com/), a popular Python library for structured outputs from LLMs, which was cited by the OpenAI team as inspiration for their `structured output` feature. We currently have over 8000 stars and 1M monthly downloads.
 
@@ -28,7 +28,7 @@ I run a solo consulting practice focused on helping startups build better practi
 
 ... including many others like [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
 
-[Work with me](./services.md){ .md-button .md-button--primary }
+[:material-briefcase: Understand my services](./services.md){ .md-button .md-button--primary }
 
 ## Systematically Improve Your RAG (Enrollment Open)
 
@@ -61,7 +61,7 @@ Trusted by employees from these companies:
 
 </div>
 
-[Free 6 Day RAG Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
+[:material-email: Free 6 Day RAG Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
 [Learn more :octicons-arrow-right-24:](./systematically-improve-your-rag.md){ .md-button .md-button--secondary }
 
 ## Free Resources
@@ -83,5 +83,3 @@ Trusted by employees from these companies:
     Stay connected and get the latest updates by following me on [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/@jxnlco), [:fontawesome-brands-x-twitter: Twitter](https://x.com/jxnlco), and [:fontawesome-brands-github: GitHub](https://github.com/jxnl). These platforms are where I share my latest content, thoughts, and projects in the world of AI and machine learning.
 
 </div>
-
-If you're not sure where to start, [subscribe to my newsletter](https://dub.link/S4G5XGs) to get the latest updates on my work.
