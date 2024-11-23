@@ -15,18 +15,17 @@ I'm also the creator of [Instructor](https://python.useinstructor.com/), a popul
 
 I run a solo consulting practice focused on helping startups build better practises as many software companies transition to AI.
 
-| Client                                        | Description                                                | Contact      | Industry           |
-|-----------------------------------------------|------------------------------------------------------------|--------------|--------------------|
-| [Zapier](https://zapier.com/)                 | Automates workflows by connecting apps and services        | VP of Product| Automation         |
-| [HubSpot](https://hubspot.com/)               | CRM and marketing automation platform                      | GM           | Sales & Marketing  |
-| [Enterpret](https://enterpret.com/)           | AI-powered customer feedback analysis                      | CTO          | Analytics          |
-| [Tensorlake](https://tensorlake.ai/)          | AI-native Data Lake / Extraction                           | CEO          | Data               |
-| [Limitless AI](http://limitless.ai/)          | AI-powered personal memory assistant                       | CTO          | AI                 |
-| [Trunk Tools](https://trunktools.com/)        | AI for construction workforce productivity                 | VP Eng       | Construction       |
-| [Naro](http://narohq.com/)                    | Contextual content delivery for customer interactions      | CTO          | Sales & Marketing  |
-| [New Computer](http://new.computer/)          | AI-powered software development tools                      | CEO          | Developer Tools    |
+| Client                                        | Contact      | Industry           |
+|-----------------------------------------------|--------------|--------------------|
+| [Zapier](https://zapier.com/)                 | VP of Product| Automation         |
+| [HubSpot](https://hubspot.com/)               | GM           | Sales & Marketing  |
+| [Enterpret](https://enterpret.com/)           | CTO          | Analytics          |
+| [Tensorlake](https://tensorlake.ai/)          | CEO          | Data               |
+| [Limitless AI](http://limitless.ai/)          | CTO          | AI                 |
+| [Trunk Tools](https://trunktools.com/)        | VP Eng       | Construction       |
+| [Naro](http://narohq.com/)                    | CTO          | Sales & Marketing  |
 
-... including many others like [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
+... including many others like [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
 
 [:material-briefcase: Understand my services](./services.md){ .md-button .md-button--primary }
 
