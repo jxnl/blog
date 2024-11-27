@@ -33,7 +33,7 @@ I run a solo consulting practice focused on helping startups build better practi
 
 Join our intensive [6 week certification](./systematically-improve-your-rag.md) starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. Learn how to build robust processes for identifying system bottlenecks, significantly enhance your probabilistic systems, and implement advanced RAG techniques for real-world applications.
 
-Trusted by employees from these companies:
+Where our students come from:
 
 <div class="grid two-columns" markdown="1">
 
