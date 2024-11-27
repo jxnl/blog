@@ -40,23 +40,23 @@ Trusted by employees from these companies:
 | Company | Industry |
 |--------------|----------|
 | [OpenAI](https://openai.com) | AI Research & Development |
+| [Anthropic](https://anthropic.com) | AI Research & Development |
 | [Google](https://google.com) | Search Engine |
+| [Salesforce](https://salesforce.com) | Customer Relationship Management Software |
 | [Microsoft](https://microsoft.com) | Software, Cloud Computing |
 | [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
 | [Zapier](https://zapier.com) | Automation Software |
 | [Adobe](https://adobe.com) | Software, Creative Tools |
-| [Intuit](https://intuit.com) | Financial Software |
-| [Timescale](https://timescale.com) | Database Technology |
 
 | Company | Industry |
 |--------------|----------|
 | [Accenture](https://accenture.com) | Consulting, Technology Services |
 | [McKinsey & Company](https://mckinsey.com) | Management Consulting |
 | [Bain & Company](https://bain.com) | Consulting |
+| [PwC](https://pwc.com) | Professional Services |
 | [Cisco](https://cisco.com) | Networking Technology |
 | [Electronic Arts](https://ea.com) | Gaming |
 | [Shopify](https://shopify.com) | E-commerce Platform |
-| [DraftKings](https://draftkings.com) | Sports Betting |
 
 </div>
 
