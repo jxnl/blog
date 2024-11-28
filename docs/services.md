@@ -36,6 +36,7 @@ I've guided numerous companies through AI product development and know what work
 
 [Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
 [See Testimonials](#what-people-are-saying){ .md-button }
+[See Writing Samples](./writing-samples.md){ .md-button }
 
 ## My background is not like many others
 
