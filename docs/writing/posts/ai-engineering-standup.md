@@ -211,8 +211,4 @@ The fundamental nature of AI development as research rather than pure engineerin
 
 The key is shifting focus from output metrics ("why isn't accuracy improving?") to input metrics ("how can we run more experiments?"). This not only leads to better decision-making but also helps build the scientific intuition necessary for long-term success in AI development.
 
-<<<<<<< HEAD
-Remember: You're not just building features as if you're connecting a react app to a database - you're pushing the boundaries of what's possible as new models are developed.; 
-=======
 Remember: You're not just building features as if you're connecting a react app to a database - you're pushing the boundaries of what's possible as new models are developed. 
->>>>>>> refs/remotes/origin/main
