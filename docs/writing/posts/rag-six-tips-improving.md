@@ -17,14 +17,6 @@ tags:
 
 This article explains six proven strategies to improve Retrieval-Augmented Generation (RAG) systems. It builds on my previous articles and consulting experience helping companies enhance their RAG applications.
 
-In [RAG is More Than Just Embeddings](../posts/rag.md), I explain how RAG goes beyond vector embeddings. I also wrote [How to Build a Terrible RAG System](../posts/rag-inverted.md), which shows what not to do - helping you learn good practices through inverted thinking.
-
-For a deeper understanding of RAG complexity, check out [Levels of RAG Complexity](../posts/rag-levels-of-rag.md). This article breaks down RAG into manageable components. If you want quick wins, read [Low Hanging Fruit in RAG](../posts/rag-low-hanging-fruit.md).
-
-I've also written about the future of RAG in [Predictions for the Future of RAG](../posts/rag-plusplus.md), exploring how RAG may evolve into report generation.
-
-These articles work together to provide a comprehensive guide on RAG systems. They offer practical tips for developers and organizations looking to improve their implementations.
-
 By the end of this post, you'll understand six key strategies I've found effective when improving RAG applications:
 
 - Building a data flywheel with synthetic testing
@@ -33,8 +25,6 @@ By the end of this post, you'll understand six key strategies I've found effecti
 - Mastering query routing and tool selection
 - Leveraging metadata effectively
 - Creating robust feedback loops
-
-Let's explore each of these strategies in detail and see how they can help you build better RAG systems.
 
 <!-- more -->
 
@@ -47,6 +37,7 @@ If you want to learn more about I systematically improve RAG applications check 
 One of the most common pitfalls in RAG development is relying on "looks good to me" testing instead of systematic evaluation. The solution? Start with synthetic testing data.
 
 **Key Implementation Steps:**
+
 - Generate at least 100 diverse test cases covering your expected use cases
 - Focus on retrieval metrics (precision/recall) over generation quality
 - Begin with synthetic data, then gradually blend in real user feedback

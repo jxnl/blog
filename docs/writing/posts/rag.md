@@ -34,6 +34,10 @@ So let's kick things off by examining what I like to call the 'Dumb' RAG Modelâ€
 
 <!-- more -->
 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
 ## The 'Dumb' RAG Model
 
 When you ask a question like, "what is the capital of France?" The RAG 'dumb' model embeds the query and searches in some unopinonated search endpoint. Limited to a single method API like `search(query: str) -> List[str]`. This is fine for simple queries, since you'd expect words like 'paris is the capital of france' to be in the top results of say, your wikipedia embeddings.
@@ -237,3 +241,7 @@ To deepen your understanding of RAG systems and their implementation, explore th
 - [RAG Beyond Embeddings](./rag.md) - Explore the broader scope of RAG beyond vector embeddings
 
 These resources offer valuable perspectives on building, optimizing, and maintaining effective RAG systems in various contexts.
+
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
