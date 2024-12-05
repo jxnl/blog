@@ -9,25 +9,30 @@ description: Enhance your RAG applications with our expert-led course. Learn pra
 
 Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive course launching our second cohort on February 4, 2024. Learn to build a powerful flywheel for continuous improvement in your AI applications, guided by industry experts.
 
-## Trusted by employees from these companies:
+## Trusted by Professionals from Leading Organizations:
+
+<div class="grid two-columns" markdown="1">
 
 | Company | Industry |
 |--------------|----------|
 | [OpenAI](https://openai.com) | AI Research & Development |
 | [Google](https://google.com) | Search Engine |
+| [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
+| [Zapier](https://zapier.com) | Automation Software |
+| [Adobe](https://adobe.com) | Software, Creative Tools |
+| [Intuit](https://intuit.com) | Financial Software |
 | [Stanford University](https://stanford.edu) | Education |
 | [MIT](https://mit.edu) | Education |
 | [Berkeley](https://berkeley.edu) | Education |
 | [GitLab](https://gitlab.com) | Software Development |
 | [Bain & Company](https://bain.com) | Consulting |
 | [Miro](https://miro.com) | Collaboration |
-| [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
-| [Zapier](https://zapier.com) | Automation Software |
-| [Adobe](https://adobe.com) | Software, Creative Tools |
-| [Intuit](https://intuit.com) | Financial Software |
-| [Timescale](https://timescale.com) | Database Technology |
+
+| Company | Industry |
+|--------------|----------|
 | [Accenture](https://accenture.com) | Consulting, Technology Services |
 | [McKinsey & Company](https://mckinsey.com) | Management Consulting |
+| [Timescale](https://timescale.com) | Database Technology |
 | [Novo Nordisk](https://novonordisk.com) | Pharmaceuticals |
 | [Cisco](https://cisco.com) | Networking Technology |
 | [Electronic Arts](https://ea.com) | Gaming |
@@ -36,6 +41,8 @@ Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive
 | [Vantager](https://vantager.com) | Business Intelligence |
 | [DraftKings](https://draftkings.com) | Sports Betting |
 | [Trail of Bits](https://trailofbits.com) | Cybersecurity |
+
+</div>
 
 ## Not ready for a course? Check out my free RAG Playbook
 
@@ -116,29 +123,14 @@ Our goal is not just to teach you the RAG techniques of today, but to give you t
 
 ## What People Are Saying
 
-### Max (Software Engineer, Launch School)
-⭐⭐⭐⭐⭐
-"Practical lessons from every lecture... learning from a community on the vanguard of this emerging field."
-
-### Christopher (Senior Data/AI Architect, Procurement Sciences AI)
-⭐⭐⭐⭐⭐
-"Excellent job of stressing the fundamentals... useful metric tools to measure and improve RAG systems."
-
-### Vitor (Staff Software Engineer, Zapier)
-⭐⭐⭐⭐⭐
-"Jason and Dan help set you on the right path... emphasis on looking at your data and building a metrics-based flywheel."
-
-### Moose (Founder & CEO, Sociail, Inc.)
-⭐⭐⭐⭐⭐
-"A game-changer! ... They've got this knack for breaking down complex RAG concepts into a framework that just clicks."
-
-### Ashutosh (Senior Principal Scientist, Adobe)
-⭐⭐⭐⭐⭐
-"Practical and grounded in actual industry experience... like getting the inside scoop from folks who've been in the trenches."
-
-### Mani (Senior Principal Software Engineer, Red Hat)
-⭐⭐⭐⭐⭐
-"System-oriented approach... Highly relevant, directly applicable, and save time in building prototypes."
+| Review | Name | Role |
+|------|------|---------|
+| "Practical lessons from every lecture... learning from a community on the vanguard of this emerging field." | Max | Software Engineer, Launch School |
+| "Excellent job of stressing the fundamentals... useful metric tools to measure and improve RAG systems." | Christopher | Senior Data/AI Architect, Procurement Sciences AI |
+| "Jason and Dan help set you on the right path... emphasis on looking at your data and building a metrics-based flywheel." | Vitor | Staff Software Engineer, Zapier |
+| "A game-changer! ... They've got this knack for breaking down complex RAG concepts into a framework that just clicks." | Moose | Founder & CEO, Sociail, Inc. |
+| "Practical and grounded in actual industry experience... like getting the inside scoop from folks who've been in the trenches." | Ashutosh | Senior Principal Scientist, Adobe |
+| "System-oriented approach... Highly relevant, directly applicable, and save time in building prototypes." | Mani | Senior Principal Software Engineer, Red Hat |
 
 ## Our Guarantee
 
