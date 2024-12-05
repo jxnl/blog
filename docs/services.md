@@ -56,7 +56,7 @@ Sound familiar?
 
 You might wonder why I don't start my own company. Sadly, a [hand injury](./writing/posts/hands-part-1.md) limits how much I can code. Because of this, I want my coding time to have the biggest impact possible. That's why I mainly focus on [instructor](https://python.useinstructor.com) and [education](./systematically-improve-your-rag.md).
 
-[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
+[Request a Consultation](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
 
 ## An investment in regret minimization
 
@@ -107,4 +107,4 @@ If these are too much, I suggest reading my [blog](./writing/index.md) or check 
 
 For services beyond async support, I ask for at least a 3-month commitment. You can pay through Stripe, and my assistant will contact you after. Or, you can fill out our form, and we'll reach out to you. Right now, I'm fully booked until the end of April 2025.
 
-[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
+[Request a Consultation](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
