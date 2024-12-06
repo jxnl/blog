@@ -94,19 +94,19 @@ That's what I thought too. But here's what I learned: **Being early stage isn't 
 
 You can still be systematic, just differently:
 
-1. **Start Qualitative:**
+### 1. Start Qualitative:
    - Draft clear goals and hypotheses
    - Generate specific questions to validate them
    - Talk to customers systematically
    - Document and learn methodically
 
-2. **Focus on Learning:**
+### 2. Focus on Learning:
    - Treat tickets as experiments, not features
    - Make outcomes about learning, not just shipping
    - Accept that progress is nonlinear
    - Build systematic ways to capture insights
 
-3. **Build Foundations:**
+## 3. Build Foundations:
    - Document your strategy clearly
    - Make metrics and goals transparent
    - Share regular updates on progress
