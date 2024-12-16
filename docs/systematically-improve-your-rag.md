@@ -16,6 +16,8 @@ Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive
 | Company | Industry |
 |--------------|----------|
 | [OpenAI](https://openai.com) | AI Research & Development |
+| [Anthropic](https://anthropic.com) | AI Research & Development |
+| [Airbnb](https://airbnb.com) | Travel |
 | [Google](https://google.com) | Search Engine |
 | [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
 | [Zapier](https://zapier.com) | Automation Software |
@@ -25,11 +27,10 @@ Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive
 | [MIT](https://mit.edu) | Education |
 | [Berkeley](https://berkeley.edu) | Education |
 | [GitLab](https://gitlab.com) | Software Development |
-| [Bain & Company](https://bain.com) | Consulting |
-| [Miro](https://miro.com) | Collaboration |
 
 | Company | Industry |
 |--------------|----------|
+| [Bain & Company](https://bain.com) | Consulting |
 | [Accenture](https://accenture.com) | Consulting, Technology Services |
 | [McKinsey & Company](https://mckinsey.com) | Management Consulting |
 | [Timescale](https://timescale.com) | Database Technology |
@@ -41,6 +42,7 @@ Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive
 | [Vantager](https://vantager.com) | Business Intelligence |
 | [DraftKings](https://draftkings.com) | Sports Betting |
 | [Trail of Bits](https://trailofbits.com) | Cybersecurity |
+| [Miro](https://miro.com) | Collaboration |
 
 </div>
 
