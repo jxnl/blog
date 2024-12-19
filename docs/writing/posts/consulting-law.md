@@ -1,5 +1,6 @@
 ---
 title: "Legal Office Hours for AI Consultants"
+description: This post covers legal considerations for AI consultants, including contract types, navigating IP ownership, setting up entities and bank accounts, and the advantages of different business structures like LLCs and C-Corps. It features insights from a legal expert on topics crucial for independent consultants.
 date: 2024-12-19
 author: 
     - jxnl 
