@@ -5,11 +5,12 @@ description: Enhance your RAG applications with our expert-led course. Learn pra
 
 # Systematically Improve Your RAG Applications
 
-[![Top 10 Course on Maven](writing/posts/img/rag-playbook-course.png)](https://maven.com/applied-llms/rag-playbook)
+**:star: Top rated AI course on Maven.com (4.7/5 stars, +200 students) :star:**
 
-Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive course launching our second cohort on February 4, 2024. Learn to build a powerful flywheel for continuous improvement in your AI applications, guided by industry experts.
+Confidently build and refine Retrieval-Augmented Generation (RAG) systems that deliver real-world impact. Our 6-week, hands-on course takes you from the fundamentals of evaluating quality all the way through building stable, production-grade capabilities.
 
-## Trusted by Professionals from Leading Organizations:
+Over the last few years, “RAG” has become a buzzword, but making these systems genuinely robust and effective often feels like guesswork. This course cuts through the confusion by giving you a clear, repeatable process: from collecting the right data and generating synthetic evaluations, to gradually incorporating new retrieval indices, routing strategies, fine-tuned embeddings, and practical UX improvements.
+# Trusted by Professionals from Leading Organizations:
 
 <div class="grid two-columns" markdown="1">
 
@@ -45,6 +46,18 @@ Elevate your Retrieval-Augmented Generation (RAG) systems with our comprehensive
 | [Miro](https://miro.com) | Collaboration |
 
 </div>
+
+No more fumbling in the dark. This program shows you step-by-step how to:
+
+1. Set up meaningful evaluations
+2. Identify high-impact opportunities 
+3. Continuously refine retrieval
+4. Integrate feedback loops
+5. Enhance product experiences
+
+By the end of the course, you'll have a toolkit of proven methods—no hype, no guesswork. You'll know exactly how to pinpoint where your RAG system is underperforming, what steps to take next, and how to build data-driven processes that keep improving outcomes automatically.
+
+[Enroll now on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 ## Not ready for a course? Check out my free RAG Playbook
 
