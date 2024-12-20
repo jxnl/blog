@@ -1,110 +1,111 @@
 ---
-description: Expert consulting services to accelerate AI product development, minimize
-  regrets, and drive business outcomes. Book a consultation today!
+description: Expert consulting services to accelerate AI product development, minimize regrets, and drive business outcomes. Book a consultation today!
 ---
 
-# Consulting Services
+# Build AI Products Your Customers Trust
 
 ??? warning "I'm currently at capacity until the end of March 2025"
 
-If you're an engineering leader at a startup aiming to roll out your AI to production, I can help. My experience includes:
+If you're an engineering leader at a startup looking to roll out AI to production, I can help. Over the last decade, I’ve guided 20+ engineering teams—like those at HubSpot, Zapier, and others—through the challenges of AI product development. I focus on what actually works: simple baselines, straightforward systems, and business outcomes over hype.
 
-- Training teams transitioning to probabilistic applications
-- Pivoting products to AI-powered solutions that collect data 
-- Hiring and evaluating AI engineering teams
+My expertise includes:
 
-I've guided numerous companies through AI product development and know what works. For everything else, we can tap into a network of trusted experts. I focus on practical solutions over flashy models:
+- Training teams transitioning to probabilistic or AI-powered systems  
+- Pivoting existing products into AI-enabled solutions that generate valuable data  
+- Hiring and assessing top-tier AI engineering talent
 
-- Establish simple baselines
-- Use straightforward systems
-- Prioritize business outcomes
+If I don’t have the answer, I’ll tap my network of trusted experts to find it. My approach is practical, measurable, and focused on long-term impact.
 
-## Some of my clients
+[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }  
+[See Testimonials](#what-people-are-saying){ .md-button }  
 
-| Client                                        | Description                                                | Contact      | Industry           |
-|-----------------------------------------------|------------------------------------------------------------|--------------|--------------------|
-| [Zapier](https://zapier.com/)                 | Automates workflows by connecting apps and services        | VP of Product| Automation         |
-| [HubSpot](https://hubspot.com/)               | CRM and marketing automation platform                      | GM           | Sales & Marketing  |
-| [Enterpret](https://enterpret.com/)           | AI-powered customer feedback analysis                      | CTO          | Analytics          |
-| [Tensorlake](https://tensorlake.ai/)          | AI-native Data Lake / Extraction                           | CEO          | Data               |
-| [Limitless AI](http://limitless.ai/)          | AI-powered personal memory assistant                       | CTO          | AI                 |
-| [Trunk Tools](https://trunktools.com/)        | AI for construction workforce productivity                 | VP Eng       | Construction       |
-| [Naro](http://narohq.com/)                    | Contextual content delivery for customer interactions      | CTO          | Sales & Marketing  |
-| [New Computer](http://new.computer/)          | AI-powered software development tools                      | CEO          | Developer Tools    |
+## Companies I’ve Helped
 
-... including many others like [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
+| Client                                        | Description                                                | Contact        | Industry           |
+|-----------------------------------------------|------------------------------------------------------------|----------------|--------------------|
+| [Zapier](https://zapier.com/)                 | Automates workflows by connecting apps and services        | VP of Product  | Automation         |
+| [HubSpot](https://hubspot.com/)               | CRM and marketing automation platform                      | GM             | Sales & Marketing  |
+| [Enterpret](https://enterpret.com/)           | AI-powered customer feedback analysis                      | CTO            | Analytics          |
+| [Tensorlake](https://tensorlake.ai/)          | AI-native Data Lake / Extraction                           | CEO            | Data               |
+| [Limitless AI](http://limitless.ai/)          | AI-powered personal memory assistant                       | CTO            | AI                 |
+| [Trunk Tools](https://trunktools.com/)        | AI for construction workforce productivity                 | VP Eng         | Construction       |
+| [Naro](http://narohq.com/)                    | Contextual content delivery for customer interactions      | CTO            | Sales & Marketing  |
+| [New Computer](http://new.computer/)          | AI-powered software development tools                      | CEO            | Developer Tools    |
 
-[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }
-[See Testimonials](#what-people-are-saying){ .md-button }
-[See Writing Samples](./writing-samples.md){ .md-button }
+…plus many others like [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
 
-## My background is not like many others
+## How I Work with Your Team
 
-I developed most of my skills at Stitchfix over the past 8 years. I mostly trained models, built production systems, and worked with data.
+**First Look at Your Team:**  
+I embed directly with your team—joining standups, reviewing workflows, and identifying hidden bottlenecks. Often, we find no one is using real metrics to track performance.
 
-The mandate when I joined in 2016 was simply '*vision models work now, how do we make money, how do we get to product*'. I managed data labeling teams. I trained vision models to explore generative models and multi-modal embeddings. (This was to improve product search and relevance.)
+**Make it Scientific:**  
+We replace “it feels better” with “it’s 20% faster.” Decisions become data-driven, measurable, and focused on outcomes.
 
-Sound familiar?
+**Accelerate Testing:**  
+Your team might take days for a test that should take minutes. We identify friction, fix it, and make iterative experimentation your new normal.
 
-- *Text works now, how do we make money?*
-- *How do we do search?* 
-- *How do we understand relevance?*
-- *How do we build a system that can improve over time using user feedback?*
-- *How do we set goals, prioritize experiments, and allocate resources?*
+**User-Driven Feedback:**  
+We implement easy feedback loops, so you know what users dislike and why. Then we fix the highest-impact issues first.
 
+**Cultural Transformation:**  
+Over time, your team evolves to rely on facts instead of intuition. Each week, user feedback turns into targeted experiments. Results are clear, improvements are constant.
 
+**Growth & Hand-Off:**  
+Once the system is stable, I help find long-term leaders suited to this new, data-driven culture. Then, I step back into an advisory role—available to course correct if needed, but confident you can run the show independently.
 
-You might wonder why I don't start my own company. Sadly, a [hand injury](./writing/posts/hands-part-1.md) limits how much I can code. Because of this, I want my coding time to have the biggest impact possible. That's why I mainly focus on [instructor](https://python.useinstructor.com) and [education](./systematically-improve-your-rag.md).
+## My Background: Turning Setback into Strength
+
+I honed my AI skills at Stitch Fix, working on vision models, data labeling, generative modeling, and multimodal embeddings. The question was always: how do we go from “this model works” to “how do we make money from it and build a real product?”
+
+Later, I developed severe RSI in my hands, ending my ability to code full-time. What seemed like a career-ending setback led me to refocus on strategy, measurement, and coaching teams to build trustworthy AI without guesswork. Now, companies like HubSpot and Zapier rely on me to steer their teams toward reliable, customer-loved AI products.
+
+**If your main challenge is building or improving Retrieval-Augmented Generation (RAG) systems, consider my dedicated RAG course.** It’s a structured, proven program for refining RAG applications end-to-end. [Learn more here.](./systematically-improve-your-rag.md)
 
 [Request a Consultation](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
 
-## An investment in regret minimization
+## Minimize Regret, Maximize Results
 
-I've seen companies waste months and millions.
+I’ve seen countless companies waste months and millions. I can’t promise product-market fit or guaranteed success, but I can promise:
 
-I can't promise you'll succeed or find product-market fit if we work together, but I can promise to help you make a clear plan, encourage your team to keep trying simple experiments, and focus on what really matters.
+- A clear, measurable plan  
+- Rapid, simple experimentation cycles  
+- A relentless focus on what matters most
 
-My job is simple: to tell you when what you think is easy is actually hard, and when what you think is hard is actually easy.
+My job is to show you when the “easy” is actually hard and when the “hard” might be easier than you think. It’s about minimizing regret and making every investment count.
 
-Success is about minimizing regret.
+## What People Are Saying
 
-## What people are saying
+**Christian, Founder at Dunbar**  
+“Full-stack AI-business guidance in a box. The value went beyond just product acceleration.”
 
-### [Christian](https://twitter.com/cblovescode), Founder at Dunbar
-Can attest that you've been tremendously helpful for the team at Dunbar, the value has gone beyond acceleration of our product too - best way I describe it is full-stack AI-business guidance in a box.
+**Taylor, Head of Product at Zapier**  
+“Jason gave our AI product the horsepower it needed. He’s a pro if you need real results fast.”
 
-### [Taylor](https://twitter.com/tayhalliday), Head of Product at Zapier
-Jason helped us accelerate our RAG offering at Zapier in so many ways. He's a pro if you're looking for someone to come in and give your AI product some added horsepower.
+**Avthar, Lead PM at Timescale**  
+“Brought a wealth of experience and understanding that helped us develop better ideas and move faster. 100% worth it.”
 
-### [Avthar](https://twitter.com/avthars), Lead PM at Timescale
-I highly recommend working with Jason. He's brought a wealth of experience and developer understanding to our team, helping us develop better ideas and move faster. 100% worth it.
+**Vitor, Staff Engineer at Zapier**  
+“Highly recommend Jason if you want to level up your AI product and team. Always came away with insights and actionable ideas.”
 
-### [Vitor](https://twitter.com/vitorbal), Staff Software Engineer at Zapier
-Highly recommend reaching out to Jason if you want to level up your AI product and team! I always came out of our conversations with insights and ideas to make Zapier Central better.
+**Luke, CEO of Kino AI**  
+“Definitely speak with Jason if you’re doing RAG or semantic search. Amazingly helpful.”
 
-### [Luke](https://twitter.com/lukeigel), CEO of Kino AI
-Definitely speak with Jason if you're doing RAG, semantic search, etc. Amazingly helpful.
+## Engagement Models & Pricing
 
-## How best to work with me
+- **Subscription Model:** $9,500/month  
+  45-minute weekly meeting, unlimited email/Slack, and my network of experts.  
 
-There are three ways to work with me:
+- **Strategic Consulting:** Starts at $50k  
+  Fixed-scope initiatives with clear deliverables and measurable outcomes.
 
-1. **Subscription model**: Includes a 45-minute meeting each week, unlimited email/slack access, and my network of experts. I'll pay to help you with them.
+- **Comprehensive Consulting:** Starts at $120k  
+  Full, embedded engagement to transform your entire AI development process.
 
-2. **Project-based engagement**: We will tackle a specific initiative with a fixed scope and budget. This includes helping you write content, do research, and anything else you need.
+No hourly rates, no hidden fees. If it’s not working, I’m happy to refund your fees. For engagements beyond async support, I ask for at least a 3-month commitment.
 
-3. **Traditional consulting relationship**: We meet every week to discuss strategy, planning, and execution. I may bring in extra staff.
+If these are too much, check out my [blog](./writing/index.md) or my [RAG course](./systematically-improve-your-rag.md) for a lower-cost entry point.
 
-I don't work on hourly rates, and my work is guaranteed. With the work that we're doing together, **I'm always happy to refund any fees.**
-
-### Minimum Level of Engagement
-
-If these are too much, I suggest reading my [blog](./writing/index.md) or check out my [course on improving RAG systems](./systematically-improve-your-rag.md) which is a fraction of the cost.
-
-- **Async Support**: $9,500 per month, 45 minute weekly syncs and unlimited email/slack access.
-- **Strategic Consulting**: Starts at $50k for the entire engagement
-- **Comprehensive Consulting**: Starts at $120k for the entire engagement
-
-For services beyond async support, I ask for at least a 3-month commitment. You can pay through Stripe, and my assistant will contact you after. Or, you can fill out our form, and we'll reach out to you. Right now, I'm fully booked until the end of April 2025.
+I’m fully booked until the end of April 2025, so secure your spot now.
 
 [Request a Consultation](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }

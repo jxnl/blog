@@ -7,6 +7,10 @@ description: Explore RAG techniques, AI engineering jobs, and consulting insight
 
 I'm an [independent consultant](./services.md), staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. I write about open source, consulting, and how to systematically improve AI applications.
 
+After years at top tech companies, RSI forced me to reinvent myself. Instead of writing code, I now teach teams to work more scientifically—measuring improvements, iterating quickly, and focusing on what truly matters.
+
+I’ve helped dozens of teams adapt to AI’s rapid evolution. When I’m not consulting, I produce educational content and courses to help more engineers thrive in the changing AI landscape.
+
 [:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
 
 I'm also the creator of [Instructor](https://python.useinstructor.com/), a popular Python library for structured outputs from LLMs, which was cited by the OpenAI team as inspiration for their `structured output` feature. We currently have over 8000 stars and 1M monthly downloads.
