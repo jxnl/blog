@@ -130,9 +130,19 @@ Here are some stuff i like
 
 ---
 
-### **10. Services**
+## Services
 
 - **Laundry & Cleaning Service:** Save time, maintain tidy space.  
 - **Massage Therapy (bi-monthly):** Stay loose, reduce stress.  
 - **Concierge Medical & Personal Chef (optional):** Focus on lean body goals, specialized care.  
 - **EA Support:** Manage appointments, organize travel, optimize your calendar.
+
+---
+
+## Expensive ass things that are worth it 
+
+- Layflat seat on a plane
+- Cool Jackets
+- Nice speakers
+
+Honest thats about it,
