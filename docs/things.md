@@ -1,3 +1,7 @@
+---
+description: "A list of things I've been using and plan on using in the future."
+---
+
 # Things
 
 In the past 2 decades I went from sharing a bed with my parents renting out the unfinished basement of some canadian family to doing quite a bit better for myself. This is all the stuff I did, plan to do, and plan on doing more of next year. I'll include some of my general thoughts on the stuff I've been using.
