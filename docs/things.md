@@ -150,5 +150,7 @@ I'm trying to constantly buy my time back. The first person I'd hire would be an
 - Layflat seat on a plane
 - Cool Jackets
 - Nice speakers
+- LASIK eye surgery
+
 
 Honest thats about it,
