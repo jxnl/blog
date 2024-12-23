@@ -117,6 +117,7 @@ nav:
     - Investments: "investments.md"
     - User Manual: "user_manual.md"
     - Books: 'books.md'
+    - Things: 'things.md'
   - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
   - Consulting:
     - Consulting Services: "services.md"
