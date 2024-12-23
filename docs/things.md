@@ -123,7 +123,7 @@ The trick is to find a couple good brands that work for your body type and then 
 
 ## Home and Objects
 
-Here are some stuff i like 
+Here are some stuff i like, this is a work in progress, will add images as i get them.
 
 - Chikuseiko Charcoal Incense
 - Cast Iron Incense Holder
@@ -133,7 +133,9 @@ Here are some stuff i like
 - A nice kettle like the sori yanagi kettle
 - A nice cutting board like the epicurean cutting board
 - A nice kettlebell
-
+- Speakers
+- Coffee Table
+- Coffee table book 
 ---
 
 ## Services
