@@ -49,6 +49,11 @@ Here's what these ingredients do and their key benefits:
 
 - **Glucosamine & Chondroitin**: Supplements for joint health. Benefits include reduced joint pain, improved mobility, and better cartilage health.
 
+## Teeth and Oral Health
+
+I use [nano-hydroxyapatite toothpaste](https://www.amazon.com/dp/B083JHCCV2) (n-HA) which is a biocompatible material that helps remineralize tooth enamel. It's actually the same mineral that makes up our tooth enamel naturally.
+
+
 ---
 
 ## Hair Care
@@ -63,13 +68,20 @@ Perms chemically break and reform hair's natural bonds into curls, making hair m
 - Regular hydration is crucial to maintain curl pattern
 - Without moisture, permed hair becomes straight, frizzy and brittle
 
+
+**TODO:**
+
+- [ ] Get a nice hair dryer
+
 ---
 
 ## Audio
 
 relatively speeking my tech is pretty basic, I use a macbook pro and a iphone. I use a very accessable [record player from audio technica](https://www.amazon.com/dp/B07N3S4X3P) and some basic [edifier speakers](https://www.amazon.com/dp/B088685QVJ). I also connect an amazon echo to my wifi and use it as a speaker by connecting to my [Harman Kardon Aura Studio 3](https://www.amazon.com/dp/B086FS4BSV) which i think is the single best speaker i've ever owned, perfect for hosting parties too.
 
-I'd love to level up my audio setup, but I'm not sure what I'd use it for. 
+I'd love to level up my audio setup, but I'm not sure what I'd use it for.
+
+Also get airpods pros.
 
 ## Office
 
@@ -136,6 +148,9 @@ Here are some stuff i like, this is a work in progress, will add images as i get
 - Speakers
 - Coffee Table
 - Coffee table book 
+
+
+Also get some art for your walls, magnets for photos on your fridge and make sure to frame it. A calendar is also a nice touch.
 ---
 
 ## Services
