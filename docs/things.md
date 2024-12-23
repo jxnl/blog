@@ -111,6 +111,8 @@ I genuinely hate traveling, but I've found a few nicer things that make it a bit
 
 If you're a tech bro, please consider a nice pair of leather boots. Get them resoled right after you buy them. I've been wearing my [wyatt harness boots](https://www.ysl.com/en-us/pr/wyatt-harness-boots-in-smooth-leather-810162485.html) for years and they are still in great shape. A nice [cargo pant](https://www.ssense.com/en-us/men/product/nanamica/khaki-straight-cut-cargo-pants/16372621). Made from CORDURA is nice. [Ten Thousand](https://www.tenthousand.com/) is a great brand for shirts. 
 
+Also worth investing in a [nice clothing steamer](https://www.amazon.com/dp/B07V91437Y), wrinkly cloths are not it.
+
 If you want to know my favorite brand, it's actually [Yohji Yamamoto](https://www.theshopyohjiyamamoto.com/). Let me tell you a little bit about him:
 
 His signature style combines Japanese design with European techniques, focusing on innovative draping and materials. His work emphasizes movement and space through asymmetrical cuts and a predominantly black palette, influenced by watching his mother work with fabrics in their small shop.
