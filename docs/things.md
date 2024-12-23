@@ -132,6 +132,8 @@ Here are some stuff i like
 
 ## Services
 
+I'm trying to constantly buy my time back. The first person I'd hire would be an EA, then cleaners, then a chef. I'm still looking for a meal prep chef who could come to my house and cook for me once a week.
+
 - **Laundry & Cleaning Service:** Save time, maintain tidy space.  
 - **Massage Therapy (bi-monthly):** Stay loose, reduce stress.  
 - **Concierge Medical & Personal Chef (optional):** Focus on lean body goals, specialized care.  
