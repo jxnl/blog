@@ -133,6 +133,7 @@ The trick is to find a couple good brands that work for your body type and then 
 
 ---
 
+
 ## Home and Objects
 
 Here are some stuff i like, this is a work in progress, will add images as i get them.
@@ -151,6 +152,21 @@ Here are some stuff i like, this is a work in progress, will add images as i get
 
 
 Also get some art for your walls, magnets for photos on your fridge and make sure to frame it. A calendar is also a nice touch.
+
+
+Also get a nice Dyson vacuum. and consider a [Bissell steam](https://www.amazon.com/dp/B0DCHBC8JJ) cleaner.
+
+## Kitchen
+
+You definitely need to get: 
+
+- A good knife, I actually just am Chinese with this. I only use a vegetable cleaver for every function.
+- An Epicurean cutting board
+- A rice cooker 
+- A good blender
+
+I'll add more links once I go through reviewing some of stuff
+
 ---
 
 ## Services
