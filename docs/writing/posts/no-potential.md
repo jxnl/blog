@@ -19,6 +19,8 @@ But after thirty years of watching people's stories unfold, I've come to underst
 
 > Everyone with true potential is already burning with passion and energy. They are always in a constant state of becoming themselves. There are always better words to describe their actions than potential.
 
+This comes in the form of someone saying they'll change their behavior once this happens or that happens. But more realistically, the ones with true agency aren't waiting for things to happen to them - they're already taking action, making their own opportunities, and shaping their own path forward.
+
 This isn't just philosophical musing - it's a pattern I've seen play out in every relationship, every hiring decision, every friendship. When I see my friends choose the wrong people, whether in business or love, it always comes back to this fundamental misunderstanding about potential.
 
 > The potential you see in others is a reflection of the potential you have in yourself. And it's often cases of those who have the most potential are the ones that tend to overestimate potential in others.
@@ -40,3 +42,5 @@ Here's what I've come to understand: The people with true potential aren't the o
 And here's the truth - if we're living this way, truly pursuing our own potential, we can't afford to stand around at basecamp either. Waiting for others to pack their bags and gather their courage. We need to be on the trail. Because that's where we'll find our true companions - not in the comfortable conversations about what could be, but in the breathless exchanges between climbers passing on the path alive with purpose.
 
 They don't need someone to see their potential - they're too busy staring down the path, watching their step, moving forward in a state of constant becoming.
+
+So, what does this mean for you? Think of these people you're always waiting on, and trying to help. Is the potential you see in them a projection of your own potential? Or have they taken action already?
