@@ -7,7 +7,7 @@ description: "There is no such thing as potential. Its just a projection of your
 
 I had a conversation with my friend today that shook something loose in my head: no one has potential. Like [most of the lies I tell myself](./advice.md), this is obviously false - and yet, sometimes we need these extreme statements to see a deeper truth.
 
-> We often combate excess pessimism with excess optimism. We see potential in others and believe they can change. But this is just a projection of our own potential and values and beliefs.
+> We often combat excess pessimism with excess optimism. We see potential in others and believe they can change. But this is just a projection of our own potential and values and beliefs.
 
 Let me explain.
 
@@ -17,7 +17,7 @@ When I think about ambitious people, I never focus on their potential - their ac
 
 But after thirty years of watching people's stories unfold, I've come to understand something a little sad:
 
-> Everyone with true potential is already burning with passion and energy. They are always in a constant state of becoming themselves. There are always better words to describe their actions than potential.
+> Everyone I've met with 'true potential' is already burning with passion and energy. In a constant state of becoming themselves. For those people, potential energy is converted to kinetic energy, and there has always been better words to describe their actions.
 
 This comes in the form of someone saying they'll change their behavior once this happens or that happens. But more realistically, the ones with true agency aren't waiting for things to happen to them - they're already taking action, making their own opportunities, and shaping their own path forward.
 
