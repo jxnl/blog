@@ -15,7 +15,7 @@ We throw around "potential" like it's something we can spot in others - this cap
 
 When I think about ambitious people, I never focus on their potential - their actions speak for themselves. I don't say "she's got a lot of potential" but rather "she's in the studio every day." The daily choices of ambitious people tell a clearer story than any assessment of their potential ever could. Their consistent actions drown out empty words and hypotheticals.
 
-But after thirty years of watching people's stories unfold, I've come to understand something profound:
+But after thirty years of watching people's stories unfold, I've come to understand something a little sad:
 
 > Everyone with true potential is already burning with passion and energy. They are always in a constant state of becoming themselves. There are always better words to describe their actions than potential.
 
@@ -29,7 +29,7 @@ In 2022, I met an artist in New York City. When they shared their dream of havin
 
 But six months went by. Then a year. Then more. Nothing changed except the frequency of complaints about bosses, about systems, about circumstances. The more they complained about their inability to get what they wanted, the more frustrated I became. It took three years to accept that the potential I saw wasn't theirs at all - it was just a projection of how I wanted to live my life, the values I held for myself.
 
-Looking at my peer group - the people I spend my time with now - I never one said to my self "they have potential they just need to...". These ambitious people are already doing the work. Kinetic vs potential energy.
+Now, lets contrast this with the people I spend my time with now. I never one said to my self "they have potential they just need to...". These ambitious people are already doing the work. Kinetic vs potential energy.   
 
 The ones with real momentum are always telling you what they're doing, asking for help, seeking feedback. Or they just disappear for long periods and come back with the thing they wanted, ready to celebrate together.
 
@@ -37,6 +37,6 @@ For most of my life I had an excess optimism about others' abilities, while many
 
 Here's what I've come to understand: The people with true potential aren't the ones having long discussions at basecamp. They are on the trail, the ones in motion, the ones you meet coming down from the summit with dirt on their boots and stories to tell.
 
-And here's the deeper truth - if we're living this way, truly pursuing our own potential, we can't afford to stand around at basecamp either. Waiting for others to pack their bags and gather their courage. We need to be on the trail. Because that's where we'll find our true companions - not in the comfortable conversations about what could be, but in the breathless exchanges between climbers passing on the path alive with purpose.
+And here's the truth - if we're living this way, truly pursuing our own potential, we can't afford to stand around at basecamp either. Waiting for others to pack their bags and gather their courage. We need to be on the trail. Because that's where we'll find our true companions - not in the comfortable conversations about what could be, but in the breathless exchanges between climbers passing on the path alive with purpose.
 
 They don't need someone to see their potential - they're too busy staring down the path, watching their step, moving forward in a state of constant becoming.
