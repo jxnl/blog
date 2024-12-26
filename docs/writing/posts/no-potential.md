@@ -7,7 +7,7 @@ description: "There is no such thing as potential. Its just a projection of your
 
 I had a conversation with my friend today that shook something loose in my head: no one has potential. Like [most of the lies I tell myself](./advice.md), this is obviously false - and yet, sometimes we need these extreme statements to see a deeper truth.
 
-> There is no such thing as potential. Its just a projection of your own potential and values and beliefs.
+> We often combate excess pessimism with excess optimism. We see potential in others and believe they can change. But this is just a projection of our own potential and values and beliefs.
 
 Let me explain.
 
