@@ -153,7 +153,8 @@ extra:
     provider: google
     property: G-686PKP2V2V
   social:
-
+    - icon: fontawesome/solid/rss
+      link: feed_rss_created.xml
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/jxnlco
     - icon: fontawesome/brands/github
