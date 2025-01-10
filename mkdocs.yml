@@ -128,7 +128,8 @@ nav:
     - "writing/index.md"
 plugins:
   - social
-  - rss
+  - rss:
+      match_path: "writing/posts/.*"
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
