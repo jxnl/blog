@@ -21,16 +21,19 @@ Over the last few years, “RAG” has become a buzzword, but making these syste
 | [Google](https://google.com) | Search Engine, Technology |
 | [Microsoft](https://microsoft.com) | Software, Cloud Computing |
 | [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
+| [Airbnb](https://airbnb.com) | Travel |
+| [Zapier](https://zapier.com) | Automation |
+| [HubSpot](https://hubspot.com) | Marketing Software |
+| [Shopify](https://shopify.com) | E-commerce Platform |
+| [Decagon](https://decagon.ai/) | Technology |
+| [Anysphere](https://anysphere.com) | AI |
 | [GitLab](https://gitlab.com) | Software Development |
 | [DataStax](https://datastax.com) | Database Technology |
 | [Timescale](https://timescale.com) | Database Technology |
 | [PostHog](https://posthog.com) | Product Analytics |
-| [HubSpot](https://hubspot.com) | Marketing Software |
-| [Shopify](https://shopify.com) | E-commerce Platform |
 | [Gumroad](https://gumroad.com) | E-commerce Platform |
-| [Intercom](https://intercom.com) | Customer Engagement |
 | [Miro](https://miro.com) | Collaboration |
-| [Decagon](https://decagon.ai/) | Technology |
+| [Intercom](https://intercom.com) | Customer Engagement |
 
 | Company | Industry |
 |--------------|----------|
@@ -42,8 +45,6 @@ Over the last few years, “RAG” has become a buzzword, but making these syste
 | [Bain & Company](https://bain.com) | Consulting |
 | [Northrop Grumman](https://northropgrumman.com) | Aerospace & Defense |
 | [Visa](https://visa.com) | Financial Services |
-| [Lincoln Financial](https://lfg.com) | Financial Services |
-| [Airbnb](https://airbnb.com) | Travel |
 
 </div>
 
