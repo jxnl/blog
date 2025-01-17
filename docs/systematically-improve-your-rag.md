@@ -25,26 +25,26 @@ Over the last few years, “RAG” has become a buzzword, but making these syste
 | [Zapier](https://zapier.com) | Automation |
 | [HubSpot](https://hubspot.com) | Marketing Software |
 | [Shopify](https://shopify.com) | E-commerce Platform |
-| [Decagon](https://decagon.ai/) | Technology |
-| [Anysphere](https://anysphere.com) | AI |
-| [GitLab](https://gitlab.com) | Software Development |
-| [DataStax](https://datastax.com) | Database Technology |
-| [Timescale](https://timescale.com) | Database Technology |
-| [PostHog](https://posthog.com) | Product Analytics |
-| [Gumroad](https://gumroad.com) | E-commerce Platform |
-| [Miro](https://miro.com) | Collaboration |
-| [Intercom](https://intercom.com) | Customer Engagement |
-
-| Company | Industry |
-|--------------|----------|
-| [Workday](https://workday.com) | Enterprise Software |
-| [Accenture](https://accenture.com) | Consulting, Technology Services |
-| [KPMG](https://kpmg.com) | Professional Services |
 | [PwC](https://pwc.com) | Professional Services |
 | [Booz Allen Hamilton](https://boozallen.com) | Consulting |
 | [Bain & Company](https://bain.com) | Consulting |
 | [Northrop Grumman](https://northropgrumman.com) | Aerospace & Defense |
 | [Visa](https://visa.com) | Financial Services |
+| [KPMG](https://kpmg.com) | Professional Services |
+
+| Company | Industry |
+|--------------|----------|
+| [Decagon](https://decagon.ai/) | Technology |
+| [Anysphere](https://anysphere.com) | AI |
+| [GitLab](https://gitlab.com) | Software Development |
+| [Intercom](https://intercom.com) | Customer Engagement |
+| [DataStax](https://datastax.com) | Database Technology |
+| [Timescale](https://timescale.com) | Database Technology |
+| [PostHog](https://posthog.com) | Product Analytics |
+| [Gumroad](https://gumroad.com) | E-commerce Platform |
+| [Miro](https://miro.com) | Collaboration |
+| [Workday](https://workday.com) | Enterprise Software |
+| [Accenture](https://accenture.com) | Consulting, Technology Services |
 
 </div>
 
