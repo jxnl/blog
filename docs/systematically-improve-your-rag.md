@@ -18,32 +18,32 @@ Over the last few years, “RAG” has become a buzzword, but making these syste
 |--------------|----------|
 | [OpenAI](https://openai.com) | AI Research & Development |
 | [Anthropic](https://anthropic.com) | AI Research & Development |
-| [Airbnb](https://airbnb.com) | Travel |
-| [Google](https://google.com) | Search Engine |
+| [Google](https://google.com) | Search Engine, Technology |
+| [Microsoft](https://microsoft.com) | Software, Cloud Computing |
 | [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
-| [Zapier](https://zapier.com) | Automation Software |
-| [Adobe](https://adobe.com) | Software, Creative Tools |
-| [Intuit](https://intuit.com) | Financial Software |
-| [Stanford University](https://stanford.edu) | Education |
-| [MIT](https://mit.edu) | Education |
-| [Berkeley](https://berkeley.edu) | Education |
 | [GitLab](https://gitlab.com) | Software Development |
+| [DataStax](https://datastax.com) | Database Technology |
+| [Timescale](https://timescale.com) | Database Technology |
+| [PostHog](https://posthog.com) | Product Analytics |
+| [HubSpot](https://hubspot.com) | Marketing Software |
+| [Shopify](https://shopify.com) | E-commerce Platform |
+| [Gumroad](https://gumroad.com) | E-commerce Platform |
+| [Intercom](https://intercom.com) | Customer Engagement |
+| [Miro](https://miro.com) | Collaboration |
+| [Decagon](https://decagon.ai/) | Technology |
 
 | Company | Industry |
 |--------------|----------|
-| [Bain & Company](https://bain.com) | Consulting |
+| [Workday](https://workday.com) | Enterprise Software |
 | [Accenture](https://accenture.com) | Consulting, Technology Services |
-| [McKinsey & Company](https://mckinsey.com) | Management Consulting |
-| [Timescale](https://timescale.com) | Database Technology |
-| [Novo Nordisk](https://novonordisk.com) | Pharmaceuticals |
-| [Cisco](https://cisco.com) | Networking Technology |
-| [Electronic Arts](https://ea.com) | Gaming |
-| [Shopify](https://shopify.com) | E-commerce Platform |
-| [Enterpret](https://enterpret.com) | Customer Analytics |
-| [Vantager](https://vantager.com) | Business Intelligence |
-| [DraftKings](https://draftkings.com) | Sports Betting |
-| [Trail of Bits](https://trailofbits.com) | Cybersecurity |
-| [Miro](https://miro.com) | Collaboration |
+| [KPMG](https://kpmg.com) | Professional Services |
+| [PwC](https://pwc.com) | Professional Services |
+| [Booz Allen Hamilton](https://boozallen.com) | Consulting |
+| [Bain & Company](https://bain.com) | Consulting |
+| [Northrop Grumman](https://northropgrumman.com) | Aerospace & Defense |
+| [Visa](https://visa.com) | Financial Services |
+| [Lincoln Financial](https://lfg.com) | Financial Services |
+| [Airbnb](https://airbnb.com) | Travel |
 
 </div>
 
