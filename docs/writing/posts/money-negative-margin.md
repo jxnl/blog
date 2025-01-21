@@ -1,6 +1,7 @@
 ---
 date: 2025-01-07
-author: jxnl
+authors: 
+  - jxnl
 description: "If you truely believe you'll be successful, then making money will also be negative margin."
 ---
 

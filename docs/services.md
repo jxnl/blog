@@ -4,8 +4,6 @@ description: Expert consulting services to accelerate AI product development, mi
 
 # Build AI Products Your Customers Trust
 
-??? warning "I'm currently at capacity until the end of March 2025"
-
 If you're an engineering leader at a startup looking to roll out AI to production, I can help. Over the last decade, I’ve guided 20+ engineering teams—like those at HubSpot, Zapier, and others—through the challenges of AI product development. I focus on what actually works: simple baselines, straightforward systems, and business outcomes over hype.
 
 My expertise includes:
@@ -16,7 +14,7 @@ My expertise includes:
 
 If I don’t have the answer, I’ll tap my network of trusted experts to find it. My approach is practical, measurable, and focused on long-term impact.
 
-[Request a Consultation](https://form.typeform.com/to/gqgTx3I6){ .md-button .md-button--primary }  
+[Request a Consultation](mailto:work@jxnl.co){ .md-button .md-button--primary }  
 [See Testimonials](#what-people-are-saying){ .md-button }  
 
 ## Companies I’ve Helped
@@ -106,6 +104,5 @@ No hourly rates, no hidden fees. If it’s not working, I’m happy to refund yo
 
 If these are too much, check out my [blog](./writing/index.md) or my [RAG course](./systematically-improve-your-rag.md) for a lower-cost entry point.
 
-I’m fully booked until the end of April 2025, so secure your spot now.
-
-[Request a Consultation](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
+<!-- [Request a Consultation](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary } -->
+[Request a Consultation](mailto:work@jxnl.co){ .md-button .md-button--primary }
