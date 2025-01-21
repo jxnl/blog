@@ -4,4 +4,4 @@ mkdocstrings
 mkdocstrings-python
 mkdocs-minify-plugin
 mkdocs-redirects
-
+mkdocs-rss-plugin
