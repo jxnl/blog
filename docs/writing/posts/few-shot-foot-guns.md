@@ -6,7 +6,8 @@ categories:
  - Prompting
 authors:
   - jxnl
-  - zenbase
+  - cyrus
+  - amir
 ---
 
 # 10 “Foot Guns" for Fine-Tuning and Few-Shots

@@ -24,8 +24,13 @@ authors:
     description: Leader
     avatar: https://skylarbpayne.com/assets/images/profilepic.jpg
     url: https://skylarbpayne.com/
-  zenbase:
-    name: Zenbase
-    description: Partner
-    url: https://zenbase.ai/
-    avatar: https://media.licdn.com/dms/image/v2/D4E0BAQHK5G0AjgZrnA/company-logo_200_200/company-logo_200_200/0/1725335554542/zenbase_ai_logo?e=1745452800&v=beta&t=VCu196q1EkBGL2BZW3wHU2YzHTsHIMuIc6CFhZ-L-eM
+  cyrus:
+    name: Cyrus
+    description: Zenbase
+    avatar: https://pbs.twimg.com/profile_images/1598732652445667330/ndmPqfJN_400x400.jpg
+    url: https://x.com/cyrusnewday 
+  amir:
+    name: Amir
+    description: Zenbase
+    avatar: https://bookface-images.s3.amazonaws.com/avatars/43ee1f41d3f47ead4f434713f094c8a0369af56a.jpg
+    url: https://x.com/ammirsm
