@@ -91,8 +91,8 @@ My job is to show you when the “easy” is actually hard and when the “hard�
 
 ## Engagement Models & Pricing
 
-- **Subscription Model:** $9,500/month  
-  45-minute weekly meeting, unlimited email/Slack, and my network of experts.  
+- **Subscription Model:** $11,500/month  
+  45-minute weekly meeting, unlimited email/Slack, and my network of experts, as well as opportunities to co-publish blog posts, articles, and more.
 
 - **Strategic Consulting:** Starts at $50k  
   Fixed-scope initiatives with clear deliverables and measurable outcomes.
