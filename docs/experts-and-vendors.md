@@ -27,6 +27,9 @@ Over the years, I've built a network of AI and ML specialists, vendors, and indu
 ### [John Berryman](https://arcturus-labs.com/)
 * Author of ["Relevant Search"](https://www.amazon.com/Relevant-Search-applications-Solr-Elasticsearch/dp/161729277X) and ["Prompt Engineering for LLMs"](https://oreillymedia.pxf.io/c/5303529/1975458/15173). Former GitHub Code Search and Copilot contributor.
 
+### [Zhou Yu](https://www.linkedin.com/in/zhouyustanford//)
+* Data science & ML consultant. Diversified & hands-on experience across industries. Work with early stage companies and founders to build 0 to 1 data science capabilities and ML models. Former head of data science. Ex Google, Stitch Fix and Signalfire.
+
 ## Trusted Vendors
 
 ### Braintrust: [Ankur Goyal](https://www.linkedin.com/in/ankrgyl)
