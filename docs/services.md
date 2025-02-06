@@ -74,6 +74,10 @@ My job is to show you when the “easy” is actually hard and when the “hard�
 
 ## What People Are Saying
 
+**Camu Team (a16z backed)**
+
+"Jason helped us break down our vision into actionable steps, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements. Grateful for his expertise and support!"
+
 **Christian, Founder at Dunbar**  
 “Full-stack AI-business guidance in a box. The value went beyond just product acceleration.”
 
