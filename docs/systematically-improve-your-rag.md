@@ -9,6 +9,8 @@ description: Enhance your RAG applications with our expert-led course. Learn pra
 
 Confidently build and refine Retrieval-Augmented Generation (RAG) systems that deliver real-world impact. Our 6-week, hands-on course takes you from the fundamentals of evaluating quality all the way through building stable, production-grade capabilities.
 
+> “Jason helped us break down our vision into actionable steps, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements. Grateful for his expertise and support!” — Camu Team (a16z backed)
+
 Over the last few years, “RAG” has become a buzzword, but making these systems genuinely robust and effective often feels like guesswork. This course cuts through the confusion by giving you a clear, repeatable process: from collecting the right data and generating synthetic evaluations, to gradually incorporating new retrieval indices, routing strategies, fine-tuned embeddings, and practical UX improvements.
 # Trusted by Professionals from Leading Organizations:
 
@@ -20,6 +22,8 @@ Over the last few years, “RAG” has become a buzzword, but making these syste
 | [Anthropic](https://anthropic.com) | AI Research & Development |
 | [Google](https://google.com) | Search Engine, Technology |
 | [Microsoft](https://microsoft.com) | Software, Cloud Computing |
+| [TikTok](https://tiktok.com) | Social Media |
+| [Databricks](https://databricks.com) | Data Platform |
 | [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
 | [Airbnb](https://airbnb.com) | Travel |
 | [Zapier](https://zapier.com) | Automation |
@@ -38,6 +42,7 @@ Over the last few years, “RAG” has become a buzzword, but making these syste
 | [Anysphere](https://anysphere.com) | AI |
 | [GitLab](https://gitlab.com) | Software Development |
 | [Intercom](https://intercom.com) | Customer Engagement |
+| [Lincoln Financial](https://lincolnfinancial.com) | Financial Services |
 | [DataStax](https://datastax.com) | Database Technology |
 | [Timescale](https://timescale.com) | Database Technology |
 | [PostHog](https://posthog.com) | Product Analytics |
@@ -45,7 +50,9 @@ Over the last few years, “RAG” has become a buzzword, but making these syste
 | [Miro](https://miro.com) | Collaboration |
 | [Workday](https://workday.com) | Enterprise Software |
 | [Accenture](https://accenture.com) | Consulting, Technology Services |
-
+| [Mozilla](https://mozilla.org) | Non-profit |
+| [Redhat](https://redhat.com) | Software Development |
+| [Nvidia](https://nvidia.com) | AI |
 </div>
 
 No more fumbling in the dark. This program shows you step-by-step how to:

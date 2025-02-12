@@ -23,7 +23,6 @@ If I don’t have the answer, I’ll tap my network of trusted experts to find i
 |-----------------------------------------------|------------------------------------------------------------|----------------|--------------------|
 | [Zapier](https://zapier.com/)                 | Automates workflows by connecting apps and services        | VP of Product  | Automation         |
 | [HubSpot](https://hubspot.com/)               | CRM and marketing automation platform                      | GM             | Sales & Marketing  |
-| [Enterpret](https://enterpret.com/)           | AI-powered customer feedback analysis                      | CTO            | Analytics          |
 | [Tensorlake](https://tensorlake.ai/)          | AI-native Data Lake / Extraction                           | CEO            | Data               |
 | [Limitless AI](http://limitless.ai/)          | AI-powered personal memory assistant                       | CTO            | AI                 |
 | [Trunk Tools](https://trunktools.com/)        | AI for construction workforce productivity                 | VP Eng         | Construction       |
