@@ -71,27 +71,6 @@ I’ve seen countless companies waste months and millions. I can’t promise pro
 
 My job is to show you when the “easy” is actually hard and when the “hard” might be easier than you think. It’s about minimizing regret and making every investment count.
 
-## What People Are Saying
-
-**Camu Team (a16z backed)**
-
-"Jason helped us break down our vision into actionable steps, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements. Grateful for his expertise and support!"
-
-**Christian, Founder at Dunbar**  
-“Full-stack AI-business guidance in a box. The value went beyond just product acceleration.”
-
-**Taylor, Head of Product at Zapier**  
-“Jason gave our AI product the horsepower it needed. He’s a pro if you need real results fast.”
-
-**Avthar, Lead PM at Timescale**  
-“Brought a wealth of experience and understanding that helped us develop better ideas and move faster. 100% worth it.”
-
-**Vitor, Staff Engineer at Zapier**  
-“Highly recommend Jason if you want to level up your AI product and team. Always came away with insights and actionable ideas.”
-
-**Luke, CEO of Kino AI**  
-“Definitely speak with Jason if you’re doing RAG or semantic search. Amazingly helpful.”
-
 ## Engagement Models & Pricing
 
 - **Subscription Model:** $11,500/month  
