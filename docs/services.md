@@ -1,90 +1,103 @@
 ---
-description: Expert consulting services to accelerate AI product development, minimize regrets, and drive business outcomes. Book a consultation today!
+description: AI consulting for startups. Build better products, faster.
 ---
 
-# Build AI Products Your Customers Trust
+# AI Consulting for Engineering Leaders
 
-If you're an engineering leader at a startup looking to roll out AI to production, I can help. Over the last decade, I’ve guided 20+ engineering teams—like those at HubSpot, Zapier, and others—through the challenges of AI product development. I focus on what actually works: simple baselines, straightforward systems, and business outcomes over hype.
+I help engineering teams build trustworthy AI products through measurement, iteration, and data-driven decisions. Former Stitch Fix ML engineer, now guiding teams at companies like HubSpot and Zapier.
 
-My expertise includes:
+- :material-brain: __Team Training__: Training teams transitioning to AI-powered systems
+- :material-lightbulb: __Product Strategy__: Transforming products into AI-enabled solutions
+- :material-speedometer: __Measurable Results__: 3-5x faster iterations, 20-40% improved metrics
+- :material-tools: __Technical Implementation__: Hands-on guidance for building robust AI systems
 
-- Training teams transitioning to probabilistic or AI-powered systems  
-- Pivoting existing products into AI-enabled solutions that generate valuable data  
-- Hiring and assessing top-tier AI engineering talent
+[:material-email: Request a Consultation](mailto:work@jxnl.co){ .md-button .md-button--primary }
 
-If I don’t have the answer, I’ll tap my network of trusted experts to find it. My approach is practical, measurable, and focused on long-term impact.
+## My Approach
 
-[Request a Consultation](mailto:work@jxnl.co){ .md-button .md-button--primary }  
-[See Testimonials](#what-people-are-saying){ .md-button }  
+I embed with your team to identify bottlenecks, implement metrics, and create feedback loops. We replace intuition with data, accelerate testing cycles, and build a culture of continuous improvement.
 
-## Companies I’ve Helped
+## Select Clients
 
-| Client                                        | Description                                                | Contact        | Industry           |
-|-----------------------------------------------|------------------------------------------------------------|----------------|--------------------|
-| [Zapier](https://zapier.com/)                 | Automates workflows by connecting apps and services        | VP of Product  | Automation         |
-| [HubSpot](https://hubspot.com/)               | CRM and marketing automation platform                      | GM             | Sales & Marketing  |
-| [Tensorlake](https://tensorlake.ai/)          | AI-native Data Lake / Extraction                           | CEO            | Data               |
-| [Limitless AI](http://limitless.ai/)          | AI-powered personal memory assistant                       | CTO            | AI                 |
-| [Trunk Tools](https://trunktools.com/)        | AI for construction workforce productivity                 | VP Eng         | Construction       |
-| [Naro](http://narohq.com/)                    | Contextual content delivery for customer interactions      | CTO            | Sales & Marketing  |
-| [New Computer](http://new.computer/)          | AI-powered software development tools                      | CEO            | Developer Tools    |
+| Client                                        | Contact      | Industry           |
+|-----------------------------------------------|--------------|--------------------|
+| [Zapier](https://zapier.com/)                 | VP of Product| Automation         |
+| [HubSpot](https://hubspot.com/)               | GM           | Sales & Marketing  |
+| [Tensorlake](https://tensorlake.ai/)          | CEO          | Data               |
+| [Limitless AI](http://limitless.ai/)          | CTO          | AI                 |
+| [Trunk Tools](https://trunktools.com/)        | VP Eng       | Construction       |
+| [New Computer](http://new.computer/)          | CEO          | AI                 |
+| [Weights & Biases](https://wandb.ai/)         | CTO          | ML Infrastructure  |
+| [Modal Labs](https://modal.com/)              | CEO          | Cloud Computing    |
+| [Timescale](https://timescale.com/)           | VP Product   | Database           |
+| [Pydantic](http://pydantic.dev/)              | Creator      | Developer Tools    |
 
-…plus many others like [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
+## Testimonials
 
-## How I Work with Your Team
+<div class="testimonial-grid">
+  <div class="testimonial-card">
+    <p class="quote">"As an Applied AI Engineer at Anthropic, I was familiar with all of the standard retrieval methods and RAG papers going into the course, but <strong>Jason's frameworks helped me to operationalize what I'd learned</strong> and it's had an incredibly positive impact in my work with customers."</p>
+    <p class="author">— Sam Flamini, Solutions Engineer at Anthropic</p>
+  </div>
+  
+  <div class="testimonial-card">
+    <p class="quote">"Jason helped us <strong>break down our vision into actionable steps</strong>, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements."</p>
+    <p class="author">— Team at Camu (a16z backed)</p>
+  </div>
+  
+  <div class="testimonial-card">
+    <p class="quote">"<strong>Full-stack AI-business guidance in a box.</strong> The value went beyond just product acceleration."</p>
+    <p class="author">— Christian, Founder at Dunbar</p>
+  </div>
+  
+  <div class="testimonial-card">
+    <p class="quote">"<strong>Jason gave our AI product the horsepower it needed.</strong> He's a pro if you need real results fast."</p>
+    <p class="author">— Taylor, Head of Product at Zapier</p>
+  </div>
+  
+  <div class="testimonial-card">
+    <p class="quote">"<strong>Brought a wealth of experience and understanding</strong> that helped us develop better ideas and move faster. 100% worth it."</p>
+    <p class="author">— Avthar, Lead PM at Timescale</p>
+  </div>
+  
+  <div class="testimonial-card">
+    <p class="quote">"Highly recommend Jason if you want to <strong>level up your AI product and team.</strong> Always came away with insights and actionable ideas."</p>
+    <p class="author">— Vitor, Staff Engineer at Zapier</p>
+  </div>
+  
+  <div class="testimonial-card">
+    <p class="quote">"<strong>Definitely speak with Jason if you're doing RAG or semantic search.</strong> Amazingly helpful."</p>
+    <p class="author">— Luke, CEO of Kino AI</p>
+  </div>
+  
+  <div class="testimonial-card">
+    <p class="quote">"Jason's writing introduced me to several effective patterns for wrangling and using LLMs in actual user-facing systems. His insights have been <strong>instrumental in helping my teams launch two LLM-based features with measurable business impact.</strong>"</p>
+    <p class="author">— Jay, VP of Technology</p>
+  </div>
+</div>
 
-**First Look at Your Team:**  
-I embed directly with your team—joining standups, reviewing workflows, and identifying hidden bottlenecks. Often, we find no one is using real metrics to track performance.
+<style>
+.testimonial-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 1rem 0;
+}
+.testimonial-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+</style>
 
-**Make it Scientific:**  
-We replace “it feels better” with “it’s 20% faster.” Decisions become data-driven, measurable, and focused on outcomes.
+## Engagements & Pricing
 
-**Accelerate Testing:**  
-Your team might take days for a test that should take minutes. We identify friction, fix it, and make iterative experimentation your new normal.
+**Subscription:** $16,500/month - Weekly strategy sessions, unlimited support  
+**Strategic Projects:** From $50k - Fixed-scope initiatives with clear deliverables  
+**Embedded Consulting:** From $120k - Full transformation of your AI development process
 
-**User-Driven Feedback:**  
-We implement easy feedback loops, so you know what users dislike and why. Then we fix the highest-impact issues first.
+If these options don't fit your needs, consider my [RAG course](./systematically-improve-your-rag.md) for a lower-cost entry point.
 
-**Cultural Transformation:**  
-Over time, your team evolves to rely on facts instead of intuition. Each week, user feedback turns into targeted experiments. Results are clear, improvements are constant.
-
-**Growth & Hand-Off:**  
-Once the system is stable, I help find long-term leaders suited to this new, data-driven culture. Then, I step back into an advisory role—available to course correct if needed, but confident you can run the show independently.
-
-## My Background: Turning Setback into Strength
-
-I honed my AI skills at Stitch Fix, working on vision models, data labeling, generative modeling, and multimodal embeddings. The question was always: how do we go from “this model works” to “how do we make money from it and build a real product?”
-
-Later, I developed severe RSI in my hands, ending my ability to code full-time. What seemed like a career-ending setback led me to refocus on strategy, measurement, and coaching teams to build trustworthy AI without guesswork. Now, companies like HubSpot and Zapier rely on me to steer their teams toward reliable, customer-loved AI products.
-
-**If your main challenge is building or improving Retrieval-Augmented Generation (RAG) systems, consider my dedicated RAG course.** It’s a structured, proven program for refining RAG applications end-to-end. [Learn more here.](./systematically-improve-your-rag.md)
-
-[Request a Consultation](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
-
-## Minimize Regret, Maximize Results
-
-I’ve seen countless companies waste months and millions. I can’t promise product-market fit or guaranteed success, but I can promise:
-
-- A clear, measurable plan  
-- Rapid, simple experimentation cycles  
-- A relentless focus on what matters most
-
-My job is to show you when the “easy” is actually hard and when the “hard” might be easier than you think. It’s about minimizing regret and making every investment count.
-
-## Engagement Models & Pricing
-
-- **Subscription Model:** $11,500/month  
-  45-minute weekly meeting, unlimited email/Slack, and my network of experts, as well as opportunities to co-publish blog posts, articles, and more.
-
-- **Strategic Consulting:** Starts at $50k  
-  Fixed-scope initiatives with clear deliverables and measurable outcomes.
-
-- **Comprehensive Consulting:** Starts at $120k  
-  Full, embedded engagement to transform your entire AI development process.
-
-No hourly rates, no hidden fees. If it’s not working, I’m happy to refund your fees. For engagements beyond async support, I ask for at least a 3-month commitment.
-
-If these are too much, check out my [blog](./writing/index.md) or my [RAG course](./systematically-improve-your-rag.md) for a lower-cost entry point.
-
-<!-- [Request a Consultation](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary } -->
-[Request a Consultation](mailto:work@jxnl.co){ .md-button .md-button--primary }
+[:material-email: Contact Me](mailto:work@jxnl.co){ .md-button .md-button--primary }
+[:material-calendar: Schedule a Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--secondary }
