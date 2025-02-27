@@ -11,6 +11,8 @@ I had a conversation with my friend today that shook something loose in my head:
 
 Let me explain.
 
+<!-- more -->
+
 We throw around "potential" like it's something we can spot in others - this capacity for growth, for becoming. It's the story we tell when we hire someone who isn't quite ready, when we date someone who isn't quite there, when we believe in someone who hasn't quite proven themselves. We use it to describe the ability of a person to evolve and adapt, to grow into who they're "meant to be."
 
 When I think about ambitious people, I never focus on their potential - their actions speak for themselves. I don't say "she's got a lot of potential" but rather "she's in the studio every day." The daily choices of ambitious people tell a clearer story than any assessment of their potential ever could. Their consistent actions drown out empty words and hypotheticals.
