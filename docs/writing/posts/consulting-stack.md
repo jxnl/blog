@@ -64,7 +64,10 @@ The first steps in building your consulting practice involve some unsexy but cru
 
 With the legal and financial foundation in place, here are the key software tools I rely on:
 
+- [Wispr Flow](https://ref.wisprflow.ai/jxnl): A powerful voice-to-text tool that helps you write 3x faster in any application. It works seamlessly across all your apps with AI commands, auto-edits, and support for 100+ languages. I use this to dictate emails, documents, and even code while multitasking. The context-awareness feature is particularly helpful for getting technical terms and names right, which is crucial when communicating with clients.
+
 - [Stripe for invoicing](https://stripe.com/): Great for smaller clients. Larger companies often prefer ACH transfers. Note that if you don't allow ACH and you let companies pay you via card, you're goign to eat some fees, so always turn on DD and even ask them to pay by ACH instead. Mercury also allows invoice payments now.
+
 - [Dropbox + Dropbox Sign](https://sign.dropbox.com/): This tool is essential for sending and tracking proposals, as well as getting contracts signed digitally. It adds a layer of professionalism to your operations. Additionally, it allows you to monitor who is downloading and viewing your documents, which is particularly useful when sending contracts, documents, or proposals to clients.
 
 - [Cal.com](https://cal.com/): For easily scheduling calls, especially free consultations. Whenever someone asks to hang out or jump on a call, I just send them a cow link immediately. In the future, you can also set up paid calls, which makes it very easy. It's a tool I love using, and it's basically free. 
@@ -75,8 +78,6 @@ That said, you can definitely go crazy with how you set up your availability sch
 - [Anthropic Claude](https://claude.ai/new): An AI assistant crucial for content creation and research. I use it for generating proposals, leveraging example templates and detailed prompts. Unexpectedly, I've also found it valuable for creating mockups - I often share Claude-generated React code to visually communicate designs to clients, going beyond verbal descriptions.
 
 - [Spiral Computer](https://spiral.computer/): I use this to generate memos and blog posts from transcripts. It's a general-purpose tool that I use to convert transcripts into tweets and blog posts, and convert blog posts into tweets.  If you're committed to producing enough content and recognize that one of the best ways of increasing your surface area is to write more, Spiral Computer is a no-brainer tool for $200 a year. You'll definitely make it back if you can double the amount of content you produce.
-
-- [Better Diction](https://betterdictation.com/?via=jason): A tool for transcribing and improving the quality of your audio recordings, which i used to control cursor, and writing. You can also use PROMO `JASON20` for a discount.
 
 !!! note "The power of standardization" 
 
