@@ -4,18 +4,19 @@ description: AI consulting for startups. Build better products, faster.
 
 # AI Consulting for Engineering Leaders
 
-I help engineering teams build trustworthy AI products through measurement, iteration, and data-driven decisions. Former Stitch Fix ML engineer, now guiding teams at companies like HubSpot and Zapier.
+## I work with engineering leaders like you who:
 
-- :material-brain: __Team Training__: Training teams transitioning to AI-powered systems
-- :material-lightbulb: __Product Strategy__: Transforming products into AI-enabled solutions
-- :material-speedometer: __Measurable Results__: 3-5x faster iterations, 20-40% improved metrics
-- :material-tools: __Technical Implementation__: Hands-on guidance for building robust AI systems
+* **Struggle to measure AI performance** - I help implement meaningful metrics beyond accuracy, focusing on business outcomes that matter to your users.
+
+* **Need faster iteration cycles** - I accelerate your testing from weeks to days, enabling 3-5x faster experimentation and 20-40% improved metrics.
+
+* **Lack AI expertise on their team** - As a former Stitch Fix ML engineer who's guided teams at HubSpot and Zapier, I provide hands-on training for engineering teams.
+
+* **Want AI features that drive business value** - I help transform existing products into AI-enabled solutions that solve real user problems, not just showcase capabilities.
+
+* **Need reliable AI systems** - I embed with your team to identify bottlenecks, implement robust feedback loops, and replace intuition with data-driven decisions.
 
 [:material-email: Request a Consultation](mailto:work@jxnl.co){ .md-button .md-button--primary }
-
-## My Approach
-
-I embed with your team to identify bottlenecks, implement metrics, and create feedback loops. We replace intuition with data, accelerate testing cycles, and build a culture of continuous improvement.
 
 ## Select Clients
 
@@ -38,6 +39,11 @@ I embed with your team to identify bottlenecks, implement metrics, and create fe
   <div class="testimonial-card">
     <p class="quote">"As an Applied AI Engineer at Anthropic, I was familiar with all of the standard retrieval methods and RAG papers going into the course, but <strong>Jason's frameworks helped me to operationalize what I'd learned</strong> and it's had an incredibly positive impact in my work with customers."</p>
     <p class="author">— Sam Flamini, Solutions Engineer at Anthropic</p>
+  </div>
+
+  <div class="testimonial-card">
+    <p class="quote">"Working with Jason has helped <strong>improve the Bytebot product tremendously</strong>. Met Hamel Husain at a Replicate meetup earlier this year, and within a few minutes we were walking through evaluation set examples. These two teaming up is like Lebron and Dwade!"</p>
+    <p class="author">— Carl Atupem, CEO at Bytebot</p>
   </div>
   
   <div class="testimonial-card">
@@ -73,6 +79,16 @@ I embed with your team to identify bottlenecks, implement metrics, and create fe
   <div class="testimonial-card">
     <p class="quote">"Jason's writing introduced me to several effective patterns for wrangling and using LLMs in actual user-facing systems. His insights have been <strong>instrumental in helping my teams launch two LLM-based features with measurable business impact.</strong>"</p>
     <p class="author">— Jay, VP of Technology</p>
+  </div>
+
+  <div class="testimonial-card">
+    <p class="quote">"I wanted to change how I was being compensated and charge for the value I was providing, not the hours I worked. Jason reviewed my contract and gave me <strong>a ton of actionable tips, which were a complete paradigm shift</strong> to how I was thinking about it. I landed the contract at terms that sounded great to me."</p>
+    <p class="author">— Alex Zamoshchin, Independent Consultant</p>
+  </div>
+
+  <div class="testimonial-card">
+    <p class="quote">"Jason is constantly learning and growing as a consultant. Come learn how he thinks about <strong>marketing, content, writing proposals, pricing</strong>, and other topics that people struggle with when starting their independent consulting journey."</p>
+    <p class="author">— Hamel Husein, Independent Consultant</p>
   </div>
 </div>
 

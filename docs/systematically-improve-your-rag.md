@@ -5,13 +5,46 @@ description: Enhance your RAG applications with our expert-led course. Learn pra
 
 # Systematically Improve Your RAG Applications
 
+## Stop Guessing. Start Building RAG That Actually Works.
+
 **:star: Top rated AI course on Maven.com (4.7/5 stars, +200 students) :star:**
 
 Confidently build and refine Retrieval-Augmented Generation (RAG) systems that deliver real-world impact. Our 6-week, hands-on course takes you from the fundamentals of evaluating quality all the way through building stable, production-grade capabilities.
 
-> “Jason helped us break down our vision into actionable steps, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements. Grateful for his expertise and support!” — Camu Team (a16z backed)
+[Enroll now on Maven (starts May 20)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
-Over the last few years, “RAG” has become a buzzword, but making these systems genuinely robust and effective often feels like guesswork. This course cuts through the confusion by giving you a clear, repeatable process: from collecting the right data and generating synthetic evaluations, to gradually incorporating new retrieval indices, routing strategies, fine-tuned embeddings, and practical UX improvements.
+## What People Are Saying
+
+| Review | Name | Role |
+|------|------|---------|
+| "Practical lessons from every lecture... learning from a community on the vanguard of this emerging field." | Max | Software Engineer, Launch School |
+| "Excellent job of stressing the fundamentals... useful metric tools to measure and improve RAG systems." | Christopher | Senior Data/AI Architect, Procurement Sciences AI |
+| "Jason and Dan help set you on the right path... emphasis on looking at your data and building a metrics-based flywheel." | Vitor | Staff Software Engineer, Zapier |
+| "A game-changer! ... They've got this knack for breaking down complex RAG concepts into a framework that just clicks." | Moose | Founder & CEO, Sociail, Inc. |
+
+> "Jason helped us break down our vision into actionable steps, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements. Grateful for his expertise and support!" — Camu Team (a16z backed)
+
+## The Problem With RAG Today
+
+Over the last few years, "RAG" has become a buzzword, but making these systems genuinely robust and effective often feels like guesswork. Most teams waste time on:
+
+- ❌ Vague metrics like "make the AI better" 
+- ❌ Random experiments without data
+- ❌ Focusing on generation while ignoring retrieval
+- ❌ Building one-size-fits-all systems that underperform
+
+This course cuts through the confusion by giving you a clear, repeatable process: from collecting the right data and generating synthetic evaluations, to gradually incorporating new retrieval indices, routing strategies, fine-tuned embeddings, and practical UX improvements.
+
+## What You'll Get
+
+In just 6 weeks, you'll learn a proven system to:
+
+- ✅ **Build Proper Evaluations** - Create synthetic data to measure real improvement
+- ✅ **Find What Matters** - Segment queries to identify high-impact opportunities
+- ✅ **Improve Search Quality** - Build specialized indices that actually retrieve what users need
+- ✅ **Collect Valuable Feedback** - Design UI that generates continuous improvement data
+- ✅ **Optimize Embeddings** - Fine-tune models that understand YOUR definition of relevance
+
 # Trusted by Professionals from Leading Organizations:
 
 <div class="grid two-columns" markdown="1">
@@ -55,6 +88,19 @@ Over the last few years, “RAG” has become a buzzword, but making these syste
 | [Nvidia](https://nvidia.com) | AI |
 </div>
 
+## What Makes This Course Different
+
+This isn't theory - it's a practical system used by leading companies to:
+
+1. **Stop treating RAG as an AI problem**  
+   *"RAG is really just a recommendation system squeezed between two LLMs"*
+
+2. **Focus on what you can control**  
+   *Improve search quality first - generation quality follows automatically*
+   
+3. **Build improvement flywheels**  
+   *Create systems that get better with every user interaction*
+
 No more fumbling in the dark. This program shows you step-by-step how to:
 
 1. Set up meaningful evaluations
@@ -63,9 +109,7 @@ No more fumbling in the dark. This program shows you step-by-step how to:
 4. Integrate feedback loops
 5. Enhance product experiences
 
-By the end of the course, you'll have a toolkit of proven methods—no hype, no guesswork. You'll know exactly how to pinpoint where your RAG system is underperforming, what steps to take next, and how to build data-driven processes that keep improving outcomes automatically.
-
-[Enroll now on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
+[Enroll now on Maven (starts May 20)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 ## Not ready for a course? Check out my free RAG Playbook
 
@@ -118,46 +162,28 @@ In the rapidly evolving field of AI and machine learning, staying ahead means ma
 - **Cutting-edge Content**: Stay updated with the latest trends and technologies in RAG, including advanced embedding techniques, multi-modal retrieval, and emerging evaluation metrics.
 - **Personalized Feedback**: Receive tailored advice on your specific RAG challenges through interactive Q&A sessions and project reviews.
 
-## Why Now?
-
-The field of Retrieval-Augmented Generation is at a critical juncture:
-
-- **Equal Playing Field**: RAG is a relatively new technology, meaning everyone is starting from a similar point. This is your chance to become an early expert.
-- **Rapid Evolution**: The techniques and best practices in RAG are evolving quickly. Learning now puts you at the forefront of this wave.
-- **Competitive Advantage**: Understanding RAG deeply can give you and your organization a significant edge in developing more effective, efficient, and reliable AI systems.
-- **Increasing Demand**: As more companies realize the potential of RAG in enhancing their AI capabilities, the demand for skilled professionals is skyrocketing.
-- **Foundation for Future AI**: The principles learned in RAG form a solid foundation for understanding and implementing future advancements in AI and machine learning.
-
-By enrolling now, you're not just learning a current technology – you're positioning yourself as a leader in the next generation of AI applications.
-
-## Will It Stay Relevant?
-
-In the fast-paced world of AI, it's natural to wonder about the long-term relevance of what you learn. Our course is designed with this in mind:
-
-- **Timeless Problem-Solving Skills**: The core of our curriculum focuses on analytical and problem-solving skills that remain valuable regardless of technological changes.
-- **Adaptable Fundamentals**: We teach the underlying principles of RAG systems, enabling you to quickly adapt to new tools and techniques as they emerge.
-- **Continuous Learning Framework**: You'll learn how to set up systems for ongoing improvement and adaptation, ensuring your skills stay relevant.
-- **Future-Proofing Strategies**: Understand how to evaluate and integrate new technologies rapidly, keeping your RAG systems at the cutting edge.
-- **Emphasis on First Principles**: By focusing on the foundational concepts behind RAG, you'll be equipped to understand and leverage future advancements effectively.
-
-Our goal is not just to teach you the RAG techniques of today, but to give you the tools and mindset to evolve with the field, ensuring your skills remain cutting-edge for years to come.
-
-[Enroll now on Maven (starts Feb 4)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
-
-## What People Are Saying
+## More From Our Students
 
 | Review | Name | Role |
 |------|------|---------|
-| "Practical lessons from every lecture... learning from a community on the vanguard of this emerging field." | Max | Software Engineer, Launch School |
-| "Excellent job of stressing the fundamentals... useful metric tools to measure and improve RAG systems." | Christopher | Senior Data/AI Architect, Procurement Sciences AI |
-| "Jason and Dan help set you on the right path... emphasis on looking at your data and building a metrics-based flywheel." | Vitor | Staff Software Engineer, Zapier |
-| "A game-changer! ... They've got this knack for breaking down complex RAG concepts into a framework that just clicks." | Moose | Founder & CEO, Sociail, Inc. |
 | "Practical and grounded in actual industry experience... like getting the inside scoop from folks who've been in the trenches." | Ashutosh | Senior Principal Scientist, Adobe |
 | "System-oriented approach... Highly relevant, directly applicable, and save time in building prototypes." | Mani | Senior Principal Software Engineer, Red Hat |
+| "Pragmatic with lots of advice that you won't find in any course. What I look for in good courses are instructors with strong points of view and Jason has them in abundance. If you follow all the steps given, you are definitely on a fast track to building your AI..." | Naveen | SVP of Engineering, BoostUp.ai |
+| "Jason's AI Consultant course brought out lots of new avenues and concepts in the AI Consultant journey which I was previously not aware of - AIDA, what to have in a landing page, contract negotiation and more! It was definitely an eye-opener and helped..." | Laks | Independent AI Researcher and Enthusiast |
+| "If you are an expert in the field of AI and want to build a successful business as an independent consultant, this course is for you. Jason teaches you how to build proof and shows how to interact with clients to achieve dream outcomes for everyone involved..." | Philipp | AI Consultant, peachstone.ai |
+| "The course completely changed my mindset around communicating value and pricing accordingly. The tips on how to gradually build your audience were super valuable. Highly recommend for anyone starting out or just looking to level up..." | Erikas | Senior AI engineer |
+| "Jason's course is packed with actionable insights and advice. It's not a theoretical course on what to do, it's an actual practical guide on real life example and insights that you can start applying right away. Jason is very responsive and approachable..." | Guido | Cohort 1 |
+| "Jason's course was packed with actionable insights and advice. It's not a theoretical course on what to do, it's an actual practical guide on real life example and insights that you can start applying right away. Jason is responsive and approachable..." | Dylan | AI Consultant, Iwana Labs |
 
-## Our Guarantee
+## Risk-Free Guarantee
 
 We're so confident in the value of this course that we offer a money-back guarantee. If you don't feel you're making significant progress in improving your RAG applications after 4 weeks, we'll refund your course fee, no questions asked.
+
+## Secure Your Team's Spot Today
+
+The field of RAG is evolving quickly. Don't fall behind.
+
+[Enroll now on Maven (starts May 20)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 !!! note "How to Get Reimbursed"
 
@@ -174,11 +200,11 @@ We're so confident in the value of this course that we offer a money-back guaran
     - Added Value: Over $1,500 in free credits for tools like Cohere, LanceDB, and Modal Labs.
     - Risk-Free: Money-back guarantee if we don't see improvements within 5 weeks.
 
-    The course costs $1,650. I plan to share the learnings with our entire team, multiplying the value of this investment. You can find more details here: https://maven.com/applied-llms/rag-playbook
+    The course costs $1,800. I plan to share the learnings with our entire team, multiplying the value of this investment. You can find more details here: https://maven.com/applied-llms/rag-playbook
 
     What are your thoughts on this opportunity?
 
     Thanks,
     {Your Name}
-
+    
     P.S. I've heard that other teams are sending multiple team members to build shared context efficiently. Should we consider a similar approach?
