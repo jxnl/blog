@@ -39,6 +39,10 @@ AI-native investment platform for limited partners. Transforms complex financial
 
 Data-driven sleep care platform offering continuous tracking, expert consultations, and personalized treatment plans. Aims to improve overall health through better sleep.
 
+## [Extend](https://www.extend.app/)
+
+Document processing reimagined with LLMs. Turn your documents into high quality data, achieve unmatched accuracy, and ship custom document automation in days, not months.
+
 ## [Rork](https://rork.app/)
 
 AI-powered text to mobile app builder.
