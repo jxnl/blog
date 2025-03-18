@@ -22,6 +22,10 @@ Relax—you're not alone. This anxiety is common, especially among developers ne
 
 <!-- more -->
 
+!!! note "Do these vibe coders use git?"
+
+  Recently I asked twitter [do these vibe coders use git?](https://x.com/jxnlco/status/1901702040587501873). The top responses were 'no' and 'not really'. I think this is a shame because git is a powerful tool that can help you manage your codebase more effectively.
+
 ### Git—your safety net in coding
 
 Git is a distributed version control system designed to help you manage your code efficiently. Think of Git as the ultimate "save button" for your code, but smarter:
