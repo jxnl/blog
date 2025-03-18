@@ -10,7 +10,7 @@ tags:
   - ai
 ---
 
-# Do These Vibe Coders Use Git? (Part 1)
+# Version Control for the Vibe Coder (Part 1)
 
 Imagine this: you open Cursor, ask it to build a feature in YOLO-mode, and let it rip. You flip back to Slack, reply to a few messages, check your emails, and return...
 
