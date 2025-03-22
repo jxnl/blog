@@ -109,8 +109,8 @@ description: AI consulting for startups. Build better products, faster.
 
 ## Engagements & Pricing
 
-**Subscription:** $16,500/month - Weekly strategy sessions, unlimited support  
-**Strategic Projects:** From $50k - Fixed-scope initiatives with clear deliverables  
+**Subscription:** $19,500/month - Weekly strategy sessions, unlimited support  
+**Strategic Projects:** From $60k - Fixed-scope initiatives with clear deliverables  
 **Embedded Consulting:** From $120k - Full transformation of your AI development process
 
 If these options don't fit your needs, consider my [RAG course](./systematically-improve-your-rag.md) for a lower-cost entry point.
