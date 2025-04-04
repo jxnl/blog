@@ -10,6 +10,8 @@ description: A comprehensive guide for AI consultants on creating content that c
 
 # Creating Content That Converts: My Guide for AI Consultants
 
+This is some of the notes I've taken for [learnindieconsulting.com](https://learnindieconsulting.com)
+
 ## Why I Prioritize Content (And Why You Should Too)
 
 Let me share something I wish I'd understood sooner: consistent content creation isn't just a marketing tactic—it's the foundation of a thriving consulting business.
