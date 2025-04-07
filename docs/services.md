@@ -1,34 +1,16 @@
 ---
-description: AI consulting for startups. Build better products, faster.
+description: Transform your engineering team into AI experts in 2-3 months. No dependencies, just results.
 ---
 
 # AI Consulting for Engineering Leaders
 
-## I work with engineering leaders like you who:
+## I turn great engineers into great AI engineers
 
-* **Struggle to measure AI performance** - I help implement meaningful metrics beyond accuracy, focusing on business outcomes that matter to your users.
+I work directly with engineering leaders who want to transform their talented teams without replacing them. Having worked with AI for over a decade, I've developed frameworks that help teams achieve measurable improvements in just 2-3 months.
 
-* **Need faster iteration cycles** - I accelerate your testing from weeks to days, enabling 3-5x faster experimentation and 20-40% improved metrics.
+I don't build dependencies - I build capabilities.
 
-* **Lack AI expertise on their team** - As a former Stitch Fix ML engineer who's guided teams at HubSpot and Zapier, I provide hands-on training for engineering teams.
-
-* **Want AI features that drive business value** - I help transform existing products into AI-enabled solutions that solve real user problems, not just showcase capabilities.
-
-* **Need reliable AI systems** - I embed with your team to identify bottlenecks, implement robust feedback loops, and replace intuition with data-driven decisions.
-
-## I'm not a consultant trying to change recurring revenue over impact.
-
-You don't want to have a long-term dependency on me, I get it. I'm not here to pitch you on tools and frameworks but rather better processes. I'm here to teach you methods to experiment faster and systematically improve your team, your processes and ultimately applications that drive business outcomes.
-
-I don't chase recurring revenue or sell maintenance contracts - I believe that creates perverse incentives. Instead, I work alongside your team, transfer knowledge, and build capabilities so that when I leave, you have:
-
-* **Continuous improvement processes** - Establish feedback loops that transform user interactions into measurable product enhancements
-* **Accelerated experimentation cycles** - Transform weeks of testing into days, enabling 3-5x faster product iteration
-* **Data-driven prioritization framework** - Replace intuition with systematic methods to identify the highest-impact AI opportunities 
-
-I often help upskill your existing team, help you hire AI engineers, and onboard them before we sunset our engagement - ensuring a smooth transition and lasting impact.
-
-[:material-email: Request a Consultation](mailto:work@jxnl.co){ .md-button .md-button--primary }
+[:material-calendar: Book a 30-min Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
 
 ## Select Clients
 
@@ -45,7 +27,17 @@ I often help upskill your existing team, help you hire AI engineers, and onboard
 | [Timescale](https://timescale.com/)           | VP Product   | Database           |
 | [Pydantic](http://pydantic.dev/)              | Creator      | Developer Tools    |
 
-## Testimonials
+## I'm not a consultant trying to change recurring revenue over impact.
+
+You don't want to have a long-term dependency on me, I get it. I'm not here to pitch you on tools and frameworks but rather better processes. I'm here to teach you methods to experiment faster and systematically improve your team, your processes and ultimately applications that drive business outcomes.
+
+I don't chase recurring revenue or sell maintenance contracts - I believe that creates perverse incentives. Instead, I work alongside your team, transfer knowledge, and build capabilities so that when I leave, you have:
+
+* **Continuous improvement processes** - Establish feedback loops that transform user interactions into measurable product enhancements
+* **Accelerated experimentation cycles** - Transform weeks of testing into days, enabling 3-5x faster product iteration
+* **Data-driven prioritization framework** - Replace intuition with systematic methods to identify the highest-impact AI opportunities 
+
+## Real results from real teams
 
 <div class="testimonial-grid">
   <div class="testimonial-card">
@@ -77,55 +69,22 @@ I often help upskill your existing team, help you hire AI engineers, and onboard
     <p class="quote">"<strong>Brought a wealth of experience and understanding</strong> that helped us develop better ideas and move faster. 100% worth it."</p>
     <p class="author">— Avthar, Lead PM at Timescale</p>
   </div>
-  
-  <div class="testimonial-card">
-    <p class="quote">"Highly recommend Jason if you want to <strong>level up your AI product and team.</strong> Always came away with insights and actionable ideas."</p>
-    <p class="author">— Vitor, Staff Engineer at Zapier</p>
-  </div>
-  
-  <div class="testimonial-card">
-    <p class="quote">"<strong>Definitely speak with Jason if you're doing RAG or semantic search.</strong> Amazingly helpful."</p>
-    <p class="author">— Luke, CEO of Kino AI</p>
-  </div>
-  
-  <div class="testimonial-card">
-    <p class="quote">"Jason's writing introduced me to several effective patterns for wrangling and using LLMs in actual user-facing systems. His insights have been <strong>instrumental in helping my teams launch two LLM-based features with measurable business impact.</strong>"</p>
-    <p class="author">— Jay, VP of Technology</p>
-  </div>
-
-  <div class="testimonial-card">
-    <p class="quote">"I wanted to change how I was being compensated and charge for the value I was providing, not the hours I worked. Jason reviewed my contract and gave me <strong>a ton of actionable tips, which were a complete paradigm shift</strong> to how I was thinking about it. I landed the contract at terms that sounded great to me."</p>
-    <p class="author">— Alex Zamoshchin, Independent Consultant</p>
-  </div>
-
-  <div class="testimonial-card">
-    <p class="quote">"Jason is constantly learning and growing as a consultant. Come learn how he thinks about <strong>marketing, content, writing proposals, pricing</strong>, and other topics that people struggle with when starting their independent consulting journey."</p>
-    <p class="author">— Hamel Husein, Independent Consultant</p>
-  </div>
 </div>
 
-<style>
-.testimonial-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1.5rem;
-  margin: 1rem 0;
-}
-.testimonial-card {
-  background: #f8f9fa;
-  border-radius: 8px;
-  padding: 1rem;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-}
-</style>
+## Ready to transform your engineering team?
 
-## Engagements & Pricing
+Every industry is struggling to hire good AI talent - but your existing engineers can become great AI engineers with the right guidance. I'll help your team transition to working with stochastic software and implement measurable improvements in 2-3 months.
 
-**Subscription:** $19,500/month - Weekly strategy sessions, unlimited support  
-**Strategic Projects:** From $60k - Fixed-scope initiatives with clear deliverables  
-**Embedded Consulting:** From $120k - Full transformation of your AI development process
+**No maintenance contracts. No dependencies. Just results.**
 
-If these options don't fit your needs, consider my [RAG course](./systematically-improve-your-rag.md) for a lower-cost entry point.
+[:material-calendar: Book a 30-min Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
+[:material-email: Direct Question? Email me](mailto:work@jxnl.co){ .md-button .md-button--secondary }
 
-[:material-email: Contact Me](mailto:work@jxnl.co){ .md-button .md-button--primary }
-[:material-calendar: Schedule a Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--secondary }
+## Investment options
+
+**Monthly Advisory: $19,500/month**
+Weekly strategy sessions, unlimited access, for teams with ongoing needs
+
+For anything larger than the advisory work, my minimum level of engagement is 80,000 dollars. If you're interested in learning more about that, feel free to send me an email.
+
+Need something more focused? Check out my [RAG course](./systematically-improve-your-rag.md) for specific implementation techniques.
