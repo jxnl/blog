@@ -16,6 +16,18 @@ description: AI consulting for startups. Build better products, faster.
 
 * **Need reliable AI systems** - I embed with your team to identify bottlenecks, implement robust feedback loops, and replace intuition with data-driven decisions.
 
+## I'm not a consultant trying to change recurring revenue over impact.
+
+You don't want to have a long-term dependency on me, I get it. I'm not here to pitch you on tools and frameworks but rather better processes. I'm here to teach you methods to experiment faster and systematically improve your team, your processes and ultimately applications that drive business outcomes.
+
+I don't chase recurring revenue or sell maintenance contracts - I believe that creates perverse incentives. Instead, I work alongside your team, transfer knowledge, and build capabilities so that when I leave, you have:
+
+* **Continuous improvement processes** - Establish feedback loops that transform user interactions into measurable product enhancements
+* **Accelerated experimentation cycles** - Transform weeks of testing into days, enabling 3-5x faster product iteration
+* **Data-driven prioritization framework** - Replace intuition with systematic methods to identify the highest-impact AI opportunities 
+
+I often help upskill your existing team, help you hire AI engineers, and onboard them before we sunset our engagement - ensuring a smooth transition and lasting impact.
+
 [:material-email: Request a Consultation](mailto:work@jxnl.co){ .md-button .md-button--primary }
 
 ## Select Clients
