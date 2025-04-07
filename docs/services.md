@@ -4,11 +4,11 @@ description: Transform your engineering team into AI experts in 2-3 months. No d
 
 # AI Consulting for Engineering Leaders
 
-## I turn great engineers into great AI engineers
+## Transform your great engineers into great AI engineers
 
-I work directly with engineering leaders who want to transform their talented teams without replacing them. Having worked with AI for over a decade, I've developed frameworks that help teams achieve measurable improvements in just 2-3 months.
+Your talented engineering team deserves to adapt to the AI revolution without replacement. You need a proven approach that transforms your existing team into AI experts. With the right frameworks and guidance, your team can achieve measurable improvements in just 2-3 months.
 
-I don't build dependencies - I build capabilities.
+You get independence, not dependencies. You get capabilities, not ongoing contracts.
 
 [:material-calendar: Book a 30-min Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
 
@@ -29,9 +29,9 @@ I don't build dependencies - I build capabilities.
 
 ## I'm not a consultant trying to change recurring revenue over impact.
 
-You don't want to have a long-term dependency on me, I get it. I'm not here to pitch you on tools and frameworks but rather better processes. I'm here to teach you methods to experiment faster and systematically improve your team, your processes and ultimately applications that drive business outcomes.
+You deserve a partner who builds independence, not dependencies. You're not looking for another tool or framework - you need better processes that stick. You want methods to experiment faster and systematically improve your team, processes, and applications that drive real business outcomes.
 
-I don't chase recurring revenue or sell maintenance contracts - I believe that creates perverse incentives. Instead, I work alongside your team, transfer knowledge, and build capabilities so that when I leave, you have:
+You shouldn't have to deal with consultants who chase recurring revenue or sell maintenance contracts - these create perverse incentives. Instead, you get a partner who works alongside your team, transfers knowledge, and builds capabilities. When our engagement ends, you'll have:
 
 * **Continuous improvement processes** - Establish feedback loops that transform user interactions into measurable product enhancements
 * **Accelerated experimentation cycles** - Transform weeks of testing into days, enabling 3-5x faster product iteration
