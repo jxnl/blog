@@ -1,101 +1,83 @@
 ---
-description: Explore RAG techniques, AI engineering jobs, and consulting insights
-  from a machine learning expert. Join our upcoming RAG course!
+description: RAG techniques, AI engineering roles, and consulting insights—plus our upcoming RAG course.
 ---
 
-# :boom: What's up?
+# Quick Intro
 
-I'm an [independent consultant](./services.md), staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. I write about open source, consulting, and how to systematically improve AI applications.
+I’m **Jason Liu** — independent consultant, ML engineer, angel scout for a16z, and creator of **Instructor**. I help teams ship and improve AI features that work *in production*.
 
-After years at top tech companies, RSI forced me to reinvent myself. Instead of writing code, I now teach teams to work more scientifically—measuring improvements, iterating quickly, and focusing on what truly matters.
+- **Consult** · AI strategy, RAG architecture, evaluation
+- **Teach** · Cohort courses & workshops on RAG
+- **Write** · Practical essays on building AI systems
 
-I’ve helped dozens of teams adapt to AI’s rapid evolution. When I’m not consulting, I produce educational content and courses to help more engineers thrive in the changing AI landscape.
+[Subscribe to my newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
 
-[:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
+---
 
-I'm also the creator of [Instructor](https://python.useinstructor.com/), a popular Python library for structured outputs from LLMs, which was cited by the OpenAI team as inspiration for their `structured output` feature. We currently have over 8000 stars and 1M monthly downloads.
+## Consulting
 
-## Independent Consulting
+I partner with startups and scale‑ups to move get their production deployments in order.
 
-I run a solo consulting practice focused on helping startups build better practises as many software companies transition to AI.
+| Client | Contact | Industry |
+|---|---|---|
+| Zapier | VP of Product | Automation |
+| HubSpot | GM | Sales & Marketing |
+| Enterpret | CTO | Analytics |
+| Tensorlake | CEO | Data |
+| Limitless AI | CTO | AI |
+| Trunk Tools | VP Eng | Construction |
+| Naro | CTO | Sales & Marketing |
 
-| Client                                        | Contact      | Industry           |
-|-----------------------------------------------|--------------|--------------------|
-| [Zapier](https://zapier.com/)                 | VP of Product| Automation         |
-| [HubSpot](https://hubspot.com/)               | GM           | Sales & Marketing  |
-| [Enterpret](https://enterpret.com/)           | CTO          | Analytics          |
-| [Tensorlake](https://tensorlake.ai/)          | CEO          | Data               |
-| [Limitless AI](http://limitless.ai/)          | CTO          | AI                 |
-| [Trunk Tools](https://trunktools.com/)        | VP Eng       | Construction       |
-| [Naro](http://narohq.com/)                    | CTO          | Sales & Marketing  |
+[More on services](./services.md){ .md-button .md-button--primary }](./services.md){ .md-button .md-button--primary }
 
-... including many others like [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
+---
 
-[:material-briefcase: Understand my services](./services.md){ .md-button .md-button--primary }
+## Course: *Systematically Improve Your RAG*
 
-## Systematically Improve Your RAG (Enrollment Open)
+A 6‑week, hands‑on program that teaches you to:
+1. Pinpoint bottlenecks  
+2. Build repeatable eval loops  
+3. Ship measurable gains fast
 
-Join our intensive [6 week certification](./systematically-improve-your-rag.md) starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. Learn how to build robust processes for identifying system bottlenecks, significantly enhance your probabilistic systems, and implement advanced RAG techniques for real-world applications.
+**Next cohort: May 2025** · Applications open
 
-Where our students come from:
+### Past Students (selection)
 
-<div class="grid two-columns" markdown="1">
+| Org | Industry |
+|---|---|
+| OpenAI | AI Research |
+| Anthropic | AI Research |
+| Google | Search & Cloud |
+| Microsoft | Software & Cloud |
+| Salesforce | SaaS CRM |
+| Amazon | E‑commerce & Cloud |
 
-| Company | Industry |
-|--------------|----------|
-| [OpenAI](https://openai.com) | AI Research & Development |
-| [Anthropic](https://anthropic.com) | AI Research & Development |
-| [Google](https://google.com) | Search Engine |
-| [Salesforce](https://salesforce.com) | Customer Relationship Management Software |
-| [Microsoft](https://microsoft.com) | Software, Cloud Computing |
-| [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
-| [Zapier](https://zapier.com) | Automation Software |
-| [Adobe](https://adobe.com) | Software, Creative Tools |
+[Free 6‑day crash course](https://improvingrag.com){ .md-button .md-button--primary }  
+[Full syllabus](./systematically-improve-your-rag.md){ .md-button .md-button--secondary }
 
-| Company | Industry |
-|--------------|----------|
-| [Accenture](https://accenture.com) | Consulting, Technology Services |
-| [McKinsey & Company](https://mckinsey.com) | Management Consulting |
-| [Bain & Company](https://bain.com) | Consulting |
-| [PwC](https://pwc.com) | Professional Services |
-| [Cisco](https://cisco.com) | Networking Technology |
-| [Electronic Arts](https://ea.com) | Gaming |
-| [Shopify](https://shopify.com) | E-commerce Platform |
+---
 
-</div>
+## What Others Say
 
-[:material-email: Free 6 Day RAG Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
-[Learn more :octicons-arrow-right-24:](./systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+> “Jason’s frameworks turned theory into repeatable practice.” — **Anthropic**  
+> “Full‑stack AI‑business guidance in a box.” — **Dunbar**  
+> “Gave our product the horsepower it needed.” — **Zapier**
 
-## What People Are Saying
+---
 
-| Person | Role | Quote |
-|--------|------|--------|
-| Sam Flamini | Solutions Engineer at Anthropic | "As an Applied AI Engineer at Anthropic, I was familiar with all of the standard retrieval methods and RAG papers going into the course, but **Jason's frameworks helped me to operationalize what I'd learned** and it's had an incredibly positive impact in my work with customers." |
-| Team | Camu (a16z backed) | "Jason helped us **break down our vision into actionable steps**, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements. Grateful for his expertise and support!" |
-| Christian | Founder at Dunbar | "**Full-stack AI-business guidance in a box.** The value went beyond just product acceleration." |
-| Taylor | Head of Product at Zapier | "**Jason gave our AI product the horsepower it needed.** He's a pro if you need real results fast." |
-| Avthar | Lead PM at Timescale | "**Brought a wealth of experience and understanding** that helped us develop better ideas and move faster. 100% worth it." |
-| Vitor | Staff Engineer at Zapier | "Highly recommend Jason if you want to **level up your AI product and team.** Always came away with insights and actionable ideas." |
-| Luke | CEO of Kino AI | "**Definitely speak with Jason if you're doing RAG or semantic search.** Amazingly helpful." |
-| Jay | VP of Technology | "Jason's writing introduced me to several effective patterns for wrangling and using LLMs in actual user-facing systems. His insights have been **instrumental in helping my teams launch two LLM-based features with measurable business impact.** We're working on a new product now." |
+## AI Job Board
 
-## Free Resources
+Well‑funded startups hiring ML & AI engineers:
 
-<div class="grid cards" markdown>
+[Browse jobs](https://jobs.applied-llms.org/)
 
--   :material-briefcase-search:{ .lg .middle } __Looking for AI Engineering Jobs?__
+---
 
-    ---
+## Connect
 
-    Discover AI engineering roles at well-funded startups. Our job board features companies with strong growth potential and innovative projects.
+[YouTube](https://www.youtube.com/@jxnlco) · [Twitter](https://x.com/jxnlco) · [GitHub](https://github.com/jxnl)
 
-    [:octicons-arrow-right-24: Browse AI jobs](https://jobs.applied-llms.org/)
+---
 
--   :material-account-group:{ .lg .middle } __Social Media__
+*Less hype, more results.*
 
-    ---
-
-    Stay connected and get the latest updates by following me on [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/@jxnlco), [:fontawesome-brands-x-twitter: Twitter](https://x.com/jxnlco), and [:fontawesome-brands-github: GitHub](https://github.com/jxnl). These platforms are where I share my latest content, thoughts, and projects in the world of AI and machine learning.
-
-</div>
