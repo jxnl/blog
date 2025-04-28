@@ -28,7 +28,7 @@ I partner with startups and scale‑ups to move get their production deployments
 | Trunk Tools | VP Eng | Construction |
 | Naro | CTO | Sales & Marketing |
 
-[More on services](./services.md){ .md-button .md-button--primary }](./services.md){ .md-button .md-button--primary }
+[More on services](./services.md){ .md-button .md-button--primary }
 
 ---
 
