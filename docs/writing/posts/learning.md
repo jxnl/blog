@@ -170,4 +170,4 @@ I hope some of these stories can help drive home the point about the process and
 
 ---
 
-If you like the like content give me a follow on [twitter](https://twitter.com/jxnlco) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
+If you like this content, subscribe to my newsletter at [https://jxnl.substack.com/](https://jxnl.substack.com/)
