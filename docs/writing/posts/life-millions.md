@@ -19,7 +19,9 @@ tags:
 
 # Living My Best Life: A $20 Million Daydream
 
-I've been playing a little thought experiment lately: If I had $20 million in the bank, how would I want to live my life? It's not about the money per se, but about imagining a life where financial constraints aren't the primary driver of my decisions. Here's what I've come up with.
+I\'ve been playing a little thought experiment lately: If I had $20 million in the bank, how would I want to live my life? It\'s not about the money per se, but about imagining a life where financial constraints aren\'t the primary driver of my decisions. Here\'s what I\'ve come up with.
+
+<!-- more -->
 
 ## Work: Finding the Sweet Spot
 
