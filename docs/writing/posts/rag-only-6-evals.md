@@ -10,6 +10,8 @@ date: 2025-05-19
 
 The world of RAG evaluation feels needlessly complex. Everyone's building frameworks, creating metrics, and generating dashboards that make you feel like you need a PhD just to know if your system is working.
 
+<!-- more -->
+
 But what if I told you there are only 6 fundamental ways to evaluate a RAG system?
 
 Just math and symmetry.

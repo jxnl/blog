@@ -54,3 +54,7 @@ Data-driven sleep care platform offering continuous tracking, expert consultatio
 ## [Argo Labs](https://www.argolabs.ai/)
 
 Voice-to-voice AI technology for restaurant phone management. Their AI receptionist answers calls 24/7, taking orders, making reservations, and answering business questions with human-like conversation capabilities.
+
+## [Smithery.ai](https://smithery.ai/)
+
+AI-powered platform for automated testing and quality assurance. Helps developers and QA teams create, maintain, and execute test cases with machine learning, reducing manual testing efforts and improving software reliability.

@@ -7,6 +7,8 @@ description: "I'll be hosting industry experts to share practical techniques for
 
 I'll be hosting industry experts to share practical techniques for enhancing your Retrieval Augmented Generation (RAG) systems.
 
+<!-- more -->
+
 Each session will be a live Zoom meeting, offering an opportunity for direct Q&A. You can submit questions during the session, and the most upvoted will be addressed.
 
 ## What You Will Gain
