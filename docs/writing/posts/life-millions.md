@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-06-30
 description: Explore a $20 million daydream focusing on work-life balance, personal
@@ -10,11 +10,11 @@ description: Explore a $20 million daydream focusing on work-life balance, perso
 draft: false
 slug: life-with-twenty-million
 tags:
-- financial freedom
-- lifestyle design
-- personal growth
-- work-life balance
-- dream life
+  - financial freedom
+  - lifestyle design
+  - personal growth
+  - work-life balance
+  - dream life
 ---
 
 # Living My Best Life: A $20 Million Daydream
@@ -51,17 +51,20 @@ It's not just about luxury, but about creating an environment that fuels my pass
 With more time and resources, I'd dive deeper into the activities that bring me joy:
 
 ### Pottery
+
 - Regular sessions to hone my craft
 - Potentially pursuing an apprenticeship or hosting a show
 - Exploring hand-building techniques
 - Creating functional art, like fish-serving plates
 
 ### Brazilian Jiu-Jitsu
+
 - Low-intensity training 2-3 times a week
 - Focus on technique and enjoyment rather than competition
 - Staying injury-free and maintaining fitness
 
 ### Swimming and Spearfishing
+
 - Daily swims in my home pool for fitness
 - Occasional spearfishing trips to connect with nature
 - Learning to prepare the fish I catch

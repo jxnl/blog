@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-01-07
 description: Explore inverted thinking to build a terrible RAG system and learn pitfalls
@@ -10,11 +10,11 @@ description: Explore inverted thinking to build a terrible RAG system and learn 
 draft: false
 slug: inverted-thinking-rag
 tags:
-- RAG systems
-- inverted thinking
-- recommendation systems
-- machine learning
-- software engineering
+  - RAG systems
+  - inverted thinking
+  - recommendation systems
+  - machine learning
+  - software engineering
 ---
 
 # How to build a terrible RAG system
@@ -29,7 +29,7 @@ This approach aligns with our broader discussion on RAG systems, which you can e
 
 <!-- more -->
 
-If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
 
@@ -115,6 +115,6 @@ Once we run our GPT-4 self critique evaluations we'll know how well our system i
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

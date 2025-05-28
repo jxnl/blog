@@ -1,22 +1,22 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Writing and Communication
+  - Writing and Communication
 comments: true
 date: 2024-06-30
 description: Learn effective writing strategies to engage readers, craft compelling
   content, and enhance your storytelling approach.
 draft: false
 tags:
-- writing tips
-- engagement
-- storytelling
-- content creation
-- effective communication
+  - writing tips
+  - engagement
+  - storytelling
+  - content creation
+  - effective communication
 ---
 
-# How I want you to write 
+# How I want you to write
 
 I'm gonna write something technical.
 
@@ -28,7 +28,7 @@ I'm gonna lay out a checklist of stuff I'd like to have. It'll make the whole wr
 
 ## Crafting Compelling Titles
 
-I often come across titles like "How to do X with Y,Z technology." These don't excite me because X or Y are usually unfamiliar unless they're already well-known. Its rarely the dream to use X unless X is the dream. 
+I often come across titles like "How to do X with Y,Z technology." These don't excite me because X or Y are usually unfamiliar unless they're already well-known. Its rarely the dream to use X unless X is the dream.
 
 My dream isn’t to use instructor, its to do something valueble with the data it extracts
 
@@ -63,7 +63,7 @@ You can take it further by adding specific conditions. For instance, you could t
 
 ## NO adjectiives
 
-I want you to almost always avoid adjectives and try to use evidence instead. Instead of saying "production ready," you can write something like "scaling this to 100 servers or 1 million documents per second." Numbers like that will tell you exactly what the specificity of your product is. If you have to use adjectives rather than evidence, you are probably making something up. 
+I want you to almost always avoid adjectives and try to use evidence instead. Instead of saying "production ready," you can write something like "scaling this to 100 servers or 1 million documents per second." Numbers like that will tell you exactly what the specificity of your product is. If you have to use adjectives rather than evidence, you are probably making something up.
 
 There's no reason to say something like "blazingly fast" unless those things are already known phrases.
 
@@ -111,17 +111,17 @@ Once you hook them, you still have to first retain them. You can do that by fore
 For example, an introduction could look like the following:
 
 - If you're making $10,000 a month consulting right now, my goal at the end of this blog post is to help you increase your prices by:
-    - Asking the right questions so you understand the value of the solution you're offering.
-    - Providing tips on writing proposals and offering different options you can let your customer pay you more.
-    - Lastly, sharing some anecdotes with you on how I became more comfortable with charging two or three times more than I did when I started
+  - Asking the right questions so you understand the value of the solution you're offering.
+  - Providing tips on writing proposals and offering different options you can let your customer pay you more.
+  - Lastly, sharing some anecdotes with you on how I became more comfortable with charging two or three times more than I did when I started
 
 Here, I've pre-qualified the reader for a certain range and told them what their goal is by the end of the post.
 
-Two things are just the tips and the questions I'm going to suggest, and then the final reward is something a little bit more personal. Ideally, they read the first two knowing that my personal stories are coming after. That intro itself outlines the entire post. 
+Two things are just the tips and the questions I'm going to suggest, and then the final reward is something a little bit more personal. Ideally, they read the first two knowing that my personal stories are coming after. That intro itself outlines the entire post.
 
 ## Use Lists
 
-Once you've hooked your audience, you have to retain them and reward them. 
+Once you've hooked your audience, you have to retain them and reward them.
 
 You'll also see that as part of the foreshadowing content, I've listed three items that I want them to take away. I can also be specific with the number of questions and the number of tips I'm providing.
 

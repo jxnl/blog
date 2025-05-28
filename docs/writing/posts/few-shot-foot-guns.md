@@ -3,7 +3,7 @@ title: "10 Foot Guns in Fine-Tuning and Few-Shots"
 description: "Common pitfalls in few-shot learning and how to avoid them."
 date: 2025-01-22
 categories:
- - Prompting
+  - Prompting
 authors:
   - jxnl
   - cyrus
@@ -72,7 +72,7 @@ Run multiple trials. Use bootstrapping and significance tests to confirm that yo
 
 **The Problem:**
 
-Experimentation can quickly become a black hole for both time and money. Without caching results or pruning dead ends, you’ll find yourself buried under skyrocketing OpenAI bills and endless wait times. You'll be surprised how many times I've joined a team and realized that the test is a single `for` loop with no error handling. They'll come back to me and say, "Alright, I ran something for 20 minutes. We hit a rate limit and now I have to rerun the whole thing." 
+Experimentation can quickly become a black hole for both time and money. Without caching results or pruning dead ends, you’ll find yourself buried under skyrocketing OpenAI bills and endless wait times. You'll be surprised how many times I've joined a team and realized that the test is a single `for` loop with no error handling. They'll come back to me and say, "Alright, I ran something for 20 minutes. We hit a rate limit and now I have to rerun the whole thing."
 
 **The Fix:**
 
@@ -92,7 +92,7 @@ Fine-tuning a large model on a tiny dataset or using a small model on a complex 
 
 **The Fix:**
 
-Match the complexity of your data and the scope of your task to the model size. If you have limited data, consider using a smaller model or augmenting your dataset. If you have a rich, complex dataset, invest in a larger model and more thorough fine-tuning. We've even seen situations that show for thousands of examples in fine-tuning, you're going to get better results fine-tuning 4o-mini than 4o. This is due to the same reasons related to model capacity, how many parameters we need to update, etc. Additionally, if you only have 20 to 40 examples, these days you might be better off considering prompt caching too. 
+Match the complexity of your data and the scope of your task to the model size. If you have limited data, consider using a smaller model or augmenting your dataset. If you have a rich, complex dataset, invest in a larger model and more thorough fine-tuning. We've even seen situations that show for thousands of examples in fine-tuning, you're going to get better results fine-tuning 4o-mini than 4o. This is due to the same reasons related to model capacity, how many parameters we need to update, etc. Additionally, if you only have 20 to 40 examples, these days you might be better off considering prompt caching too.
 
 The key detail is that you should have a set of evaluations to determine which option is more-effective, rather than just guessing or formulating hypotheses. paying someone like me $1,000 just to tell you that it depends.
 
@@ -180,7 +180,7 @@ Define your aggregation methods upfront. Consider majority voting, weighted aver
 
 ---
 
-Every one of these foot guns can derail your projects, hike up your costs, and produce mediocre results. But you don’t have to navigate this maze alone. Its been fun collaborating with the teams at Zenbase, we've seen it all and distilled the lessons into proven strategies and best practices. 
+Every one of these foot guns can derail your projects, hike up your costs, and produce mediocre results. But you don’t have to navigate this maze alone. Its been fun collaborating with the teams at Zenbase, we've seen it all and distilled the lessons into proven strategies and best practices.
 
 If you want us to double click on any of these topics reply or [email us](mailto:work+zenbase@jxnl.co) and we'll start writing more about specific topics that interest you.
 

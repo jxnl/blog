@@ -24,7 +24,7 @@ Relax—you're not alone. This anxiety is common, especially among developers ne
 
 !!! note "Do these vibe coders use git?"
 
-  Recently I asked twitter [do these vibe coders use git?](https://x.com/jxnlco/status/1901702040587501873). The top responses were 'no' and 'not really'. I think this is a shame because git is a powerful tool that can help you manage your codebase more effectively.
+Recently I asked twitter [do these vibe coders use git?](https://x.com/jxnlco/status/1901702040587501873). The top responses were 'no' and 'not really'. I think this is a shame because git is a powerful tool that can help you manage your codebase more effectively.
 
 ## 1. Git Fundamentals
 
@@ -33,6 +33,7 @@ Relax—you're not alone. This anxiety is common, especially among developers ne
 Before diving deeper, let's clear up a common confusion: Git and GitHub are not the same thing.
 
 - **Git** is a local version control system that runs on your computer
+
   - Works completely offline
   - Manages your code history
   - Handles branching and merging
@@ -71,29 +72,34 @@ git push origin feature/new-idea
 Let's break down the essential Git concepts you need to know:
 
 1. **Repository (Repo)**
+
    - A container for your project that tracks all changes
    - Created with `git init` or `git clone`
    - Contains all project history and metadata
 
 2. **Working Directory**
+
    - Your actual project files on disk
    - Where you make changes before staging them
    - Use `git status` to see what's changed
 
 3. **Staging Area (Index)**
+
    - A preparation area for your next commit
    - Add files with `git add <file>` or `git add .`
    - Review staged changes with `git diff --staged`
 
 4. **Commits**
+
    - Permanent snapshots of your staged changes
    - Each has a unique identifier (hash)
    - Include author, date, and message
    - Best practices:
+
      ```bash
      # Commit with a detailed message
      git commit -m "feat: add user authentication flow
-     
+
      - Add login form component
      - Implement JWT token handling
      - Set up protected routes"
@@ -104,6 +110,7 @@ Let's break down the essential Git concepts you need to know:
 When working with Git, here are some essential safety practices:
 
 1. **Create Save Points**
+
    ```bash
    # Before making major changes
    git checkout -b backup/before-changes
@@ -112,6 +119,7 @@ When working with Git, here are some essential safety practices:
    ```
 
 2. **What to Commit (and What Not to)**
+
    - **Do Commit:**
      - Source code files
      - Configuration files
@@ -149,11 +157,13 @@ Cursor's AI agents can run long and make extensive code changes. While this migh
 When working with Cursor, you can guide its Git usage through clear prompts. Here are some effective prompting patterns:
 
 1. **Starting New Features**
+
    ```
    Prompt: "Create a new feature branch called 'feature/user-auth' and implement user authentication. Make atomic commits for each logical change, and include appropriate tests. Use conventional commit messages."
    ```
 
 2. **Incremental Development**
+
    ```
    Prompt: "Implement the login form component in small, testable steps. After each step:
    1. Stage relevant files
@@ -172,11 +182,13 @@ When working with Cursor, you can guide its Git usage through clear prompts. Her
 When Cursor starts generating multiple files:
 
 1. **Interrupt Safely**
+
    ```
    Prompt: "Please pause and show me the current changes before proceeding further. Let's commit what we have so far."
    ```
 
 2. **Review Changes**
+
    ```bash
    # See what Cursor has created/modified
    git status
@@ -184,6 +196,7 @@ When Cursor starts generating multiple files:
    ```
 
 3. **Selective Commits**
+
    ```bash
    # Choose what to keep
    git add -p  # Interactive staging
@@ -203,6 +216,7 @@ When Cursor starts generating multiple files:
 Watch out for these signs that Cursor might be doing too much:
 
 1. **File Volume**
+
    - Creating more than 5-10 files at once
    - Modifying files across many different directories
    - Generating large amounts of boilerplate
@@ -213,6 +227,7 @@ Watch out for these signs that Cursor might be doing too much:
    - Adding unfamiliar dependencies
 
 When you see these signs:
+
 ```
 Prompt: "Please pause and explain the changes you're planning to make. Let's break this down into smaller, manageable steps that we can review and commit separately."
 ```
@@ -273,16 +288,19 @@ Create a `.cursor/rules/git-workflow.mdc` file to guide Cursor's Git usage:
 # Git Workflow Rules
 
 1. Branch Management:
+
    - Create feature branches from main/master
    - Use conventional branch naming: feature/, bugfix/, hotfix/
    - Delete branches after merging
 
 2. Commit Guidelines:
+
    - Write conventional commit messages (feat:, fix:, docs:, etc.)
    - Make atomic commits (one logical change per commit)
    - Include tests with feature commits
 
 3. Code Review Preparation:
+
    - Squash related commits if requested
    - Write detailed PR descriptions
    - Link related issues/tickets

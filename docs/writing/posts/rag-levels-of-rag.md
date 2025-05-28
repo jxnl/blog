@@ -1,19 +1,19 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-02-28
 description: Explore levels of complexity in RAG applications, from basics to advanced
   methods for building effective systems.
 draft: false
 tags:
-- Retrieval-Augmented Generation
-- Data Processing
-- Asynchronous Programming
-- System Optimization
-- User Engagement
+  - Retrieval-Augmented Generation
+  - Data Processing
+  - Asynchronous Programming
+  - System Optimization
+  - User Engagement
 ---
 
 # Levels of Complexity: RAG Applications
@@ -38,7 +38,7 @@ This guide aligns with the insights from our [RAG flywheel article](./rag-flywhe
 
 <!-- more -->
 
-If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
 
@@ -297,7 +297,7 @@ By attaching this little metadata, we will be able to very cheaply identify quer
 | Query                          | Rewritten Query                | ... | Mean Cosine Score | Reranker Score |
 | ------------------------------ | ------------------------------ | --- | ----------------- | -------------- |
 | What is the capital of France? | What is the capital of France? | ... | 0.9               | 0.8            |
-| Who modified the file last?    | Who was last in the race?    | ... | 0.2               | 0.1            |
+| Who modified the file last?    | Who was last in the race?      | ... | 0.2               | 0.1            |
 
 Here you might see "oh clearly i can't answer questions about file modification" thats not even in my index.
 
@@ -426,6 +426,6 @@ As we continue to explore the depths of RAG applications, the following areas wi
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

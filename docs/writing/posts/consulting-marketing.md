@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-05-29
 description: Explore marketing, positioning, and scaling strategies for AI consulting.
@@ -10,11 +10,11 @@ description: Explore marketing, positioning, and scaling strategies for AI consu
 draft: false
 slug: marketing-consulting
 tags:
-- consulting
-- marketing
-- lead generation
-- AI
-- positioning
+  - consulting
+  - marketing
+  - lead generation
+  - AI
+  - positioning
 ---
 
 # Thoughts on Marketing, Positioning, and Scaling my Consulting
@@ -33,7 +33,7 @@ As a former MLE, I had always relied on my hands-on coding skills to excel in my
 
 !!! note "The numbers"
 
-  I publish about 10 blogs a month and close to a 1000 tweets a month and grow about 3000 followers a month. This results in about two emails a week from potential prospects at a 50% close rate. I make anywhere between $40,000 to $80,000 a month. Everything is on a monthly subscription basis and you can see my services page [here](../../services.md)
+I publish about 10 blogs a month and close to a 1000 tweets a month and grow about 3000 followers a month. This results in about two emails a week from potential prospects at a 50% close rate. I make anywhere between $40,000 to $80,000 a month. Everything is on a monthly subscription basis and you can see my services page [here](../../services.md)
 
 Transitioning from a technical role to consulting was a significant change, but I embraced the challenge. One of the helpful resources I discovered during this process was the book "One Page Marketing Plan". This book provided a simple yet effective framework for creating a marketing plan, focusing on three key areas: before the sale, during the sale, and after the sale (customer retention and referrals).
 
@@ -47,14 +47,14 @@ To reach my target audience, I focused on two main platforms: Twitter, where man
 
 !!! note "The numbers"
 
-  Up until May of 2024, I took about 140 hours of meetings every month. I would record a five-minute video for almost half the meetings, amounting to about 60 hours of meetings. This resulted in many voice memos.
+Up until May of 2024, I took about 140 hours of meetings every month. I would record a five-minute video for almost half the meetings, amounting to about 60 hours of meetings. This resulted in many voice memos.
 
-  - The ones that I felt were applicable, I posted online.
-  - For the ones that got the most attention, I turned them into blog posts.
+- The ones that I felt were applicable, I posted online.
+- For the ones that got the most attention, I turned them into blog posts.
 
-  I get on the front page of Hacker News about twice a month, which generates about 20,000 views a month on my blog.
+I get on the front page of Hacker News about twice a month, which generates about 20,000 views a month on my blog.
 
-  ![](./img/analytics-blog.png)
+![](./img/analytics-blog.png)
 
 When you start consulting, you realize that the first step is having knowledge, but the second crucial step is generating leads. This realization led me to become not just a consultant but also a content creator and marketer. I discovered that there are four main ways to generate leads: warm outbound, cold outbound, free content, and paid ads. Given my technical background and expertise, I decided to focus primarily on creating free content to establish myself as a thought leader in the AI/ML space.
 
@@ -68,7 +68,7 @@ Investing in high-quality content creation has proven to be highly effective, th
 
 !!! note "The numbers"
 
-  In the past 3 months I have been able to close about 1000% of the situational assessments I write, Based on the 6-8 inbounds per month, maybe 2-3 result in an accessment. I've increased my prices significantly lower the amount of inbound I get.
+In the past 3 months I have been able to close about 1000% of the situational assessments I write, Based on the 6-8 inbounds per month, maybe 2-3 result in an accessment. I've increased my prices significantly lower the amount of inbound I get.
 
 When it comes to closing leads, I rely on the situational assessment framework outlined in Alan Weiss's book, "The Consulting Bible." This framework helps me structure my proposals and communicate value to potential clients.
 
@@ -99,18 +99,20 @@ If you found this helpful, subscribe to my newsletter for more posts on how I bu
     <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
 </form>
 
-
 ## Recommended Reading
 
 To further enhance your consulting and marketing skills, I highly recommend the following resources:
 
 1. [Consulting Referrals](./consulting-referrals.md)
+
    - Learn how to master the art of referrals, including when to ask for them and how to follow up effectively.
 
 2. [Consulting Stack](./consulting-stack.md)
+
    - Discover the essential tools and software I use to keep my consulting operations smooth and professional.
 
 3. [Everything I Know About Consulting](./consulting-everything-i-know.md)
+
    - A comprehensive overview of my consulting experience and insights.
 
 4. [Indie Consulting](./consulting-indie.md)

@@ -9,14 +9,14 @@ A token-efficient system for referencing external resources in LLM prompts witho
 ```python
 @template
 def template_name(param1, param2, ...):
-    # I recognize that these should really be chat messages 
+    # I recognize that these should really be chat messages
     return Template("""
     Template content with placeholders:
-    
+
     <param1>
     {{param1}}
     </param1>
-    
+
     <param2>
     {{param2}}
     </param2>
@@ -25,14 +25,14 @@ def template_name(param1, param2, ...):
 
 ## Resource Reference Types
 
-| Type | Syntax | Description |
-|------|--------|-------------|
-| File | `file://path/to/resource.txt` | Load content from file system |
-| String | `"Direct content"` | Use literal string value |
-| Tagged Output | `context://<tag_type>#<id>` | Reference session-based generated content with any tag |
-| Image | `image://path/to/image.jpg` | Reference image resource |
-| Audio | `audio://path/to/audio.mp3` | Reference audio resource |
-| Video | `video://path/to/video.mp4` | Reference video resource |
+| Type          | Syntax                        | Description                                            |
+| ------------- | ----------------------------- | ------------------------------------------------------ |
+| File          | `file://path/to/resource.txt` | Load content from file system                          |
+| String        | `"Direct content"`            | Use literal string value                               |
+| Tagged Output | `context://<tag_type>#<id>`   | Reference session-based generated content with any tag |
+| Image         | `image://path/to/image.jpg`   | Reference image resource                               |
+| Audio         | `audio://path/to/audio.mp3`   | Reference audio resource                               |
+| Video         | `video://path/to/video.mp4`   | Reference video resource                               |
 
 ## Template Usage
 
@@ -81,12 +81,12 @@ email_template(feedback="context://response#feedback-789")
 
 ### Error Handling
 
-| Error | Behavior |
-|-------|----------|
-| Missing file | Return error with path information |
-| Invalid resource ID | Return error with invalid ID |
-| Permission issues | Return security constraint error |
-| Malformed template | Return syntax error with details |
+| Error               | Behavior                           |
+| ------------------- | ---------------------------------- |
+| Missing file        | Return error with path information |
+| Invalid resource ID | Return error with invalid ID       |
+| Permission issues   | Return security constraint error   |
+| Malformed template  | Return syntax error with details   |
 
 ## Comments
 

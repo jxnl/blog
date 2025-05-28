@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-08-19
 description: Discover a systematic approach to enhance Retrieval-Augmented Generation
@@ -10,11 +10,11 @@ description: Discover a systematic approach to enhance Retrieval-Augmented Gener
 draft: false
 slug: rag-flywheel
 tags:
-- RAG
-- Data Optimization
-- User Feedback
-- Continuous Improvement
-- Machine Learning
+  - RAG
+  - Data Optimization
+  - User Feedback
+  - Continuous Improvement
+  - Machine Learning
 ---
 
 # The RAG Playbook
@@ -39,11 +39,9 @@ Let's break this down step-by-step:
 
 <!-- more -->
 
-
-If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-
 
 ## 1. Start with Synthetic Data
 
@@ -135,6 +133,6 @@ Remember, the goal isn't to have a perfect system on day one. It's to build a fl
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

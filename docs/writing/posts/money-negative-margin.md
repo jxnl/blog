@@ -1,6 +1,6 @@
 ---
 date: 2025-01-07
-authors: 
+authors:
   - jxnl
 description: "If you truely believe you'll be successful, then making money will also be negative margin."
 ---
@@ -10,7 +10,7 @@ description: "If you truely believe you'll be successful, then making money will
 In 2020 I had a hand injury that ended my career for 2-3 years. I've only managed to bounce back into being an indie consultant and educator. On the way back to being a productive member of society I've learned a few things:
 
 1. I have what it takes to be successful, whether that's the feeling of never wanting to be poor again, or some internal motivation, or the 'cares a lot' or the 'chip on the shoulder' - whatever it is, I believe I will be successful
-2. The gift of being enough is the greatest gift I can give myself 
+2. The gift of being enough is the greatest gift I can give myself
 3. I will likely make too many sacrifices by default, not too few, and it will reflect in my regrets later in life
 
 <!-- more -->

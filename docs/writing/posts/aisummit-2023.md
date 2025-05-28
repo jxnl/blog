@@ -1,19 +1,19 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Applied AI
+  - Applied AI
 comments: true
 date: 2023-11-02
 description: Explore the AI Engineer Summit keynote on using Pydantic for prompt engineering.
   Watch the insightful talk now!
 draft: false
 tags:
-- Pydantic
-- AI Engineer Summit
-- Prompt Engineering
-- Machine Learning
-- Software Development
+  - Pydantic
+  - AI Engineer Summit
+  - Prompt Engineering
+  - Machine Learning
+  - Software Development
 ---
 
 # AI Engineer Keynote: Pydantic is all you need

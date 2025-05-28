@@ -4,7 +4,7 @@ description: "A list of things I've been using and plan on using in the future."
 
 # Things
 
-*Some links may include affiliate attribution. Recommendations are based on personal use.*
+_Some links may include affiliate attribution. Recommendations are based on personal use._
 
 In the past 2 decades I went from sharing a bed with my parents renting out the unfinished basement of some Canadian family to doing quite well for myself. This is all the stuff I use, plan to use, and what's on my upgrade roadmap. Each item includes why it works for me.
 
@@ -33,8 +33,9 @@ I usually shower with just water, but recently started using skincare products. 
 Planning to start **[retinol](https://www.amazon.com/gp/product/B004D2C4Q4/ref=ewc_pr_img_4?smid=ATVPDKIKX0DER&psc=1)** for better skin.
 
 ### On My Roadmap
+
 - Collagen peptides
-- Fish oil  
+- Fish oil
 - Magnesium
 - Glucosamine & chondroitin
 - Electrolyte protocols
@@ -43,7 +44,7 @@ Planning to start **[retinol](https://www.amazon.com/gp/product/B004D2C4Q4/ref=e
 
 - **Retinol** — Vitamin A that accelerates skin cell renewal, reduces wrinkles, fades dark spots
 - **Ceramides** — Natural fats that strengthen skin barrier and prevent moisture loss
-- **NAD+** — Coenzyme for cellular energy and mitochondrial function  
+- **NAD+** — Coenzyme for cellular energy and mitochondrial function
 - **Tongkat Ali** — Southeast Asian herb for energy, mood, and hormone balance
 - **Collagen Peptides** — Improves skin elasticity, stronger nails and hair
 - **Fish Oil** — Omega-3s for brain function and reduced inflammation
@@ -63,6 +64,7 @@ With long, permed hair, moisture retention is everything. **[Milbon Curl Mousse]
 > **The Science:** Perms chemically break and reform hair's natural bonds, making hair more porous. Hair absorbs moisture quickly but loses it fast. Without regular hydration, permed hair becomes straight, frizzy, and brittle.
 
 ### On My Roadmap
+
 - High-quality hair dryer
 - Hair oils for moisture retention
 
@@ -73,6 +75,7 @@ With long, permed hair, moisture retention is everything. **[Milbon Curl Mousse]
 Relatively speaking, my tech is pretty basic: MacBook Pro and iPhone. **[Audio-Technica record player](https://www.amazon.com/dp/B07N3S4X3P)** with **[Edifier speakers](https://www.amazon.com/dp/B088685QVJ)**. I connect an Amazon Echo to my **[Harman Kardon Aura Studio 3](https://www.amazon.com/dp/B086FS4BSV)** — the single best speaker I've ever owned, perfect for hosting parties.
 
 ### On My Roadmap
+
 - Level up audio setup (still deciding what I'd use it for)
 - AirPods Pro
 
@@ -87,7 +90,7 @@ Relatively speaking, my tech is pretty basic: MacBook Pro and iPhone. **[Audio-T
 ### Ergonomics & Eye Health
 
 - Your body tells you when something's wrong — listen to it
-- Good equipment pays off (hence the Herman Miller and Kinesis choices)  
+- Good equipment pays off (hence the Herman Miller and Kinesis choices)
 - Movement is key — shift positions throughout the day
 - Proper monitor height matters (eyes align with top third)
 
@@ -106,13 +109,14 @@ Passive ambient lighting is key. **Philips Hue lights** and **[Noguchi lamps](ht
 **[Muji storage](https://www.muji.us/collections/storage-organizers?srsltid=AfmBOoqMRarrbP1eRCeWDj_Qx6XfFzLqcCSFLNUw7R7_76XsnNbxAQTL)** for organization.
 
 ### Grail Item
+
 **USM Haller storage** — long-term investment worth saving for.
 
 ---
 
 ## Traveling
 
-**[Rimowa luggage](https://www.rimowa.com)** with **[Amazon packing cubes](https://www.amazon.com/dp/B014VBI5MS)**. 
+**[Rimowa luggage](https://www.rimowa.com)** with **[Amazon packing cubes](https://www.amazon.com/dp/B014VBI5MS)**.
 
 I genuinely hate traveling, but a few nice things make it bearable: **[Manta sleep mask](https://mantasleep.com/products/manta-sleep-mask)** and bringing hydrating face and hair products because airplane air is so dry.
 
@@ -139,8 +143,9 @@ The trick: find a couple good brands that work for your body type, then stick wi
 ## Home and Objects
 
 **Curated essentials:**
+
 - Chikuseiko Charcoal Incense
-- Cast Iron Incense Holder  
+- Cast Iron Incense Holder
 - Dried Eucalyptus Bundle
 - Noren Curtain for entrances
 - Bell for doorway
@@ -158,8 +163,9 @@ Get art for your walls, magnets for photos on your fridge, and frame everything.
 ## Kitchen
 
 **Essential tools:**
+
 - **Good knife** — I'm Chinese about this. I only use a vegetable cleaver for every function
-- **Epicurean cutting board** 
+- **Epicurean cutting board**
 - **Rice cooker**
 - **Good blender**
 
@@ -170,7 +176,7 @@ Get art for your walls, magnets for photos on your fridge, and frame everything.
 I'm constantly buying my time back. First hire: EA, then cleaners, then chef. Still looking for a meal prep chef who could come to my house and cook once a week.
 
 - **Laundry & Cleaning Service** — save time, maintain tidy space
-- **Massage Therapy (bi-monthly)** — stay loose, reduce stress  
+- **Massage Therapy (bi-monthly)** — stay loose, reduce stress
 - **Concierge Medical & Personal Chef** — focus on lean body goals, specialized care
 - **EA Support** — manage appointments, organize travel, optimize calendar
 
@@ -180,5 +186,5 @@ I'm constantly buying my time back. First hire: EA, then cleaners, then chef. St
 
 - Lay-flat seat on a plane
 - Cool jackets
-- Nice speakers  
+- Nice speakers
 - LASIK eye surgery

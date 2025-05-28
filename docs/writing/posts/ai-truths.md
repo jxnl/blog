@@ -2,9 +2,9 @@
 description: A collection of hard truths from the AI trenches.
 slug: ai-from-the-trenches
 authors:
-- jxnl
+  - jxnl
 categories:
-- AI
+  - AI
 comments: true
 date: 2025-03-05
 ---
@@ -40,6 +40,7 @@ Here's a hard truth: capabilities are monotonically increasing. Each new model w
 Fix your retrieval. Fix your data pipeline. Fix your evaluation process. These are things you control today.
 
 When I tell clients this, they often look disappointed. They wanted me to tweak some prompt magic or recommend a fancy new model. Instead, I'm telling them to do the unsexy work of:
+
 - Building better test sets
 - Implementing proper feedback loops
 - Actually looking at their data
@@ -65,6 +66,7 @@ Ask most AI teams how long it takes to run an experiment, and you'll get embarra
 The companies winning with AI can run 10 experiments before lunch.
 
 One client went from spending weeks fine-tuning prompts to implementing a system where they could:
+
 1. Sample real-time traffic
 2. Test multiple approaches
 3. Compare metrics
@@ -141,6 +143,7 @@ When a client asks how they're doing, I don't start with technical metrics. I as
 Those are the only metrics that matter.
 
 Remember:
+
 - Start with the business outcome, work backwards
 - Measure what matters (hint: it's rarely model performance)
 - Optimize for learning velocity

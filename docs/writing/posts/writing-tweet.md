@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Writing and Communication
+  - Writing and Communication
 comments: true
 date: 2024-01-11
 description: Learn effective strategies for writing impactful tweets, including crafting
@@ -10,11 +10,11 @@ description: Learn effective strategies for writing impactful tweets, including 
 draft: false
 slug: anatomy-of-a-tweet
 tags:
-- Tweet Writing
-- Social Media Strategies
-- Content Creation
-- Twitter Tips
-- Hook and Retain
+  - Tweet Writing
+  - Social Media Strategies
+  - Content Creation
+  - Twitter Tips
+  - Hook and Retain
 ---
 
 # Anatomy of a Tweet

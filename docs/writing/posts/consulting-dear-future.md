@@ -1,19 +1,19 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-10-04
 description: Discover how to leverage your AI skills into a profitable consulting
   career. Join the Indie AI Consultant newsletter for actionable insights.
 draft: false
 tags:
-- AI consulting
-- freelancing
-- Indie AI Consultant
-- entrepreneurship
-- business growth
+  - AI consulting
+  - freelancing
+  - Indie AI Consultant
+  - entrepreneurship
+  - business growth
 ---
 
 # Dear Future AI Consultant

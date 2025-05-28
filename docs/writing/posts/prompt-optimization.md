@@ -1,19 +1,19 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Software Engineering
+  - Software Engineering
 comments: true
 date: 2024-05-22
 description: Explore prompt optimization techniques to enhance content generation
   quality using few-shot examples and effective evaluation methods.
 draft: false
 tags:
-- prompt optimization
-- machine learning
-- few-shot learning
-- content generation
-- AI techniques
+  - prompt optimization
+  - machine learning
+  - few-shot learning
+  - content generation
+  - AI techniques
 ---
 
 # What is prompt optimization?
@@ -32,7 +32,7 @@ By treating few-shot examples as hyperparameters, we can find the best set by ex
 
 ## The number one assumption
 
-The big assumption you can make here is that there actually exists a function to score the quality of outputs. This might be possible in simple benchmark tests, but in production, this is often impossible. It is not just that I want a summary, but I might want summaries with certain formatting or certain rules of a certain length, and these are all very hard to quantify into a scoring system. You might need to use an llm as a judge, which just further complicates the whole process. 
+The big assumption you can make here is that there actually exists a function to score the quality of outputs. This might be possible in simple benchmark tests, but in production, this is often impossible. It is not just that I want a summary, but I might want summaries with certain formatting or certain rules of a certain length, and these are all very hard to quantify into a scoring system. You might need to use an llm as a judge, which just further complicates the whole process.
 
 1. How do you score the effectiveness of a motivational speech?
 2. What is the score for a persuasive product description?
@@ -48,11 +48,11 @@ def score(expected, output):
 
 ## Generating Examples
 
-The second thing to focus on is whether or not you already have existing examples or a few shot examples to use in your prompting. Let's assume for now we have some list of examples that we either AI generate or pull from production. 
+The second thing to focus on is whether or not you already have existing examples or a few shot examples to use in your prompting. Let's assume for now we have some list of examples that we either AI generate or pull from production.
 
 ```python
 examples = from_prod_db(n=100)
-# or 
+# or
 examples = generate_examples(n=100)
 ```
 
@@ -86,25 +86,25 @@ best_examples = None
 best_score = float('-inf')
 
 while True:
-    
+
     # Randomly sample few-shot examples
     few_shot_examples = random.sample(examples, n=N_FEW_SHOTS)
-    
+
     scores = []
-    
+
     for inputs, expected in tests:
-        
+
         # Format the prompt with examples and inputs
         prompt_with_examples_and_inputs = prompt.format(
             examples=few_shot_examples, input=inputs
         )
-        
+
         # Generate output using the language model
         output = llm.generate(prompt_with_examples_and_inputs)
-        
+
         # Score the generated output
         scores.append(score_fn(expected, output))
-    
+
     # Update the best score and examples if current score is better
     if mean(scores) > best_score:
         best_score = mean(scores)

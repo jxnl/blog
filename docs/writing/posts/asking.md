@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-02-07
 description: Learn effective ways to ask for referrals and improve your networking
@@ -10,11 +10,11 @@ description: Learn effective ways to ask for referrals and improve your networki
 draft: false
 slug: how-to-ask
 tags:
-- Networking
-- Referrals
-- Personal Branding
-- Communication
-- Entrepreneurship
+  - Networking
+  - Referrals
+  - Personal Branding
+  - Communication
+  - Entrepreneurship
 ---
 
 # How to ask for Referrals (Among other things)

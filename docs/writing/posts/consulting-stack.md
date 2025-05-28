@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-08-23
 description: Discover essential tools and strategies for indie consultants to streamline
@@ -10,11 +10,11 @@ description: Discover essential tools and strategies for indie consultants to st
 draft: false
 slug: consulting-stack
 tags:
-- Consulting Tools
-- Indie Consultant
-- Business Setup
-- Software Recommendations
-- AI Consulting
+  - Consulting Tools
+  - Indie Consultant
+  - Business Setup
+  - Software Recommendations
+  - AI Consulting
 ---
 
 # Best Tools for Indie Consultants
@@ -24,7 +24,6 @@ As an [indie consultant](./consulting-indie.md), having the right tools can make
 In this guide, I'll share the key components of my stack and why they matter. Whether you're just starting out or looking to optimize your existing practice, these tools can help streamline your operations and enhance your professional image. I'll cover everything from setting up your business foundation to essential software for day-to-day operations.
 
 By the end, you'll have a comprehensive todo list for setting up your business foundation and implementing your own consulting stack. This advice stems from my personal experience and [lessons learned from AI consulting](./consulting-stack.md), aimed at helping you avoid common pitfalls and accelerate your success in the consulting world.
-
 
 <!-- more -->
 
@@ -70,18 +69,18 @@ With the legal and financial foundation in place, here are the key software tool
 
 - [Dropbox + Dropbox Sign](https://sign.dropbox.com/): This tool is essential for sending and tracking proposals, as well as getting contracts signed digitally. It adds a layer of professionalism to your operations. Additionally, it allows you to monitor who is downloading and viewing your documents, which is particularly useful when sending contracts, documents, or proposals to clients.
 
-- [Cal.com](https://cal.com/): For easily scheduling calls, especially free consultations. Whenever someone asks to hang out or jump on a call, I just send them a cow link immediately. In the future, you can also set up paid calls, which makes it very easy. It's a tool I love using, and it's basically free. 
-That said, you can definitely go crazy with how you set up your availability schedules, and ultimately, I think the right answer is to hire an EA once you start making enough money.
+- [Cal.com](https://cal.com/): For easily scheduling calls, especially free consultations. Whenever someone asks to hang out or jump on a call, I just send them a cow link immediately. In the future, you can also set up paid calls, which makes it very easy. It's a tool I love using, and it's basically free.
+  That said, you can definitely go crazy with how you set up your availability schedules, and ultimately, I think the right answer is to hire an EA once you start making enough money.
 
 - [Circleback](https://app.circleback.ai/login?ref=jason@jxnl.co): My go-to for meeting notes and follow-ups, But I often will actually take those transcripts myself and pass them into something like Cloud or Spiral Computer to produce memos and blog posts.
 
 - [Anthropic Claude](https://claude.ai/new): An AI assistant crucial for content creation and research. I use it for generating proposals, leveraging example templates and detailed prompts. Unexpectedly, I've also found it valuable for creating mockups - I often share Claude-generated React code to visually communicate designs to clients, going beyond verbal descriptions.
 
-- [Spiral Computer](https://spiral.computer/): I use this to generate memos and blog posts from transcripts. It's a general-purpose tool that I use to convert transcripts into tweets and blog posts, and convert blog posts into tweets.  If you're committed to producing enough content and recognize that one of the best ways of increasing your surface area is to write more, Spiral Computer is a no-brainer tool for $200 a year. You'll definitely make it back if you can double the amount of content you produce.
+- [Spiral Computer](https://spiral.computer/): I use this to generate memos and blog posts from transcripts. It's a general-purpose tool that I use to convert transcripts into tweets and blog posts, and convert blog posts into tweets. If you're committed to producing enough content and recognize that one of the best ways of increasing your surface area is to write more, Spiral Computer is a no-brainer tool for $200 a year. You'll definitely make it back if you can double the amount of content you produce.
 
-!!! note "The power of standardization" 
+!!! note "The power of standardization"
 
-    Having a standard engagement letter and proposal process saves time and projects professionalism. Don't reinvent the wheel for every client. Subribe to my news letter if you want to get notified when I publish more posts on how I set up my engagement letters and proposals examples 
+    Having a standard engagement letter and proposal process saves time and projects professionalism. Don't reinvent the wheel for every client. Subribe to my news letter if you want to get notified when I publish more posts on how I set up my engagement letters and proposals examples
 
     If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
 
@@ -90,8 +89,6 @@ That said, you can definitely go crazy with how you set up your availability sch
         <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
         <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
     </form>
-
-
 
 ## Scaling Your Practice
 
@@ -126,8 +123,6 @@ Remember, the goal isn't just to have a bunch of fancy tools. It's to create a s
 What tools are essential to your consulting practice? Have you found any game-changers I didn't mention? Share your experiences in the comments below.
 
 ---
-
-
 
 ## Consulting Stack Setup Todo List
 

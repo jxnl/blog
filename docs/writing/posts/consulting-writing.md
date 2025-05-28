@@ -1,19 +1,19 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-10-31
 description: How writing consistently helped me close quickly
 draft: false
 slug: consulting-writing
 tags:
-- Consulting
-- Indie Consultant
-- Business Setup
-- Software Recommendations
-- AI Consulting
+  - Consulting
+  - Indie Consultant
+  - Business Setup
+  - Software Recommendations
+  - AI Consulting
 ---
 
 I want to share something that completely changed my consulting business: **writing consistently**.
@@ -41,19 +41,21 @@ Instead of explaining what I do, clients now come to me already understanding my
 Here's how I built my content engine:
 
 1. **Turn every client call into content**
-    - Record calls (with permission)
-    - Extract common questions and challenges
-    - Write about solutions I provided
+
+   - Record calls (with permission)
+   - Extract common questions and challenges
+   - Write about solutions I provided
 
 2. **Share insights from actual work**
-    - Document real problems I solve
-    - Show my thinking process
-    - Include specific examples (anonymized)
+
+   - Document real problems I solve
+   - Show my thinking process
+   - Include specific examples (anonymized)
 
 3. **Create different content types**
-    - Long-form blog posts for depth
-    - Twitter threads for reach
-    - Newsletter updates for nurturing
+   - Long-form blog posts for depth
+   - Twitter threads for reach
+   - Newsletter updates for nurturing
 
 The best part? Writing compounds. That blog post you write today could bring you clients months or years from now.
 
@@ -76,22 +78,24 @@ Even 30 minutes of writing per day adds up to 182 hours of content creation per 
 Every piece of content I create follows these guidelines:
 
 1. **AIDA Framework**
-    - Attention: Hook readers in the first sentence
-    - Interest: Share a compelling story or statistic
-    - Desire: Show them what's possible
-    - Action: Give them a clear next step
+
+   - Attention: Hook readers in the first sentence
+   - Interest: Share a compelling story or statistic
+   - Desire: Show them what's possible
+   - Action: Give them a clear next step
 
 2. **Keep It Digestible**
-    - Aim for 5-minute reads
-    - Write at a Grade 10 reading level
-    - Break up long paragraphs
-    - Use headers and bullet points
+
+   - Aim for 5-minute reads
+   - Write at a Grade 10 reading level
+   - Break up long paragraphs
+   - Use headers and bullet points
 
 3. **Make It Scannable**
-    - Bold key points
-    - Use subheadings every 3-4 paragraphs
-    - Include plenty of white space
-    - Add relevant examples
+   - Bold key points
+   - Use subheadings every 3-4 paragraphs
+   - Include plenty of white space
+   - Add relevant examples
 
 This structure works whether you're writing a tweet thread or a full blog post. The key is making complex ideas accessible.
 

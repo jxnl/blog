@@ -14,12 +14,12 @@ tags:
 date: 2024-10-15
 comments: true
 authors:
-   - jxnl
+  - jxnl
 ---
 
 # The right way to do AI engineering updates
 
-*Helping software engineers enhance their AI engineering processes through rigorous and insightful updates.*
+_Helping software engineers enhance their AI engineering processes through rigorous and insightful updates._
 
 ---
 
@@ -59,10 +59,10 @@ It's a description of an activity, not a description of an experiment.
 
 > I tried lexical search, semantic search, and hybrid indexing. We were able to get 85% recall at 5 and 93% recall at 10, which is about a 16% relative improvement from whats currenty deployed, Its only a few lines of code so it should be pretty cheap to roll out.
 
-| Metric       | Baseline | Hybrid Search | Re-ranking |
-|--------------|----------|---------------|------------|
-| Recall @ 5   | 73%      | 85% (+16.4%)  | 88% (+20.5%) |
-| Recall @ 10  | 80%      | 93% (+16.3%)  | 95% (+18.8%) |
+| Metric      | Baseline | Hybrid Search | Re-ranking   |
+| ----------- | -------- | ------------- | ------------ |
+| Recall @ 5  | 73%      | 85% (+16.4%)  | 88% (+20.5%) |
+| Recall @ 10 | 80%      | 93% (+16.3%)  | 95% (+18.8%) |
 
 This update effectively communicates several key aspects:
 
@@ -71,6 +71,7 @@ This update effectively communicates several key aspects:
 2. **Specific Interventions**: It clearly states what was tried - lexical search, semantic search, and hybrid indexing.
 
 3. **Quantifiable Results**: The update provides precise metrics:
+
    - Recall @ 5 improved to 85%
    - Recall @ 10 improved to 93%
    - A relative improvement of about 16% from the current deployment
@@ -87,7 +88,6 @@ The key differences between this good update and a bad update are:
 4. **Actionability**: It gives an indication of the ease of implementation, which is crucial for decision-making.
 
 This approach to updates enables more informed discussions and decisions about the project's direction and resource allocation.
-
 
 ---
 
@@ -124,15 +124,13 @@ Our primary metric for success is **Recall at 5 and at 10**—the percentage of 
 
 ## **Example 1: A High-Impact Intervention**
 
-
 > We implemented a hybrid search index combining BM25 and semantic search, along with a re-ranking model. Recall at 5 increased from 65% to 85%, and Recall at 10 improved from 78% to 93%. User engagement also increased by 15%. While there's a slight increase in system complexity and query processing time (~50ms), the substantial gains in performance justify these trade-offs.
 
-
-| Metric       | Semantic Search | Hybrid Search | Hybrid + Re-ranking |
-|--------------|-----------------|----------------|---------------------|
-| Recall @ 5   | 65%             | 75% (+15.4%)   | 86% (+32.3%)        |
-| Recall @ 10  | 72%             | 83% (+15.3%)   | 93% (+29.2%)        |
-| Latency      | ~50ms           | ~55ms (+10%)   | ~200ms (+264%)      |
+| Metric      | Semantic Search | Hybrid Search | Hybrid + Re-ranking |
+| ----------- | --------------- | ------------- | ------------------- |
+| Recall @ 5  | 65%             | 75% (+15.4%)  | 86% (+32.3%)        |
+| Recall @ 10 | 72%             | 83% (+15.3%)  | 93% (+29.2%)        |
+| Latency     | ~50ms           | ~55ms (+10%)  | ~200ms (+264%)      |
 
 ### **Hypothesis**
 
@@ -162,16 +160,13 @@ The substantial improvement in recall metrics and positive user engagement justi
 
 ## **Example 2: When Small Gains Aren't Worth It**
 
-
 > We experimented with a query expansion technique using a large language model to enhance search queries. While this approach showed promise in certain scenarios, the overall impact on recall metrics was mixed, and it introduced significant latency to our search system.
 
-| Metric       | Baseline | Query Expansion |
-|--------------|----------|-----------------|
-| Recall @ 5   | 85%      | 87% (+2.4%)     |
-| Recall @ 10  | 93%      | 94% (+1.1%)     |
-| Latency      | ~200ms   | ~1800ms (+800%)  |
-
-
+| Metric      | Baseline | Query Expansion |
+| ----------- | -------- | --------------- |
+| Recall @ 5  | 85%      | 87% (+2.4%)     |
+| Recall @ 10 | 93%      | 94% (+1.1%)     |
+| Latency     | ~200ms   | ~1800ms (+800%) |
 
 ### **Hypothesis**
 
@@ -198,7 +193,7 @@ Implementing query expansion using a large language model will enhance search qu
 
 ### **Takeaway**
 
-Despite the modest improvements in recall metrics, the substantial increase in latency and system complexity made this intervention impractical. The potential negative impact on user experience due to increased response times outweighed the marginal gains in search accuracy. Therefore, we decided not to proceed with this intervention. 
+Despite the modest improvements in recall metrics, the substantial increase in latency and system complexity made this intervention impractical. The potential negative impact on user experience due to increased response times outweighed the marginal gains in search accuracy. Therefore, we decided not to proceed with this intervention.
 
 If smaller models become faster and more accurate, this could be revisited.
 
@@ -241,11 +236,13 @@ We found that these expansion modes over dates did not work successfully because
 These examples and insights demonstrate the value of embracing failure as a learning tool in AI engineering. By documenting our failures, conducting regular reviews, and using setbacks as fuel for innovation, we can extract valuable lessons and improve our systems over time. To further illustrate how this approach can be implemented effectively, let's explore some practical strategies for incorporating failure analysis into your team's workflow
 
 1. **Document Your Failures:**
+
    - Maintain a "Failure Log" to record each unsuccessful experiment or intervention.
    - Include the hypothesis, methodology, results, and most importantly, your analysis of why it didn't work.
    - This practice helps build a knowledge base for future reference and learning.
 
 2. **Conduct Regular Failure Review Sessions:**
+
    - Schedule monthly "Failure Retrospectives" for your team to discuss recent setbacks.
    - Focus these sessions on extracting actionable insights and brainstorming ways to prevent similar issues in future projects.
    - Encourage open and honest discussions to foster a culture of continuous improvement.
@@ -262,26 +259,32 @@ These examples and insights demonstrate the value of embracing failure as a lear
 ### **Tips for Engineers and Leaders**
 
 1. **Emphasize Hypotheses:**
+
    - Clearly state what you expect to happen and why.
    - Example: "We hypothesize that integrating semantic search will improve recall metrics by better understanding query context."
 
 2. **Detail Interventions:**
+
    - Explain the specific actions taken.
    - Example: "We implemented Cohere's re-ranking model to refine search results after the initial query processing."
 
 3. **Present Quantitative Results:**
+
    - Use data to showcase outcomes.
    - Example: "Recall at 5 improved from 65% to 85%."
 
 4. **Discuss Trade-offs:**
+
    - Acknowledge any downsides or costs.
    - Example: "While we saw performance gains, processing time increased by 50ms per query."
 
 5. **Be Honest About Failures:**
+
    - Share what didn't work and potential reasons.
    - Example: "Our attempt at personalization didn't yield results due to insufficient user data."
 
 6. **Recommend Next Steps:**
+
    - Provide guidance on future actions.
    - Example: "We recommend revisiting personalization once we have more user data."
 

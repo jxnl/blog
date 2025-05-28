@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Applied AI
+  - Applied AI
 comments: true
 date: 2024-03-28
 description: Explore how data flywheels leverage user feedback to enhance product
@@ -10,21 +10,20 @@ description: Explore how data flywheels leverage user feedback to enhance produc
 draft: false
 slug: data-flywheel
 tags:
-- data flywheel
-- AI
-- user feedback
-- product development
-- machine learning
+  - data flywheel
+  - AI
+  - user feedback
+  - product development
+  - machine learning
 ---
 
 # Data Flywheel Go Brrr: Using Your Users to Build Better Products
 
-You need to be taking advantage of your users wherever possible. It’s become a bit of a cliche that customers are your most important stakeholders. In the past, this meant that customers bought the product that the company sold and thus kept it solvent.  However, as AI seemingly conquers everything, businesses must find replicable processes to create products that meet their users’ needs and are flexible enough to be continually improved and updated over time. This means your users are your most important asset in improving your product. Take advantage of that and use your users to build a better product!
+You need to be taking advantage of your users wherever possible. It’s become a bit of a cliche that customers are your most important stakeholders. In the past, this meant that customers bought the product that the company sold and thus kept it solvent. However, as AI seemingly conquers everything, businesses must find replicable processes to create products that meet their users’ needs and are flexible enough to be continually improved and updated over time. This means your users are your most important asset in improving your product. Take advantage of that and use your users to build a better product!
 
 <!-- more -->
 
-Prior to the advent of AI, companies would need to build an initial product to bootstrap data before they could do any kind of modeling.  Nowadays, companies have gotten the model and must remember that they still need to collect data to improve it, which is how companies have ended up like Blockbuster instead of Netflix. To avoid this, one of the most effective ways to leverage the near-infinite insight your customers can provide you. When considering machine learning, this looks like the concept of a data flywheel. If businesses implement their flywheel correctly, they can build AI products that leverage every user interaction to iterate and improve their products continually, thus gaining a competitive edge.
-
+Prior to the advent of AI, companies would need to build an initial product to bootstrap data before they could do any kind of modeling. Nowadays, companies have gotten the model and must remember that they still need to collect data to improve it, which is how companies have ended up like Blockbuster instead of Netflix. To avoid this, one of the most effective ways to leverage the near-infinite insight your customers can provide you. When considering machine learning, this looks like the concept of a data flywheel. If businesses implement their flywheel correctly, they can build AI products that leverage every user interaction to iterate and improve their products continually, thus gaining a competitive edge.
 
 ## What is a Data Flywheel? How Should I Use a Data Flywheel?
 
@@ -32,7 +31,7 @@ Prior to the advent of AI, companies would need to build an initial product to b
 
 A data flywheel is a self-reinforcing system that takes input in the form of data from each step of the flywheel and uses it to improve itself over time. As a user engages with the product, the flywheel works by taking the data the user produces feeds it back into the system, which trains the underlying model and finetunes it, allowing it to deliver better results and, in turn, attract more users by being a better product. This process creates what is called a Virtuous Cycle where more users result in more data, which means a better product and increased user engagement.
 
-OpenPipe wrote a wonderful article that I highly recommend checking out if you’re looking for a specific platform to help you with your own Data Flywheel. However, the real value of this article is how they’ve outlined the parts of the flywheel in an easily digestible format. They also outline the value of building and owning your own processes. It can be daunting to dive into the world of machine learning, but their model is easy to understand and follow. It looks like this: 
+OpenPipe wrote a wonderful article that I highly recommend checking out if you’re looking for a specific platform to help you with your own Data Flywheel. However, the real value of this article is how they’ve outlined the parts of the flywheel in an easily digestible format. They also outline the value of building and owning your own processes. It can be daunting to dive into the world of machine learning, but their model is easy to understand and follow. It looks like this:
 
 ```mermaid
 graph TD
@@ -66,7 +65,7 @@ Spotify also uses its user’s data to inform its music curation, licensing deci
 The improved user experience and content offerings attract more users to the platform, and existing users become more engaged, generating even more data.
 The cycle continues, with Spotify refining its recommendations and music offerings based on the ever-growing volume of user data.
 
-Both of these cases follow the basic framework we looked at with OpenPipe. This data flywheel also enables Netflix and Spotify to continuously improve their product offering by leveraging their most valuable asset: their users. 
+Both of these cases follow the basic framework we looked at with OpenPipe. This data flywheel also enables Netflix and Spotify to continuously improve their product offering by leveraging their most valuable asset: their users.
 
 ## Designing Products with Data Flywheels in Mind
 
@@ -76,17 +75,15 @@ It’s one thing to build a data flywheel and another to build an effective one.
 
 ## Aligning Data Flywheels with Business Objectives
 
-However, it’s not enough to simply have a flywheel. As mentioned earlier, one of the major benefits of the data flywheel is that it produces a solution tailored to your users' specific needs. The other half of that equation is ensuring that the flywheel aligns with your business objectives. 
+However, it’s not enough to simply have a flywheel. As mentioned earlier, one of the major benefits of the data flywheel is that it produces a solution tailored to your users' specific needs. The other half of that equation is ensuring that the flywheel aligns with your business objectives.
 
 > You're not just trying to answer questions using an LLM; you might want to have the ability to make principled decisions, improve your ability to generate leads, have a higher conversation rate, or do upsells in your chatbot, minimize support times
 
 By identifying the specific outcomes you want to achieve, such as the ones outlined above, you can design your flywheel to collect the data that will allow you to optimize your models correctly. This approach shifts the focus from simply improving your AI application to driving tangible business results. Having the flywheel or running this data through a cycle repeatedly with no apparent purpose is not enough. It must be purposeful and objective-driven to produce value for your business and, more importantly, to your users.
 
-
 ## Future Considerations
 
-As AI continues to occupy the forefront of our cultural and technological landscape, the role of data flywheels will only grow and become more relevant. Any company looking to incorporate LLMs or machine learning into their products should be looking to develop effective flywheels if they are to succeed in the AI-driven future. Leaders like OpenAI and Character AI optimized their models based on user input and business goals. Providing, if not literally, at least aspirationally, a process which makes clear how powerful data flywheels are when done correctly that other companies can seek to emulate. 
-
+As AI continues to occupy the forefront of our cultural and technological landscape, the role of data flywheels will only grow and become more relevant. Any company looking to incorporate LLMs or machine learning into their products should be looking to develop effective flywheels if they are to succeed in the AI-driven future. Leaders like OpenAI and Character AI optimized their models based on user input and business goals. Providing, if not literally, at least aspirationally, a process which makes clear how powerful data flywheels are when done correctly that other companies can seek to emulate.
 
 ## Conclusion
 

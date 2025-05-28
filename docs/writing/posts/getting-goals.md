@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-04-20
 description: Discover how to choose effective metrics and set meaningful goals by
@@ -10,11 +10,11 @@ description: Discover how to choose effective metrics and set meaningful goals b
 draft: false
 slug: getting-goals
 tags:
-- goal setting
-- metrics
-- personal growth
-- leading vs lagging metrics
-- process goals
+  - goal setting
+  - metrics
+  - personal growth
+  - leading vs lagging metrics
+  - process goals
 ---
 
 # Picking Metrics and Setting Goals

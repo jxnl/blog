@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Software Engineering
+  - Software Engineering
 comments: true
 date: 2024-01-19
 description: Explore key tips for developing probabilistic software and improving
@@ -10,11 +10,11 @@ description: Explore key tips for developing probabilistic software and improvin
 draft: false
 slug: tips-probabilistic-software
 tags:
-- probabilistic software
-- machine learning
-- junior developers
-- decision making
-- experiment design
+  - probabilistic software
+  - machine learning
+  - junior developers
+  - decision making
+  - experiment design
 ---
 
 # Tips for probabilistic software

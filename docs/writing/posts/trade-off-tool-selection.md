@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-08-21
 description: Learn to optimize tool retrieval in RAG systems by balancing recall and
@@ -10,11 +10,11 @@ description: Learn to optimize tool retrieval in RAG systems by balancing recall
 draft: false
 slug: trade-off-tool-selection
 tags:
-- RAG systems
-- tool optimization
-- retrieval strategies
-- precision and recall
-- data analysis
+  - RAG systems
+  - tool optimization
+  - retrieval strategies
+  - precision and recall
+  - data analysis
 ---
 
 # Optimizing Tool Retrieval in RAG Systems: A Balanced Approach
@@ -82,7 +82,7 @@ This approach has several benefits:
 - Maintained recall: Your evergreen tools ensure you don't miss common use cases.
 - Adaptability: The retrieval component allows you to handle edge cases effectively.
 
-You'll ultimately have better precision characteristics, and then you can decide on how many new examples to include. 
+You'll ultimately have better precision characteristics, and then you can decide on how many new examples to include.
 
 Additionally, you can determine whether the improved precision, for example, is worth the additional latency trade-offs of having a secondary search system before doing your chunk retrieval.
 

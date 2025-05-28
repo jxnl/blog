@@ -24,9 +24,11 @@ Each session will be a live Zoom meeting, offering an opportunity for direct Q&A
 ---
 
 ### From Text-RAG to Vision-RAG with VP Search @ Cohere
+
 **Date**: Wednesday, May 14, 2025 at 5:00 PM UTC  
 **Speakers**: Myself & Nils Reimers (VP AI Search, Cohere)  
 **Key Learnings**:
+
 - Core concepts of Visual RAG: Understand how to extend text-based RAG to include visual data.
 - Architectures for multimodal retrieval: Learn methods for combining text and image understanding in end-to-end systems.
 - Strategies for production deployment: Discuss practical approaches for implementing and scaling visual search.
@@ -38,9 +40,11 @@ Nils Reimers will share insights from his work developing AI retrieval models at
 ---
 
 ### Understanding Embedding Performance through Generative Evals
+
 **Date**: Wednesday, May 21, 2025 at 5:00 PM UTC  
 **Speakers**: Myself & Kelly Hong (Researcher at Chroma)  
 **Key Learnings**:
+
 - Challenges in AI Evaluation: Explore why traditional metrics may not fully capture real-world RAG performance.
 - Limitations of Benchmarks: Identify potential biases in current embedding evaluation frameworks.
 - Creating Representative Test Sets: Learn how to develop evaluation datasets that align with production workloads.
@@ -52,9 +56,11 @@ Kelly Hong from Chroma will discuss advanced approaches to embedding evaluation.
 ---
 
 ### Online Evals and Production Monitoring for RAG Systems
+
 **Date**: Wednesday, May 28, 2025 at 5:00 PM UTC  
 **Speakers**: Myself & Ben Hylak (Co-Founder, Raindrop)  
 **Key Learnings**:
+
 - Fundamentals of AI Monitoring: Identify essential metrics for tracking RAG system performance and user satisfaction.
 - Detecting and Analyzing Issues: Learn techniques for identifying underperformance and diagnosing root causes.
 - Implementing Feedback Loops: Discuss how to use user feedback for continuous improvement of retrieval quality.
@@ -66,9 +72,11 @@ Ben Hylak, Co-Founder of Raindrop, will demonstrate approaches to monitoring RAG
 ---
 
 ### Latency First: Optimizing RAG & Agent Speed
+
 **Date**: Wednesday, June 4, 2025 at 5:00 PM UTC  
 **Speakers**: Myself & Aarush Sah (Head of Evals, Groq)  
 **Key Learnings**:
+
 - Effective Performance Measurement: Understand tools and methodologies for profiling your RAG stack and identifying bottlenecks.
 - Identifying Latency Sources: Recognize common performance issues in vector search, context assembly, and LLM inference.
 - Practical Optimization Techniques: Explore strategies for reducing latency at each stage of the RAG pipeline.
@@ -80,9 +88,11 @@ Aarush Sah from Groq will share insights on optimizing inference systems. We wil
 ---
 
 ### RAG without APIs: Browser-Based Function Calling
+
 **Date**: Wednesday, June 4, 2025 at 6:00 PM UTC  
 **Speakers**: Myself & Michael Struwig (Head of AI at OpenBB)  
 **Key Learnings**:
+
 - Browser-Centric RAG: Learn how to build RAG systems that operate within the browser, potentially reducing backend API needs.
 - Client-Side Function Execution: Discuss patterns for connecting LLMs directly to browser capabilities.
 - WYSIWYG Data Integration: Explore techniques for allowing models to interact with on-screen content.
@@ -94,9 +104,11 @@ Michael Struwig from OpenBB will demonstrate approaches to building client-side 
 ---
 
 ### Common RAG Anti-patterns and How to Address Them
+
 **Date**: Wednesday, June 11, 2025 at 5:00 PM UTC  
 **Speakers**: Myself & Skylar Payne (Founder of Wicked Data LLC)  
 **Key Learnings**:
+
 - Diagnosing Silent RAG Failures: Identify common failure modes that can impact user experience.
 - Implementing Robust Monitoring: Learn to build instrumentation to detect RAG system degradation.
 - Architectural Solutions: Review patterns for addressing common RAG reliability issues.
@@ -108,9 +120,11 @@ Skylar Payne of Wicked Data LLC will share experiences from debugging retrieval 
 ---
 
 ### Natural Language Search on Semi-Structured Data
+
 **Date**: Wednesday, June 18, 2025 at 5:00 PM UTC  
 **Speakers**: Myself & Daniel Svonava (CEO at Superlinked)  
 **Key Learnings**:
+
 - Encoder Stacking: Understand techniques for combining text and metadata in vector search.
 - Hybrid Data Implementation: Explore approaches to indexing and querying data structures that blend free text with structured attributes.
 - Advanced Metadata Integration: Move beyond simple filtering to semantic understanding of content and metadata.
@@ -122,9 +136,11 @@ Daniel Svonava, CEO at Superlinked, will discuss building ML infrastructure for 
 ---
 
 ### Improving RAG with Better Data Quality
+
 **Date**: Wednesday, June 18, 2025 at 6:00 PM UTC  
 **Speakers**: Myself & Adit Abraham (Co-founder & CEO of Reducto)  
 **Key Learnings**:
+
 - Precise Data Parsing: Learn techniques for extracting structured information from complex documents.
 - Optimal Data Representation: Discuss strategies for chunking, indexing, and organizing information for retrieval.
 - Enterprise-Scale RAG: Explore approaches to handling challenges in large organizations with diverse document types.

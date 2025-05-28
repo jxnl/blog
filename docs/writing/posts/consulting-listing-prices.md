@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Applied AI
+  - Applied AI
 comments: true
 date: 2024-09-17
 description: Explore the pitfalls of listing consulting prices and discover effective
@@ -10,11 +10,11 @@ description: Explore the pitfalls of listing consulting prices and discover effe
 draft: false
 slug: pricing-strategy-for-consultants
 tags:
-- consulting
-- pricing strategy
-- value-based pricing
-- discovery calls
-- business development
+  - consulting
+  - pricing strategy
+  - value-based pricing
+  - discovery calls
+  - business development
 ---
 
 # A surprising reason to not list your consulting prices
@@ -25,7 +25,7 @@ In this article, we'll delve into the counterintuitive reasons why listing your 
 
 Building on the foundation laid in my previous posts about [building a consulting practice](./consulting-everything-i-know.md) and [using the right tools](./consulting-stack.md), this piece will add another crucial element to your consulting toolkit: strategic pricing.
 
-<!-- more -->   
+<!-- more -->
 
 ## The Pitfalls of Transparent Pricing
 
@@ -93,21 +93,24 @@ If you found this helpful, subscribe to my newsletter for more posts on how I bu
     <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
 </form>
 
-
 ## Recommended Reading
 
 To further enhance your understanding of consulting practices and pricing strategies, I recommend exploring these related articles:
 
 1. [Consulting Referrals](./consulting-referrals.md)
+
    - Learn how to effectively ask for and manage referrals, a crucial aspect of growing your consulting business.
 
 2. [Consulting Stack](./consulting-stack.md)
+
    - Discover the essential tools and software I use to run my consulting practice efficiently.
 
 3. [Marketing, Positioning, and Scaling Consulting](./consulting-marketing.md)
+
    - Gain insights into how to market your services, position yourself effectively, and scale your consulting business.
 
 4. [Everything I Know About Consulting](./consulting-everything-i-know.md)
+
    - A comprehensive overview of my consulting experience and insights, covering various aspects of the profession.
 
 5. [Indie Consulting](./consulting-indie.md)

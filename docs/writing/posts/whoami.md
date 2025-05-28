@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-10-31
 description: A personal journey exploring machine learning, art, and life experiences
@@ -10,11 +10,11 @@ description: A personal journey exploring machine learning, art, and life experi
 draft: false
 slug: whoami
 tags:
-- machine learning
-- personal growth
-- self-discovery
-- RSI recovery
-- writing
+  - machine learning
+  - personal growth
+  - self-discovery
+  - RSI recovery
+  - writing
 ---
 
 # Who am I?

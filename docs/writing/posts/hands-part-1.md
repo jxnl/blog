@@ -1,9 +1,9 @@
 ---
 authors:
-- jxnl
-- jo
+  - jxnl
+  - jo
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-04-29
 description: A personal journey exploring the struggle of a machine learning engineer
@@ -11,11 +11,11 @@ description: A personal journey exploring the struggle of a machine learning eng
 draft: false
 slug: losing-my-hands
 tags:
-- Mental Health
-- Work-Life Balance
-- Machine Learning
-- Personal Growth
-- COVID-19
+  - Mental Health
+  - Work-Life Balance
+  - Machine Learning
+  - Personal Growth
+  - COVID-19
 ---
 
 # Losing My Hands
@@ -25,18 +25,18 @@ The world was ending, and I couldn't even put my pants on. My hands had cramped 
 <!-- more -->
 
 When COVID-19 hit, I was a Machine Learning Engineer at Stitch Fix. Being remote meant avoiding the worst of the pandemic, which made life easier for me than most. However, as with many others, COVID-19 brought with it less-than-ideal coping mechanisms. While the world was falling apart outside, I was in a cocoon. I felt like I was just locked in and taking my job seriously because I enjoyed the work so much. What I didn't realize was that I was seriously harming myself. The idea that value was a measurement of the function of hard work, length of work, and economic activity became a madonna that consumed me. This experience would later shape my [advice to young people](../posts/advice.md) and my reflections on [self-worth](../posts/self-loathing.md), as well as influence my journey into [consulting](../posts/consulting-everything-i-know.md) and [open-source projects](../index.md).
- 
+
 !!! note "The Aleph and The Zahir"
 
     The Argentinian author Jorge Luis Borges wrote of two interlinked concepts, The Aleph and The Zahir. The Aleph allows the observer to see all things, while the Zahir gradually becomes the only thing the observer can see. Not to be too melodramatic, but in a similar motion, work was what allowed me to see the world differently and opened me up to an entirely different library of experience, but eventually became the only thing I was doing.
 
-There would be ~6-week periods where I would wake up and start work around 7 am every morning, then code with few breaks until around 2 am, followed by long rest periods.  Even to hardened engineers, keeping up this work rate and style of work is unsustainable, but what else are you going to do during a pandemic? When you've been conditioned to believe rightly or wrongly that your value as a human being is derived from the economic value you provide to those around you and all barriers to producing work have been removed by an unprecedented upheaval to social norms, it felt like there was only one path forward and that was working as hard as possible every day. This rat-brained mentality, combined with my binge work style is ultimately what I think led to the severity of my injury.
+There would be ~6-week periods where I would wake up and start work around 7 am every morning, then code with few breaks until around 2 am, followed by long rest periods. Even to hardened engineers, keeping up this work rate and style of work is unsustainable, but what else are you going to do during a pandemic? When you've been conditioned to believe rightly or wrongly that your value as a human being is derived from the economic value you provide to those around you and all barriers to producing work have been removed by an unprecedented upheaval to social norms, it felt like there was only one path forward and that was working as hard as possible every day. This rat-brained mentality, combined with my binge work style is ultimately what I think led to the severity of my injury.
 
 Another aspect that led to this insane cycle of overwork was that the team I was a part of was going through a lot of upheaval. Teammates were leaving, and I felt like I was left to pick up the slack. I'd like to think I was in control of my work, but consistently logging 12-15 hour days for weeks on end took its toll. At one point, my manager saw my commit history and took me aside, asking me what the fuck I was doing working this much. Imagine that. Your boss telling you that you're working too hard. Ultimately, it came down to outside of pottery, BJJ and programming; there just wasn't much else to do. My lifestyle had become a bubble, and when it burst, I came tumbling back to earth.
 
 The loss of my hands came on suddenly and without much warning. One day, I woke up and realized I couldn't hold my phone properly. I tried to get a glass of water but had the same issue. My hands were stiff and had a restricted range of motion; it was difficult to perform basic tasks. At first, it didn't seem like a big deal; I just took a few hours off and rested. Maybe I had slept poorly or in an awkward position; maybe I had played too many video games that day. It's not as if I was the first engineer ever to get pain in their hands, right? But things didn't get better. Not that day or the next or even the next week. A sort of dread started to creep in as I realized most of the tasks I performed daily were becoming increasingly impossible for me to complete. This dread eventually transformed into an existential one.
 
-The first fear was whether I could ever code again. If  I can't hold my phone, I can't type. If I can't type, I can't work. Which quickly collapsed into If I can't work hard, where do I derive my value from? 
+The first fear was whether I could ever code again. If I can't hold my phone, I can't type. If I can't type, I can't work. Which quickly collapsed into If I can't work hard, where do I derive my value from?
 
 !!! note "Patriarchal Values and Self-Worth"
 
@@ -44,7 +44,7 @@ The first fear was whether I could ever code again. If  I can't hold my phone, I
 
 I slipped into a kind of depression because it was a listless kind of existence. I wasn't sad per se, but I felt like my course had been rerouted, and I wasn't sure where I'd end up. I would kind of just wander around New York, coping by going on dates or surrounding myself with non-tech-related people as I tried to get back into a normal routine. This was interspersed by periods of what is, in hindsight, less than optimal behaviours. I would do really stupid shit like go alone to Michelin-star restaurants for lunch or waste my day smoking a bunch of weed. It wasn't quite a spiral as my life balanced itself out by diving into non-tech hobbies like spending 6-7 hours in Bryant Park playing ping pong, training BJJ, swimming a mile every morning and ultimately learning how to free dive, which helped me for a while to keep my mind off of not being able to work.
 
-I went through acupuncture physiotherapy, tried anything that might work and threw as many resources at my hands as I tried to work through not being able to use them.  I even considered peptides, PRP, and stem cells, telling myself even if it was a small fortune, it would be worth it if I could make a living again. All of these therapeutics and treatments helped to some degree, but I still deal with pain and stiffness even three years later. To this day, it affects my ability to cook, eat, get dressed, and say nothing about my hobbies. Even swimming would aggravate my wrists without treating them immediately afterwards. The whole experience of being this helpless is just insane to think about. Since being injured, I've hesitated to take on a lot of work despite enjoying it. Which has been the major push for me to shift roles slightly. I've turned down basically every offer to join a startup because I'm worried about reinjuring myself. And to be honest, I'm still trying to figure out what it all means. I don't know if there is some moral or epiphany for me and how I approach work other than trying to be more purposeful with my work. Every time I code now, I have to weigh if what I'm doing is a valuable use of my time and resources. If coding adversely affects my health, it would be better for me not to do it.
+I went through acupuncture physiotherapy, tried anything that might work and threw as many resources at my hands as I tried to work through not being able to use them. I even considered peptides, PRP, and stem cells, telling myself even if it was a small fortune, it would be worth it if I could make a living again. All of these therapeutics and treatments helped to some degree, but I still deal with pain and stiffness even three years later. To this day, it affects my ability to cook, eat, get dressed, and say nothing about my hobbies. Even swimming would aggravate my wrists without treating them immediately afterwards. The whole experience of being this helpless is just insane to think about. Since being injured, I've hesitated to take on a lot of work despite enjoying it. Which has been the major push for me to shift roles slightly. I've turned down basically every offer to join a startup because I'm worried about reinjuring myself. And to be honest, I'm still trying to figure out what it all means. I don't know if there is some moral or epiphany for me and how I approach work other than trying to be more purposeful with my work. Every time I code now, I have to weigh if what I'm doing is a valuable use of my time and resources. If coding adversely affects my health, it would be better for me not to do it.
 
 I took roughly two years off of work. I wasn't making much money or doing much programming. What helped was reminding myself that the skills that took me to 'the dance' are not the skills that will keep me happy for the rest of my life. You must keep moving and learning new things; otherwise, you will get left behind. In this current wave of AI optimism, I found myself enjoying things again and adapting. Again, I'm still trying to figure out what my injury means, but at any rate, I'm much more resilient now than where I was 3 years ago.
 
@@ -77,7 +77,7 @@ I think the first time something really good happens to you—I mean really good
 
     [Byung-Chul Han's Insights on the Burnout Society](https://smus.com/books/the-burnout-society-by-byung-chul-han/#:~:text=Achievement%20society%20is%20the%20society,and%20victim%2C%20master%20and%20slave.)
 
-Despite my injury, I still try to maintain a bulletproof growth mindset. I constantly ask myself why I shouldn't make more money every month. The worst part is I truly do not know whether this is a 'good' mindset to have. Should I abstract to something like 'focusing on the process' and results will come? Should I be working with new clients to solve new problems? Maybe this is part of what caused my injury in the first place and the poison I was leaning into. I  truly believe all I need to succeed is my hands, brain, and laptop. As long as I have these three things, I'll be fine.
+Despite my injury, I still try to maintain a bulletproof growth mindset. I constantly ask myself why I shouldn't make more money every month. The worst part is I truly do not know whether this is a 'good' mindset to have. Should I abstract to something like 'focusing on the process' and results will come? Should I be working with new clients to solve new problems? Maybe this is part of what caused my injury in the first place and the poison I was leaning into. I truly believe all I need to succeed is my hands, brain, and laptop. As long as I have these three things, I'll be fine.
 
 ## Subscribe to my writing
 

@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-02-05
 description: Explore why LGTM@Few is an ineffective metric for retrieval augmented
@@ -10,11 +10,11 @@ description: Explore why LGTM@Few is an ineffective metric for retrieval augment
 draft: false
 slug: when-to-lgtm-at-k
 tags:
-- RAG
-- Metrics
-- AI
-- Startups
-- Data Analysis
+  - RAG
+  - Metrics
+  - AI
+  - Startups
+  - Data Analysis
 ---
 
 # Stop using LGTM@Few as a metric (Better RAG)
@@ -36,11 +36,9 @@ I'll cover the different relevancy and ranking metrics, some stories to help you
 
 <!-- more -->
 
-
-If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-
 
 ## When to look at data?
 
@@ -252,6 +250,6 @@ I hope this post has provided you with better intuition on how to think about re
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

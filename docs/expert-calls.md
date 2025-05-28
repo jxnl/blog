@@ -23,10 +23,12 @@ For focused questions and problem-solving.
 For in-depth analysis and planning of AI initiatives.
 
 1. Pre-call:
+
    - Send questions and documents
    - I'll review your materials
 
 2. Consultation:
+
    - Discuss AI challenges and opportunities
    - Develop strategies
    - Include team members as needed

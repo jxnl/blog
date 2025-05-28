@@ -1,16 +1,16 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-11-04
 description: Discover six proven strategies to significantly improve your RAG system's performance.
 draft: false
 tags:
-- RAG
-- AI
-- Machine Learning
+  - RAG
+  - AI
+  - Machine Learning
 ---
 
 # How to Improve RAG Applications; 6 Proven Strategies
@@ -20,7 +20,7 @@ This article explains six proven strategies to improve Retrieval-Augmented Gener
 By the end of this post, you'll understand six key strategies I've found effective when improving RAG applications:
 
 - Building a data flywheel with synthetic testing
-- Implementing structured query segmentation  
+- Implementing structured query segmentation
 - Developing specialized search indices
 - Mastering query routing and tool selection
 - Leveraging metadata effectively
@@ -28,7 +28,7 @@ By the end of this post, you'll understand six key strategies I've found effecti
 
 <!-- more -->
 
-If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
 
@@ -50,6 +50,7 @@ One of the most common pitfalls in RAG development is relying on "looks good to 
 Not all queries are created equal. Understanding and categorizing different types of queries allows for targeted improvements and better resource allocation.
 
 **Essential Components:**
+
 - Identify distinct query patterns and types
 - Track performance metrics per segment
 - Prioritize improvements based on:
@@ -64,6 +65,7 @@ Not all queries are created equal. Understanding and categorizing different type
 Instead of relying on a one-size-fits-all approach, build specialized indices for different content types and query patterns.
 
 **Key Strategies:**
+
 - Create dedicated indices for different content types (documents, images, tables)
 - Extract and leverage metadata for better filtering
 - Combine lexical and semantic search approaches
@@ -76,6 +78,7 @@ Instead of relying on a one-size-fits-all approach, build specialized indices fo
 Effective RAG systems often require multiple specialized tools and indices. The key is routing queries to the right tools efficiently.
 
 **Critical Components:**
+
 - Implement parallel function calling for multiple tools
 - Design clear, well-documented tool interfaces
 - Measure routing precision and recall separately from retrieval
@@ -88,6 +91,7 @@ Effective RAG systems often require multiple specialized tools and indices. The 
 User feedback is gold for improving RAG systems, but many applications fail to collect it effectively.
 
 **Implementation Strategies:**
+
 - Design UX elements that encourage feedback
 - Implement both explicit (thumbs up/down) and implicit (user actions) feedback mechanisms
 - Use feedback data to:
@@ -102,6 +106,7 @@ User feedback is gold for improving RAG systems, but many applications fail to c
 The final piece of the puzzle is how you present information to users. This affects both perceived and actual system quality.
 
 **Key Optimizations:**
+
 - Implement streaming responses for better perceived latency
 - Use interstitials to communicate system progress
 - Leverage chain-of-thought reasoning for better explanations

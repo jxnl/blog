@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Software Engineering
+  - Software Engineering
 comments: true
 date: 2024-02-20
 description: Learn how to format prompts correctly for LLM libraries, avoiding common
@@ -10,11 +10,11 @@ description: Learn how to format prompts correctly for LLM libraries, avoiding c
 draft: false
 slug: formatting-strings
 tags:
-- LLM
-- string formatting
-- API
-- prompt engineering
-- Python
+  - LLM
+  - string formatting
+  - API
+  - prompt engineering
+  - Python
 ---
 
 # Format your own prompts

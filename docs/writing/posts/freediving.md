@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2023-02-05
 description: Dive into the thrilling world of freediving under ice, exploring physical
@@ -10,11 +10,11 @@ description: Dive into the thrilling world of freediving under ice, exploring ph
 draft: false
 slug: freediving-ice
 tags:
-- freediving
-- ice diving
-- underwater adventure
-- breath-holding
-- fitness journey
+  - freediving
+  - ice diving
+  - underwater adventure
+  - breath-holding
+  - fitness journey
 ---
 
 # Freediving under ice

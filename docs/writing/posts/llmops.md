@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Applied AI
+  - Applied AI
 comments: true
 date: 2023-04-04
 description: Explore how to enhance AI agents with LLM observability and Open Telemetry
@@ -10,11 +10,11 @@ description: Explore how to enhance AI agents with LLM observability and Open Te
 draft: false
 slug: good-llm-observability
 tags:
-- LLM
-- Open Telemetry
-- AI Agents
-- Observability
-- Metrics
+  - LLM
+  - Open Telemetry
+  - AI Agents
+  - Observability
+  - Metrics
 ---
 
 # Good LLM Observability is just plain observability

@@ -1,18 +1,18 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal
+  - Personal
 comments: true
 date: 2024-11-11
 description: Exploring why teaching is crucial for experts and how sharing knowledge multiplies impact, improves skills, and creates lasting value.
 draft: false
 tags:
-- teaching
-- learning
-- career growth
-- knowledge sharing
-- personal development
+  - teaching
+  - learning
+  - career growth
+  - knowledge sharing
+  - personal development
 ---
 
 # Those Who Can Do, Must Teach: Why Teaching Makes You Better

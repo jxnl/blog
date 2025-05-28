@@ -33,7 +33,7 @@ In 2022, I met an artist in New York City. When they shared their dream of havin
 
 But six months went by. Then a year. Then more. Nothing changed except the frequency of complaints about bosses, about systems, about circumstances. The more they complained about their inability to get what they wanted, the more frustrated I became. It took three years to accept that the potential I saw wasn't theirs at all - it was just a projection of how I wanted to live my life, the values I held for myself.
 
-Now, lets contrast this with the people I spend my time with now. I never one said to my self "they have potential they just need to...". These ambitious people are already doing the work. Kinetic vs potential energy.   
+Now, lets contrast this with the people I spend my time with now. I never one said to my self "they have potential they just need to...". These ambitious people are already doing the work. Kinetic vs potential energy.
 
 The ones with real momentum are always telling you what they're doing, asking for help, seeking feedback. Or they just disappear for long periods and come back with the thing they wanted, ready to celebrate together.
 

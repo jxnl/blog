@@ -15,6 +15,7 @@ tags:
 In [Part 1](./cursor-git-part1.md), you learned the basics of safely using Git with Cursor agents. Now, let's level up your workflow by diving into advanced Git practices and explicitly instructing Cursor to handle these for you.
 
 <!-- more -->
+
 ## Stacked Pull Requests: Building Features Layer by Layer
 
 Stacked pull requests are a powerful workflow for building complex features incrementally. Instead of one massive PR, you create a series of smaller, dependent PRs that build upon each other. Here's how to master this approach:
@@ -22,6 +23,7 @@ Stacked pull requests are a powerful workflow for building complex features incr
 ### Understanding Stacked PRs
 
 Think of stacked PRs like building blocks:
+
 1. Base PR: Core functionality or infrastructure changes
 2. Middle PRs: Feature implementations that depend on the base
 3. Top PR: Final touches, UI polish, or integration work
@@ -97,15 +99,18 @@ gh pr create \
 ### Best Practices for Stacked PRs
 
 1. **Keep Each Layer Focused**
+
    - Each PR should have a single responsibility
    - Make changes easy to review and understand
    - Include relevant tests for each layer
 
 2. **Clear Documentation**
+
    - Maintain a `STACK.md` file describing the PR stack:
+
    ```markdown
    # Authentication Feature Stack
-   
+
    1. Core Infrastructure (#123)
       - Basic auth middleware
       - Token management
@@ -122,18 +127,19 @@ gh pr create \
 
 3. **Handle Updates Efficiently**
    When you need to update a lower layer:
+
    ```bash
    # Update base layer
    git checkout feature/auth-base
    # Make changes
    git commit -m "fix(auth): improve token validation"
    git push
-   
+
    # Rebase each dependent branch
    git checkout feature/auth-users
    git rebase feature/auth-base
    git push --force-with-lease
-   
+
    # Continue for each stack
    git checkout feature/auth-ui
    git rebase feature/auth-users
@@ -154,6 +160,7 @@ gh pr merge feature/auth-integration --auto --squash
 ### Troubleshooting Stacked PRs
 
 1. **Handling Conflicts**
+
    ```bash
    # If a lower stack changes
    git checkout feature/auth-users
@@ -216,6 +223,7 @@ When a bug appears in your codebase and you're not sure which commit introduced 
 ### Basic Workflow
 
 1. Start the bisect process:
+
 ```bash
 git bisect start
 git bisect bad  # Mark current commit as having the bug
@@ -223,6 +231,7 @@ git bisect good v1.0  # Mark a known good commit/tag
 ```
 
 2. Git will automatically checkout a commit halfway between good and bad. Test your code and tell Git the result:
+
 ```bash
 # If the bug exists in this commit
 git bisect bad
@@ -259,7 +268,7 @@ git bisect good  # or bad based on test results
 # b1234567 is the first bad commit
 # Author: Developer Name
 # Date: Thu Mar 14 15:31:22 2024
-# 
+#
 #     feat: add new authentication flow
 ```
 
@@ -308,12 +317,14 @@ git bisect skip
 ### When to Use Bisect
 
 `git bisect` is particularly valuable when:
+
 - A bug appears but you're not sure when it was introduced
 - Tests suddenly fail after many commits
 - Performance degradation occurs somewhere in history
 - Behavior changes unexpectedly between releases
 
 Remember to reset when you're done:
+
 ```bash
 git bisect reset  # Returns to your original branch
 ```
@@ -381,6 +392,7 @@ globs: ["**/*"]
 Here's the thing about all these advanced Git techniques - you don't need to master them yourself. The real key to success with Git is much simpler:
 
 1. **Make Small, Frequent Commits**
+
    - Save your work often
    - Each commit should do one thing
    - Write clear commit messages
@@ -388,6 +400,7 @@ Here's the thing about all these advanced Git techniques - you don't need to mas
 
 2. **Let Cursor Handle the Rest**
    Instead of memorizing complex commands, just tell Cursor what you want:
+
    > "Create a stack of PRs for this feature using gh pr create"
    > "Find which commit broke the tests using git bisect"
    > "Rebase these changes onto main using git rebase"

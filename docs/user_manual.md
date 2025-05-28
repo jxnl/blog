@@ -34,34 +34,41 @@ First and foremost, I'm learning how to be a manager and specifically delegate m
 Message me on slack when possible, if its urgent text me, assume i'm about to open you message on my apple watch, no links, short messages. I want to reply but if it takes me too long to reply, It'll be way later.
 
 - **Use clear subject lines**: Make the topic or action needed immediately apparent.
+
   - Good: "Urgent: Client proposal needs approval by 3pm"
   - Bad: "Quick question"
 
 - **Structure messages for quick decisions**: Present options clearly, preferably as numbered choices.
+
   - Good: "Logo color options:
     1. Blue (#1A2B3C)
     2. Green (#4D5E6F)
     3. Red (#7G8H9I)
-    Which do you prefer? Default to #1 if no response by EOD."
+       Which do you prefer? Default to #1 if no response by EOD."
   - Bad: "What color should we use for the logo?"
 
 - **Flag time-sensitive items**: Use prefixes like [Urgent], [Time-sensitive], or [FYI] in subject lines or message starts.
+
   - Good: "[Urgent] Client meeting rescheduled to 2pm today"
   - Bad: "The client called and wants to meet earlier"
 
 - **Use visuals when possible**: Screenshots, charts, or quick sketches can convey information faster than text.
+
   - Good: "New dashboard layout: [screenshot]. Thoughts?"
   - Bad: "I've redesigned the dashboard. The metrics are now on the left side, with a larger font. The graphs are centralized, and I've added a new section for user feedback on the right. The color scheme is..."
 
 - **End with a clear next step**: Always include what action you need from me, if any.
+
   - Good: "Please approve or suggest changes to the press release by EOD."
   - Bad: "Let me know what you think when you get a chance."
 
 - **Assume I'm on the run**: If you have to choose between sharing a link and sending a screenshot, send the screenshot.
+
   - Good: "Any issues with the new opening message? [screenshot1], [screenshot2]"
   - Bad: "What do you think of the opening message? [doc link]"
 
 - **Keep it short**: Put the ask at the top. Give me a clear call to action.
+
   - Good: "Need approval on new logo design by EOD. Details below if needed."
   - Bad: "Hi Jason, hope you're having a good day. I've been working on the new logo design for the past week and I think I've come up with something really interesting. It incorporates elements of our brand identity while also bringing in some fresh, modern touches. I'd love to get your thoughts on it when you have a chance. Let me know if you want me to walk you through the design process or if you just want to see the final product. Looking forward to your feedback!"
 

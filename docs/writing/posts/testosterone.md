@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-02-03
 description: Discover one man’s transformative journey of doubling testosterone levels
@@ -10,11 +10,11 @@ description: Discover one man’s transformative journey of doubling testosteron
 draft: false
 slug: testosterone
 tags:
-- testosterone
-- motivation
-- health
-- supplements
-- personal experiences
+  - testosterone
+  - motivation
+  - health
+  - supplements
+  - personal experiences
 ---
 
 # My year at 1100ng/dL
@@ -32,9 +32,7 @@ I'm not a doctor, but I did manage to double my testosterone levels in a year. I
 
 In 2021, I would wake up at 10 AM, check my phone for an hour and a half scrolling TikTok and Instagram before getting out of bed, grabbing a coffee and starting my day. I think at that time I was probably a little depressed, over trained from jujitsu four times a week but I was working out. I was eating right but I didn't feel great.
 
-
 Then around that time I started listening to the Andrew Huberman podcast. I learned about testosterone as a hormone that makes you motivated, something that makes [hard work feel good](https://www.youtube.com/watch?v=wGKL62fGj6U). And he had suggested two protocols that would supposedly improve those numbers. It was the same time I started reading about David Sinclair's work with Inside Tracker. So I thought I would start an [experiment in increasing my test.](https://www.youtube.com/watch?v=O640yAgq5f8).
-
 
 1. NAD+
 2. Tongkat Ali
@@ -57,10 +55,9 @@ I'm not really a scientist in this regard, so I'm gonna avoid talking about it t
 
 ## The story of my experience
 
-I started off with a blood test, I was at 500 ng/dl. By the conclusion, my levels had increased to 1100 ng/dl. 
+I started off with a blood test, I was at 500 ng/dl. By the conclusion, my levels had increased to 1100 ng/dl.
 
 But what changed? Was it placebo? Was it the diet? Was it the supplements? Was it the fasting? Was it the jujitsu? Was it the sleep? Was it the meditation? Was it the cold showers? Was it the sauna? Was it the ice baths? I mostly wanted to measure how I felt and how I changed.
-
 
 I don't know. But I'll describe some of the positive changes and negative changes that I noticed.
 

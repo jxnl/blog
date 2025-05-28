@@ -12,7 +12,7 @@ tags:
 date: 2024-10-25
 comments: true
 authors:
-   - jxnl
+  - jxnl
 ---
 
 # SWE vs AI Engineering Standups
@@ -26,7 +26,7 @@ The ticket is not the feature, the ticket is the experiment, the outcome is lear
 <!-- more -->
 
 !!! "note" "Who am I?"
-    I'm an AI engineering consultant specializing in process improvement for rapidly growing startups. With a background as a staff machine learning engineer, I've spent the past year collaborating with numerous AI startups. This experience has given me unique insights into common pitfalls and best practices in the field. My goal is to help engineering teams avoid recurring mistakes and implement more effective, data-driven processes for AI development and deployment.
+I'm an AI engineering consultant specializing in process improvement for rapidly growing startups. With a background as a staff machine learning engineer, I've spent the past year collaborating with numerous AI startups. This experience has given me unique insights into common pitfalls and best practices in the field. My goal is to help engineering teams avoid recurring mistakes and implement more effective, data-driven processes for AI development and deployment.
 
 ## The Fundamental Difference
 
@@ -37,7 +37,9 @@ AI development exists in a different realm. When we say we want to "improve accu
 Consider these two scenarios:
 
 **Engineering Task:**
+
 > "Implement OAuth2 authentication for our API"
+
 - Clear requirements
 - Known best practices
 - Deterministic outcome
@@ -45,7 +47,9 @@ Consider these two scenarios:
 - Timeline is predictable
 
 **AI Research Task:**
+
 > "Reduce hallucinations in our model's outputs"
+
 - Unknown if fully solvable
 - Multiple competing approaches
 - Probabilistic outcomes
@@ -65,7 +69,7 @@ This fundamental difference means we need to radically rethink how we measure pr
 3. **Speed of Learning > Speed of Development**
    The key metric isn't how fast we can implement solutions - it's how quickly we can test hypotheses and learn from the results.
 
-This fundamental difference means we need to radically rethink how we measure progress and setting goals 
+This fundamental difference means we need to radically rethink how we measure progress and setting goals
 
 ## Aside, Leading vs Lagging Indicators
 
@@ -138,21 +142,27 @@ This is what progress looks like in research.
 When you embrace the research mindset, different questions emerge:
 
 Instead of:
+
 > "When will the accuracy improve?"
 
 Ask:
+
 > "What's preventing us from running more experiments to improve accuracy this quarter?"
 
 Instead of:
+
 > "Why isn't this working yet?"
 
 Ask:
+
 > "What have we learned about what doesn't work and why?"
 
 Instead of:
+
 > "Can we speed this up?"
 
 Ask:
+
 > "What's preventing us from experimenting faster?"
 
 ## The Metrics That Matter
@@ -160,10 +170,12 @@ Ask:
 Here are the metrics I track that actually help me make decisions:
 
 1. **Experiment Velocity**
+
    - Number of hypotheses tested per week
    - Average time per experiment
 
 2. **Learning Efficiency**
+
    - Quality of documentation from failed experiments
    - Growth in team's understanding of the problem space
 
@@ -175,9 +187,11 @@ Here are the metrics I track that actually help me make decisions:
 ## A Better Way to Set Goals
 
 Instead of:
+
 > "Improve accuracy by 10% this quarter"
 
 Try:
+
 > "Run 15 experiments per month, with each experiment having clear success/abandon criteria and documented learnings"
 
 This changes the conversation from "Why aren't we succeeding?" to "How can we run more experiments? What's slowing us down? How can we learn faster?"
@@ -187,10 +201,12 @@ This changes the conversation from "Why aren't we succeeding?" to "How can we ru
 The hardest part of AI development is balancing research reality with product needs. Here's how I approach it:
 
 1. **Set Dual Metrics**
+
    - Research metrics: experiment velocity, learning rate
    - Product metrics: accuracy, latency, cost
 
 2. **Time-box Research Phases**
+
    - Set clear decision points
    - Define minimum viable improvements
    - Have backup plans for insufficient progress
@@ -211,4 +227,4 @@ The fundamental nature of AI development as research rather than pure engineerin
 
 The key is shifting focus from output metrics ("why isn't accuracy improving?") to input metrics ("how can we run more experiments?"). This not only leads to better decision-making but also helps build the scientific intuition necessary for long-term success in AI development.
 
-Remember: You're not just building features as if you're connecting a react app to a database - you're pushing the boundaries of what's possible as new models are developed. 
+Remember: You're not just building features as if you're connecting a react app to a database - you're pushing the boundaries of what's possible as new models are developed.

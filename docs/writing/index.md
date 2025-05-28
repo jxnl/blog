@@ -1,15 +1,15 @@
 ---
 categories:
-- Entrepreneurship
+  - Entrepreneurship
 comments: true
 description: Explore insights on consulting, open source, and AI applications through
   personal stories and expert tips.
 tags:
-- consulting
-- AI
-- open source
-- writing
-- RAG
+  - consulting
+  - AI
+  - open source
+  - writing
+  - RAG
 ---
 
 # Writing and mumblings
@@ -17,7 +17,7 @@ tags:
 I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
 
 [:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){.md-button .md-button--primary}
-[:material-twitter: Follow me on X](https://x.com/jxnlco){.md-button .md-button--secondary}  
+[:material-twitter: Follow me on X](https://x.com/jxnlco){.md-button .md-button--secondary}
 
 For posts about RAG (Retrieval-Augmented Generation) or LLMs (Large Language Models), check out the category labels in the sidebar. Here are some of my best posts on these topics:
 

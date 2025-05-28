@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2025-04-04
 description: A comprehensive guide for AI consultants on creating content that converts prospects into clients, building a personal brand, and escaping the time-for-money trap.
@@ -104,11 +104,13 @@ Here's an example from my own experience:
 When I first started writing, I'd use titles like: "I spent the weekend playing around with ChatGPT"
 
 This attracted almost no interest because:
+
 - It focused on what I did, not what readers could gain
 - It gave no reason to click through
 - It didn't specify any outcome or benefit
 
 When I shifted to titles like: "3 ChatGPT Prompts That Doubled My Content Creation Speed"
+
 - Engagement skyrocketed because:
 - It quantified the benefit (doubled speed)
 - It promised specific, actionable advice (3 prompts)
@@ -123,6 +125,7 @@ I never commit to a full article without testing the title first. Here's my proc
 3. I use the winning framing for my full content piece
 
 For example, when writing about pricing strategies, I tested:
+
 - "3 mistakes I made in my AI pricing strategy"
 - "How I increased my consulting rates by 200% in 6 months"
 - "The psychological barrier preventing consultants from charging what they're worth"
@@ -221,12 +224,14 @@ I provide a clear next step that aligns with my business goals while offering ge
 Before publishing, I optimize for different reading styles:
 
 **For Skimmers**:
+
 - I use short paragraphs (2-3 sentences max)
 - I include clear subheadings
 - I incorporate bullet points and numbered lists
 - I bold key points
 
 **For Deep Readers**:
+
 - I include personal stories or examples
 - I add visuals where relevant
 - I ask thought-provoking questions throughout
@@ -241,6 +246,7 @@ I spend 20% of my time creating content and 80% on distribution. Here's my appro
 I turn blog posts into tweet threads, convert videos into blog posts, and extract key points for LinkedIn posts. This maximizes the return on every piece of content I create.
 
 When my hands were hurting from typing too much, I started recording videos. This created an efficient workflow:
+
 1. Test ideas with tweets to see what resonates
 2. Record short videos about high-performing topics
 3. Convert the video transcripts into blog posts
@@ -281,11 +287,13 @@ I aim for the sweet spot: content specific enough to convert well but broad enou
 Before publishing anything, I run through this mental checklist:
 
 ### Pre-Creation
+
 - Have I tested this topic with smaller content first?
 - Is this aligned with my business goals and services?
 - What platform is most appropriate for this content?
 
 ### Creation
+
 - Does my title follow the strong title formula?
 - Does my opening hook generate attention?
 - Have I used the AIDA framework throughout?
@@ -293,11 +301,13 @@ Before publishing anything, I run through this mental checklist:
 - Is my expertise clearly demonstrated?
 
 ### Distribution
+
 - Have I planned how to promote this across platforms?
 - Can I repurpose this content into multiple formats?
 - Are there specific people I should notify about this content?
 
 ### Measurement
+
 - What metrics will indicate success for this content?
 - How does this content fit into my overall strategy?
 - What follow-up content might make sense based on this piece?
@@ -317,4 +327,4 @@ Remember: Great content doesn't just attract an audience—it attracts the right
 
 ---
 
-I hope this guide helps you create content that not only resonates with your audience but also drives real business results. If you have questions or want to share your content journey, reach out—I'm always interested in hearing how these approaches work for others. 
+I hope this guide helps you create content that not only resonates with your audience but also drives real business results. If you have questions or want to share your content journey, reach out—I'm always interested in hearing how these approaches work for others.

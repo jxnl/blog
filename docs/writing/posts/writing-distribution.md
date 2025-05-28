@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-06-30
 description: Explore the challenges of online recognition and its impact on personal
@@ -10,11 +10,11 @@ description: Explore the challenges of online recognition and its impact on pers
 draft: false
 slug: on-getting-recognized
 tags:
-- online presence
-- personal growth
-- digital influence
-- recognition
-- networking
+  - online presence
+  - personal growth
+  - digital influence
+  - recognition
+  - networking
 ---
 
 # On Getting Recognized: The Unexpected Price of Online Success
@@ -41,7 +41,7 @@ At first, being recognized was exhilarating. In San Francisco, it happened once 
 The recent AI engineering conference in San Francisco marked a turning point. Day one was enjoyable - I even joked about treating people to a spa day if I got recognized more than 10 times. But as the days wore on, the constant attention became overwhelming.
 
 !!! note "Popular Talk"
-    My talk from last year had been a hit, nearly the most popular of the entire conference until Jerry edged me out.
+My talk from last year had been a hit, nearly the most popular of the entire conference until Jerry edged me out.
 
 By day three, I was struggling. Every conversation in the hallway attracted a crowd. As an inherently shy person (hence my preference for Twitter), I found myself retreating to my hotel room just to have a moment's peace.
 
@@ -54,7 +54,7 @@ Some encounters crossed the line from flattering to frankly bizarre:
 - Uninvited eavesdroppers constantly tried to insert themselves into my conversations
 
 !!! warning "Anxiety Rising"
-    By the end of the conference, I was getting anxious just stepping into the elevator, knowing I'd be recognized as soon as I left.
+By the end of the conference, I was getting anxious just stepping into the elevator, knowing I'd be recognized as soon as I left.
 
 ## The Impact on Work and Personal Time
 
@@ -77,7 +77,7 @@ This experience has been a wake-up call. Going forward, I'll need to be more str
 While I don't consider myself a full-fledged influencer (maybe a micro-influencer at best), I'm learning that this is the cost of having a platform. And despite the challenges, I still believe in the importance of sharing my message.
 
 !!! quote "Personal Reflection"
-    "I still believe in the message. I think people's systems should be simpler. I think processes are more important than tools. I want to teach people, especially because now that I can't really code anymore due to my hand injury."
+"I still believe in the message. I think people's systems should be simpler. I think processes are more important than tools. I want to teach people, especially because now that I can't really code anymore due to my hand injury."
 
 Distribution is crucial if you truly believe in your message. But as I've learned, it comes with a price. While I don't expect this level of recognition in my daily life, conferences and industry events will require a new approach.
 

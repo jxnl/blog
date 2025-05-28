@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-01-18
 description: Exploring the contrasting experiences of public baths in America vs.
@@ -10,11 +10,11 @@ description: Exploring the contrasting experiences of public baths in America vs
 draft: false
 slug: public-baths
 tags:
-- bathing
-- onsen
-- cultural differences
-- personal growth
-- spa
+  - bathing
+  - onsen
+  - cultural differences
+  - personal growth
+  - spa
 ---
 
 # Public Baths

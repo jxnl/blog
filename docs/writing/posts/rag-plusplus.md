@@ -1,20 +1,20 @@
 ---
 authors:
-- jxnl
-- jo
+  - jxnl
+  - jo
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-06-05
 description: Explore the future of RAG in report generation, enhancing decision-making
   and resource allocation for businesses.
 draft: false
 tags:
-- RAG
-- report generation
-- decision making
-- AI consulting
-- SOP
+  - RAG
+  - report generation
+  - decision making
+  - AI consulting
+  - SOP
 ---
 
 # Predictions for the Future of RAG
@@ -25,7 +25,7 @@ Rag is the feature, not the benefit.
 
 <!-- more -->
 
-If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
 
@@ -33,7 +33,7 @@ If you want to learn more about I systematically improve RAG applications check 
 
 So why are reports better than RAG? Simply put, RAG systems suck because the value you derive is time saved from finding an answer. This is a one-dimensional value, and it's very hard to sell any value beyond that. Meanwhile, a report is a higher-value product because it is a decision-making tool that enables better resource allocation.
 
-To better illustrate this, I'll give a couple of examples: 
+To better illustrate this, I'll give a couple of examples:
 
 If I have one employee I'm paying hourly, they can use a RAG app to run a query, and then they can deliver an answer. This is a perfectly acceptable way of using RAG in one-dimensional static scenarios, such as asking single questions. However, when a research team wants to do interviews (question-answer queries), the deliverable isn't an answer to a set of questions. Instead, it's a report. So, the RAG app can save the time of 8 employees making 50 dollars an hour, whereas the report will cost $20,000. If the report is helping an executive allocate a 5million dollar budget, the price might charge becomes a much smaller portion of that investment? This is true even if the process to generate the report is just a RAG application in a for loop.
 
@@ -49,7 +49,7 @@ Furthermore, how reports are written is incredibly important. Scaling decision-m
 
 One of the reasons I attend workshops, get coaching, or read business books is because the outcome I am looking for is an SOP. For instance, I learned a way to write sales engagement letters that convert better. Now, all of my meetings fit this format and help make me far more money than the $40 dollar book I learned the template from cost. People are taught to give feedback and answer questions in specific ways. You get better outcomes when this output is structured correctly in something like a report or a template. Being able to pay for the right report template can be incredibly valuable because it ensures you're getting the outcome you actually need.
 
-![SOP](https://media.geeksforgeeks.org/wp-content/uploads/20240419121413/Aim-of-SOP-(Standard-Operating-Procedure)-copy.webp)
+![SOP](<https://media.geeksforgeeks.org/wp-content/uploads/20240419121413/Aim-of-SOP-(Standard-Operating-Procedure)-copy.webp>)
 
 I don't care so much about being able to read a chat transcript of a meeting I had. I care if I can turn that transcript into a format and report that I know will drive my desired business outcomes rather than just save me time. I want the AI to create a memo with clear deliverables for me or summarize the chat transcript to tell me, "This is the objective, this is how we make the decision, and here are the follow-ups."
 
@@ -61,14 +61,14 @@ If RAG primarily becomes report generation it means two things are possible: 1. 
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-
 
 ## Related Posts
 
 For more insights on RAG systems and related topics, check out these posts:
+
 - [The RAG Playbook](rag-flywheel.md) - A systematic approach to continually improve RAG systems
 - [How to build a terrible RAG system](rag-inverted.md) - An inverted thinking exercise on RAG best practices
 - [RAG is more than just embedding search](rag.md) - Exploring advanced RAG techniques beyond simple embeddings

@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-01-22
 description: Explore the unique value of indie consulting, its differences from big
@@ -10,11 +10,11 @@ description: Explore the unique value of indie consulting, its differences from 
 draft: false
 slug: indie-consulting
 tags:
-- indie consulting
-- consultant value
-- entrepreneurship
-- consulting strategies
-- independent business
+  - indie consulting
+  - consultant value
+  - entrepreneurship
+  - consulting strategies
+  - independent business
 ---
 
 # Indie Consulting

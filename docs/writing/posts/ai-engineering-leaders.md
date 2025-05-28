@@ -10,8 +10,8 @@ tags:
 date: 2024-10-29
 comments: true
 authors:
-   - jxnl
-   - skylar
+  - jxnl
+  - skylar
 ---
 
 # How to Lead AI Engineering Teams
@@ -37,6 +37,7 @@ For years, I believed the answer to team performance was better processes. More 
 **I was dead wrong.**
 
 Here's the truth that surprised me: The most effective teams have very little process. What they do have is:
+
 - Crystal clear alignment on what matters
 - A shared understanding of how the business works
 - The ability to make independent decisions
@@ -54,7 +55,8 @@ Here's how it works:
 
 2. **Break It Down:** Identify the key drivers that teams can actually impact. These become your focus areas.
 
-3. **Create a Rhythm:** 
+3. **Create a Rhythm:**
+
    - Weekly: Review input metrics
    - Quarterly: Check relationships between inputs and your North Star
    - Yearly: Validate that your North Star predicts revenue
@@ -68,6 +70,7 @@ This framework does something powerful: it helps every team member understand ho
 One of the most powerful tools in this framework is the weekly business review. But this isn't your typical metrics meeting.
 
 Here's how to make it work:
+
 - Make it a leadership-level meeting that ICs can attend
 - Focus on building business intuition, not just sharing numbers
 - Take notes on anomalies and patterns
@@ -79,6 +82,7 @@ Here's how to make it work:
 Here's another counterintuitive insight: how you organize your teams might be creating unnecessary friction.
 
 Instead of dividing responsibilities by project, try dividing them by metrics. Here's why:
+
 - Project-based teams require precise communication boundaries
 - Metric-based teams can work more fluidly
 - It reduces communication overhead
@@ -95,12 +99,14 @@ That's what I thought too. But here's what I learned: **Being early stage isn't 
 You can still be systematic, just differently:
 
 1. **Start Qualitative:**
+
    - Draft clear goals and hypotheses
    - Generate specific questions to validate them
    - Talk to customers systematically
    - Document and learn methodically
 
 2. **Focus on Learning:**
+
    - Treat tickets as experiments, not features
    - Make outcomes about learning, not just shipping
    - Accept that progress is nonlinear
@@ -115,6 +121,7 @@ You can still be systematic, just differently:
 ## The Experiment Mindset
 
 One crucial shift is thinking about work differently:
+
 - **The ticket is not the feature**
 - **The ticket is the experiment**
 - **The outcome is learning**

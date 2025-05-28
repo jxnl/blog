@@ -14,18 +14,18 @@ You get independence, not dependencies. You get capabilities, not ongoing contra
 
 ## Select Clients
 
-| Client                                        | Contact      | Industry           |
-|-----------------------------------------------|--------------|--------------------|
-| [Zapier](https://zapier.com/)                 | VP of Product| Automation         |
-| [HubSpot](https://hubspot.com/)               | GM           | Sales & Marketing  |
-| [Tensorlake](https://tensorlake.ai/)          | CEO          | Data               |
-| [Limitless AI](http://limitless.ai/)          | CTO          | AI                 |
-| [Trunk Tools](https://trunktools.com/)        | VP Eng       | Construction       |
-| [New Computer](http://new.computer/)          | CEO          | AI                 |
-| [Weights & Biases](https://wandb.ai/)         | CTO          | ML Infrastructure  |
-| [Modal Labs](https://modal.com/)              | CEO          | Cloud Computing    |
-| [Timescale](https://timescale.com/)           | VP Product   | Database           |
-| [Pydantic](http://pydantic.dev/)              | Creator      | Developer Tools    |
+| Client                                 | Contact       | Industry          |
+| -------------------------------------- | ------------- | ----------------- |
+| [Zapier](https://zapier.com/)          | VP of Product | Automation        |
+| [HubSpot](https://hubspot.com/)        | GM            | Sales & Marketing |
+| [Tensorlake](https://tensorlake.ai/)   | CEO           | Data              |
+| [Limitless AI](http://limitless.ai/)   | CTO           | AI                |
+| [Trunk Tools](https://trunktools.com/) | VP Eng        | Construction      |
+| [New Computer](http://new.computer/)   | CEO           | AI                |
+| [Weights & Biases](https://wandb.ai/)  | CTO           | ML Infrastructure |
+| [Modal Labs](https://modal.com/)       | CEO           | Cloud Computing   |
+| [Timescale](https://timescale.com/)    | VP Product    | Database          |
+| [Pydantic](http://pydantic.dev/)       | Creator       | Developer Tools   |
 
 ## I'm not a consultant trying to change recurring revenue over impact.
 
@@ -33,9 +33,9 @@ You deserve a partner who builds independence, not dependencies. You're not look
 
 You shouldn't have to deal with consultants who chase recurring revenue or sell maintenance contracts - these create perverse incentives. Instead, you get a partner who works alongside your team, transfers knowledge, and builds capabilities. When our engagement ends, you'll have:
 
-* **Continuous improvement processes** - Establish feedback loops that transform user interactions into measurable product enhancements
-* **Accelerated experimentation cycles** - Transform weeks of testing into days, enabling 3-5x faster product iteration
-* **Data-driven prioritization framework** - Replace intuition with systematic methods to identify the highest-impact AI opportunities 
+- **Continuous improvement processes** - Establish feedback loops that transform user interactions into measurable product enhancements
+- **Accelerated experimentation cycles** - Transform weeks of testing into days, enabling 3-5x faster product iteration
+- **Data-driven prioritization framework** - Replace intuition with systematic methods to identify the highest-impact AI opportunities
 
 ## Real results from real teams
 

@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-09-27
 description: Explore why AI freelancing presents unparalleled opportunities for experts
@@ -10,11 +10,11 @@ description: Explore why AI freelancing presents unparalleled opportunities for 
 draft: false
 slug: why-freelancers-will-win-the-ai-gold-rush
 tags:
-- AI Freelancing
-- Tech Revolution
-- Consulting
-- Freelance Opportunities
-- 2024 Predictions
+  - AI Freelancing
+  - Tech Revolution
+  - Consulting
+  - Freelance Opportunities
+  - 2024 Predictions
 ---
 
 # Why Freelancers Will Win the AI Gold Rush

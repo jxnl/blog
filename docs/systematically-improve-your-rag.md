@@ -15,12 +15,12 @@ Confidently build and refine Retrieval-Augmented Generation (RAG) systems that d
 
 ## What People Are Saying
 
-| Review | Name | Role |
-|------|------|---------|
-| "Practical lessons from every lecture... learning from a community on the vanguard of this emerging field." | Max | Software Engineer, Launch School |
-| "Excellent job of stressing the fundamentals... useful metric tools to measure and improve RAG systems." | Christopher | Senior Data/AI Architect, Procurement Sciences AI |
-| "Jason and Dan help set you on the right path... emphasis on looking at your data and building a metrics-based flywheel." | Vitor | Staff Software Engineer, Zapier |
-| "A game-changer! ... They've got this knack for breaking down complex RAG concepts into a framework that just clicks." | Moose | Founder & CEO, Sociail, Inc. |
+| Review                                                                                                                    | Name        | Role                                              |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------- |
+| "Practical lessons from every lecture... learning from a community on the vanguard of this emerging field."               | Max         | Software Engineer, Launch School                  |
+| "Excellent job of stressing the fundamentals... useful metric tools to measure and improve RAG systems."                  | Christopher | Senior Data/AI Architect, Procurement Sciences AI |
+| "Jason and Dan help set you on the right path... emphasis on looking at your data and building a metrics-based flywheel." | Vitor       | Staff Software Engineer, Zapier                   |
+| "A game-changer! ... They've got this knack for breaking down complex RAG concepts into a framework that just clicks."    | Moose       | Founder & CEO, Sociail, Inc.                      |
 
 > "Jason helped us break down our vision into actionable steps, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements. Grateful for his expertise and support!" — Camu Team (a16z backed)
 
@@ -28,7 +28,7 @@ Confidently build and refine Retrieval-Augmented Generation (RAG) systems that d
 
 Over the last few years, "RAG" has become a buzzword, but making these systems genuinely robust and effective often feels like guesswork. Most teams waste time on:
 
-- ❌ Vague metrics like "make the AI better" 
+- ❌ Vague metrics like "make the AI better"
 - ❌ Random experiments without data
 - ❌ Focusing on generation while ignoring retrieval
 - ❌ Building one-size-fits-all systems that underperform
@@ -49,43 +49,44 @@ In just 6 weeks, you'll learn a proven system to:
 
 <div class="grid two-columns" markdown="1">
 
-| Company | Industry |
-|--------------|----------|
-| [OpenAI](https://openai.com) | AI Research & Development |
-| [Anthropic](https://anthropic.com) | AI Research & Development |
-| [Google](https://google.com) | Search Engine, Technology |
-| [Microsoft](https://microsoft.com) | Software, Cloud Computing |
-| [TikTok](https://tiktok.com) | Social Media |
-| [Databricks](https://databricks.com) | Data Platform |
-| [Amazon](https://amazon.com) | E-commerce, Cloud Computing |
-| [Airbnb](https://airbnb.com) | Travel |
-| [Zapier](https://zapier.com) | Automation |
-| [HubSpot](https://hubspot.com) | Marketing Software |
-| [Shopify](https://shopify.com) | E-commerce Platform |
-| [PwC](https://pwc.com) | Professional Services |
-| [Booz Allen Hamilton](https://boozallen.com) | Consulting |
-| [Bain & Company](https://bain.com) | Consulting |
-| [Northrop Grumman](https://northropgrumman.com) | Aerospace & Defense |
-| [Visa](https://visa.com) | Financial Services |
-| [KPMG](https://kpmg.com) | Professional Services |
+| Company                                         | Industry                    |
+| ----------------------------------------------- | --------------------------- |
+| [OpenAI](https://openai.com)                    | AI Research & Development   |
+| [Anthropic](https://anthropic.com)              | AI Research & Development   |
+| [Google](https://google.com)                    | Search Engine, Technology   |
+| [Microsoft](https://microsoft.com)              | Software, Cloud Computing   |
+| [TikTok](https://tiktok.com)                    | Social Media                |
+| [Databricks](https://databricks.com)            | Data Platform               |
+| [Amazon](https://amazon.com)                    | E-commerce, Cloud Computing |
+| [Airbnb](https://airbnb.com)                    | Travel                      |
+| [Zapier](https://zapier.com)                    | Automation                  |
+| [HubSpot](https://hubspot.com)                  | Marketing Software          |
+| [Shopify](https://shopify.com)                  | E-commerce Platform         |
+| [PwC](https://pwc.com)                          | Professional Services       |
+| [Booz Allen Hamilton](https://boozallen.com)    | Consulting                  |
+| [Bain & Company](https://bain.com)              | Consulting                  |
+| [Northrop Grumman](https://northropgrumman.com) | Aerospace & Defense         |
+| [Visa](https://visa.com)                        | Financial Services          |
+| [KPMG](https://kpmg.com)                        | Professional Services       |
 
-| Company | Industry |
-|--------------|----------|
-| [Decagon](https://decagon.ai/) | Technology |
-| [Anysphere](https://anysphere.com) | AI |
-| [GitLab](https://gitlab.com) | Software Development |
-| [Intercom](https://intercom.com) | Customer Engagement |
-| [Lincoln Financial](https://lincolnfinancial.com) | Financial Services |
-| [DataStax](https://datastax.com) | Database Technology |
-| [Timescale](https://timescale.com) | Database Technology |
-| [PostHog](https://posthog.com) | Product Analytics |
-| [Gumroad](https://gumroad.com) | E-commerce Platform |
-| [Miro](https://miro.com) | Collaboration |
-| [Workday](https://workday.com) | Enterprise Software |
-| [Accenture](https://accenture.com) | Consulting, Technology Services |
-| [Mozilla](https://mozilla.org) | Non-profit |
-| [Redhat](https://redhat.com) | Software Development |
-| [Nvidia](https://nvidia.com) | AI |
+| Company                                           | Industry                        |
+| ------------------------------------------------- | ------------------------------- |
+| [Decagon](https://decagon.ai/)                    | Technology                      |
+| [Anysphere](https://anysphere.com)                | AI                              |
+| [GitLab](https://gitlab.com)                      | Software Development            |
+| [Intercom](https://intercom.com)                  | Customer Engagement             |
+| [Lincoln Financial](https://lincolnfinancial.com) | Financial Services              |
+| [DataStax](https://datastax.com)                  | Database Technology             |
+| [Timescale](https://timescale.com)                | Database Technology             |
+| [PostHog](https://posthog.com)                    | Product Analytics               |
+| [Gumroad](https://gumroad.com)                    | E-commerce Platform             |
+| [Miro](https://miro.com)                          | Collaboration                   |
+| [Workday](https://workday.com)                    | Enterprise Software             |
+| [Accenture](https://accenture.com)                | Consulting, Technology Services |
+| [Mozilla](https://mozilla.org)                    | Non-profit                      |
+| [Redhat](https://redhat.com)                      | Software Development            |
+| [Nvidia](https://nvidia.com)                      | AI                              |
+
 </div>
 
 ## What Makes This Course Different
@@ -93,18 +94,17 @@ In just 6 weeks, you'll learn a proven system to:
 This isn't theory - it's a practical system used by leading companies to:
 
 1. **Stop treating RAG as an AI problem**  
-   *"RAG is really just a recommendation system squeezed between two LLMs"*
+   _"RAG is really just a recommendation system squeezed between two LLMs"_
 
 2. **Focus on what you can control**  
-   *Improve search quality first - generation quality follows automatically*
-   
+   _Improve search quality first - generation quality follows automatically_
 3. **Build improvement flywheels**  
-   *Create systems that get better with every user interaction*
+   _Create systems that get better with every user interaction_
 
 No more fumbling in the dark. This program shows you step-by-step how to:
 
 1. Set up meaningful evaluations
-2. Identify high-impact opportunities 
+2. Identify high-impact opportunities
 3. Continuously refine retrieval
 4. Integrate feedback loops
 5. Enhance product experiences
@@ -164,16 +164,16 @@ In the rapidly evolving field of AI and machine learning, staying ahead means ma
 
 ## More From Our Students
 
-| Review | Name | Role |
-|------|------|---------|
-| "Practical and grounded in actual industry experience... like getting the inside scoop from folks who've been in the trenches." | Ashutosh | Senior Principal Scientist, Adobe |
-| "System-oriented approach... Highly relevant, directly applicable, and save time in building prototypes." | Mani | Senior Principal Software Engineer, Red Hat |
-| "Pragmatic with lots of advice that you won't find in any course. What I look for in good courses are instructors with strong points of view and Jason has them in abundance. If you follow all the steps given, you are definitely on a fast track to building your AI..." | Naveen | SVP of Engineering, BoostUp.ai |
-| "Jason's AI Consultant course brought out lots of new avenues and concepts in the AI Consultant journey which I was previously not aware of - AIDA, what to have in a landing page, contract negotiation and more! It was definitely an eye-opener and helped..." | Laks | Independent AI Researcher and Enthusiast |
-| "If you are an expert in the field of AI and want to build a successful business as an independent consultant, this course is for you. Jason teaches you how to build proof and shows how to interact with clients to achieve dream outcomes for everyone involved..." | Philipp | AI Consultant, peachstone.ai |
-| "The course completely changed my mindset around communicating value and pricing accordingly. The tips on how to gradually build your audience were super valuable. Highly recommend for anyone starting out or just looking to level up..." | Erikas | Senior AI engineer |
-| "Jason's course is packed with actionable insights and advice. It's not a theoretical course on what to do, it's an actual practical guide on real life example and insights that you can start applying right away. Jason is very responsive and approachable..." | Guido | Cohort 1 |
-| "Jason's course was packed with actionable insights and advice. It's not a theoretical course on what to do, it's an actual practical guide on real life example and insights that you can start applying right away. Jason is responsive and approachable..." | Dylan | AI Consultant, Iwana Labs |
+| Review                                                                                                                                                                                                                                                                      | Name     | Role                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------- |
+| "Practical and grounded in actual industry experience... like getting the inside scoop from folks who've been in the trenches."                                                                                                                                             | Ashutosh | Senior Principal Scientist, Adobe           |
+| "System-oriented approach... Highly relevant, directly applicable, and save time in building prototypes."                                                                                                                                                                   | Mani     | Senior Principal Software Engineer, Red Hat |
+| "Pragmatic with lots of advice that you won't find in any course. What I look for in good courses are instructors with strong points of view and Jason has them in abundance. If you follow all the steps given, you are definitely on a fast track to building your AI..." | Naveen   | SVP of Engineering, BoostUp.ai              |
+| "Jason's AI Consultant course brought out lots of new avenues and concepts in the AI Consultant journey which I was previously not aware of - AIDA, what to have in a landing page, contract negotiation and more! It was definitely an eye-opener and helped..."           | Laks     | Independent AI Researcher and Enthusiast    |
+| "If you are an expert in the field of AI and want to build a successful business as an independent consultant, this course is for you. Jason teaches you how to build proof and shows how to interact with clients to achieve dream outcomes for everyone involved..."      | Philipp  | AI Consultant, peachstone.ai                |
+| "The course completely changed my mindset around communicating value and pricing accordingly. The tips on how to gradually build your audience were super valuable. Highly recommend for anyone starting out or just looking to level up..."                                | Erikas   | Senior AI engineer                          |
+| "Jason's course is packed with actionable insights and advice. It's not a theoretical course on what to do, it's an actual practical guide on real life example and insights that you can start applying right away. Jason is very responsive and approachable..."          | Guido    | Cohort 1                                    |
+| "Jason's course was packed with actionable insights and advice. It's not a theoretical course on what to do, it's an actual practical guide on real life example and insights that you can start applying right away. Jason is responsive and approachable..."              | Dylan    | AI Consultant, Iwana Labs                   |
 
 ## Risk-Free Guarantee
 
@@ -206,5 +206,5 @@ The field of RAG is evolving quickly. Don't fall behind.
 
     Thanks,
     {Your Name}
-    
+
     P.S. I've heard that other teams are sending multiple team members to build shared context efficiently. Should we consider a similar approach?

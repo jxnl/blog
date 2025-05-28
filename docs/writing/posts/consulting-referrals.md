@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-09-13
 description: Learn effective strategies for requesting and managing consulting referrals
@@ -10,11 +10,11 @@ description: Learn effective strategies for requesting and managing consulting r
 draft: false
 slug: consulting-referrals
 tags:
-- consulting
-- referrals
-- networking
-- business strategy
-- client relationships
+  - consulting
+  - referrals
+  - networking
+  - business strategy
+  - client relationships
 ---
 
 # Affective Consulting: Referrals
@@ -46,6 +46,7 @@ Once they've told you how you've helped, here's your cue:
 "With that in mind, who do you know that might be struggling with [insert problem you solved]?"
 
 This approach is powerful because:
+
 - It's specific to the value you've provided
 - It frames the referral as helping someone with a problem
 - It's open-ended, allowing for multiple referrals
@@ -57,6 +58,7 @@ Don't stop at just getting a name. Ask:
 "Can you tell me a little bit more about Jim and why you feel we could help them?"
 
 This does two things:
+
 1. It gets your client more invested in the referral
 2. It gives you valuable information for your initial contact
 
@@ -67,6 +69,7 @@ Here's where many consultants drop the ball. Don't just take the contact info an
 "Do you feel like you should communicate to him first that I would be calling? Would that help him more so he's not caught off guard?"
 
 This approach:
+
 - Increases the likelihood of a warm reception
 - Shows respect for both your client and the referral
 - Sets you up for a more productive first conversation
@@ -78,6 +81,7 @@ Once they agree to make the introduction, ask:
 "What do you think you should say to him when you call?"
 
 This allows you to:
+
 - Ensure the right message is conveyed
 - Prevent any misconceptions or overselling
 - Guide the narrative about your consulting services
@@ -89,6 +93,7 @@ When you finally call the referral, avoid the common pitfall of assuming they're
 "Hi Jim, it's Barry Gold. Amy suggested I call you as we recently helped her with XYZ, which was causing them ABC. She mentioned you might be experiencing some similar challenges. Is this an appropriate time to chat?"
 
 This approach:
+
 - Establishes your connection and credibility
 - Focuses on potential problems, not your solution
 - Respects their time and schedule
@@ -100,6 +105,7 @@ If you're meeting in person, start with:
 "Amy, it's nice meeting you. Let's do this: Just so I don't go over things you've already discussed with Jim, perhaps you could give me your thoughts on what you guys have talked about and what you'd like to cover. Would that help?"
 
 This:
+
 - Puts the ball in their court
 - Avoids redundancy
 - Shows you value their time and perspective

@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-01-20
 description: Explore a critique on couches, challenging their role in living spaces
@@ -10,11 +10,11 @@ description: Explore a critique on couches, challenging their role in living spa
 draft: false
 slug: couchs
 tags:
-- Couches
-- Living Space
-- Personal Growth
-- Health
-- Home Design
+  - Couches
+  - Living Space
+  - Personal Growth
+  - Health
+  - Home Design
 ---
 
 # A Critique on Couches

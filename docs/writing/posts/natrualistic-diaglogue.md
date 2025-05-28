@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Applied AI
+  - Applied AI
 comments: true
 date: 2024-08-30
 description: Explore how to implement naturalistic dialogue in AI companions for more
@@ -10,11 +10,11 @@ description: Explore how to implement naturalistic dialogue in AI companions for
 draft: false
 slug: naturalistic-dialogue-ai
 tags:
-- Naturalistic Dialogue
-- AI Companions
-- Conversational AI
-- Machine Learning
-- User Experience
+  - Naturalistic Dialogue
+  - AI Companions
+  - Conversational AI
+  - Machine Learning
+  - User Experience
 ---
 
 # Implementing Naturalistic Dialogue in AI Companions
@@ -56,7 +56,7 @@ In naturalistic dialogue, what's unsaid is often as important as what's stated. 
 !!! note "Example: Naturalistic vs Expository Dialogue"
 
     Expository: "Remember when we went to the lake house last summer and mom fell in?"
-    
+
     Naturalistic: "Remember mom at the lake?" *both laugh*
 
     The naturalistic version assumes shared knowledge and allows for subtext.
@@ -68,7 +68,7 @@ Let's consider AI agents using Retrieval-Augmented Generation (RAG) and Large La
 !!! note "Definitions"
 
     **LLM**: AI model trained on text data, capable of generating human-like text.
-    
+
     **RAG**: Technique combining information retrieval with text generation.
 
 The issue? These systems often over-explain. They retrieve information and use all of it, resulting in unnatural dialogue.
@@ -89,13 +89,14 @@ To make AI-generated dialogue more natural:
 ### Memory Distillation Process
 
 Imagine the AI reviewing memories:
+
 - "What are the key points?"
 - "How did this affect them?"
 - "We've joked about this before..."
 - "They mentioned this, but not that..."
 
 !!! note "Potential Prompts"
-    
+
     Given the retrieved memory: [INSERT MEMORY],
     1. Identify key elements.
     2. Determine emotional significance.
@@ -106,32 +107,26 @@ Imagine the AI reviewing memories:
 ### Response Planning Algorithm
 
 The AI becomes a strategist:
+
 - "Mention the lake directly or hint at it?"
 - "How much detail to include?"
 - "What tone to use?"
 
 !!! note "Potential Prompts"
-    Based on the distilled memory and context:
-    1. Choose elements to reference explicitly and implicitly.
-    2. Decide on detail level.
-    3. Select tone.
-    Outline response strategy briefly.
+Based on the distilled memory and context: 1. Choose elements to reference explicitly and implicitly. 2. Decide on detail level. 3. Select tone.
+Outline response strategy briefly.
 
 ### Response Generation Technique
 
 The AI generates a response:
+
 - Using casual references
 - Implying shared memories
 - Maintaining a conversational style
 
 !!! note "Potential Prompts"
-    Using the plan and considering naturalistic dialogue:
-    1. Generate a brief response that:
-       - Uses shorthand references
-       - Implies shared knowledge
-       - Matches casual conversation style
-    2. Ensure it feels spontaneous.
-    Output only the response.
+Using the plan and considering naturalistic dialogue: 1. Generate a brief response that: - Uses shorthand references - Implies shared knowledge - Matches casual conversation style 2. Ensure it feels spontaneous.
+Output only the response.
 
 !!! note "Example Process"
 
@@ -154,6 +149,7 @@ The AI generates a response:
 Implementing naturalistic dialogue in AI is complex. It requires understanding the art of conversation.
 
 Future work might include:
+
 - Using feedback to adjust implicitness
 - Improving context modeling
 - Developing recovery mechanisms for unclear references

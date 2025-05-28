@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-08-26
 description: Discover essential insights on AI consulting, from selling outcomes to
@@ -10,11 +10,11 @@ description: Discover essential insights on AI consulting, from selling outcomes
 draft: false
 slug: everything-i-know-about-consulting
 tags:
-- AI Consulting
-- Consulting Strategy
-- Building a Consulting Practice
-- Value-Based Pricing
-- Outcomes
+  - AI Consulting
+  - Consulting Strategy
+  - Building a Consulting Practice
+  - Value-Based Pricing
+  - Outcomes
 ---
 
 # Everything I Learned from AI Consulting

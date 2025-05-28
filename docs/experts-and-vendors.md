@@ -9,60 +9,74 @@ Over the years, I've built a network of AI and ML specialists, vendors, and indu
 ## Experts
 
 ### [Hamel Husain](https://www.linkedin.com/in/hamelhusain/)
-* LLM Consultant, R&D at Answer AI
-* Focus: ML tools, infrastructure, and LLM evaluations
+
+- LLM Consultant, R&D at Answer AI
+- Focus: ML tools, infrastructure, and LLM evaluations
 
 ### [Eugene Yan](https://www.linkedin.com/in/eugeneyan/)
-* ML Research Scientist at Amazon
-* Focus: Recommender Systems and Large Language Models
+
+- ML Research Scientist at Amazon
+- Focus: Recommender Systems and Large Language Models
 
 ### [Thomas Millar](https://www.linkedin.com/in/thmsmlr/)
-* ML and Data Platforms expert
-* Focus: High-performance inference servers in Python and Elixir
+
+- ML and Data Platforms expert
+- Focus: High-performance inference servers in Python and Elixir
 
 ### [Shreya Shankar](https://www.linkedin.com/in/shrshnk/)
-* Expert in LLM Evals, PhD student at Berkeley
-* Focus: Practical ML solutions
+
+- Expert in LLM Evals, PhD student at Berkeley
+- Focus: Practical ML solutions
 
 ### [Skylar Payne](https://www.linkedin.com/in/skylar-payne-766a1988/)
-* Independent Consultant and Executive Coach
-* Background: Former VP of Engineering & Data Science
+
+- Independent Consultant and Executive Coach
+- Background: Former VP of Engineering & Data Science
 
 ### [John Berryman](https://arcturus-labs.com/)
-* Author of ["Relevant Search"](https://www.amazon.com/Relevant-Search-applications-Solr-Elasticsearch/dp/161729277X) and ["Prompt Engineering for LLMs"](https://oreillymedia.pxf.io/c/5303529/1975458/15173)
-* Background: Former GitHub Code Search and Copilot contributor
+
+- Author of ["Relevant Search"](https://www.amazon.com/Relevant-Search-applications-Solr-Elasticsearch/dp/161729277X) and ["Prompt Engineering for LLMs"](https://oreillymedia.pxf.io/c/5303529/1975458/15173)
+- Background: Former GitHub Code Search and Copilot contributor
 
 ### [Zhou Yu](https://www.linkedin.com/in/zhouyustanford/)
-* Data science & ML consultant
-* Focus: Helping early stage companies build data science capabilities
-* Background: Former head of data science at Google, Stitch Fix, and Signalfire
+
+- Data science & ML consultant
+- Focus: Helping early stage companies build data science capabilities
+- Background: Former head of data science at Google, Stitch Fix, and Signalfire
 
 ## Trusted Vendors
 
 ### Braintrust
-* [Ankur Goyal](https://www.linkedin.com/in/ankrgyl), CEO
-* Product: LLM evals and observability platform
+
+- [Ankur Goyal](https://www.linkedin.com/in/ankrgyl), CEO
+- Product: LLM evals and observability platform
 
 ### LanceDB
-* [Chang She](https://www.linkedin.com/in/changshe), CEO
-* Product: Database for Multimodal AI
+
+- [Chang She](https://www.linkedin.com/in/changshe), CEO
+- Product: Database for Multimodal AI
 
 ### Modal Labs
-* [Akshat Bubna](https://www.linkedin.com/in/akshat-bubna-188885103/), Co-founder
-* Product: Serverless platform for AI, data and ML teams
+
+- [Akshat Bubna](https://www.linkedin.com/in/akshat-bubna-188885103/), Co-founder
+- Product: Serverless platform for AI, data and ML teams
 
 ### Vespa.ai
-* [Jo Kristian Bergum](https://no.linkedin.com/in/jo-bergum), Chief Scientist
-* Product: Search, recommendation, and ranking systems
+
+- [Jo Kristian Bergum](https://no.linkedin.com/in/jo-bergum), Chief Scientist
+- Product: Search, recommendation, and ranking systems
 
 ### Extend
-* [Kushal Byatnal](https://www.linkedin.com/in/kushal-byatnal-92a33085/), CEO
-* Product: AI-driven document processing and business transformation
+
+- [Kushal Byatnal](https://www.linkedin.com/in/kushal-byatnal-92a33085/), CEO
+- Product: AI-driven document processing and business transformation
 
 ### Shaped
-* [Tullie Murrell](https://www.linkedin.com/in/tullie/), CEO
-* Product: AI recommendation and search platform for marketplaces, e-commerce, and content
+
+- [Tullie Murrell](https://www.linkedin.com/in/tullie/), CEO
+- Product: AI recommendation and search platform for marketplaces, e-commerce, and content
 
 ### Haize Labs
-* [Leonard Tang](https://www.linkedin.com/in/leonard-tang/), CEO
-* Product: LLM robustness through red teaming and observability techniques
+
+- [Leonard Tang](https://www.linkedin.com/in/leonard-tang/), CEO
+- Product: LLM robustness through red teaming and observability techniques

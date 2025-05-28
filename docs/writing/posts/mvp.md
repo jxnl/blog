@@ -1,9 +1,9 @@
 ---
 authors:
-- jxnl
-- jo
+  - jxnl
+  - jo
 categories:
-- Applied AI
+  - Applied AI
 comments: true
 date: 2024-02-18
 description: Explore how to define a successful MVP for AI applications by focusing
@@ -11,11 +11,11 @@ description: Explore how to define a successful MVP for AI applications by focus
 draft: false
 slug: how-to-ship-an-mvp-for-ai-applications
 tags:
-- MVP
-- AI Applications
-- User Education
-- Product Development
-- Consulting
+  - MVP
+  - AI Applications
+  - User Education
+  - Product Development
+  - Consulting
 ---
 
 # A feat of strength MVP for AI Apps

@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Software Engineering
+  - Software Engineering
 comments: true
 date: 2022-08-01
 description: Discover how the Flight framework enhances recommendation systems at
@@ -10,11 +10,11 @@ description: Discover how the Flight framework enhances recommendation systems a
 draft: false
 slug: stitchfix-framework
 tags:
-- recommendation system
-- data pipelines
-- Stitch Fix
-- Flight framework
-- real-time systems
+  - recommendation system
+  - data pipelines
+  - Stitch Fix
+  - Flight framework
+  - real-time systems
 ---
 
 # Recommendations with Flight at Stitch Fix
@@ -179,11 +179,11 @@ resp = {
        "excludes": [],
        "pipeline_operators": [
            {
-               "name": "Match", 
+               "name": "Match",
                "kwargs": {...},
-               "input_ids": [1, 2, 3, ...], 
+               "input_ids": [1, 2, 3, ...],
                "n_input": 100,
-               "output_ids": [1, 2, 3, ...], 
+               "output_ids": [1, 2, 3, ...],
                "n_output": 400
            }
        ]...

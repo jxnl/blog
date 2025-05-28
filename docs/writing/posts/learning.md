@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-01-08
 description: Explore effective learning strategies through the author's life experiences
@@ -10,11 +10,11 @@ description: Explore effective learning strategies through the author's life exp
 draft: false
 slug: learning
 tags:
-- Learning
-- Personal Development
-- Education
-- Growth Mindset
-- Skill Acquisition
+  - Learning
+  - Personal Development
+  - Education
+  - Growth Mindset
+  - Skill Acquisition
 ---
 
 # Learning to Learn

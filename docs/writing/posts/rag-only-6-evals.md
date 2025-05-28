@@ -1,8 +1,8 @@
 ---
 description: "There are only 6 fundamental ways to evaluate a RAG system. Here's how to do it."
 comments: true
-author: 
- - jxnl
+author:
+  - jxnl
 date: 2025-05-19
 ---
 
@@ -19,14 +19,15 @@ Just math and symmetry.
 ## The Insight
 
 RAG systems have three core components:
+
 - A question (Q)
-- Retrieved context (C) 
+- Retrieved context (C)
 - An answer (A)
 
 That's it. Three variables.
 
 !!! note "Exhaustive by Design"
-    The power of focusing on Question (Q), Context (C), and Answer (A) is that these three components, and their conditional relationships, cover *every* possible aspect of RAG evaluation. There are no hidden variables.
+The power of focusing on Question (Q), Context (C), and Answer (A) is that these three components, and their conditional relationships, cover _every_ possible aspect of RAG evaluation. There are no hidden variables.
 
 If we look at this through the lens of conditional relationships — the quality of one component given another — we get exactly six possible relationships. No more, no less.
 
@@ -47,65 +48,76 @@ This aligns perfectly with our approach to starting the flywheel with synthetic 
 ### Tier 2: Primary RAG Relationships
 
 **1. Context Relevance (C|Q)**
-- *Definition*: How well do the retrieved chunks address the question's information needs? This measures whether your retriever component is doing its job—finding passages that contain information relevant to answering the user's question.
 
-- *Example (Good)*: 
+- _Definition_: How well do the retrieved chunks address the question's information needs? This measures whether your retriever component is doing its job—finding passages that contain information relevant to answering the user's question.
+
+- _Example (Good)_:
+
   - Question: "What are the health benefits of meditation?"
   - Context: "Regular meditation has been shown to reduce stress hormones like cortisol. A 2018 study in the Journal of Cognitive Enhancement found meditation improves attention and working memory."
-  - *Reasoning*: Strong relevance. The context directly addresses multiple health benefits with specific details.
+  - _Reasoning_: Strong relevance. The context directly addresses multiple health benefits with specific details.
 
-- *Example (Bad)*: 
+- _Example (Bad)_:
   - Question: "What are the health benefits of meditation?"
   - Context: "Meditation practices vary widely across different traditions. Mindfulness meditation, which originated in Buddhist practices, focuses on present-moment awareness, while transcendental meditation uses mantras to achieve deeper states of consciousness."
-  - *Reasoning*: Low relevance. Despite being factually correct about meditation, this context discusses types and origins rather than any health benefits. The retriever has found topically related content but missed the specific information need.
+  - _Reasoning_: Low relevance. Despite being factually correct about meditation, this context discusses types and origins rather than any health benefits. The retriever has found topically related content but missed the specific information need.
 
 !!! warning "Irrelevant Context Dooms Generation"
-    If your retriever pulls irrelevant context, your generator is doomed from the start. This is a common pitfall, reflecting "absence blindness" where teams obsess over generation quality while neglecting to ensure retrieval (C|Q) is even working correctly.
+If your retriever pulls irrelevant context, your generator is doomed from the start. This is a common pitfall, reflecting "absence blindness" where teams obsess over generation quality while neglecting to ensure retrieval (C|Q) is even working correctly.
 
 **2. Faithfulness/Groundedness (A|C)**
-- *Definition*: To what extent does the answer restrict itself only to claims that can be verified from the retrieved context? This evaluates the generator's ability to avoid hallucinations.
 
-- *Example (Good)*: 
+- _Definition_: To what extent does the answer restrict itself only to claims that can be verified from the retrieved context? This evaluates the generator's ability to avoid hallucinations.
+
+- _Example (Good)_:
+
   - Context: "The Great Barrier Reef is the world's largest coral reef system."
   - Answer: "The Great Barrier Reef is the largest coral reef system in the world."
-  - *Reasoning*: Perfect faithfulness. The answer only states what's in the context.
+  - _Reasoning_: Perfect faithfulness. The answer only states what's in the context.
 
-- *Example (Bad)*: 
+- _Example (Bad)_:
+
   - Context: "The Great Barrier Reef is the world's largest coral reef system. It stretches for over 2,300 kilometers along the coast of Queensland, Australia."
   - Answer: "The Great Barrier Reef, the world's largest coral reef system, stretches for over 2,300 kilometers along Australia's eastern coast and is home to about 10% of the world's fish species."
-  - *Reasoning*: Mixed faithfulness. The first part is supported, but the claim about "10% of the world's fish species" isn't in the provided context. This subtle hallucination appears plausible and might be factually correct, but it's not grounded in the retrieved context.
+  - _Reasoning_: Mixed faithfulness. The first part is supported, but the claim about "10% of the world's fish species" isn't in the provided context. This subtle hallucination appears plausible and might be factually correct, but it's not grounded in the retrieved context.
 
-- *Why It Matters*: Hallucination undermines trust. This is why we implement validation patterns, interactive citations, and chain-of-thought reasoning in our RAG applications - to catch errors before they reach users and build trust through transparency.
+- _Why It Matters_: Hallucination undermines trust. This is why we implement validation patterns, interactive citations, and chain-of-thought reasoning in our RAG applications - to catch errors before they reach users and build trust through transparency.
 
 **3. Answer Relevance (A|Q)**
-- *Definition*: How directly does the answer address the specific information need expressed in the question? This evaluates the end-to-end system performance.
 
-- *Example (Good)*: 
+- _Definition_: How directly does the answer address the specific information need expressed in the question? This evaluates the end-to-end system performance.
+
+- _Example (Good)_:
+
   - Question: "How does compound interest work in investing?"
   - Answer: "Compound interest works by adding the interest earned back to your principal investment, so that future interest is calculated on the new, larger amount."
-  - *Reasoning*: High relevance. The answer directly explains the concept asked about.
+  - _Reasoning_: High relevance. The answer directly explains the concept asked about.
 
-- *Example (Bad)*: 
+- _Example (Bad)_:
+
   - Question: "How does compound interest work in investing?"
   - Answer: "Interest in investing can be simple or compound. Compound interest is more powerful than simple interest and is an important concept in finance. It's the reason why starting to invest early is so beneficial for long-term wealth building."
-  - *Reasoning*: Low relevance. Despite being about compound interest, the answer doesn't actually explain the mechanism of how it works. It tells you it's important but fails to address the specific how question.
+  - _Reasoning_: Low relevance. Despite being about compound interest, the answer doesn't actually explain the mechanism of how it works. It tells you it's important but fails to address the specific how question.
 
-- *Why It Matters*: This is the ultimate user experience metric. It's also why we focus on building feedback mechanisms that specifically ask "Did we answer your question?" rather than vague "How did we do?" feedback prompts. Specific feedback aligned with this metric increases response rates dramatically.
+- _Why It Matters_: This is the ultimate user experience metric. It's also why we focus on building feedback mechanisms that specifically ask "Did we answer your question?" rather than vague "How did we do?" feedback prompts. Specific feedback aligned with this metric increases response rates dramatically.
 
 ### Tier 3: Advanced RAG Relationships
 
 **4. Context Support Coverage (C|A)**
-- *Definition*: Does the retrieved context contain all the information needed to fully support every claim in the answer? This measures whether the context is both sufficient and focused.
+
+- _Definition_: Does the retrieved context contain all the information needed to fully support every claim in the answer? This measures whether the context is both sufficient and focused.
 
 This metric connects directly to what we've learned about specialized retrievers and the query routing architecture. Different content types may require different retrieval approaches to ensure complete coverage. For instance, when answering questions about blueprints in construction projects, you might need both image retrieval and document retrieval working together.
 
 **5. Question Answerability (Q|C)**
-- *Definition*: Given the context provided, is it actually possible to formulate a satisfactory answer to the question? This evaluates whether the question is reasonable given the available information.
+
+- _Definition_: Given the context provided, is it actually possible to formulate a satisfactory answer to the question? This evaluates whether the question is reasonable given the available information.
 
 This relates to the strategic rejection pattern we've discussed. When a query can't be answered with the available context, the most honest response is to acknowledge this limitation. This builds trust through transparency rather than generating a hallucinated answer.
 
 **6. Self-Containment (Q|A)**
-- *Definition*: Can the original question be inferred from the answer alone? This measures whether the answer provides enough context to stand on its own.
+
+- _Definition_: Can the original question be inferred from the answer alone? This measures whether the answer provides enough context to stand on its own.
 
 This connects to our discussion of monologues and chain-of-thought approaches that make thinking visible. Answers that restate and address the core question directly create better user experiences, especially in asynchronous communication contexts.
 
@@ -114,12 +126,14 @@ This connects to our discussion of monologues and chain-of-thought approaches th
 Based on recent academic research and practical experience, here's how to approach RAG evaluation with these metrics:
 
 **Start with Tier 1**: Implement fast retrieval metrics for daily development
+
 - Use precision, recall, MAP@K, and MRR@K to tune your retriever
 - These don't require LLM evaluation and provide quick feedback cycles
 
 This directly mirrors our approach of starting the improvement flywheel with synthetic data and focused evaluation metrics before moving to more complex approaches.
 
 **Focus on Tier 2**: Implement the three primary RAG relationships
+
 - These core metrics (C|Q, A|C, A|Q) directly assess how well your RAG system functions
 - Most benchmarks prioritize these three metrics
 - Use LLM-based evaluation for more nuanced assessment of these relationships
@@ -127,6 +141,7 @@ This directly mirrors our approach of starting the improvement flywheel with syn
 This aligns with our focus on building feedback mechanisms and quality-of-life improvements that enhance trust and transparency.
 
 **Extend to Tier 3**: Add advanced metrics when you need deeper insights
+
 - These metrics (C|A, Q|C, Q|A) connect technical performance to business outcomes
 - Use them for monthly evaluations, major releases, and strategic decisions
 - Different domains may require emphasis on different Tier 3 metrics (e.g., medical RAG needs stronger C|A)
@@ -138,7 +153,7 @@ This connects to our discussion of topic modeling and capability identification,
 Most modern RAG evaluations rely on LLMs as judges. This approach, while resource-intensive, provides the most nuanced assessment of our six core relationships.
 
 !!! note "The Nuance of LLM Judges"
-    While resource-intensive, using LLMs as judges is currently the most effective method for capturing the subtle nuances in the six core RAG relationships. Traditional metrics often fall short in this complex assessment.
+While resource-intensive, using LLMs as judges is currently the most effective method for capturing the subtle nuances in the six core RAG relationships. Traditional metrics often fall short in this complex assessment.
 
 Several benchmarks, including RAGAs, ARES, and TruEra RAG Triad, now use LLM evaluation by default. While traditional metrics like BLEU, ROUGE, and BERTScore still have a place, only LLM-based evaluation can effectively capture the nuanced relationships in our framework.
 
@@ -159,7 +174,7 @@ This reinforces what we've learned about topic modeling and segmentation - diffe
 When your RAG system fails, it fails along one of these dimensions. Every time.
 
 - Answer seems wrong? Check faithfulness (A|C).
-- Answer seems irrelevant? Check answer relevance (A|Q). 
+- Answer seems irrelevant? Check answer relevance (A|Q).
 - Answer missing key info? Check context relevance (C|Q) or context support (C|A).
 
 The beauty of this framework is that it's complete. There are no other relationships between Q, C, and A. We've covered every possible evaluation angle.

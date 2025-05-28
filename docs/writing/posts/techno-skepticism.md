@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Applied AI
+  - Applied AI
 comments: true
 date: 2024-03-20
 description: Explore the role of skepticism in technology's evolution, highlighting
@@ -10,24 +10,24 @@ description: Explore the role of skepticism in technology's evolution, highlight
 draft: false
 slug: technology-skepticism
 tags:
-- Technological Skepticism
-- AI Collaboration
-- Educational Tools
-- Marshall McLuhan
-- Centaur Chess
+  - Technological Skepticism
+  - AI Collaboration
+  - Educational Tools
+  - Marshall McLuhan
+  - Centaur Chess
 ---
 
 # Unraveling the History of Technological Skepticism
 
 Technological advancements have always been met with a mix of skepticism and fear. From the telephone disrupting face-to-face communication to calculators diminishing mental arithmetic skills, each new technology has faced resistance. Even the written word was once believed to weaken human memory.
 
-| Technology   | Perceived Threat                           |
-|--------------|-------------------------------------------|
-| Telephone    | Disrupting face-to-face communication     |
-| Calculators  | Diminishing mental arithmetic skills      |
-| Typewriter   | Degrading writing quality                 |
-| Printing Press | Threatening manual script work           |
-| Written Word | Weakening human memory                    |
+| Technology     | Perceived Threat                      |
+| -------------- | ------------------------------------- |
+| Telephone      | Disrupting face-to-face communication |
+| Calculators    | Diminishing mental arithmetic skills  |
+| Typewriter     | Degrading writing quality             |
+| Printing Press | Threatening manual script work        |
+| Written Word   | Weakening human memory                |
 
 <!-- more -->
 
@@ -35,17 +35,17 @@ However, it's crucial to understand the effect media has, especially new media. 
 
 The tetrad consists of four questions.
 
-* What does the medium enhance?
-* What does the medium make obsolete?
-* What does the medium retrieve that had been obsolesced earlier?
-* What does the medium reverse or flip into when pushed to extremes?
+- What does the medium enhance?
+- What does the medium make obsolete?
+- What does the medium retrieve that had been obsolesced earlier?
+- What does the medium reverse or flip into when pushed to extremes?
 
 The Tetrad suggests that while new technologies may bring fear, they also:
 
-* Create new markets for luxury goods
-* Retrieve something from the past
-* Obsolete previous technologies
-* Reverse into the opposite effect when pushed to extremes
+- Create new markets for luxury goods
+- Retrieve something from the past
+- Obsolete previous technologies
+- Reverse into the opposite effect when pushed to extremes
 
 This synthetic process can help assuage fears that laypeople have regarding new forms of tech. It's important to remember that AI is not a threat to human intelligence, but rather a collaborative partner.
 
@@ -77,12 +77,12 @@ Historically, each technological advancement, from calculators to the Internet, 
 
 Here's an analysis of GPT using Marshall McLuhan's media tetrad:
 
-| Aspect    | Effect                                                                                                     |
-|-----------|-----------------------------------------------------------------------------------------------------------|
-| Extends   | Each voice & mimics creativity                                                                            |
-| Obsolesces| Copy-writing and essays, making human insight a luxury                                                    |
-| Retrieves | Polymaths of the European Renaissance, requiring the best writers to be multi-talented to earn a living |
-| Reverses  | Into mass deception, providing answers without real questions behind them                                 |
+| Aspect     | Effect                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------- |
+| Extends    | Each voice & mimics creativity                                                                          |
+| Obsolesces | Copy-writing and essays, making human insight a luxury                                                  |
+| Retrieves  | Polymaths of the European Renaissance, requiring the best writers to be multi-talented to earn a living |
+| Reverses   | Into mass deception, providing answers without real questions behind them                               |
 
 If the Retrieval quadrant interpretation is correct, it will become much more difficult to be an average, or even above average, writer. Only the best will flourish. Perhaps we will see a rise in neo-generalists. If you are early in your career, it may be best not to specialize but develop several complementary skills — in the sciences AND the humanities — including writing.
 

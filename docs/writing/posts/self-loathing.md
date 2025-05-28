@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Personal Growth
+  - Personal Growth
 comments: true
 date: 2024-01-09
 description: A reflective piece on self-loathing and the complexities of wealth, envy,
@@ -10,11 +10,11 @@ description: A reflective piece on self-loathing and the complexities of wealth,
 draft: false
 slug: self-loathing
 tags:
-- self-loathing
-- wealth
-- personal growth
-- vulnerability
-- imposter syndrome
+  - self-loathing
+  - wealth
+  - personal growth
+  - vulnerability
+  - imposter syndrome
 ---
 
 # I used to hate rich people.

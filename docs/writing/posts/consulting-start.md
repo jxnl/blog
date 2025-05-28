@@ -1,19 +1,19 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Consulting
+  - Consulting
 comments: true
 date: 2024-10-31
 description: How to get started in AI consulting
 draft: false
 slug: consulting-start
 tags:
-- Consulting
-- Indie Consultant
-- Business Setup
-- Software Recommendations
-- AI Consulting
+  - Consulting
+  - Indie Consultant
+  - Business Setup
+  - Software Recommendations
+  - AI Consulting
 ---
 
 # How to Get Started in AI Consulting:
@@ -43,10 +43,12 @@ See the difference? I wasn't selling my time or technical skills – I was selli
 Here's what you should do in your first 30 days:
 
 1. **Pick Your Niche**
+
    - Instead of saying "I'm an AI consultant," pick a specific problem you solve
    - Example: "I help B2B SaaS companies reduce customer churn using AI-powered support systems"
 
 2. **Create Your Content Strategy**
+
    - Start with 2-3 detailed blog posts about problems you've solved
    - Share insights on Twitter/LinkedIn (aim for 3-5 posts per week)
    - Focus on outcomes, not just technical details
@@ -61,9 +63,11 @@ Here's what you should do in your first 30 days:
 Here's what nobody tells you about getting your first clients: The best ones often come from the most unexpected places. Here's my three-pronged approach:
 
 1. **Warm Outreach Script**
+
    > "Hey [Name], I noticed you're working on [specific AI project]. I recently helped [Company X] solve a similar challenge, reducing their implementation time by 60%. Would you be open to a 15-minute chat about how I might be able to help?"
 
 2. **Free Content Strategy**
+
    - Write detailed posts solving specific problems
    - Share them in relevant communities
    - Offer quick, valuable insights in community discussions
@@ -72,7 +76,7 @@ Here's what nobody tells you about getting your first clients: The best ones oft
    - Start with smaller, focused projects
    - Deliver exceptional value
    - Ask for referrals using this script:
-   > "What part of our work together did you find most valuable? Do you know anyone else who might be facing similar challenges?"
+     > "What part of our work together did you find most valuable? Do you know anyone else who might be facing similar challenges?"
 
 ## Pricing Your Services
 
@@ -87,10 +91,12 @@ I learned this the hard way when I undercharged a client at $170/hour. They acce
 ## Common Pitfalls to Avoid
 
 1. **The Expertise Trap**
+
    - Don't wait until you feel "ready" – you know more than you think
    - Focus on solving specific problems rather than being a generalist
 
 2. **The Time-for-Money Trap**
+
    - Avoid hourly billing if possible
    - Structure engagements around outcomes and value
 

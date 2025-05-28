@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-05-11
 description: Explore low-hanging fruit strategies to enhance your RAG search systems
@@ -10,11 +10,11 @@ description: Explore low-hanging fruit strategies to enhance your RAG search sys
 draft: false
 slug: low-hanging-fruit-for-rag-search
 tags:
-- RAG
-- search optimization
-- data-driven
-- user feedback
-- synthetic data
+  - RAG
+  - search optimization
+  - data-driven
+  - user feedback
+  - synthetic data
 ---
 
 # Low-Hanging Fruit for RAG Search
@@ -28,7 +28,6 @@ RAG (Retrieval-Augmented Generation), is a powerful technique that combines info
 In this post, we'll explore six key areas where you can focus your efforts to improve your RAG search system. These include using synthetic data for baseline metrics, adding date filters, improving user feedback copy, tracking average cosine distance and Cohere reranking score, incorporating full-text search, and efficiently generating synthetic data for testing.
 
 <!-- more -->
-
 
 If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
@@ -52,7 +51,6 @@ The simplest kind of synthetic data is to take existing text chunks, generate sy
 
 This should really just be a matter of writing a simple prompt that generates questions, hopefully with a few shot examples, and iterating over existing text chunks. Once you have that, you can store pairs of query strings and chunk IDs. And a simple forloup can be used to verify that the query strings are retrieving the correct chunks.
 
-
 ## 2. Adding Date Filters
 
 Incorporating date filters into your search system can significantly improve the user experience by providing more relevant and up-to-date information. A big issue that I see oftentimes is people asking questions like, what is the latest, blah, blah, blah. This fundamentally does not embed anything and you need to end up using date filters and additional prompting to extract ranges out.
@@ -62,7 +60,6 @@ Incorporating date filters into your search system can significantly improve the
 1. Increased relevance and freshness of search results
 2. Improved efficiency in narrowing down results
 3. Enabling trend analysis and historical context
-
 
 **Costs**
 
@@ -98,10 +95,10 @@ Again, here we're just logging things. As long as we have a request ID, we can d
 
 ```json
 {
-    "request_id": "12345",
-    "query": "What is the latest news?",
-    "mean_cosine_distance": 0.3,
-    "mean_cohere_reranking_score": 0.4
+  "request_id": "12345",
+  "query": "What is the latest news?",
+  "mean_cosine_distance": 0.3,
+  "mean_cohere_reranking_score": 0.4
 }
 ```
 
@@ -152,7 +149,6 @@ Example metadata to include:
 - Tags or categories
 
 By incorporating file and document metadata, you can enrich the search experience and provide users with more targeted and relevant results.
-
 
 ## Conclusion
 

@@ -2,8 +2,8 @@
 title: "Legal Office Hours for AI Consultants"
 description: This post covers legal considerations for AI consultants, including contract types, navigating IP ownership, setting up entities and bank accounts, and the advantages of different business structures like LLCs and C-Corps. It features insights from a legal expert on topics crucial for independent consultants.
 date: 2024-12-19
-author: 
-    - jxnl 
+author:
+  - jxnl
 ---
 
 # Legal Office Hours for AI Consultants
@@ -12,7 +12,7 @@ I want to invite my lawyer, Luke, to talk a little bit about the legal side of c
 
 In August, Luke officially launched Virgil. Their goal at Virgil is to be a one-stop shop for a startup’s back office, combining legal with related services that founders often prefer to outsource, such as bookkeeping, compliance, tax, and people operations. We primarily operate on flat monthly subscriptions, allowing startups to focus on what truly moves the needle.
 
-He launched Virgil with Eric Ries, author of *The Lean Startup*, and Jeremy Howard, CEO of Answer AI. He's able to rely on the Answer AI team to build tools and help him stay informed about AI. He's licensed to practice in Illinois, and they have a national presence. That's his background and the essence of what we're building at Virgil.
+He launched Virgil with Eric Ries, author of _The Lean Startup_, and Jeremy Howard, CEO of Answer AI. He's able to rely on the Answer AI team to build tools and help him stay informed about AI. He's licensed to practice in Illinois, and they have a national presence. That's his background and the essence of what we're building at Virgil.
 
 <!-- more -->
 
@@ -21,7 +21,6 @@ He launched Virgil with Eric Ries, author of *The Lean Startup*, and Jeremy Howa
     If you're looking to increase your earning potential as an expert consultant, consider joining our AI Consultant Accelerator program. We offer a free 10-day email course at [https://learnindieconsulting.com/](https://learnindieconsulting.com/) to help you get started. For a more comprehensive learning experience, enroll in our live cohort course at [https://maven.com/indie-consulting/ai-consultant-accelerator](https://maven.com/indie-consulting/ai-consultant-accelerator). This program will equip you with the skills and strategies to command higher rates for your expertise. We go over pricing, positioning, and proposals as well as host multiple live office hours to answer your questions.
 
 Now let's get into the legal side of consulting
-
 
 ## What type of contracts do you sign with collaborators in your network?
 
@@ -156,7 +155,6 @@ I do really like banking with Mercury. Common Paper is great for contracts. Quic
 “So I said look out for making sure there’s a pre-existing IP provision, but sometimes if it becomes clear that IP is a contentious topic and they’re really eager to capture as much as possible, just a pre-existing IP clause is not sufficiently specific. You can put together an appendix that lists all of the intellectual property you have developed previously, so it’s crystal clear that stuff is carved out and not transferred.
 
 Also, there is a difference between ownership and a license. They don’t have to own your IP to achieve what they need. If you have a piece of software, a product—call it product A—for them to fully use product A does not mean they have to take it from you. You can provide a fully paid, upfront, worldwide, non-exclusive license that allows them to freely incorporate it into their product and turn it around, white-labeling it, and selling it to a company. This is a very standard provision. You just need to be specific about making sure you are not passing along ownership for something that they could have their goals accomplished with just a license.”
-
 
 !!! note "Subscribe for More Consulting Tips"
 

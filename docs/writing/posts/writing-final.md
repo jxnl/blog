@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Writing and Communication
+  - Writing and Communication
 comments: true
 date: 2024-10-01
 description: Master content creation from tweets to long-form articles. Learn impactful
@@ -10,11 +10,11 @@ description: Master content creation from tweets to long-form articles. Learn im
 draft: false
 slug: content-creation-mastery
 tags:
-- Content Creation
-- Copywriting
-- Digital Marketing
-- Social Media Strategy
-- SEO Writing
+  - Content Creation
+  - Copywriting
+  - Digital Marketing
+  - Social Media Strategy
+  - SEO Writing
 ---
 
 # Content Creation Mastery: From Tweets to Long-Form
@@ -90,6 +90,7 @@ Vague claims are worthless. Be specific:
 ✅ "Our platform averages 3ms response time with 99.99% uptime"
 
 Use:
+
 - Data and statistics
 - Case studies
 - Expert opinions

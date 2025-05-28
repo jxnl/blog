@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- Applied AI
+  - Applied AI
 comments: true
 date: 2024-02-14
 description: Explore our free, one-hour course on Weights and Biases and enhance your
@@ -10,11 +10,11 @@ description: Explore our free, one-hour course on Weights and Biases and enhance
 draft: false
 slug: weights-and-biases-course
 tags:
-- Weights and Biases
-- Machine Learning
-- Free Course
-- AI
-- Data Science
+  - Weights and Biases
+  - Machine Learning
+  - Free Course
+  - AI
+  - Data Science
 ---
 
 # Free course on Weights and Biases

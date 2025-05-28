@@ -1,8 +1,8 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2023-09-17
 description: Explore the nuances of Retrieval Augmented Generation (RAG) and how query
@@ -10,11 +10,11 @@ description: Explore the nuances of Retrieval Augmented Generation (RAG) and how
 draft: false
 slug: rag-is-more-than-embeddings
 tags:
-- RAG
-- Query Understanding
-- AI Systems
-- Search Optimization
-- LLM
+  - RAG
+  - Query Understanding
+  - AI Systems
+  - Search Optimization
+  - LLM
 ---
 
 # RAG is more than just embedding search
@@ -34,7 +34,7 @@ So let's kick things off by examining what I like to call the 'Dumb' RAG Modelâ€
 
 <!-- more -->
 
-If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
 
@@ -242,6 +242,6 @@ To deepen your understanding of RAG systems and their implementation, explore th
 
 These resources offer valuable perspectives on building, optimizing, and maintaining effective RAG systems in various contexts.
 
-If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course 
+If you want to learn more about I systematically improve RAG applications check out my free 6 email improving rag crash course
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }

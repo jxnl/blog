@@ -1,19 +1,19 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2024-05-22
 description: Discover systematic strategies to enhance your Retrieval-Augmented Generation
   (RAG) systems for better performance and user experience.
 draft: false
 tags:
-- RAG
-- AI
-- Machine Learning
-- Data Retrieval
-- Performance Optimization
+  - RAG
+  - AI
+  - Machine Learning
+  - Data Retrieval
+  - Performance Optimization
 ---
 
 # Systematically Improving Your RAG
@@ -41,7 +41,6 @@ By the end of this post, you'll understand my step-by-step approach to making RA
 
 Through this step-by-step runbook, you'll gain practical knowledge on how to incrementally enhance the performance and utility of your RAG applications, unlocking their full potential to deliver exceptional user experiences and drive business value. Let's dive in and explore how to systematically improve your RAG systems together!
 
-
 <!-- more -->
 
 ## Start with Synthetic Data
@@ -49,11 +48,11 @@ Through this step-by-step runbook, you'll gain practical knowledge on how to inc
 I think the biggest mistake around improving the system is that most people are spending too much time on the actual synthesis without actually understanding whether or not the data is being retrieved correctly. To avoid this:
 
 - Create synthetic questions for each text chunk in your database
-- Use these questions to test your retrieval system 
+- Use these questions to test your retrieval system
 - Calculate precision and recall scores to establish a baseline
 - Identify areas for improvement based on the baseline scores
 
-What we should be finding with synthetic data is that synthetic data should just be around 97% recall precision. And synthetic data might just look like something very simple to begin with. 
+What we should be finding with synthetic data is that synthetic data should just be around 97% recall precision. And synthetic data might just look like something very simple to begin with.
 
 We might just say, for every text chunk, I want it to synthetically generate a set of questions that this text chunk answers. For those questions, can we retrieve those text chunks? And you might think the answer is always going to be yes. But I found in practice that when I was doing tests against essays, full text search and embeddings basically performed the same, except full text search was about 10 times faster.
 
@@ -62,7 +61,7 @@ This will give you a baseline to work with and help you identify areas for impro
 
 ## Utilize Metadata
 
-Ensuring relevant metadata (e.g., date ranges, file names, ownership) is extracted and searchable is crucial for improving search results. 
+Ensuring relevant metadata (e.g., date ranges, file names, ownership) is extracted and searchable is crucial for improving search results.
 
 - Extract relevant metadata from your documents
 - Include metadata in your search indexes
@@ -102,7 +101,7 @@ Implementing clear user feedback systems (e.g., thumbs up/down) is essential for
 
 - Add user feedback mechanisms to your application
 - Make sure the copy for these mechanisms clearly describes what you're measuring
-- Ask specific questions like "Did we answer the question correctly?" instead of general ones like "How did we do?" 
+- Ask specific questions like "Did we answer the question correctly?" instead of general ones like "How did we do?"
 - Use the feedback data to identify areas for improvement and prioritize fixes
 
 I find that it's important to build out these feedback mechanisms as soon as possible. And making sure that the copy of these feedback mechanisms explicitly describe what you're worried about.
@@ -158,6 +157,7 @@ The system will be running many clusters of topic modeling around the questions,
 The system will be doing this on a regular cadence, figuring out for what volume of questions and user satisfaction levels it should focus on improving these specific use cases.
 
 What might happen is you onboard a new organization, and all of a sudden, those distributions shift because their use cases are different. That's when you can go in and say, "We onboarded these new clients, and they very much care about deadlines. We knew we decided not to service deadlines, but now we know this is a priority, as it went from 2% of questions asking about deadlines to 80%." You can then determine what kind of education or improvements can be done around that.
+
 ## Balance Latency and Performance
 
 Finally, make informed decisions about trade-offs between system latency and search performance based on your specific use case and user requirements.
@@ -183,6 +183,6 @@ This is was written based off of a 30 conversation with a client, so I know I'm 
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can: 
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
