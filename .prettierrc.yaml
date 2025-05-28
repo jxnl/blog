@@ -1,0 +1,21 @@
+# Prettier configuration for MkDocs compatibility
+printWidth: 100
+tabWidth: 2
+useTabs: false
+semi: true
+singleQuote: false
+quoteProps: "as-needed"
+trailingComma: "es5"
+
+# Markdown-specific settings
+proseWrap: "preserve"  # Don't wrap text to preserve manual line breaks
+htmlWhitespaceSensitivity: "strict"  # Preserve whitespace in HTML
+
+# Files to format
+overrides:
+  - files: "*.md"
+    options:
+      proseWrap: "preserve"
+      printWidth: 100
+      # Preserve original formatting for MkDocs admonitions and special syntax
+      htmlWhitespaceSensitivity: "strict" 

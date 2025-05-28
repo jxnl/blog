@@ -1,0 +1,19 @@
+# Ignore build outputs
+site/
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore configuration files that shouldn't be formatted
+mkdocs.yml
+*.yaml
+*.yml
+requirements*.txt
+
+# Ignore specific files that might have special formatting
+sitemap.yaml
+ellipsis.yaml
+
+# Ignore any auto-generated files
+**/node_modules/
+**/.git/ 
