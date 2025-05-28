@@ -77,6 +77,8 @@ Relatively speaking, my tech is pretty basic: MacBook Pro and iPhone. **[Audio-T
 ### On My Roadmap
 
 - Level up audio setup (still deciding what I'd use it for)
+- JBL L100 speakers
+- GIK 242 panels
 - AirPods Pro
 
 ---
@@ -150,9 +152,10 @@ The trick: find a couple good brands that work for your body type, then stick wi
 - Noren Curtain for entrances
 - Bell for doorway
 - Sori Yanagi kettle
+- Hasami porcelain
 - Epicurean cutting board
 - Kettlebell
-- Coffee table and coffee table books
+- Noguchi coffee table and coffee table books
 
 Get art for your walls, magnets for photos on your fridge, and frame everything. A calendar is a nice touch.
 
