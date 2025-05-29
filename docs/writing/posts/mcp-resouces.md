@@ -1,3 +1,14 @@
+---
+draft: false
+date: 2025-01-01
+authors:
+  - jxnl
+categories:
+  - AI
+  - Engineering
+  - MCP
+---
+
 # Prompt Template Resource System Specification
 
 ## Overview
