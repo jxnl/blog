@@ -39,6 +39,8 @@ Look, creating content that actually matters is hard. Here's how to do it withou
 
 9. **Iterate Based on Data**: If it's not working, change it. Ego has no place here.
 
+<!-- more -->
+
 ## 1. Craft Titles That Demand Attention
 
 Your title is make-or-break. Here's how to not fuck it up:

@@ -19,4 +19,10 @@ repos:
         language: system
         files: '\.md$'
         pass_filenames: false
-        always_run: false 
+        always_run: false
+      - id: check-more-tag
+        name: Check blog posts have <!-- more --> tag
+        entry: ./check_more_tags.sh
+        language: system
+        files: '^docs/writing/posts/.*\.md$'
+        pass_filenames: false 

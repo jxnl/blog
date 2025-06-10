@@ -180,17 +180,18 @@ writing/posts/ai-engineering-communication.md:
     management, probabilistic systems, search optimization, hypotheses, interventions,
     results, trade-offs, and failure analysis.
 writing/posts/ai-engineering-leaders.md:
-  hash: b98c7e76904e93baf132c385c7d28f3c
-  summary: 'Learn effective leadership for AI engineering teams by focusing on clear
-    business alignment, empowering independent decision-making, and simplifying processes.
-    Discover the North Star Framework to connect daily work with a single key metric
-    that drives real value, implement weekly business reviews to build shared business
-    intuition, and shift from project-based to metric-based team structures. Embrace
-    an experiment mindset where tickets represent learning opportunities, not just
-    feature delivery. Ideal for applied AI and software engineering leaders aiming
-    to enhance team performance through clarity, context, and strategic focus. Keywords:
-    AI Engineering, Leadership, Team Alignment, North Star Framework, Business Value,
-    Experiment Mindset, Metrics-Driven Teams.'
+  hash: 8a51241ec693a0ea96d6c06a95eb0811
+  summary: 'The article "How to Lead AI Engineering Teams" emphasizes the importance
+    of aligning team efforts with business strategy to deliver real value, rather
+    than focusing solely on processes. It introduces the "North Star" Framework, which
+    involves defining a key metric that captures customer value and breaking down
+    measurable drivers. The piece advocates for weekly business reviews to build shared
+    understanding and suggests structuring teams around metrics instead of projects.
+    It also encourages an experimental mindset, treating tasks as experiments for
+    learning rather than merely features to ship. Key strategies include documenting
+    strategies clearly, maintaining transparent metrics, and focusing on outcomes
+    related to learning and value. Keywords: AI engineering, leadership, North Star
+    Framework, team alignment, business strategy, experimental mindset.'
 writing/posts/ai-engineering-standup.md:
   hash: bebf75dcc0bbedcad9bf30bfb3e55a04
   summary: "This article explores how AI engineering standups differ fundamentally\
@@ -204,17 +205,17 @@ writing/posts/ai-engineering-standup.md:
     \ processes, communication, project management, leading vs lagging indicators,\
     \ and effective AI team standups."
 writing/posts/ai-truths.md:
-  hash: 54d4e11129012c5b39aa4d4b96ec55d0
-  summary: 'Discover hard truths from the AI trenches with insights on why most AI
-    challenges stem from data, processes, or organizational issues rather than AI
-    itself. Learn the importance of focusing on real business outcomes over technical
-    metrics, prioritizing experimentation speed, and connecting AI solutions directly
-    to problems customers will pay to solve. This guide emphasizes optimizing retrieval,
-    building fast feedback loops, measuring meaningful impact, leveraging user feedback,
-    and avoiding the pitfalls of overemphasizing AI capabilities without considering
-    scalability and stability. Keywords: AI strategy, data problems, business outcomes,
-    experimentation speed, AI consulting, AI metrics, retrieval, user feedback, AI
-    scalability.'
+  hash: 92f99fb69094a21ee6b32508c6ad732c
+  summary: '"Hard Truths From the AI Trenches" by JXNL addresses common pitfalls companies
+    face when implementing AI solutions, emphasizing that most AI issues are not technical
+    but related to poor data management, processes, or leadership. The article advises
+    businesses to focus on solving real-world problems, measuring meaningful outcomes,
+    and rapidly iterating to improve AI systems. Key strategies include prioritizing
+    business outcomes over model performance, building feedback loops, and ensuring
+    AI solutions are directly linked to customer needs. The author also highlights
+    the importance of user feedback and network effects in scaling AI products successfully.
+    Key terms include AI strategy, AI problems, data management, business outcomes,
+    experimentation speed, and network effects.'
 writing/posts/aisummit-2023.md:
   hash: 15e6e7c82f7d0cb65a117504b860a0f0
   summary: 'Discover key insights from the AI Engineer Summit keynote on leveraging
@@ -271,31 +272,28 @@ writing/posts/chasing-chase.md:
     banking nightmares, entrepreneurial lessons, banking trust issues, and consulting
     insights.
 writing/posts/consulting-content-creation.md:
-  hash: 18f3a53cea4b9d178c28adb7ef3e8781
-  summary: 'This comprehensive guide for AI consultants explains how consistent content
-    creation transforms consulting businesses by converting prospects into clients,
-    building a strong personal brand, and escaping the time-for-money trap. Key strategies
-    include leveraging the value equation to deliver clear benefits, using the AIDA
-    framework for persuasive content, crafting compelling titles, and selecting the
-    right platforms like Twitter, LinkedIn, and email newsletters for distribution.
-    The guide emphasizes systematic idea generation from client interactions, aggressive
-    content repurposing, and measuring engagement and conversion metrics to optimize
-    results. By creating long-term, high-value content assets and employing strategic
-    distribution, AI consultants can attract their ideal audience, scale their services,
-    and build sustainable consulting businesses. Keywords: AI consulting, content
-    creation, consulting business growth, personal branding, content marketing, AIDA
-    framework, value equation, client acquisition, content distribution, SEO for consultants.'
+  hash: 53894875f789094a36acb2133842fa38
+  summary: 'This guide for AI consultants offers strategies for creating content that
+    converts prospects into clients, builds a personal brand, and overcomes the time-for-money
+    trap. It emphasizes the importance of consistent content creation as a 24/7 sales
+    tool and explores using a variety of platforms like Twitter, LinkedIn, and personal
+    blogs. Key frameworks include the Value Equation and AIDA structure to maximize
+    impact, while title testing and platform-specific strategies optimize reach. The
+    guide outlines a systematic content creation process, highlights metrics for success,
+    and discusses the "flywheel effect" of content in attracting higher-value clients.
+    Keywords: AI consulting, content marketing, personal branding, content creation
+    strategies, AIDA framework, Value Equation, platform selection, time-for-money
+    trap.'
 writing/posts/consulting-dear-future.md:
-  hash: 0a5cf2a753ed6fff8bd962971a9d636e
-  summary: Discover how to transform your AI skills into a successful and profitable
-    consulting career with the Indie AI Consultant newsletter. Learn actionable strategies
-    for building a personal brand, mastering marketing, and scaling your AI consulting
-    business beyond hourly freelancing. Gain insights on entrepreneurship, business
-    growth, and leveraging AI expertise to achieve financial freedom and industry
-    influence. Subscribe for expert guidance on navigating the booming AI consulting
-    market and unlocking new opportunities without investor pressure or pricing worries.
-    Key topics include AI consulting, freelancing, entrepreneurship, personal branding,
-    and business growth.
+  hash: f353d16eae5d0e68afa755a5e1baa9c6
+  summary: The blog post invites AI professionals to transform their skills into a
+    profitable consulting career by subscribing to the "Indie AI Consultant" newsletter.
+    It contrasts the paths of four AI engineers, highlighting the success of one who
+    leveraged personal branding, marketing, and networking in AI consulting to achieve
+    financial freedom and autonomy. The post offers insights and strategies for building
+    a successful consulting business, emphasizing freedom from hourly rates and investor
+    pressure. Key themes include AI consulting, freelancing, entrepreneurship, and
+    business growth.
 writing/posts/consulting-everything-i-know.md:
   hash: 82213fcef070be4a0bcc62c0e516090d
   summary: 'This comprehensive guide on AI consulting emphasizes shifting from selling
@@ -581,15 +579,17 @@ writing/posts/hiring.md:
     generative AI, and the importance of aligning hiring timelines with company maturity
     for long-term AI success.
 writing/posts/how-to-write.md:
-  hash: bde4d5f1a13b1c23070bcb4c49cc51ab
-  summary: Learn effective writing strategies to boost engagement, craft compelling
-    content, and improve storytelling. This guide emphasizes creating emotionally
-    resonant titles, avoiding vague adjectives by using evidence and data, and writing
-    strong introductions and hooks that address readers' pain points. It highlights
-    the importance of clear structure using lists, foreshadowing content rewards,
-    demonstrating subject-matter expertise, and including focused calls-to-action
-    (CTAs) to maximize impact. Key topics include writing tips, content creation,
-    storytelling, effective communication, and audience engagement.
+  hash: 2b9c8629d460526bb411c6d3da2d23b6
+  summary: 'This guide provides effective writing strategies for engaging readers
+    and creating compelling content. It emphasizes crafting emotionally resonant titles,
+    avoiding adjectives in favor of quantifiable evidence, and using strong introductions
+    to contextualize the reader''s pain. Key techniques include utilizing lists to
+    enhance clarity, foreshadowing content to retain interest, demonstrating foresight
+    to build trust, and crafting a strong call to action. The importance of guiding
+    readers with specific, actionable advice is also highlighted, ensuring content
+    is both informative and impactful. Keywords: writing tips, engagement, storytelling,
+    content creation, effective communication, emotional connection, reader''s perspective,
+    strong introduction, call to action.'
 writing/posts/kojima-sticks.md:
   hash: 3656d2c20c54d3b8e292cff37e770ddd
   summary: Explore Hideo Kojima's philosophy of empowerment in Large Language Models
@@ -636,18 +636,18 @@ writing/posts/llmops.md:
     and Datadog. Keywords: LLM observability, Open Telemetry, AI agents, metrics,
     distributed systems, model optimization, telemetry data, self-improvement.'
 writing/posts/mcp-resouces.md:
-  hash: 7e8b6dc856552941ed492435d848601d
-  summary: "This specification outlines a token-efficient Prompt Template Resource\
-    \ System for large language models (LLMs), enabling referencing of external resources\u2014\
-    such as files, strings, images, audio, video, and tagged session outputs\u2014\
-    without embedding full content in prompts. It defines a flexible template syntax\
-    \ supporting placeholders, multiple resource types via standardized URI schemes,\
-    \ and XML-tagged outputs for easy reuse and memory management. The system improves\
-    \ token optimization when generating templates, supports error handling for missing\
-    \ or invalid resources, and facilitates seamless integration of dynamic content\
-    \ in AI-driven engineering and prompt construction workflows. Key concepts include\
-    \ template-based prompting, resource referencing, tagged outputs, memory management,\
-    \ and token efficiency in AI applications."
+  hash: 7e6106a712973a781ff5bc726a9f5ac5
+  summary: The Prompt Template Resource System Specification outlines a token-efficient
+    framework for referencing external resources in large language model (LLM) prompts
+    to optimize token usage. The system uses a structured syntax for defining templates
+    with placeholders that can reference various resource types, including files,
+    strings, tagged outputs, images, audio, and video. It includes methods for creating
+    and managing XML-tagged outputs to facilitate session-based content referencing,
+    promoting efficient context sharing. Key features include error handling for missing
+    files, invalid resource IDs, and syntax errors. The system aims to enhance productivity
+    by effectively managing and passing around contextual data. Key terms include
+    LLM prompts, token-efficient, template syntax, resource references, XML tags,
+    and error handling.
 writing/posts/money-negative-margin.md:
   hash: 7e7f462a1a9d117d157d3df4c0fb16f3
   summary: 'This personal essay explores the concept that making money by trading
@@ -971,19 +971,17 @@ writing/posts/stochastic-software.md:
     mental models based on experimental insights. This guide aims to improve decision-making,
     experiment design, and metric evaluation in probabilistic software development.
 writing/posts/strings.md:
-  hash: 800d06175ddd8764ce88c755cf6573b5
-  summary: "This article discusses best practices for formatting prompts when working\
-    \ with large language model (LLM) libraries, emphasizing the importance of using\
-    \ structured message arrays over restrictive string-based templates. It critiques\
-    \ common pitfalls in prompt string formatting and highlights how many libraries\
-    \ limit flexibility by enforcing single-string prompts or custom parsing, which\
-    \ hinders advanced prompting techniques and immediate support for new API features\
-    \ like named messages, function calls, and rich content types (e.g., images or\
-    \ arrays). The author advocates for a more flexible, direct approach\u2014passing\
-    \ fully structured message objects to APIs\u2014enabling developers to leverage\
-    \ all capabilities of LLMs without waiting for library updates. Key terms include\
-    \ LLM, prompt engineering, string formatting, API design, message arrays, and\
-    \ Python."
+  hash: 6af0cc990b1d0d7bb5d7ae0c08669594
+  summary: The article critiques the limitations of many LLM (Large Language Model)
+    libraries that format prompts in overly simplified ways, which restricts flexibility
+    in prompt engineering. It emphasizes the importance of using an array of messages
+    for OpenAI API calls and highlights the limitations of using single string blocks
+    and docstring mapping for prompts. The author advocates for an approach that enhances
+    capabilities without limiting users, allowing immediate utilization of new API
+    features like image URLs and Base64 encoded images. Key points include the use
+    of structured message arrays for flexibility, avoiding restrictive abstractions,
+    and enabling immediate integration of API updates. Important keywords are LLM,
+    prompt engineering, API, string formatting, and Python.
 writing/posts/systematically-improving-rag-raindrop.md:
   hash: b76a8323f8faa76869fd1e9316175bb9
   summary: "This article explores systematic improvements to Retrieval-Augmented Generation\
@@ -1059,15 +1057,16 @@ writing/posts/trade-off-tool-selection.md:
     \ and smart retrieval strategies. Keywords: RAG systems, tool optimization, precision\
     \ and recall, retrieval strategies, data analysis, evergreen tools."
 writing/posts/wandb-course.md:
-  hash: 06fdfab7b2b2925633fe6f272be47cc6
-  summary: 'Discover a free, comprehensive course on Weights and Biases designed to
-    boost your machine learning and AI skills. This under-one-hour course, available
-    at wandb.courses, covers essential tools for tracking and optimizing machine learning
-    experiments, making it ideal for data scientists and AI practitioners. Enhance
-    your expertise in applied AI and data science with hands-on lessons on experiment
-    management, model tracking, and performance visualization. Keywords: Weights and
-    Biases, machine learning, free course, AI, data science, experiment tracking,
-    model optimization.'
+  hash: 20f8ace4db0a9d58e69cb99f86cd4efa
+  summary: 'Explore our comprehensive, free one-hour course on Weights and Biases,
+    designed to enhance your machine learning skills. The course, titled "Steering
+    Language Models," is accessible to everyone and provides valuable insights into
+    the application of Weights and Biases in AI and data science. Enrich your understanding
+    of machine learning tools and techniques with this engaging and informative course,
+    available now at [wandb.courses](https://www.wandb.courses/courses/steering-language-models).
+    Unlock new opportunities in the fields of AI and data science with this expert-led
+    tutorial. Keywords: Weights and Biases, Machine Learning, Free Course, AI, Data
+    Science, Language Models.'
 writing/posts/whoami.md:
   hash: 1ebae526ac7db1a9c133ffddbd415ebf
   summary: This personal blog chronicles the author's journey through machine learning,
@@ -1102,15 +1101,16 @@ writing/posts/writing-final.md:
     copywriting, digital marketing, social media strategy, and SEO writing to boost
     engagement and conversions effectively.
 writing/posts/writing-style-guide.md:
-  hash: 403a2e4bfef5508c11c578925c2c7b92
-  summary: Master content creation with these 9 proven strategies to dramatically
-    boost engagement and impact. Learn how to craft attention-grabbing titles, hook
-    readers quickly, and use data-driven evidence over vague claims. Structure your
-    content for easy scanning, focus on audience benefits, and predict future trends
-    to stay ahead. Implement one clear call-to-action and continuously optimize based
-    on performance metrics. Key areas include Content Creation, Writing Tips, SEO
-    Strategies, Engagement Techniques, and Content Marketing to help you create compelling,
-    high-converting content that resonates and drives results.
+  hash: f639cfbb895ba42691f07bf49c22b35b
+  summary: 'The article "Content Creation Mastery: 9 Strategies to 10x Your Impact"
+    offers actionable tips for crafting impactful and engaging content. Key strategies
+    include creating attention-grabbing titles, using specific evidence over vague
+    adjectives, structuring content for easy skimming, and providing clear calls-to-action.
+    It emphasizes making content about the audience''s needs, predicting future challenges
+    with informed insights, and continually improving based on data. Important aspects
+    like using a powerful intro and foreshadowing value are also highlighted. Keywords:
+    content creation, writing tips, SEO strategies, engagement techniques, content
+    marketing.'
 writing/posts/writing-tweet.md:
   hash: 129bd7549d300a0b2f996207f1f0cd87
   summary: 'This post explores effective strategies for writing impactful tweets by

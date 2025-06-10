@@ -30,6 +30,8 @@ I had been so focused on the mechanics of execution that I'd missed something fu
 
 In less than an hour, I learned more about effective leadership than I had in the past year. Let me share what I discovered.
 
+<!-- more -->
+
 ## The Process Trap
 
 For years, I believed the answer to team performance was better processes. More standups, better ticket tracking, clearer KPIs.

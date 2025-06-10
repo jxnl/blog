@@ -32,6 +32,8 @@ As an AI consultant, I've built a personal brand, grown an audience, and mastere
 
 The best part? I've got $500K sitting in my business account, deployed 100k in angel investments and have paid my friends 100s of 1000s of dollars to work together and on projects we love. If I ever decide to start a company, raise money, or build a product, I've already developed all the skills I need - plus the cash to get started.
 
+<!-- more -->
+
 ## What Made The Difference?
 
 It wasn't talent or hard work. We're all putting in the hours. The difference was in how we chose to leverage our AI skills in this booming market.

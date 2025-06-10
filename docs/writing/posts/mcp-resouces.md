@@ -15,6 +15,8 @@ categories:
 
 A token-efficient system for referencing external resources in LLM prompts without including their full content, designed to optimize token usage when LLMs generate template calls.
 
+<!-- more -->
+
 ## Template Definition Syntax
 
 ```python

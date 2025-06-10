@@ -22,6 +22,8 @@ Now I extract blog post ideas from every client call. Every Friday, I review abo
 
 Here's why this approach has transformed my business:
 
+<!-- more -->
+
 ### My Content is My 24/7 Sales Team
 
 Last year, I wrote a post called "RAG is more than embeddings" that generated around 30,000 views on Hacker News. This single piece became one of the biggest catalysts for my consulting business.

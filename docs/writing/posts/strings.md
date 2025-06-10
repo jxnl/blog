@@ -34,6 +34,8 @@ class Messages(BaseModel):
 But so many libaries wanted me you to submit a string block and offer some synatic sugar to make it look like this:
 They also tend to map the docstring to the prompt. so instead of accessing a string variable I have to access the docstring via `__doc__`.
 
+<!-- more -->
+
 ```python
 def prompt(a: str, b: str, c: str):
   """

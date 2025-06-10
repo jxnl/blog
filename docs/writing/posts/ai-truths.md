@@ -17,6 +17,8 @@ So I started charging to join their stand-ups. Sometimes I didn't even code. I j
 
 Here's what I've learned watching companies burn millions on AI.
 
+<!-- more -->
+
 ## Your AI problems aren't AI problems
 
 The head of AI at a major company once showed me their evaluation framework. They had 23 evals. One of them tested if their AI could "talk like a pirate."

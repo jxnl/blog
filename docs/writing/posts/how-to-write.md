@@ -26,6 +26,8 @@ Look, when I read, I want something out of it. So when I write, I gotta remember
 
 I'm gonna lay out a checklist of stuff I'd like to have. It'll make the whole writing gig a bit smoother, you know?
 
+<!-- more -->
+
 ## Crafting Compelling Titles
 
 I often come across titles like "How to do X with Y,Z technology." These don't excite me because X or Y are usually unfamiliar unless they're already well-known. Its rarely the dream to use X unless X is the dream.
