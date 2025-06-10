@@ -97,6 +97,15 @@ systematically-improve-your-rag.md:
     impactful AI applications. Keywords: RAG course, retrieval-augmented generation,
     synthetic data, embedding optimization, query routing, AI training, search quality,
     feedback loops.'
+test-cache.md:
+  hash: 36c03ebf9de2a59ba8805f64d0f1750a
+  summary: 'This document outlines a test cache file designed to demonstrate features
+    such as automatic sitemap generation, content caching using MD5 hash, and pre-commit
+    hook integration. Key objectives include updating the sitemap with each commit
+    to reflect the content changes efficiently. Important functionalities highlighted
+    are the use of content caching for better performance and the integration of pre-commit
+    hooks to automate sitemap updates. Keywords include: sitemap caching, automatic
+    generation, MD5 hash, pre-commit hook, and commit automation.'
 things.md:
   hash: e45151a883fdf951e0d489a5e601f468
   summary: 'A comprehensive personal lifestyle and wellness guide detailing favorite
