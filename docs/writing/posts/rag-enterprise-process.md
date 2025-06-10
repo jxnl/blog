@@ -5,6 +5,12 @@ date: 2025-06-09
 
 > tl;dr: You should build a system that lets you discover value before you commit resources.
 
+!! **Key Takeaways**
+
+Before asking what to build, start with a simple chatbot to discover what users are interested in. There's no need to reach for a complex agent or workflow before we see real user demand.
+
+Leverage tools like Kura to understand broad user behavior patterns. The sooner we start collecting real user data, the better.
+
 This week, I had conversations with several VPs of AI at large enterprises, and I kept hearing the same story: XX teams experimenting with AI, a CEO demanding results for the next board meeting, sales conference, quarterly review, and no clear path from pilot to production.
 
 These conversations happen because I built [improvingrag.com](https://improvingrag.com)—a resource that helps teams build better RAG systems, which has lead me into many conversations from researchers, engineers, and executives. But the questions aren't about RAG techniques. They're about strategy: "How do we go from experiments to production?" "How do we know what to invest in?" "How do we show ROI?"

@@ -10,4 +10,13 @@ repos:
           - --print-width=100
           - --tab-width=2
         additional_dependencies:
-          - prettier@3.1.0 
+          - prettier@3.1.0
+  - repo: local
+    hooks:
+      - id: update-sitemap
+        name: Update sitemap
+        entry: python generate_sitemap.py
+        language: system
+        files: '\.md$'
+        pass_filenames: false
+        always_run: false 

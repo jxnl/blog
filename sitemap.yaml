@@ -736,18 +736,18 @@ writing/posts/rag-decomposition.md:
     across industries. Key keywords include RAG, data analysis, search functionality,
     capabilities, and topics.'
 writing/posts/rag-enterprise-process.md:
-  hash: 4f73b9d9eee25b88072dd25c2230c74b
-  summary: 'Learn how to strategically invest in AI using Model Context Protocol (MCP)
-    and data analytics to discover value before committing resources. This approach
-    emphasizes building modular AI services accessible via chatbots, workflows, and
-    custom applications, enabling enterprises to identify high-impact use cases through
-    data-driven insights powered by tools like Kura. Key benefits include scalable
-    AI deployment, unified logging and evaluation, reduced risk by phased investment,
-    and transforming fragmented experiments into a cohesive AI platform that drives
-    measurable ROI. Perfect for VPs of AI aiming to move from pilot projects to production
-    with clear metrics and business value. Keywords: AI investment strategy, Model
-    Context Protocol, MCP, data analytics, chatbot AI, workflow automation, AI discovery,
-    usage-driven AI, AI ROI, AI platform, scalable AI systems.'
+  hash: edddbdbbff3b3f4e2930b24252827cfd
+  summary: Discover how to effectively invest in AI with a strategic focus on Model
+    Context Protocol (MCP) and data analytics. Begin by using simple chatbots to identify
+    user needs before committing significant resources. Key strategies include leveraging
+    tools like Kura for data-driven insights, building modular AI systems that can
+    evolve from discovery to production, and focusing on scalable infrastructure.
+    Avoid common pitfalls by creating shared intelligence layers, establishing clear
+    success metrics, and adopting a usage-driven architecture. This approach helps
+    transition from AI experiments to production, ensuring measurable ROI and strategic
+    alignment with business objectives. Core concepts like "modular services," "AI
+    strategy," and "data analytics" are essential for understanding the value-based
+    deployment of AI technologies in organizations.
 writing/posts/rag-faq.md:
   hash: 9193c2a67c57501f29408890f5ec3ba7
   summary: 'This comprehensive FAQ summarizes key insights from the "Systematically
