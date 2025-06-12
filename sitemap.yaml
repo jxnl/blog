@@ -248,18 +248,20 @@ writing/posts/baths.md:
     bathing rituals, personal growth, relaxation, hygiene, spa, American bathhouses,
     Japan.'
 writing/posts/business-pricing-tools-agents.md:
-  hash: 4ff2b3ca1dc3598ba0d93071103f365b
-  summary: 'This article explores how AI agents should be priced and positioned as
-    headcount alternatives rather than traditional SaaS tools, especially amid economic
-    uncertainty and widespread tech layoffs. It emphasizes that companies increasingly
-    scrutinize people budgets, making AI solutions that augment or replace human roles
-    highly valuable. Key points include focusing on outcomes over processes, adopting
-    human-in-the-loop models, and aligning AI offerings with organizational budget
-    constraints. The piece offers strategic insights for AI builders to pivot their
-    products to meet market demand, highlighting the importance of framing AI as a
-    cost-effective substitute for personnel rather than just another software tool.
-    Keywords: AI agents pricing, headcount budget, SaaS products, tech layoffs, human-in-the-loop
-    AI, economic uncertainty, AI tools positioning, cost-effective AI solutions.'
+  hash: ab142759763d3b24831c9d7deebaa007
+  summary: 'In the article "Pricing AI Agents, Headcount, and the Economic Reality,"
+    the author discusses the strategic shift in selling AI tools by positioning them
+    as alternatives to headcount rather than traditional tools. Amid widespread tech
+    layoffs and economic uncertainty, businesses are focusing on maintaining output
+    while reducing personnel costs. By framing AI solutions as replacements or augmentations
+    of roles, companies can align their offerings with scrutinized headcount budgets
+    and hiring freezes. Key points include the importance of focusing on outcomes
+    instead of processes, considering human-in-the-loop models, and understanding
+    the current economic climate''s impact on organizational budgets. Successful AI
+    tools will be those that position themselves strategically within budget constraints,
+    especially as headcount alternatives. Keywords: AI tools, headcount alternatives,
+    economic uncertainty, tech layoffs, SaaS, budget allocation, human-in-the-loop,
+    organizational budgets.'
 writing/posts/chasing-chase.md:
   hash: 711ef3c109af6d310e6fef4fdafb248c
   summary: This cautionary tale details a small business owner's harrowing experience
@@ -323,19 +325,20 @@ writing/posts/consulting-indie.md:
     \ consultant value, entrepreneurship, consulting strategies, independent business,\
     \ niche consulting, client value, content marketing, proposal framework."
 writing/posts/consulting-law.md:
-  hash: 30a96cdce34575736d979faebc89b8fd
-  summary: This post offers essential legal guidance for AI consultants, covering
-    contract types like consulting, subcontractor, and referral agreements, navigating
-    intellectual property ownership while balancing full-time employment, and setting
-    up U.S.-based entities and bank accounts as international professionals. It explains
-    the benefits of LLCs versus C-Corps, including tax considerations and qualified
-    small business stock advantages, and emphasizes the importance of formal contracts
-    to protect IP and limit liability. Additionally, it provides advice on maintaining
-    corporate hygiene, handling multi-jurisdictional clients, reducing legal costs
-    using annotated templates and AI tools, and choosing the right legal expertise
-    for AI and technical consulting. Keywords include AI consulting legal advice,
-    contract types, intellectual property, LLC vs C-Corp, entity formation, U.S. banking
-    for foreigners, consulting contracts, and legal risk management for consultants.
+  hash: d0f7a1813ba4782cd865fb5a3c068e28
+  summary: 'This article provides essential legal guidance for AI consultants, addressing
+    critical areas such as types of contracts, intellectual property (IP) management,
+    company formation, and banking for both domestic and international consultants.
+    Insights from legal expert Luke highlight the creation of contracts like co-licensing
+    agreements, the importance of understanding IP ownership when consulting part-time,
+    and the considerations for choosing between LLCs and C-Corps. The article also
+    discusses setting up a U.S. entity as a foreign consultant, handling personal
+    branding in relation to company assets, managing tax implications for cross-border
+    operations, and strategies for IP retention in client contracts. Additionally,
+    the post advises on cost-efficient legal approaches, such as using annotated templates
+    and leveraging AI tools for contract drafting. Keywords: AI consultants, legal
+    considerations, contracts, IP ownership, entity formation, LLC, C-Corp, international
+    banking, tax implications, personal branding, consulting agreements.'
 writing/posts/consulting-listing-prices.md:
   hash: ff8dad8cec6efe5f3d6475a7337fc39d
   summary: 'Discover why listing your consulting prices publicly can limit your earnings
@@ -477,19 +480,16 @@ writing/posts/data-literacy.md:
     responsible AI systems. Improve your skills in data analysis, machine learning,
     and data literacy to drive impactful AI projects with confidence and accuracy.
 writing/posts/few-shot-foot-guns.md:
-  hash: cfb4bceadb239f958fe52f092d877297
-  summary: 'This article highlights the top 10 common pitfalls ("foot guns") in fine-tuning
-    and few-shot learning with large language models, including misaligned model evaluation,
-    lack of statistical rigor, high experiment costs, data-model mismatches, overfitting,
-    API rate limits, infrastructure challenges, vendor lock-in, prompt management
-    chaos, and aggregation difficulties. It provides practical solutions such as aligning
-    LLM judges with human feedback, running multiple trials for statistical confidence,
-    caching to reduce costs, matching dataset size with model complexity, and building
-    flexible, scalable experimentation infrastructure. The goal is to help AI practitioners
-    avoid costly mistakes, optimize AI investments, and improve model performance
-    with proven strategies. Keywords: fine-tuning, few-shot learning, LLM, AI experimentation,
-    statistical testing, overfitting, API rate limits, prompt engineering, model evaluation,
-    vendor lock-in, experiment infrastructure.'
+  hash: a2fa048fa606cc5330d0d673ca865e9c
+  summary: The article "10 Foot Guns in Fine-Tuning and Few-Shots" highlights common
+    pitfalls in fine-tuning and few-shot learning in AI model optimization, offering
+    practical solutions to enhance performance and reduce costs. Key challenges include
+    misaligned model evaluation, missing statistical rigor, runaway experiment costs,
+    data-model mismatch, illusory gains through overfitting, API rate limits, infrastructure
+    overload, vendor lock-in, prompt configuration chaos, and aggregation anxiety.
+    The post offers strategies like aligning LLM evaluations with human feedback,
+    conducting rigorous statistical testing, implementing caching, using appropriate
+    dataset sizes, and ensuring robust experiment management to overcome these issues.
 writing/posts/freediving.md:
   hash: 40663e3f85929966b711ae492381414b
   summary: Discover the exhilarating experience of freediving under ice, as the author
@@ -511,23 +511,19 @@ writing/posts/getting-goals.md:
     and sustainable achievement. Perfect for those interested in goal setting, personal
     development, and improving performance through actionable metrics.
 writing/posts/glean-finetuning.md:
-  hash: 4e779a602cae38b44a1274af62908caa
-  summary: 'This article explores advanced strategies for fine-tuning embedding models
-    in enterprise Retrieval-Augmented Generation (RAG) systems, drawing on insights
-    from Manav Rathod of Glean. It addresses unique enterprise challenges such as
-    heterogeneous data sources, company-specific language, data privacy, and evolving
-    knowledge, emphasizing the necessity of custom embedding fine-tuning to improve
-    semantic search quality. Key approaches include continued pre-training with masked
-    language modeling, creative training data generation (title-body pairs, anchor
-    data, user behavior), synthetic data from LLMs, and leveraging user feedback.
-    The article highlights best practices like regular model retraining, handling
-    document supersession through authoritativeness, balancing traditional search
-    techniques with semantic search, and targeted evaluation using unit tests and
-    LLM-based judges. Practical recommendations and advanced considerations aim to
-    help enterprises build robust, adaptable RAG systems that optimize search relevance
-    and maintain security compliance. Keywords: enterprise RAG, embedding fine-tuning,
-    semantic search, masked language modeling, synthetic data, user feedback, document
-    supersession, security, evaluation strategies.'
+  hash: 9024fc9f3ccf93aca743dd145340c134
+  summary: 'The article "Fine-Tuning Embedding Models for Enterprise RAG: Lessons
+    from Glean" explores advanced techniques for optimizing embedding models in enterprise
+    Retrieval-Augmented Generation (RAG) systems. Key insights from Manav Rathod at
+    Glean highlight the importance of custom-trained models that understand company-specific
+    language, adapting to evolving enterprise data, and handling security constraints.
+    The article outlines best practices such as continued pre-training with masked
+    language modeling, leveraging document structure for data generation, using public
+    datasets, and collecting user feedback. Emphasizing the balance between traditional
+    search techniques and semantic search, it details the necessity of regularly updating
+    embeddings and recognizing query patterns. This comprehensive approach ensures
+    effective enterprise search solutions by combining specific domain knowledge with
+    robust information retrieval methods.'
 writing/posts/hands-part-1.md:
   hash: b0485a422ddbafe1db98b978f422f8fd
   summary: '"Losing My Hands" is a personal narrative by Jason, a machine learning
@@ -636,31 +632,30 @@ writing/posts/llmops.md:
     and Datadog. Keywords: LLM observability, Open Telemetry, AI agents, metrics,
     distributed systems, model optimization, telemetry data, self-improvement.'
 writing/posts/mcp-resouces.md:
-  hash: 7e6106a712973a781ff5bc726a9f5ac5
-  summary: The Prompt Template Resource System Specification outlines a token-efficient
-    framework for referencing external resources in large language model (LLM) prompts
-    to optimize token usage. The system uses a structured syntax for defining templates
-    with placeholders that can reference various resource types, including files,
-    strings, tagged outputs, images, audio, and video. It includes methods for creating
-    and managing XML-tagged outputs to facilitate session-based content referencing,
-    promoting efficient context sharing. Key features include error handling for missing
-    files, invalid resource IDs, and syntax errors. The system aims to enhance productivity
-    by effectively managing and passing around contextual data. Key terms include
-    LLM prompts, token-efficient, template syntax, resource references, XML tags,
-    and error handling.
+  hash: f47fdb13d17b5488fa94b0799f58636f
+  summary: The "Prompt Template Resource System Specification" provides a blueprint
+    for an efficient system to reference external resources in large language model
+    (LLM) prompts, optimizing token usage. It introduces a Python-based template syntax
+    for integrating content types such as files, strings, images, audio, and video
+    into LLM-generated template calls. The specification details resource reference
+    types and offers guidance on using tagged outputs for session-based content management.
+    Important features include XML tag creation for referenceable content, memory
+    management, and robust error handling for missing files and permission issues.
+    This system aims to enhance LLM performance and productivity by enabling streamlined
+    context sharing and resource utilization. Key terms include token efficiency,
+    template syntax, resource references, and XML tags.
 writing/posts/money-negative-margin.md:
-  hash: 7e7f462a1a9d117d157d3df4c0fb16f3
-  summary: 'This personal essay explores the concept that making money by trading
-    time is a negative margin, emphasizing the importance of balancing hard work with
-    living a fulfilling life. The author shares their journey from poverty in rural
-    China to financial success in North America, reflecting on the sacrifices made
-    by their parents and themselves. They highlight the value of investing in personal
-    happiness and experiences over aggressive saving, challenging traditional mindsets
-    like FIRE (Financial Independence, Retire Early). Key themes include self-belief,
-    the cost of time versus money, and prioritizing well-being to create a successful,
-    regret-free future. Keywords: making money, negative margin, time value, financial
-    success, personal growth, work-life balance, FIRE mindset, investing in experiences,
-    self-belief, sacrifices.'
+  hash: 9e289c993f3f087faa323ec946ceecda
+  summary: The article, "Making Money is Negative Margin," reflects on the author's
+    personal journey from growing up in poverty in rural China to achieving financial
+    success in Canada and the US, despite challenges such as a hand injury that temporarily
+    halted their career. The author emphasizes the importance of valuing experiences
+    and personal happiness over aggressive saving, critiquing the scarcity mindset
+    that prioritizes financial accumulation at the expense of personal fulfillment.
+    Key themes include the value of self-belief, the importance of investing in life
+    experiences, and re-evaluating the conventional pursuit of wealth, suggesting
+    that trading time for money often results in a "negative margin." The piece advocates
+    for balancing financial goals with living a meaningful and enjoyable life.
 writing/posts/mvp.md:
   hash: 3ea355fdf3f76ba4bca810a67eaa7cec
   summary: "Learn how to define and ship a successful MVP for AI applications by focusing\
@@ -684,16 +679,17 @@ writing/posts/natrualistic-diaglogue.md:
     Keywords include Naturalistic Dialogue, AI Companions, Conversational AI, Machine
     Learning, and User Experience.
 writing/posts/no-potential.md:
-  hash: b337ab8946e782034e77ec221d0b2474
-  summary: This article challenges the common belief in "potential," arguing that
-    potential is a projection of our own values and ambitions rather than an inherent
-    quality in others. It emphasizes that true growth and success come from consistent
-    action and momentum, not waiting for opportunities or change. The key insight
-    is that people with real potential are already actively pursuing their goals,
-    while those who only talk about potential often remain stagnant. Understanding
-    this helps avoid misplaced optimism and fosters clearer judgments in relationships,
-    hiring, and personal growth. Key terms include potential, ambition, growth, action,
-    momentum, self-development, and projection.
+  hash: 3873886638e34019a7141fb832575958
+  summary: The article "No One Has Potential But Yourself" challenges the concept
+    of seeing "potential" in others as a reflection of our own ambitions and values
+    rather than their actual capabilities. It argues that true potential is already
+    demonstrated through consistent actions and passion rather than hypothetical assessments.
+    The author suggests that ambitious individuals are constantly taking action and
+    shaping their paths, contrasting them with those who rely on external changes
+    to realize their potential. The piece emphasizes the importance of focusing on
+    one's journey and surrounding oneself with proactive individuals. Key points include
+    the distinction between potential and action, self-reflection on projected ambitions,
+    and the importance of being with like-minded, action-oriented people.
 writing/posts/prompt-optimization.md:
   hash: 7f54b07b2e76c9e9e40fa4e30cd1f479
   summary: 'This article explores prompt optimization techniques to enhance AI content
@@ -707,45 +703,44 @@ writing/posts/prompt-optimization.md:
     scoring functions. Keywords: prompt optimization, few-shot learning, machine learning,
     content generation, AI techniques, hyperparameters, output evaluation.'
 writing/posts/rag-anti-patterns-skylar.md:
-  hash: f0bb935a8e3f2dca432efe9c3401a093
-  summary: The article titled "RAG Anti-Patterns with Skylar Payne" details common
-    issues and solutions in Retrieval-Augmented Generation (RAG) systems, emphasizing
-    the importance of data quality, robust evaluation, and iteration for optimal performance.
-    Key anti-patterns highlighted include issues in data collection and curation,
-    extraction and enrichment, indexing and storage, retrieval, re-ranking, and generation.
-    It stresses handling different document encodings, chunk size optimization, query
-    expansion, and addressing hallucinations with citation validation. The session
-    underscores continuous data examination, fast feedback loops, and proper evaluation
-    before increasing system complexity. Additionally, it discusses the importance
-    of intent classification, metadata tagging, and avoiding unnecessary system complexity
-    in various industries such as customer support, healthcare, and financial services.
+  hash: 7eccd7b3488d81353a81d041768e0733
+  summary: "In the Lightning Lesson \"RAG Anti-Patterns with Skylar Payne,\" Skylar\
+    \ Payne, a seasoned AI practitioner, discusses common pitfalls and challenges\
+    \ in Retrieval-Augmented Generation (RAG) systems across industries like customer\
+    \ support, healthcare, and finance. Key insights focus on data handling, retrieval\
+    \ evaluation, and the importance of continuous data quality assessment at every\
+    \ pipeline stage\u2014from data collection to generation. Payne highlights issues\
+    \ such as silent document failures, irrelevant content, suboptimal chunking, naive\
+    \ indexing, and generation-phase hallucinations. He emphasizes the need for robust\
+    \ evaluation before increasing system complexity, effective metadata use, and\
+    \ adopting advanced techniques like agentic workflows for complex tasks. This\
+    \ session serves as a guide to improve RAG systems by iterating on data insights\
+    \ and refining processes for better performance."
 writing/posts/rag-cohort-3-speakers-improving-rag.md:
-  hash: 83eabcbfcaae3c14fbfa50c0ff5cea5f
-  summary: Join free live Lightning Lessons designed to enhance your Retrieval Augmented
-    Generation (RAG) systems with practical insights from industry experts at Cohere,
-    Chroma, Groq, OpenBB, and more. These 30-minute Zoom sessions cover crucial topics
-    such as Visual RAG, embedding performance evaluation, production monitoring, latency
-    optimization, browser-based RAG, common anti-patterns, natural language search
-    on semi-structured data, and improving data quality for better retrieval. Engage
-    in real-time Q&A, learn actionable solutions for deployment challenges, and connect
-    with a community of professionals. Register now to advance your expertise in RAG,
-    vector search, AI monitoring, multimodal retrieval, and large language models
-    (LLMs).
+  hash: dd395dfb28a87df93ea14b3ad04d30d1
+  summary: Join a series of free Lightning Lessons focused on enhancing Retrieval
+    Augmented Generation (RAG) systems, featuring industry experts from Cohere, Chroma,
+    Groq, OpenBB, and more. The sessions cover practical topics like extending text-based
+    RAG to visual data, optimizing performance, embedding evaluations, and browser-based
+    implementation, all aiming to provide actionable insights and solutions to common
+    RAG challenges. Engage in live Zoom meetings with real-time Q&A and community
+    interaction, with topics including visual RAG, embedding performance, AI monitoring,
+    latency optimization, browser-based RAG, architectural patterns, and data quality
+    improvement. Register now to gain insights into improving your RAG implementations
+    and benefit from expert knowledge and community engagement, presented by ImprovingRAG.com.
 writing/posts/rag-course-breakdown.md:
-  hash: 389bf80c6d5aff7859ac5a899a58d8d6
-  summary: "This comprehensive guide on systematically improving Retrieval-Augmented\
-    \ Generation (RAG) applications breaks down essential strategies for building\
-    \ robust, domain-specific AI systems by integrating large language models with\
-    \ external data. It covers critical concepts such as evaluating retrieval metrics\
-    \ with synthetic data, identifying failure modes through segmentation and classification,\
-    \ leveraging structured extraction and multimodal data, and implementing specialized\
-    \ query routing and fine-tuning embeddings. Emphasizing a data-driven approach,\
-    \ the guide highlights avoiding absence and intervention biases, collecting user\
-    \ feedback, enhancing user experience with streaming and chain-of-thought prompting,\
-    \ and continuously iterating for improved accuracy and relevance. Key topics include\
-    \ retrieval recall, embedding fine-tuning, re-ranking, tool selection, and feedback\
-    \ loops\u2014forming a practical blueprint to transform RAG prototypes into production-ready,\
-    \ high-performing AI systems."
+  hash: aa047456e821eea99d1c5aca19074f18
+  summary: This comprehensive guide explores systematically improving Retrieval-Augmented
+    Generation (RAG) applications, emphasizing the integration of large language models
+    (LLMs) with external data sources for domain-specific, up-to-date, and interpretable
+    results. Key topics include understanding biases such as absence and intervention
+    bias, evaluating retrieval with precision and recall metrics, using synthetic
+    data, handling segmentation and classification, leveraging structured extraction
+    and multimodality, optimizing query routing and specialized indices, and fine-tuning
+    embeddings and re-rankers. The guide also highlights the importance of user feedback,
+    optimizing user experience (UX) through streaming and interstitials, and refining
+    systems with chain-of-thought prompting and post-validation. Overall, it provides
+    a blueprint for building and iterating robust, production-ready RAG systems.
 writing/posts/rag-decomposition.md:
   hash: 1fa1cee4c3f240ff180f44572702154d
   summary: 'Discover how to enhance Retrieval-Augmented Generation (RAG) systems by
@@ -758,18 +753,18 @@ writing/posts/rag-decomposition.md:
     across industries. Key keywords include RAG, data analysis, search functionality,
     capabilities, and topics.'
 writing/posts/rag-enterprise-process.md:
-  hash: edddbdbbff3b3f4e2930b24252827cfd
-  summary: Discover how to effectively invest in AI with a strategic focus on Model
-    Context Protocol (MCP) and data analytics. Begin by using simple chatbots to identify
-    user needs before committing significant resources. Key strategies include leveraging
-    tools like Kura for data-driven insights, building modular AI systems that can
-    evolve from discovery to production, and focusing on scalable infrastructure.
-    Avoid common pitfalls by creating shared intelligence layers, establishing clear
-    success metrics, and adopting a usage-driven architecture. This approach helps
-    transition from AI experiments to production, ensuring measurable ROI and strategic
-    alignment with business objectives. Core concepts like "modular services," "AI
-    strategy," and "data analytics" are essential for understanding the value-based
-    deployment of AI technologies in organizations.
+  hash: b381011c20991b055382333b9878f575
+  summary: The article "How to Invest in AI with MCPS and Data Analytics" emphasizes
+    building a discovery system to identify valuable AI projects before committing
+    resources. It suggests starting with a simple chatbot to gauge user interest and
+    leveraging tools like Kura for data-driven insights. The content outlines a strategic
+    approach using Model Context Protocol (MCP) to create scalable, modular AI services
+    that adapt to user needs, highlighting the importance of shared infrastructure,
+    standardized evaluation, and real-time data analysis. Key points include the progression
+    from chatbots to agent-based workflows, the role of MCP in AI investment, and
+    the critical nature of data literacy in evaluating AI performance. This method
+    allows businesses to align AI capabilities with actual demand, maximizing ROI
+    and facilitating strategic AI investment.
 writing/posts/rag-faq.md:
   hash: 9193c2a67c57501f29408890f5ec3ba7
   summary: 'This comprehensive FAQ summarizes key insights from the "Systematically
@@ -996,20 +991,20 @@ writing/posts/strings.md:
     and enabling immediate integration of API updates. Important keywords are LLM,
     prompt engineering, API, string formatting, and Python.
 writing/posts/systematically-improving-rag-raindrop.md:
-  hash: b76a8323f8faa76869fd1e9316175bb9
-  summary: "This article explores systematic improvements to Retrieval-Augmented Generation\
-    \ (RAG) AI systems using the Raindrop and Oleve frameworks, focusing on advanced\
-    \ AI monitoring, production testing, and data analysis. Key topics include the\
-    \ limitations of traditional evals and LLM judges in real-world AI monitoring,\
-    \ the importance of tracking implicit and explicit user signals, and leveraging\
-    \ the Trellis framework for structured intent segmentation and prioritized AI\
-    \ workflow refinement. Practical strategies for identifying, categorizing, and\
-    \ fixing AI issues\u2014ranging from prompt engineering to fine-tuning and pipeline\
-    \ optimization\u2014are highlighted alongside real-world case studies demonstrating\
-    \ the benefits of continuous, production-level monitoring for enhancing AI product\
-    \ reliability and user satisfaction. Keywords: AI monitoring, RAG, Raindrop, Oleve,\
-    \ Trellis framework, AI production testing, user intent segmentation, prompt engineering,\
-    \ fine-tuning, AI issue prioritization, retrieval-augmented generation."
+  hash: 5c91ae5fff170a01c397a0815f31d01c
+  summary: 'The article "Systematically Improving RAG with Raindrop and Oleve" features
+    insights from experts Ben and Sid on AI monitoring and data analysis frameworks.
+    It discusses the limitations of traditional AI monitoring methods, emphasizing
+    the need for structured monitoring to identify and address AI system issues. Ben
+    introduces the concept of "anatomy of an AI issue" with implicit and explicit
+    signals, while Sid presents the Trellis framework for managing AI outputs. Strategies
+    for fixing AI problems include prompt changes, RAG pipeline adjustments, and fine-tuning.
+    Real-world examples highlight the necessity of robust monitoring systems to catch
+    unexpected user behaviors and production failures. Core objectives of the article
+    include exploring effective AI product improvements, understanding AI monitoring
+    fundamentals, and leveraging frameworks for targeted refinement. Keywords: AI
+    monitoring, data analysis, Trellis framework, Raindrop, Oleve, production testing,
+    RAG improvement.'
 writing/posts/techno-skepticism.md:
   hash: fe4ab65497740d17186f2f19c37df52c
   summary: 'This article explores the historical skepticism toward new technologies

@@ -4,6 +4,7 @@ description: A Detailed, No-Nonsense Guide to Building Better Retrieval-Augmente
 authors:
   - jxnl
 date: 2025-01-24
+comments: true
 ---
 
 # How to Systematically Improve RAG Applications

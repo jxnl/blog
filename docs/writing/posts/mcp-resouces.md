@@ -7,6 +7,7 @@ categories:
   - AI
   - Engineering
   - MCP
+comments: true
 ---
 
 # Prompt Template Resource System Specification

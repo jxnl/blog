@@ -1,6 +1,7 @@
 ---
 date: 2025-05-09
 description: "I'll be hosting industry experts to share practical techniques for enhancing your Retrieval Augmented Generation (RAG) systems."
+comments: true
 ---
 
 # Free Lightning Lessons to Advance Your RAG Implementations

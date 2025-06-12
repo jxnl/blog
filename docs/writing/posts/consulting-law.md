@@ -4,6 +4,7 @@ description: This post covers legal considerations for AI consultants, including
 date: 2024-12-19
 author:
   - jxnl
+comments: true
 ---
 
 # Legal Office Hours for AI Consultants

@@ -1,6 +1,7 @@
 ---
 title: "RAG Anti-Patterns with Skylar Payne"
 date: 2025-06-11
+comments: true
 ---
 
 # RAG Anti-Patterns with Skylar Payne
@@ -266,3 +267,7 @@ The value of metadata tagging depends on two factors:
 2. The diversity of queries you're answering
 
 Metadata becomes more valuable when you have both high data volume and diverse query types. For B2B applications where customer data is segregated, the benefit may be limited since each customer's data volume is relatively small.
+
+## Want to learn more?
+
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can [check it out here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }.

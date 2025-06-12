@@ -3,6 +3,7 @@ date: 2025-01-07
 authors:
   - jxnl
 description: "If you truely believe you'll be successful, then making money will also be negative margin."
+comments: true
 ---
 
 # Making Money is Negative Margin

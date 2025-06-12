@@ -1,6 +1,7 @@
 ---
 title: How to invest in AI w/ MCPS and Data Analytics
 date: 2025-06-09
+comments: true
 ---
 
 > tl;dr: You should build a system that lets you discover value before you commit resources.

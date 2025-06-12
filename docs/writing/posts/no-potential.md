@@ -1,6 +1,7 @@
 ---
 date: 2024-12-27
 description: "There is no such thing as potential. Its just a projection of your own potential and values and beliefs."
+comments: true
 ---
 
 # No One Has Potential But Yourself

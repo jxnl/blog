@@ -4,6 +4,7 @@ date: 2025-03-06
 description: "A deep dive into the challenges and best practices for fine-tuning embedding models in enterprise RAG systems, based on insights from Manav Rathod of Glean."
 author:
   - jxnl
+comments: true
 ---
 
 # Fine-Tuning Embedding Models for Enterprise RAG: Lessons from Glean

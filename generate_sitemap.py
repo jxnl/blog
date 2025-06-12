@@ -50,7 +50,7 @@ async def summarize_content(client: AsyncOpenAI, path: str, content: str) -> str
     """
     try:
         response = await client.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-4.1-mini",
             messages=[
                 {
                     "role": "system",

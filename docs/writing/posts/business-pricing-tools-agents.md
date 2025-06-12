@@ -1,6 +1,7 @@
 ---
 title: Pricing AI Agents, Headcount, and the Economic Reality
 date: 2025-05-20
+comments: true
 ---
 
 # Pricing AI Agents, Headcount, and the Economic Reality
