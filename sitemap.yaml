@@ -631,6 +631,22 @@ writing/posts/llmops.md:
     telemetry into the AI development lifecycle using tools like Prometheus, Grafana,
     and Datadog. Keywords: LLM observability, Open Telemetry, AI agents, metrics,
     distributed systems, model optimization, telemetry data, self-improvement.'
+writing/posts/lovable-pricing-outcomes.md:
+  hash: c2e31e2885f8e1df0d634d0346a4ec3a
+  summary: "This article explores the challenges faced by \"vibe coders\"\u2014creators\
+    \ who build functional AI-powered applications without traditional programming\
+    \ skills\u2014in monetizing their work due to complex fintech and SaaS pricing\
+    \ models. It advocates for platforms like Lovable to adopt outcome-based, revenue-sharing\
+    \ pricing models (e.g., taking 5-15% of creators' revenue) to better align incentives\
+    \ and provide scalable support, migration services, and one-click monetization\
+    \ tools. The concept of a Lovable Partners Program is introduced, offering premium,\
+    \ success-driven support that turns manual services into automated solutions,\
+    \ helping creators scale without costly infrastructure headaches. The piece emphasizes\
+    \ the importance of frictionless monetization for emerging AI creators and envisions\
+    \ a future where platforms pay out billions to creators, fostering sustainable\
+    \ success and growth in the AI creator economy. Key terms include AI monetization,\
+    \ vibe coders, revenue sharing, no-code platforms, SaaS pricing, fintech complexity,\
+    \ migration services, and creator economy."
 writing/posts/mcp-resouces.md:
   hash: f47fdb13d17b5488fa94b0799f58636f
   summary: The "Prompt Template Resource System Specification" provides a blueprint
