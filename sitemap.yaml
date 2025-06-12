@@ -706,6 +706,19 @@ writing/posts/prompt-optimization.md:
     few-shot examples, leveraging iterative refinement, and the importance of reliable
     scoring functions. Keywords: prompt optimization, few-shot learning, machine learning,
     content generation, AI techniques, hyperparameters, output evaluation.'
+writing/posts/rag-anti-patterns-skylar.md:
+  hash: f0bb935a8e3f2dca432efe9c3401a093
+  summary: The article titled "RAG Anti-Patterns with Skylar Payne" details common
+    issues and solutions in Retrieval-Augmented Generation (RAG) systems, emphasizing
+    the importance of data quality, robust evaluation, and iteration for optimal performance.
+    Key anti-patterns highlighted include issues in data collection and curation,
+    extraction and enrichment, indexing and storage, retrieval, re-ranking, and generation.
+    It stresses handling different document encodings, chunk size optimization, query
+    expansion, and addressing hallucinations with citation validation. The session
+    underscores continuous data examination, fast feedback loops, and proper evaluation
+    before increasing system complexity. Additionally, it discusses the importance
+    of intent classification, metadata tagging, and avoiding unnecessary system complexity
+    in various industries such as customer support, healthcare, and financial services.
 writing/posts/rag-cohort-3-speakers-improving-rag.md:
   hash: 83eabcbfcaae3c14fbfa50c0ff5cea5f
   summary: Join free live Lightning Lessons designed to enhance your Retrieval Augmented
