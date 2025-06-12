@@ -257,7 +257,7 @@ This approach is particularly important for sensitive domains like healthcare wh
 
 ## What tools are recommended for RAG evaluation?
 
-While tool preferences vary by situation, Lily Pad (from Microscope) is highlighted as particularly useful for teams without AI engineering backgrounds because it enforces best practices around versioning. However, the best approach is often to meet teams where they are and use their existing tools rather than introducing new ones that require vendor approval.
+While tool preferences vary by situation, [Lilypad from Mirascope](https://mirascope.com/docs/lilypad) is highlighted as particularly useful for teams without AI engineering backgrounds because it enforces best practices around versioning. However, the best approach is often to meet teams where they are and use their existing tools rather than introducing new ones that require vendor approval.
 
 ## How important is metadata tagging in RAG systems?
 
