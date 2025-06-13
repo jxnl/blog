@@ -167,6 +167,16 @@ writing/posts/advice.md:
     anticipation, and understanding that setbacks stem from being human. Core keywords
     include personal growth, self-improvement, confidence, career tips, mental health,
     choice, impostor syndrome, resilience, and self-worth.
+writing/posts/ai-agents-cross-linking.md:
+  hash: e8b4e14a208c194e49de302a9a5f6413
+  summary: Discover how to leverage AI agents like GPT-4 and Claude to automate internal
+    cross-linking across 100+ blog posts in just 30 minutes. This approach uses AI-generated
+    content summaries to identify relevant, natural linking opportunities, improving
+    SEO, reader engagement, and content strategy efficiency. By automating summary
+    generation and using AI to analyze semantic relationships between posts, bloggers
+    and content creators can add 50+ precise, actionable cross-links quickly and cost-effectively.
+    Key topics include AI agents, SEO, content strategy, cross-linking, and GPT-4-powered
+    automation for scalable blog optimization.
 writing/posts/ai-engineering-communication.md:
   hash: 06daa20f3bd23c16058b6513c3142822
   summary: This article explores how to enhance AI engineering communication by delivering
@@ -247,16 +257,6 @@ writing/posts/baths.md:
     of onsen versus American spas. Keywords: public baths, onsen, cultural differences,
     bathing rituals, personal growth, relaxation, hygiene, spa, American bathhouses,
     Japan.'
-writing/posts/blog-sitemap-automation.md:
-  hash: 023aeb705a3ee989463a3eb338bd8ea7
-  summary: 'This post details how I automated my blog''s sitemap generation using
-    AI and Python, integrating a pre-commit hook that leverages GPT-4 to generate
-    SEO-optimized summaries only for changed markdown files. This automation saves
-    hours of manual updates, ensures the sitemap is always up-to-date, improves SEO
-    with high-quality content summaries, and enhances workflow efficiency. Key components
-    include content hashing, smart caching, and seamless Git integration. Keywords:
-    SEO, automation, AI, sitemap generation, Python, GPT-4, blog infrastructure, pre-commit
-    hook.'
 writing/posts/business-pricing-tools-agents.md:
   hash: ab142759763d3b24831c9d7deebaa007
   summary: 'In the article "Pricing AI Agents, Headcount, and the Economic Reality,"
