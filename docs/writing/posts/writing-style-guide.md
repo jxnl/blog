@@ -19,7 +19,7 @@ tags:
 
 # Content Creation Mastery: 9 Strategies to 10x Your Impact
 
-Look, creating content that actually matters is hard. Here's how to do it without the bullshit:
+Look, creating content that actually matters is hard. Here's how to do it without the bullshit. These strategies apply whether you're [writing tweets](./writing-tweet.md), [creating consulting content](./consulting-content-creation.md), or [building your personal brand](./writing-distribution.md):
 
 1. **Titles That Demand Attention**: Your title is the gatekeeper. Make it count or no one will read your shit.
 
@@ -52,11 +52,11 @@ Your title is make-or-break. Here's how to not fuck it up:
 - Create urgency: "Limited Time: Learn the SEO Secret That's Transforming Businesses"
 - Ask intriguing questions: "Is Your Content Strategy Secretly Sabotaging Your Growth?"
 
-A/B test your titles. Use tools for keyword research. Keep it under 60 characters for search engines.
+A/B test your titles. Use tools for keyword research. Keep it under 60 characters for search engines. For more specific advice on titles, see my [tweet writing guide](./writing-tweet.md).
 
 ## 2. Hook with a Powerful Intro
 
-You've got their click. Now keep them. Here's how:
+You've got their click. Now keep them. Here's how (these principles also apply to [technical writing](./how-to-write.md)):
 
 1. Validate their challenge
 2. Hint at your solution
@@ -82,7 +82,7 @@ Use:
 - Before and after comparisons
 - Social proof
 
-Always cite sources. Use visuals to make data digestible.
+Always cite sources. Use visuals to make data digestible. This approach is crucial for [AI engineering communication](./ai-engineering-communication.md) and [data literacy](./data-literacy.md).
 
 ## 4. Foreshadow Value
 
@@ -131,7 +131,7 @@ Always ask: "So what? How does this benefit my reader?"
 
 ## 7. Be an Oracle: Predict Future Challenges
 
-Show them you're ahead of the curve:
+Show them you're ahead of the curve (like I do in my [AI consulting predictions](./consulting-predictions.md)):
 
 1. Analyze industry trends
 2. Predict audience evolution
@@ -155,6 +155,8 @@ Tell them exactly what to do next. Once.
 Example:
 "Join 50,000+ content pros getting weekly insider tips. Sign up now!"
 
+For more on effective CTAs in different contexts, see my guide on [asking for what you want](./asking.md).
+
 A/B test your CTAs. Optimize for mobile.
 
 ## 9. Iterate and Improve Based on Data
@@ -166,8 +168,8 @@ If it's not working, change it. Track:
 - SEO metrics (organic traffic, keyword rankings, backlinks)
 - Content-specific metrics (video watch time, podcast listen-through rate)
 
-Analyze top performers. A/B test everything. Update high-performing older content.
+Analyze top performers. A/B test everything. Update high-performing older content. This iterative approach is similar to [systematically improving RAG systems](./rag-improving-rag.md) - constant measurement and refinement.
 
-Remember: Content creation is both art and science. Creativity matters, but data drives results.
+Remember: Content creation is both art and science. Creativity matters, but data drives results. This principle extends to all forms of content, from [consulting writing](./consulting-writing.md) to building [data flywheels](./data-flywheel.md).
 
-Now go create something worth reading.
+Now go create something worth reading. And if you're ready to take your content to the next level, check out my [complete writing guide](./writing-final.md).

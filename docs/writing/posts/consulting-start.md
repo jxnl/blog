@@ -28,7 +28,7 @@ I've documented everything I've learned along the way: from [setting up the esse
 
 ## The Foundation: Your Value Proposition
 
-First, let's bust a myth: You don't need to be an AI researcher with a PhD to be a successful consultant. What you need is to understand this simple equation:
+First, let's bust a myth: You don't need to be an AI researcher with a PhD to be a successful consultant. What you need is to understand this simple equation (which I explore in depth in my [consulting pricing guide](./consulting-listing-prices.md)):
 
 Value = (Dream Outcome × Likelihood of Success) ÷ (Time to Success × Perceived Difficulty)
 
@@ -50,11 +50,11 @@ Here's what you should do in your first 30 days:
 2. **Create Your Content Strategy**
 
    - Start with 2-3 detailed blog posts about problems you've solved
-   - Share insights on Twitter/LinkedIn (aim for 3-5 posts per week)
-   - Focus on outcomes, not just technical details
+   - Share insights on Twitter/LinkedIn (aim for 3-5 posts per week) - see my [tweet writing guide](./writing-tweet.md) for strategies
+   - Focus on outcomes, not just technical details - I cover this extensively in [my guide to AI consulting](./consulting-everything-i-know.md)
 
 3. **Set Up Your Basic Stack**
-   - Business basics: LLC, business bank account (I recommend Mercury)
+   - Business basics: LLC, business bank account (I recommend Mercury) - see my complete [consulting stack recommendations](./consulting-stack.md)
    - Tools: Calendar scheduling (Cal.com), proposal software (I use Dropbox Sign)
    - Don't overcomplicate this – you can upgrade later
 
@@ -66,7 +66,7 @@ Here's what nobody tells you about getting your first clients: The best ones oft
 
    > "Hey [Name], I noticed you're working on [specific AI project]. I recently helped [Company X] solve a similar challenge, reducing their implementation time by 60%. Would you be open to a 15-minute chat about how I might be able to help?"
 
-2. **Free Content Strategy**
+2. **Free Content Strategy** (detailed in my [content creation guide](./consulting-content-creation.md))
 
    - Write detailed posts solving specific problems
    - Share them in relevant communities
@@ -86,7 +86,7 @@ Stop thinking about hourly rates. Instead, use the "Airline Model":
 - **Business Class:** Implementation + strategy ($2X/month)
 - **First Class:** Full accountability for outcomes ($3-4X/month)
 
-I learned this the hard way when I undercharged a client at $170/hour. They accepted so quickly, I knew I'd left money on the table. Now, I focus on value-based pricing and typically start engagements at $15,000/month minimum.
+I learned this the hard way when I undercharged a client at $170/hour. They accepted so quickly, I knew I'd left money on the table. Now, I focus on value-based pricing and typically start engagements at $15,000/month minimum. This experience shaped my thoughts on [why making money can be negative margin](./money-negative-margin.md) if you're not careful about pricing.
 
 ## Common Pitfalls to Avoid
 
@@ -112,7 +112,7 @@ Here's your action plan for the next 7 days:
 2. Create one detailed blog post about solving one of these problems
 3. Reach out to three people in your network who might need help with these problems
 
-Remember: The goal isn't to build a perfect consulting business overnight. It's to start helping people solve real problems with AI while building a sustainable practice.
+Remember: The goal isn't to build a perfect consulting business overnight. It's to start helping people solve real problems with AI while building a sustainable practice. As I discuss in [my predictions for AI freelancing](./consulting-predictions.md), the opportunity has never been better.
 
 The world needs more good AI consultants. Not just people who can implement algorithms, but those who can bridge the gap between technical possibilities and business outcomes. That could be you.
 

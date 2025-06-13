@@ -21,7 +21,7 @@ tags:
 
 I've enjoyed writing about my [indie](./consulting-indie.md) [consulting](./consulting-everything-i-know.md) process. Today, I want to share some insights on marketing, positioning, and scaling my consulting business. This post builds on my previous discussions about [referrals](./consulting-referrals.md) and the [tools I use](./consulting-stack.md), focusing on how I've grown my practice through strategic marketing efforts.
 
-As a former MLE, I had always relied on my hands-on coding skills to excel in my career. However, a hand injury forced me to adapt and pivot towards consulting. In this essay, I share my journey of becoming a successful AI consultant and the lessons I've learned about marketing, positioning, and scaling my business.
+As a former MLE, I had always relied on my hands-on coding skills to excel in my career. However, a hand injury forced me to adapt and pivot towards consulting. You can read more about my journey in [my personal story](./whoami.md) and how this [injury transformed my perspective](./hands-part-2.md). In this essay, I share my journey of becoming a successful AI consultant and the lessons I've learned about marketing, positioning, and scaling my business.
 
 - Transitioning to consulting and building a marketing plan
 - Generating leads and creating valuable content
@@ -52,17 +52,17 @@ Up until May of 2024, I took about 140 hours of meetings every month. I would re
 - The ones that I felt were applicable, I posted online.
 - For the ones that got the most attention, I turned them into blog posts.
 
-I get on the front page of Hacker News about twice a month, which generates about 20,000 views a month on my blog.
+I get on the front page of Hacker News about twice a month, which generates about 20,000 views a month on my blog. This visibility ties into my broader thoughts on [writing and distribution](./writing-distribution.md).
 
 ![](./img/analytics-blog.png)
 
 When you start consulting, you realize that the first step is having knowledge, but the second crucial step is generating leads. This realization led me to become not just a consultant but also a content creator and marketer. I discovered that there are four main ways to generate leads: warm outbound, cold outbound, free content, and paid ads. Given my technical background and expertise, I decided to focus primarily on creating free content to establish myself as a thought leader in the AI/ML space.
 
-A prime example of leveraging free content is my blog post "The rag is more than embeddings." RAG, which stands for Retrieval Augmented Generation, is a core area of my expertise and a popular topic in the AI/ML community. By sharing my knowledge and insights on this subject, I attracted potential clients who were seeking guidance in this area.
+A prime example of leveraging free content is my blog post "[The rag is more than embeddings](./rag.md)." RAG, which stands for Retrieval Augmented Generation, is a core area of my expertise and a popular topic in the AI/ML community. I've written extensively about [improving RAG systems](./rag-improving-rag.md) and even created a [comprehensive course](./systematically-improve-your-rag.md) on the topic. By sharing my knowledge and insights on this subject, I attracted potential clients who were seeking guidance in this area.
 
-To ensure my content had maximum impact, I developed a data flywheel strategy. Whenever I had a meeting or conversation with a client or prospect, I would look for opportunities to turn those insights into content. If I identified a common mistake or challenge, I would record a short video explaining the issue and post it online. If the video gained traction, I would then expand on the topic in a blog post.
+To ensure my content had maximum impact, I developed a data flywheel strategy. Whenever I had a meeting or conversation with a client or prospect, I would look for opportunities to turn those insights into content. If I identified a common mistake or challenge, I would record a short video explaining the issue and post it online. If the video gained traction, I would then expand on the topic in a blog post. This approach is part of my [data flywheel strategy](./data-flywheel.md) for content creation.
 
-Investing in high-quality content creation has proven to be highly effective, thanks to my collaboration with my writer, Joseph.
+Investing in high-quality content creation has proven to be highly effective, thanks to my collaboration with my writer, Joseph. For more on how writing transformed my consulting business, see my post on [consulting through consistent writing](./consulting-writing.md).
 
 ## How Do I Close Leads Using Situational Assessments?
 
@@ -101,7 +101,7 @@ If you found this helpful, subscribe to my newsletter for more posts on how I bu
 
 ## Recommended Reading
 
-To further enhance your consulting and marketing skills, I highly recommend the following resources:
+To further enhance your consulting and marketing skills, I highly recommend the following resources, along with my guides on [AI pricing strategies](./business-pricing-tools-agents.md) and [how to effectively ask for help](./asking.md):
 
 1. [Consulting Referrals](./consulting-referrals.md)
 

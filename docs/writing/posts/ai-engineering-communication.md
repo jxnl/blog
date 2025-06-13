@@ -17,7 +17,7 @@ authors:
   - jxnl
 ---
 
-# The right way to do AI engineering updates
+## The right way to do AI engineering updates
 
 _Helping software engineers enhance their AI engineering processes through rigorous and insightful updates._
 
@@ -33,7 +33,7 @@ Scenario B clearly provides more value and allows for informed decision-making. 
 
 <!-- more -->
 
-This post explores the art and science of crafting AI engineering updates that:
+This post explores the art and science of crafting AI engineering updates that build on my experience [leading AI engineering teams](./ai-engineering-leaders.md) and running [effective AI standups](./ai-engineering-standup.md). These updates should:
 
 1. Clearly articulate hypotheses and interventions
 2. Provide quantifiable results
@@ -107,7 +107,7 @@ Traditional update formats—like stating what you did last week or identifying 
 
 ## A New Approach, (old for many of us)
 
-To illustrate the power of this approach, let's dive into a series of examples centered around **RAG**—a crucial aspect of building effective AI agents.
+To illustrate the power of this approach, let's dive into a series of examples centered around **[RAG](./rag-what-is-rag.md)**—a crucial aspect of building effective AI agents. For more on systematically improving RAG systems, see my [comprehensive guide](./rag-improving-rag.md).
 
 ### **Scenario Setup**
 
@@ -132,27 +132,27 @@ Our primary metric for success is **Recall at 5 and at 10**—the percentage of 
 | Recall @ 10 | 72%             | 83% (+15.3%)  | 93% (+29.2%)        |
 | Latency     | ~50ms           | ~55ms (+10%)  | ~200ms (+264%)      |
 
-### **Hypothesis**
+### Hypothesis
 
 Integrating a **hybrid search index** combining BM25 and semantic search will significantly improve Recall at 5 and 10 since reranking after a hybrid search will provide better ranking
 
-### **Intervention**
+### Intervention
 
 - **Action:** Developed and implemented a hybrid search algorithm that merges BM25's lexical matching with semantic embeddings.
 - **Tools Used:** Employed Cohere's re-ranking model to refine the search results further.
 
-### **Results**
+### Results
 
 - **Recall at 5:** Increased from **65% to 85%** (a 20% absolute improvement).
 - **Recall at 10:** Improved from **72% to 93%** (a 21% absolute improvement).
 - **User Engagement:** Time spent on the site increased by **15%**, indicating users found relevant information more quickly.
 
-### **Trade-offs**
+### Trade-offs
 
 - **Complexity:** Moderate increase in system complexity due to the integration of multiple search techniques.
 - **Computational Cost:** Slight increase in processing time per query (~50ms additional latency).
 
-### **Takeaway**
+### Takeaway
 
 The substantial improvement in recall metrics and positive user engagement justified the added complexity and computational costs. This intervention was definitely worth pursuing.
 
@@ -168,30 +168,30 @@ The substantial improvement in recall metrics and positive user engagement justi
 | Recall @ 10 | 93%      | 94% (+1.1%)     |
 | Latency     | ~200ms   | ~1800ms (+800%) |
 
-### **Hypothesis**
+### Hypothesis (Query Expansion)
 
 Implementing query expansion using a large language model will enhance search queries and improve recall metrics, particularly for complex or ambiguous queries.
 
-### **Intervention**
+### Intervention (Query Expansion)
 
 - **Action:** Implemented query expansion using a large language model to enhance search queries.
 - **Objective:** Improve recall metrics, particularly for complex or ambiguous queries.
 
-### **Results**
+### Results (Query Expansion)
 
 - **Recall at 5:** Improved from **85% to 87%** (2% absolute improvement).
 - **Recall at 10:** Improved from **93% to 94%** (1% absolute improvement).
 - **Processing Time:** Increased latency from **~200ms to ~1800ms** (800% increase).
 - **System Complexity:** Significant increase due to the integration of a large language model for query expansion.
 
-### **Trade-offs**
+### Trade-offs (Query Expansion)
 
 - **Marginal Gains:** The slight improvement in recall did not justify the substantial increase in latency.
 - **Performance Overhead:** The significant increase in latency could severely impact user satisfaction.
 - **Maintenance Burden:** Higher complexity makes the system more difficult to maintain and scale.
 - **Resource Consumption:** Integrating a large language model requires additional computational resources.
 
-### **Takeaway**
+### Takeaway (Query Expansion)
 
 Despite the modest improvements in recall metrics, the substantial increase in latency and system complexity made this intervention impractical. The potential negative impact on user experience due to increased response times outweighed the marginal gains in search accuracy. Therefore, we decided not to proceed with this intervention.
 
@@ -231,7 +231,7 @@ print(expand_v2("Best camera for low light photography")
 }
 ```
 
-We found that these expansion modes over dates did not work successfully because we're missing metadata around when cameras were released. Since we review things that occur later than their release, this lack of information has posed a challenge. For this to be a much more fruitful experiment, we would need to improve our coverage, as only 70% of our inventory has date or time metadata.
+We found that these expansion modes over dates did not work successfully because we're missing metadata around when cameras were released. This relates to the importance of [utilizing metadata in RAG systems](./rag-low-hanging-fruit.md). Since we review things that occur later than their release, this lack of information has posed a challenge. For this to be a much more fruitful experiment, we would need to improve our coverage, as only 70% of our inventory has date or time metadata.
 
 These examples and insights demonstrate the value of embracing failure as a learning tool in AI engineering. By documenting our failures, conducting regular reviews, and using setbacks as fuel for innovation, we can extract valuable lessons and improve our systems over time. To further illustrate how this approach can be implemented effectively, let's explore some practical strategies for incorporating failure analysis into your team's workflow
 
@@ -258,7 +258,7 @@ These examples and insights demonstrate the value of embracing failure as a lear
 
 ### **Tips for Engineers and Leaders**
 
-1. **Emphasize Hypotheses:**
+1. **Emphasize Hypotheses:** (see my guide on [writing effective technical content](./how-to-write.md) for more tips)
 
    - Clearly state what you expect to happen and why.
    - Example: "We hypothesize that integrating semantic search will improve recall metrics by better understanding query context."
@@ -296,8 +296,8 @@ These examples and insights demonstrate the value of embracing failure as a lear
 
 ## **Conclusion**
 
-Building and improving AI systems is an iterative journey filled with uncertainties and learning opportunities. By adopting a rigorous approach to updates—focusing on hypotheses, interventions, results, and trade-offs—we can enhance communication, make better-informed decisions, and ultimately build more effective AI agents.
+Building and improving AI systems is an iterative journey filled with uncertainties and learning opportunities. As I discuss in my post on [AI truths from the trenches](./ai-truths.md), most AI problems aren't technical but organizational. By adopting a rigorous approach to updates—focusing on hypotheses, interventions, results, and trade-offs—we can enhance communication, make better-informed decisions, and ultimately build more effective AI agents.
 
-For software engineers transitioning into AI roles, junior AI engineers honing their skills, and VPs overseeing these projects, embracing this communication style is key to navigating the complexities of probabilistic systems. It fosters transparency, encourages collaboration, and drives continuous improvement.
+For software engineers transitioning into AI roles, junior AI engineers honing their skills, and VPs overseeing these projects, embracing this communication style is key to navigating the complexities of [probabilistic systems](./stochastic-software.md). It's also crucial for [data literacy](./data-literacy.md) in AI engineering. It fosters transparency, encourages collaboration, and drives continuous improvement.
 
-Remember, the goal isn't just to report on what happened, but to provide insights that drive action and progress. By implementing these strategies, you'll not only improve your AI engineering processes but also position yourself as a valuable asset in the rapidly evolving field of applied AI.
+Remember, the goal isn't just to report on what happened, but to provide insights that drive action and progress. This aligns with my philosophy on [building minimal viable products](./mvp.md) and iterating based on real data. By implementing these strategies, you'll not only improve your AI engineering processes but also position yourself as a valuable asset in the rapidly evolving field of applied AI.

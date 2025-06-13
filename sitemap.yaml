@@ -167,18 +167,28 @@ writing/posts/advice.md:
     anticipation, and understanding that setbacks stem from being human. Core keywords
     include personal growth, self-improvement, confidence, career tips, mental health,
     choice, impostor syndrome, resilience, and self-worth.
+writing/posts/ai-agents-cross-linking.md:
+  hash: e8b4e14a208c194e49de302a9a5f6413
+  summary: Discover how to leverage AI agents like GPT-4 and Claude to automate internal
+    cross-linking across 100+ blog posts in just 30 minutes. This approach uses AI-generated
+    content summaries to identify relevant, natural linking opportunities, improving
+    SEO, reader engagement, and content strategy efficiency. By automating summary
+    generation and using AI to analyze semantic relationships between posts, bloggers
+    and content creators can add 50+ precise, actionable cross-links quickly and cost-effectively.
+    Key topics include AI agents, SEO, content strategy, cross-linking, and GPT-4-powered
+    automation for scalable blog optimization.
 writing/posts/ai-engineering-communication.md:
-  hash: 905db113b2ac799e8f722d899465dde5
-  summary: This article explores effective communication strategies for AI engineering
-    updates, emphasizing the importance of clear hypotheses, specific interventions,
-    quantifiable results, and transparent discussion of trade-offs. It highlights
-    how rigorous, data-driven updates enable better decision-making and alignment
-    in probabilistic AI projects, using search optimization examples such as hybrid
-    indexing and query expansion. Key objectives include fostering a culture of continuous
-    improvement, embracing failures as learning opportunities, and enhancing collaboration
-    across AI engineering teams. Keywords include AI engineering, communication, project
-    management, probabilistic systems, search optimization, hypotheses, interventions,
-    results, trade-offs, and failure analysis.
+  hash: 06daa20f3bd23c16058b6513c3142822
+  summary: This article explores how to enhance AI engineering communication by delivering
+    clear, data-driven updates that focus on hypotheses, interventions, measurable
+    results, and trade-offs. Emphasizing effective strategies for reporting progress
+    in probabilistic AI systems, it highlights the importance of specificity, quantifiable
+    metrics, and actionable insights to drive informed decision-making and continuous
+    improvement. Key topics include AI project management, search optimization techniques
+    like hybrid and semantic search, handling failures as learning opportunities,
+    and fostering transparency within AI engineering teams. This guide is essential
+    for AI engineers, software developers, and project leaders aiming to improve collaboration
+    and outcomes in applied AI projects.
 writing/posts/ai-engineering-leaders.md:
   hash: 8a51241ec693a0ea96d6c06a95eb0811
   summary: 'The article "How to Lead AI Engineering Teams" emphasizes the importance
@@ -352,16 +362,17 @@ writing/posts/consulting-listing-prices.md:
     tiered pricing, discovery calls, consulting business development, maximizing consulting
     earnings.'
 writing/posts/consulting-marketing.md:
-  hash: bdc5669718766f89c1666a88fd34f573
-  summary: Discover effective marketing, positioning, and scaling strategies for AI
-    consulting with insights from an experienced former Machine Learning Engineer
-    turned consultant. Learn how to build a targeted marketing plan using the "One
-    Page Marketing Plan," generate high-quality leads through content creation and
-    a data flywheel approach, and close deals using structured situational assessments
-    based on "The Consulting Bible." This guide covers lead generation via blogs,
-    Twitter, and client interactions, emphasizing value-driven proposals and subscription-based
-    services, making it essential for AI, consulting, lead generation, and marketing
-    professionals aiming to grow their consulting practices.
+  hash: d476ec2cf5a9b07ca1dfa14e05000c03
+  summary: This post shares strategic insights on marketing, positioning, and scaling
+    an AI consulting business, emphasizing lead generation through consistent content
+    creation on platforms like Twitter and blogs. Leveraging frameworks like the "One
+    Page Marketing Plan" and situational assessments from "The Consulting Bible,"
+    the author highlights techniques for defining target audiences, creating valuable
+    content, and closing deals effectively. Key topics include transitioning from
+    a technical role to consulting, building a data-driven content flywheel, attracting
+    AI/ML founders and VCs, and achieving high close rates via structured proposals.
+    Ideal for AI consultants and indie consultants seeking marketing strategies, lead
+    generation tips, and scalable business growth methods.
 writing/posts/consulting-predictions.md:
   hash: 5575a4fea3d4d6e2cbbb99e370a2bc84
   summary: 'Discover why AI freelancing in 2024 offers unprecedented opportunities
@@ -401,16 +412,17 @@ writing/posts/consulting-stack.md:
     consulting stack, LLC setup, business banking, invoicing software, AI tools, content
     strategy, scaling consulting practice.'
 writing/posts/consulting-start.md:
-  hash: c2e6a86793acf5831bf11286846fd6a4
-  summary: 'Learn how to start your AI consulting business with a focus on delivering
-    clear value and outcomes rather than just technical skills. This guide covers
-    essential steps like choosing a niche, creating a content strategy, setting up
-    a simple tech stack, and landing your first clients through warm outreach and
-    valuable content. Discover effective pricing strategies using value-based models,
-    avoid common pitfalls such as hourly billing and the expertise trap, and build
-    a sustainable consulting practice that bridges AI technology with real business
-    results. Keywords: AI consulting, value proposition, AI consultant startup, consulting
-    pricing, client acquisition, AI business setup, outcome-based consulting.'
+  hash: c24eaa16716310d1e8837cdea71f6e2d
+  summary: Learn how to start a successful AI consulting business by focusing on delivering
+    clear value and outcomes rather than just technical skills. This comprehensive
+    guide covers essential steps like selecting a niche, creating a targeted content
+    strategy, setting up a simple yet effective business tech stack, and landing your
+    first clients through warm outreach and valuable content. Discover smart pricing
+    strategies based on value rather than hourly rates and avoid common pitfalls such
+    as the expertise trap and time-for-money mindset. Perfect for ML engineers, AI
+    product builders, and aspiring indie consultants aiming to build a sustainable
+    and profitable AI consulting practice. Key topics include AI consulting, business
+    setup, client acquisition, pricing models, content marketing, and referral networking.
 writing/posts/consulting-writing.md:
   hash: 04e0d338885ae6a14d37976c98f63fa1
   summary: 'Discover how consistent writing transformed a consulting business by attracting
@@ -632,21 +644,19 @@ writing/posts/llmops.md:
     and Datadog. Keywords: LLM observability, Open Telemetry, AI agents, metrics,
     distributed systems, model optimization, telemetry data, self-improvement.'
 writing/posts/lovable-pricing-outcomes.md:
-  hash: c2e31e2885f8e1df0d634d0346a4ec3a
-  summary: "This article explores the challenges faced by \"vibe coders\"\u2014creators\
-    \ who build functional AI-powered applications without traditional programming\
-    \ skills\u2014in monetizing their work due to complex fintech and SaaS pricing\
-    \ models. It advocates for platforms like Lovable to adopt outcome-based, revenue-sharing\
-    \ pricing models (e.g., taking 5-15% of creators' revenue) to better align incentives\
-    \ and provide scalable support, migration services, and one-click monetization\
-    \ tools. The concept of a Lovable Partners Program is introduced, offering premium,\
-    \ success-driven support that turns manual services into automated solutions,\
-    \ helping creators scale without costly infrastructure headaches. The piece emphasizes\
-    \ the importance of frictionless monetization for emerging AI creators and envisions\
-    \ a future where platforms pay out billions to creators, fostering sustainable\
-    \ success and growth in the AI creator economy. Key terms include AI monetization,\
-    \ vibe coders, revenue sharing, no-code platforms, SaaS pricing, fintech complexity,\
-    \ migration services, and creator economy."
+  hash: 9f2772121ad29e79312707f1b080af67
+  summary: "This article explores innovative monetization strategies for AI-powered\
+    \ creator platforms like Lovable, emphasizing outcome-based pricing and revenue\
+    \ sharing models aligned with user success. It highlights the challenges \"vibe\
+    \ coders\"\u2014non-traditional creators building apps without coding expertise\u2014\
+    face in monetizing their products due to complex SaaS and fintech infrastructure\
+    \ like Stripe. The author proposes a Lovable Partners Program where the platform\
+    \ takes a percentage of revenue in exchange for premium support, migration assistance,\
+    \ and seamless monetization tools, creating a win-win flywheel that scales with\
+    \ creator success. Key themes include AI tools, value-based pricing, subscription\
+    \ infrastructure, creator economy, revenue sharing, and enabling non-technical\
+    \ creators to monetize without friction. The mission is to empower creators and\
+    \ pay out $1 billion to vibe coders, fostering a new wave of AI-driven entrepreneurship."
 writing/posts/mcp-resouces.md:
   hash: f47fdb13d17b5488fa94b0799f58636f
   summary: The "Prompt Template Resource System Specification" provides a blueprint
@@ -810,19 +820,18 @@ writing/posts/rag-flywheel.md:
     data, precision and recall, continuous improvement, user feedback, data optimization,
     machine learning.'
 writing/posts/rag-improving-rag.md:
-  hash: 2d20f4ac2c09182e7875d6cd80f0e3f4
-  summary: This article provides a systematic approach to improving Retrieval-Augmented
-    Generation (RAG) systems by focusing on key strategies such as using synthetic
-    data for baseline testing, combining full-text and vector search, leveraging metadata
-    for enhanced query understanding, and implementing clear user feedback mechanisms.
-    It emphasizes clustering user queries to identify topic and capability gaps, continuous
-    monitoring and experimentation to optimize performance, and balancing latency
-    with search accuracy based on use case needs. Ideal for AI engineers and companies
-    aiming to optimize RAG applications, the guide covers practical steps to boost
-    retrieval precision, recall, and user satisfaction, ultimately driving better
-    performance and business value in AI-powered data retrieval systems. Key terms
-    include RAG, synthetic data, metadata, vector search, full-text search, user feedback,
-    clustering, monitoring, and latency-performance trade-offs.
+  hash: 1d2253ef63b89f31f415119bd7f6cf30
+  summary: Discover effective strategies to systematically improve Retrieval-Augmented
+    Generation (RAG) systems through synthetic data testing, combining full-text and
+    vector search, and leveraging metadata for enhanced search relevance. Learn how
+    to implement clear user feedback mechanisms, cluster queries by topics and capabilities,
+    and continuously monitor performance to prioritize improvements. Balancing latency
+    and recall based on use-case requirements ensures optimal user experience and
+    business value. This comprehensive guide offers practical steps and insights for
+    developers and organizations to enhance RAG performance, usability, and scalability
+    in AI-driven data retrieval and machine learning applications. Key topics include
+    precision and recall evaluation, query understanding, feedback incorporation,
+    and experimental iteration.
 writing/posts/rag-inverted.md:
   hash: efe22e3461235fa53077cd7768493890
   summary: This article explores the concept of inverted thinking to highlight common
@@ -919,19 +928,21 @@ writing/posts/rag-six-tips-improving.md:
     and user-friendly RAG applications. Key topics include AI, machine learning, precision,
     recall, query management, and feedback-driven optimization.
 writing/posts/rag-what-is-rag.md:
-  hash: 8417fc1c056ed3beba47f330e7be7e6e
-  summary: "Retrieval Augmented Generation (RAG) enhances large language models (LLMs)\
-    \ by integrating external knowledge sources, enabling more accurate, relevant,\
-    \ and up-to-date responses. Key components include a knowledge base, retrieval\
-    \ models, re-rankers, and query understanding, working together to improve factual\
-    \ grounding and reduce hallucinations. RAG systems offer benefits like better\
-    \ accuracy, scalability, and handling complex queries, with applications expanding\
-    \ beyond question answering to report generation. Challenges include data quality,\
-    \ resource demands, and system complexity. Continuous improvement through feedback\
-    \ and experimentation drives RAG\u2019s evolution in AI and machine learning.\
-    \ Keywords: Retrieval Augmented Generation, RAG, large language models, LLM, external\
-    \ knowledge, information retrieval, semantic search, AI, machine learning, factual\
-    \ accuracy, report generation."
+  hash: 1e07491292dda44a70be37431eb0daae
+  summary: 'Retrieval Augmented Generation (RAG) enhances large language models (LLMs)
+    by integrating external knowledge sources like databases and documents, improving
+    accuracy, relevance, and factual grounding. This technique addresses challenges
+    such as LLM hallucinations and outdated information by retrieving relevant data
+    to inform responses. Key components include a knowledge base, retrieval and re-ranking
+    models, query understanding, and the LLM itself. RAG benefits include better user
+    experience, scalability, and handling complex queries, with ongoing improvements
+    driven by metrics, user feedback, and experimentation. Emerging applications focus
+    on report generation for decision-making and resource allocation. Despite challenges
+    like data quality and system complexity, RAG represents a cutting-edge approach
+    in AI and machine learning, transforming information retrieval and generation.
+    Keywords: Retrieval Augmented Generation, RAG, large language models, LLM, external
+    knowledge, retrieval models, semantic search, query understanding, AI, machine
+    learning, factual accuracy, report generation.'
 writing/posts/rag.md:
   hash: 48932143575e341bf5d2d77467190efc
   summary: Discover how Retrieval Augmented Generation (RAG) goes beyond simple embedding
@@ -1125,16 +1136,17 @@ writing/posts/writing-final.md:
     copywriting, digital marketing, social media strategy, and SEO writing to boost
     engagement and conversions effectively.
 writing/posts/writing-style-guide.md:
-  hash: f639cfbb895ba42691f07bf49c22b35b
-  summary: 'The article "Content Creation Mastery: 9 Strategies to 10x Your Impact"
-    offers actionable tips for crafting impactful and engaging content. Key strategies
-    include creating attention-grabbing titles, using specific evidence over vague
-    adjectives, structuring content for easy skimming, and providing clear calls-to-action.
-    It emphasizes making content about the audience''s needs, predicting future challenges
-    with informed insights, and continually improving based on data. Important aspects
-    like using a powerful intro and foreshadowing value are also highlighted. Keywords:
-    content creation, writing tips, SEO strategies, engagement techniques, content
-    marketing.'
+  hash: 3021f79d850547200160b5f1fd235f16
+  summary: 'Master content creation with 9 proven strategies designed to boost impact
+    and engagement. Learn how to craft attention-grabbing titles, hook readers quickly,
+    use precise evidence over vague claims, and clearly foreshadow the value your
+    content delivers. Structure your writing for easy scanning, focus on your audience''s
+    needs, predict future industry challenges, and include one clear, compelling call-to-action.
+    Continually improve your content by analyzing data and iterating for better results.
+    These essential content marketing and writing tips help you create powerful, reader-focused
+    content that drives conversions and grows your brand. Keywords: content creation,
+    writing tips, SEO strategies, engagement techniques, content marketing, call-to-action,
+    data-driven improvement.'
 writing/posts/writing-tweet.md:
   hash: 129bd7549d300a0b2f996207f1f0cd87
   summary: 'This post explores effective strategies for writing impactful tweets by
