@@ -1,0 +1,56 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Blog Post Standards
+
+## Required Frontmatter
+
+All blog posts in [docs/writing/posts/](mdc:docs/writing/posts/) must include:
+
+```yaml
+---
+title: "Post Title"
+description: "Brief description for SEO and previews"
+date: YYYY-MM-DD
+---
+```
+
+## Content Structure
+
+### Required Elements
+1. **Title**: Clear, descriptive title using H1 (`#`)
+2. **Introduction**: Engaging opening paragraph
+3. **<!-- more --> tag**: Must be placed after the excerpt to separate preview from full content
+4. **Proper heading hierarchy**: Use H2 (`##`) for main sections, H3 (`###`) for subsections
+
+### Content Guidelines
+- Write at a 9th-grade reading level
+- Use clear, concise language
+- Include relevant links and references
+- Add images to [docs/writing/posts/img/](mdc:docs/writing/posts/img/) when needed
+
+## Quality Checks
+
+### Pre-commit Hooks
+- **Prettier**: Formats markdown files with consistent styling
+- **More Tag Check**: [check_more_tags.sh](mdc:check_more_tags.sh) validates `<!-- more -->` tags exist
+- **Sitemap Update**: [generate_sitemap.py](mdc:generate_sitemap.py) automatically updates sitemap
+- **Link Validation**: [check_links.py](mdc:check_links.py) checks for broken links
+
+### Manual Checks
+- Verify all links work correctly
+- Ensure proper image paths and alt text
+- Check that content flows logically
+- Validate any code examples or technical content
+
+## File Naming Convention
+- Use kebab-case for filenames (e.g., `my-blog-post.md`)
+- Keep names descriptive but concise
+- Avoid special characters except hyphens
+
+## Cross-linking Strategy
+- Reference related posts using relative links
+- Use the cross-linking system defined in [blog-cross-linking.mdc](mdc:blog-cross-linking.mdc)
+- Create meaningful connections between related content

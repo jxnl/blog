@@ -5,7 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
+    "dub>=0.23.1",
     "mkdocs-material>=9.6.14",
+    "openai>=1.88.0",
+    "typer>=0.16.0",
 ]
 
 [dependency-groups]

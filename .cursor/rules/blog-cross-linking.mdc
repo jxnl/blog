@@ -1,0 +1,75 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Blog Cross-Linking Review Rule
+
+## Overview
+Always review new blog posts for cross-linking opportunities with existing content to improve SEO, reader engagement, and content authority.
+
+## Cross-Linking Process
+
+### 1. Content Analysis
+When creating or editing blog posts in [docs/writing/posts/](mdc:docs/writing/posts/), analyze the content for:
+- Key topics and themes
+- Technical concepts mentioned
+- Related problems or solutions discussed
+- Personal experiences or case studies referenced
+
+### 2. Cross-Link Identification
+Use the [sitemap.yaml](mdc:sitemap.yaml) to identify potential cross-links by:
+- Searching for related topics in existing post summaries
+- Looking for complementary content that builds on the current post
+- Finding posts that provide deeper context or alternative perspectives
+- Identifying posts that address related problems or use cases
+
+### 3. Natural Link Integration
+Add cross-links naturally within the content:
+- Link to foundational concepts when introducing new topics
+- Reference related posts when discussing similar problems
+- Connect to follow-up content that builds on current ideas
+- Link to personal experiences or case studies when relevant
+
+### 4. Cross-Link Categories to Consider
+
+#### RAG & AI Content
+- Link RAG posts to each other (rag-what-is-rag.md → rag-improving-rag.md)
+- Connect AI engineering posts (ai-engineering-leaders.md → ai-engineering-standup.md)
+- Reference technical tutorials and guides
+
+#### Consulting & Business
+- Link consulting strategy posts (consulting-start.md → consulting-everything-i-know.md)
+- Connect pricing and marketing content
+- Reference client case studies and lessons learned
+
+#### Personal Growth & Career
+- Link advice and reflection posts (advice.md → self-loathing.md → getting-goals.md)
+- Connect career development content
+- Reference personal experiences and lessons
+
+#### Technical Content
+- Link related technical tutorials and guides
+- Connect tool reviews and comparisons
+- Reference code examples and implementations
+
+### 5. Link Quality Standards
+- Ensure links provide genuine value to readers
+- Use descriptive anchor text that explains the destination
+- Avoid over-linking (aim for 2-5 relevant cross-links per post)
+- Prioritize links to your most important/popular content
+
+### 6. Review Checklist
+Before finalizing any blog post, verify:
+- [ ] Content has been analyzed for cross-linking opportunities
+- [ ] Relevant existing posts have been identified using sitemap.yaml
+- [ ] Cross-links are naturally integrated into the content
+- [ ] Links use descriptive anchor text
+- [ ] No more than 5 cross-links per post (unless highly relevant)
+- [ ] Links point to complementary or foundational content
+
+## Implementation Notes
+- Use the sitemap.yaml summaries to quickly identify related content
+- Focus on creating a web of interconnected, valuable content
+- Consider the reader's journey and what additional context would be helpful
+- Update cross-links when adding new related content

@@ -1,0 +1,91 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Blog Post Front Matter Standards
+
+All blog posts in [docs/writing/posts/](mdc:docs/writing/posts/) must follow the standard front matter structure to ensure consistency and proper functionality with the MkDocs Material theme.
+
+## Required Front Matter Structure
+
+Every blog post must include the following YAML front matter at the top of the file:
+
+```yaml
+---
+authors:
+  - jxnl
+categories:
+  - [Single Category]
+comments: true
+date: YYYY-MM-DD
+description: [Multi-line description that can wrap]
+draft: false
+slug: [URL-friendly-slug]
+tags:
+  - [Tag 1]
+  - [Tag 2]
+  - [Tag 3]
+---
+```
+
+## Field Requirements
+
+### authors
+- **Required**: Always include `jxnl` as the author
+- **Format**: List format with single author
+
+### categories
+- **Required**: Single category per post
+- **Examples**: "RAG", "Consulting", "Personal Growth", "Applied AI", "Software Engineering"
+- **Format**: List format with single category
+
+### comments
+- **Required**: Always set to `true` to enable comments
+- **Type**: Boolean
+
+### date
+- **Required**: Publication date in YYYY-MM-DD format
+- **Example**: `2024-10-31`
+
+### description
+- **Required**: Multi-line description of the post content
+- **Format**: Can wrap to multiple lines in YAML
+- **Purpose**: Used for SEO and post previews
+
+### draft
+- **Required**: Set to `false` for published posts, `true` for drafts
+- **Type**: Boolean
+
+### slug
+- **Required**: URL-friendly version of the title
+- **Format**: Lowercase, hyphens instead of spaces
+- **Example**: `consulting-everything-i-know` for "Everything I Know About Consulting"
+
+### tags
+- **Required**: Multiple tags for categorization and search
+- **Format**: List format with multiple tags
+- **Examples**: "AI Consulting", "RAG", "Machine Learning", "Personal Growth"
+
+## Content Structure After Front Matter
+
+1. **Main Heading**: H1 heading with the post title
+2. **Excerpt Separator**: Include `<!-- more -->` to indicate where the excerpt ends
+3. **Content**: Regular markdown content with proper formatting
+
+## Examples
+
+See these existing posts for reference:
+- [rag.md](mdc:docs/writing/posts/rag.md) - Technical content example
+- [consulting-everything-i-know.md](mdc:docs/writing/posts/consulting-everything-i-know.md) - Consulting content example
+- [whoami.md](mdc:docs/writing/posts/whoami.md) - Personal content example
+
+## Validation
+
+Before committing any new blog post, ensure:
+1. All required fields are present
+2. Date format is correct (YYYY-MM-DD)
+3. Slug is URL-friendly
+4. Description is descriptive and accurate
+5. Tags are relevant and properly categorized
+6. Draft status is appropriate for the post state

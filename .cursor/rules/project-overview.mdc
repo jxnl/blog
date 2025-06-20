@@ -1,0 +1,49 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Blog Project Overview
+
+This is a personal blog built with MkDocs Material theme, featuring AI consulting content, RAG tutorials, and technical writing.
+
+## Project Structure
+
+### Core Configuration
+- [mkdocs.yml](mdc:mkdocs.yml) - Main MkDocs configuration with Material theme settings
+- [pyproject.toml](mdc:pyproject.toml) - Python project configuration and dependencies
+- [uv.lock](mdc:uv.lock) - Locked dependencies using uv package manager
+
+### Content Organization
+- [docs/](mdc:docs/) - Main documentation directory
+  - [docs/index.md](mdc:docs/index.md) - Homepage
+  - [docs/writing/posts/](mdc:docs/writing/posts/) - Blog posts directory
+  - [docs/writing/index.md](mdc:docs/writing/index.md) - Writing section index
+
+### Build and Development
+- [build_mkdocs.sh](mdc:build_mkdocs.sh) - Build script for MkDocs
+- [generate_sitemap.py](mdc:generate_sitemap.py) - Sitemap generation script
+- [enable_comments.py](mdc:enable_comments.py) - Comment system setup
+- [generate_desc.py](mdc:generate_desc.py) - Description generation utility
+
+### Quality Assurance
+- [.pre-commit-config.yaml](mdc:.pre-commit-config.yaml) - Pre-commit hooks configuration
+- [check_more_tags.sh](mdc:check_more_tags.sh) - Validates blog posts have <!-- more --> tags
+- [check_links.py](mdc:check_links.py) - Link validation script
+
+### Utilities
+- [scripts/shortlinks.py](mdc:scripts/shortlinks.py) - Dub shortlink creation tool
+- [sitemap.yaml](mdc:sitemap.yaml) - Generated sitemap data
+
+## Development Workflow
+
+1. **Content Creation**: Write blog posts in [docs/writing/posts/](mdc:docs/writing/posts/) with proper frontmatter
+2. **Quality Checks**: Pre-commit hooks validate formatting, links, and required tags
+3. **Build**: Use [build_mkdocs.sh](mdc:build_mkdocs.sh) to generate the site
+4. **Shortlinks**: Use [scripts/shortlinks.py](mdc:scripts/shortlinks.py) for creating Dub shortlinks
+
+## Key Technologies
+- **MkDocs Material**: Documentation site generator
+- **uv**: Python package manager (preferred over pip)
+- **Pre-commit**: Code quality hooks
+- **Dub**: URL shortening service integration

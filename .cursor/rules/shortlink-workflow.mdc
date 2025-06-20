@@ -1,0 +1,63 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Shortlink CLI Workflow
+
+## Overview
+When adding external links to blog posts, always use the Dub shortlink CLI to generate trackable links with proper tagging.
+
+## CLI Tool
+Use the shortlink CLI located at [scripts/shortlinks.py](mdc:scripts/shortlinks.py) for all external links.
+
+## Required Workflow
+
+### 1. Generate Shortlink
+Always create a Dub shortlink for external URLs using:
+```bash
+uv run python scripts/shortlinks.py "URL" --title "Descriptive Title" --desc "Short description" --tags "tag1,tag2" --external-id "unique-id" --blog-tag "blog-slug"
+```
+
+### 2. Blog Tagging
+- **Always** use `--blog-tag` with the blog post's filename (without .md extension)
+- Example: For [coding-agents-lessons.md](mdc:docs/writing/posts/coding-agents-lessons.md), use `--blog-tag coding-agents-lessons`
+
+### 3. External ID Convention
+Use descriptive external IDs that include:
+- Blog slug
+- Link purpose
+- Version if needed (e.g., `-v2`)
+
+Examples:
+- `coding-agents-lessons-main-registration`
+- `consulting-stack-legal-article`
+- `rag-course-signup-v2`
+
+### 4. Update Blog Post
+Replace the original URL with the generated Dub shortlink in the markdown file.
+
+## Example Implementation
+```bash
+# Generate shortlink for a new article link
+uv run python scripts/shortlinks.py "https://example.com/article" \
+  --title "Example Article" \
+  --desc "Important article about AI" \
+  --tags "ai,article,reference" \
+  --external-id "my-blog-article-link" \
+  --blog-tag "my-blog-post"
+```
+
+## Benefits
+- All links are trackable in Dub dashboard
+- Links are properly tagged for analytics
+- Consistent link management across all blog posts
+- Easy to find and manage links by blog post
+
+## Dependencies
+The CLI requires:
+- `dub` package (for Dub API)
+- `typer` package (for CLI interface)
+- `DUB_API_KEY` environment variable set
+
+Both packages are already added to the project dependencies via `uv add dub typer`.

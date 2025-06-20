@@ -1,0 +1,84 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Development Workflow
+
+## Environment Setup
+
+### Package Management
+- **Use uv instead of pip**: This project uses [uv](https://docs.astral.sh/uv/) for Python package management
+- **Dependencies**: Defined in [pyproject.toml](mdc:pyproject.toml) and locked in [uv.lock](mdc:uv.lock)
+- **Installation**: `uv sync` to install dependencies
+
+### Key Dependencies
+- `mkdocs-material>=9.6.14` - Documentation site generator
+- `dub>=0.23.1` - URL shortening service client
+- `typer>=0.16.0` - CLI framework
+- `pre-commit>=3.0.0` - Code quality hooks
+
+## Development Commands
+
+### Content Creation
+1. **Create new blog post**: Add markdown file to [docs/writing/posts/](mdc:docs/writing/posts/)
+2. **Add frontmatter**: Include title, description, and date
+3. **Add <!-- more --> tag**: Place after excerpt section
+4. **Run quality checks**: `pre-commit run --all-files`
+
+### Building and Testing
+- **Build site**: `./build_mkdocs.sh` or `mkdocs build`
+- **Serve locally**: `mkdocs serve` for development preview
+- **Generate sitemap**: [generate_sitemap.py](mdc:generate_sitemap.py) runs automatically via pre-commit
+
+### Quality Assurance
+- **Pre-commit hooks**: Run automatically on commit, or manually with `pre-commit run`
+- **Format code**: Prettier formats markdown via pre-commit
+- **Check links**: [check_links.py](mdc:check_links.py) validates all links
+- **Validate more tags**: [check_more_tags.sh](mdc:check_more_tags.sh) ensures blog posts have proper excerpts
+
+## Utility Scripts
+
+### Shortlink Creation
+Use [scripts/shortlinks.py](mdc:scripts/shortlinks.py) to create Dub shortlinks:
+
+```bash
+# Basic usage
+python scripts/shortlinks.py create "https://example.com"
+
+# With metadata
+python scripts/shortlinks.py create "https://example.com" \
+  --title "My Link" \
+  --desc "Description" \
+  --tags "blog,ai" \
+  --blog-tag "rag"
+```
+
+**Requirements**: Set `DUB_API_KEY` environment variable
+
+### Content Management
+- **Generate descriptions**: [generate_desc.py](mdc:generate_desc.py) for SEO descriptions
+- **Enable comments**: [enable_comments.py](mdc:enable_comments.py) for comment system setup
+- **Update sitemap**: [generate_sitemap.py](mdc:generate_sitemap.py) for SEO optimization
+
+## Git Workflow
+
+### Pre-commit Checks
+The [.pre-commit-config.yaml](mdc:.pre-commit-config.yaml) defines these hooks:
+1. **Prettier**: Format markdown files
+2. **Sitemap Update**: Regenerate sitemap when content changes
+3. **More Tag Check**: Validate blog posts have proper excerpts
+
+### Commit Process
+1. Stage changes: `git add .`
+2. Pre-commit hooks run automatically
+3. Fix any issues reported by hooks
+4. Commit: `git commit -m "descriptive message"`
+
+## Troubleshooting
+
+### Common Issues
+- **Missing <!-- more --> tag**: Add the tag after the excerpt in blog posts
+- **Broken links**: Run `python check_links.py` to identify issues
+- **Formatting issues**: Run `pre-commit run prettier` to fix markdown formatting
+- **Dependency issues**: Use `uv sync` to reinstall dependencies

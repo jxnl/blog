@@ -61,3 +61,13 @@ When adding new blog posts:
 - Google Analytics enabled (G-686PKP2V2V)
 - RSS feed available for blog posts
 - MathJax enabled for mathematical notation
+
+## Shortlink CLI Rule
+
+- When adding new external links to any blog post, always use the `scripts/shortlinks.py` CLI to generate a Dub shortlink.
+- Always use the `--blog-tag` option to tag the link with the blog's slug or filename (e.g., `--blog-tag coding-agents-lessons`).
+- Example usage:
+  ```bash
+  uv run python scripts/shortlinks.py "https://example.com" --title "Descriptive Title" --desc "Short description" --tags "tag1,tag2" --external-id "unique-id-for-link" --blog-tag "blog-slug"
+  ```
+- This ensures all links are trackable and associated with the correct blog for analytics and management.

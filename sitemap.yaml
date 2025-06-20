@@ -283,6 +283,21 @@ writing/posts/chasing-chase.md:
     to startups and small businesses. Key topics include Chase Bank, small business
     banking nightmares, entrepreneurial lessons, banking trust issues, and consulting
     insights.
+writing/posts/coding-agents-lessons.md:
+  hash: d6867ca9f72973c7c13694d003a7d8c3
+  summary: "Join the \"RAG for Coding Agents Lightning Series\" to explore cutting-edge\
+    \ debates on retrieval-augmented generation (RAG), single-agent vs. multi-agent\
+    \ architectures, and autonomous code exploration strategies shaping the future\
+    \ of AI-powered coding agents. Hear from leading experts behind SWE-Bench champions,\
+    \ widely adopted VS Code extensions, and billion-dollar AI engineering products\
+    \ as they share deep technical insights, practical approaches, and real-world\
+    \ lessons. This free, live Zoom series covers critical topics like the pros and\
+    \ cons of semantic search in coding agents, context engineering, multi-agent system\
+    \ challenges, and innovative retrieval methods\u2014essential knowledge for developers\
+    \ and teams building reliable, high-performance autonomous coding tools. Keywords:\
+    \ coding agents, retrieval-augmented generation, RAG, autonomous coding, AI development,\
+    \ single-agent architecture, multi-agent systems, code exploration, SWE-Bench,\
+    \ AI software engineer, semantic search, context engineering."
 writing/posts/consulting-content-creation.md:
   hash: 53894875f789094a36acb2133842fa38
   summary: 'This guide for AI consultants offers strategies for creating content that
@@ -729,19 +744,22 @@ writing/posts/prompt-optimization.md:
     scoring functions. Keywords: prompt optimization, few-shot learning, machine learning,
     content generation, AI techniques, hyperparameters, output evaluation.'
 writing/posts/rag-anti-patterns-skylar.md:
-  hash: 7eccd7b3488d81353a81d041768e0733
-  summary: "In the Lightning Lesson \"RAG Anti-Patterns with Skylar Payne,\" Skylar\
-    \ Payne, a seasoned AI practitioner, discusses common pitfalls and challenges\
-    \ in Retrieval-Augmented Generation (RAG) systems across industries like customer\
-    \ support, healthcare, and finance. Key insights focus on data handling, retrieval\
-    \ evaluation, and the importance of continuous data quality assessment at every\
-    \ pipeline stage\u2014from data collection to generation. Payne highlights issues\
-    \ such as silent document failures, irrelevant content, suboptimal chunking, naive\
-    \ indexing, and generation-phase hallucinations. He emphasizes the need for robust\
-    \ evaluation before increasing system complexity, effective metadata use, and\
-    \ adopting advanced techniques like agentic workflows for complex tasks. This\
-    \ session serves as a guide to improve RAG systems by iterating on data insights\
-    \ and refining processes for better performance."
+  hash: dbadc091bf9096fa8750d207ad6a91f1
+  summary: "This comprehensive guide on common RAG (Retrieval-Augmented Generation)\
+    \ anti-patterns, featuring AI expert Skylar Payne, highlights critical challenges\
+    \ and best practices across the entire RAG pipeline\u2014from data collection,\
+    \ extraction, indexing, retrieval, and re-ranking to generation. Emphasizing the\
+    \ importance of continuous data quality inspection, robust evaluation, and iterative\
+    \ improvements, it addresses issues like silent data failures, irrelevant documents,\
+    \ poor chunking strategies, naive embedding use, vague queries, hallucinations,\
+    \ and metadata tagging. Key takeaways include prioritizing user needs, monitoring\
+    \ index freshness, implementing intent classification, reducing system complexity,\
+    \ and validating citations to build reliable, performant RAG systems. Ideal for\
+    \ AI practitioners aiming to optimize RAG implementations in diverse domains such\
+    \ as healthcare, finance, customer support, and e-commerce. Keywords: RAG anti-patterns,\
+    \ retrieval-augmented generation, data quality, AI system evaluation, metadata\
+    \ tagging, hallucination reduction, query intent classification, indexing strategies,\
+    \ re-ranking challenges."
 writing/posts/rag-cohort-3-speakers-improving-rag.md:
   hash: dd395dfb28a87df93ea14b3ad04d30d1
   summary: Join a series of free Lightning Lessons focused on enhancing Retrieval
