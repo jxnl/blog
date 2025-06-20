@@ -284,20 +284,19 @@ writing/posts/chasing-chase.md:
     banking nightmares, entrepreneurial lessons, banking trust issues, and consulting
     insights.
 writing/posts/coding-agents-lessons.md:
-  hash: d6867ca9f72973c7c13694d003a7d8c3
-  summary: "Join the \"RAG for Coding Agents Lightning Series\" to explore cutting-edge\
-    \ debates on retrieval-augmented generation (RAG), single-agent vs. multi-agent\
-    \ architectures, and autonomous code exploration strategies shaping the future\
-    \ of AI-powered coding agents. Hear from leading experts behind SWE-Bench champions,\
-    \ widely adopted VS Code extensions, and billion-dollar AI engineering products\
-    \ as they share deep technical insights, practical approaches, and real-world\
-    \ lessons. This free, live Zoom series covers critical topics like the pros and\
-    \ cons of semantic search in coding agents, context engineering, multi-agent system\
-    \ challenges, and innovative retrieval methods\u2014essential knowledge for developers\
-    \ and teams building reliable, high-performance autonomous coding tools. Keywords:\
-    \ coding agents, retrieval-augmented generation, RAG, autonomous coding, AI development,\
-    \ single-agent architecture, multi-agent systems, code exploration, SWE-Bench,\
-    \ AI software engineer, semantic search, context engineering."
+  hash: 6ea6caff504a97ebda49d6b128f40c38
+  summary: 'Join the "RAG for Coding Agents Lightning Series," featuring leading experts
+    debating the future of autonomous coding agents and key architectural decisions
+    like retrieval-augmented generation (RAG), single-agent vs. multi-agent systems,
+    and code exploration strategies. Explore diverse perspectives from SWE-Bench champions,
+    top AI practitioners, and billion-dollar product creators on how RAG impacts coding
+    agent performance, the challenges of multi-agent architectures, and effective
+    codebase navigation. This free, live Zoom series offers deep technical insights,
+    practical lessons, and industry-defining debates vital for developers, AI engineers,
+    and organizations shaping AI-powered software development. Keywords: autonomous
+    coding agents, retrieval-augmented generation, RAG, single-agent architecture,
+    multi-agent systems, SWE-Bench, AI software engineering, code exploration, AI-powered
+    development.'
 writing/posts/consulting-content-creation.md:
   hash: 53894875f789094a36acb2133842fa38
   summary: 'This guide for AI consultants offers strategies for creating content that

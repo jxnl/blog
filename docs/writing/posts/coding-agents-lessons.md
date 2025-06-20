@@ -20,6 +20,8 @@ If you just want to sign up, you're going to have to visit every single tab, ope
 
 - [Why Devin Does Not Use Multi-Agents](https://dub.sh/Ytmh7XJ) from Walden Yan of Cognition AI
 
+<!-- more -->
+
 ---
 
 ## The Central Questions
@@ -30,17 +32,13 @@ If you just want to sign up, you're going to have to visit every single tab, ope
 
 **How should agents explore code?** Should they chunk and embed repositories, or should they navigate codebases like human engineers—scanning folder structures, following imports, and building mental models through exploration?
 
-<!-- more -->
-
 ---
 
 ## The Sessions
 
 ### RAG in the Age of Agents: SWE-Bench as a Case Study
 
-## Colin Flaherty
-
-**Jun 25, 1-2 PM ET**
+**Colin Flaherty, Jun 25, 1-2 PM ET**
 
 Colin helped build a SWE-Bench–topping agent at Augment Code after researching multi-step reasoning at Meta FAIR. His approach demonstrates how RAG can work effectively in autonomous coding when properly implemented.
 
@@ -53,13 +51,11 @@ Colin helped build a SWE-Bench–topping agent at Augment Code after researching
 
 _Colin represents the "RAG can work" perspective, showing concrete evidence from one of the most challenging coding benchmarks._
 
-[Register for Session](https://dub.sh/YR7ts52){: .md-button }
+[Register for Session](https://dub.sh/YR7ts52){: .md-button .md-button-primary }
 
 ### Lessons on Retrieval for Autonomous Coding Agents
 
-## Nik Pash
-
-**Jul 8, 1-2 PM ET**
+**Nik Pash, Jul 8, 1-2 PM ET**
 
 Nik heads AI at Cline, the autonomous coding agent with 1M+ VS Code installs. His contrarian take: RAG is actively harmful for high-quality coding agents. His viral article "Why I No Longer Recommend RAG for Autonomous Agents" ignited industry-wide debate.
 
@@ -77,15 +73,13 @@ Nik heads AI at Cline, the autonomous coding agent with 1M+ VS Code installs. Hi
 
 _Nik represents the radical "beyond RAG" perspective, advocating for fundamentally different approaches to code understanding._
 
-**Referenced article:** [Read Article](https://dub.sh/ixPNtv8){: .md-button }
+**Referenced article:** [Why I No Longer Recommend RAG for Autonomous Agents](https://dub.sh/ixPNtv8)
 
-[Register for Session](https://dub.sh/TuJgsU0){: .md-button }
+[Register for Session](https://dub.sh/TuJgsU0){: .md-button .md-button-primary }
 
 ### Why Devin Does Not Use Multi-Agents
 
-## Walden Yan
-
-**Jul 15, 2-3 PM ET**
+**Walden Yan, Jul 15, 2-3 PM ET**
 
 Walden is co-founder and CPO of Cognition AI, makers of Devin—the AI software engineer that achieved a $2B valuation. While much of the industry explores multi-agent frameworks, Cognition deliberately chose a single-agent architecture.
 
@@ -104,9 +98,9 @@ Walden is co-founder and CPO of Cognition AI, makers of Devin—the AI software 
 
 _Walden represents the "disciplined single-agent" philosophy that prioritizes reliability and context coherence over architectural complexity._
 
-**Referenced article:** [Read Article](https://cognition.ai/blog/dont-build-multi-agents){: .md-button }
+**Referenced article:** [Why Devin Does Not Use Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents)
 
-[Register for Session](https://dub.sh/Ytmh7XJ){: .md-button }
+[Register for Session](https://dub.sh/Ytmh7XJ){: .md-button .md-button-primary }
 
 ---
 
@@ -149,4 +143,4 @@ _All sessions are free, live on Zoom, and recordings will be shared afterward. E
 
 If you want to see all the talks we've done, you can find them here:
 
-[Applied LLMs](https://maven.com/applied-llms){: .md-button }
+[Applied LLMs](https://maven.com/applied-llms){: .md-button .md-button-primary }
