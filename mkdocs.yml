@@ -127,7 +127,7 @@ nav:
   - Writing:
     - "writing/index.md"
 plugins:
-  # - social  # Temporarily disabled due to cairo library issues
+  - social
   - rss:
       match_path: "writing/posts/.*"
       feed_ttl: 1440
