@@ -40,6 +40,7 @@ By the end, you'll have a comprehensive todo list for setting up your business f
     - [Anthropic Claude](https://claude.ai/new): An AI assistant for various tasks, including content creation and research.
     - [Spiral Computer](https://spiral.computer/): A tool for generating memos and blog posts from transcripts.
     - [Better Diction](https://betterdictation.com/?via=jason): A tool for transcribing and improving the quality of your audio recordings.
+    - [Carry](https://l.carry.com/jia-xin-liu): A platform for managing tax-advantaged accounts (Solo 401k, IRAs) and bookkeeping services tailored for consultants.
 
 <!-- more -->
 
@@ -58,6 +59,12 @@ The first steps in building your consulting practice involve some unsexy but cru
 !!! note "Tax benefits of incorporation"
 
     As a consultant, tracking expenses well can lead to significant tax savings. Make sure you're logging everything from office supplies to client meals. I made the mistake of using personal cards for business expenses and it just made my bookkeeping a mess, esp when it came to expensing and paying myself back.
+
+!!! tip "Automate Your Tax Savings with Carry"
+
+    Once you have basic bookkeeping in place, the next lever is sheltering income from taxes. I use [Carry](https://l.carry.com/jia-xin-liu) for a Solo 401k that handles both my employee deferral and company profit-sharing contributions—up to **$70k** in pre-tax space annually.
+
+    Unlike traditional 401k providers, Carry gives me a real brokerage where I can pick any equity I want. I set up automatic monthly buys into a semiconductor ETF, so I'm always dollar-cost averaging. They also added a taxable brokerage account with the same DCA automation (something Schwab still doesn't offer) and sweep idle cash to FDIC-insured banks paying ~5.14% APY.
 
 ## Essential Software Tools
 
