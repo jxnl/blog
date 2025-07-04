@@ -161,3 +161,10 @@ This series is part of my work with [ImprovingRAG.com](https://improvingrag.com/
 Registration is required to receive the Zoom link for these free sessions.
 
 **You can register for individual sessions using the links above.**
+
+## Want to learn more?
+
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+

@@ -94,3 +94,10 @@ For a deeper understanding of RAG systems:
 ## Conclusion
 
 RAG represents a powerful approach to combining the strengths of LLMs and external knowledge sources. By carefully designing and implementing the components of a RAG system, you can build applications that deliver more accurate, relevant, and useful information to users. The continuous improvement cycle, driven by data analysis, feedback, and experimentation, ensures that RAG systems evolve and become more sophisticated over time. As the field of RAG continues to advance, we can expect to see even more innovative applications that transform the way we interact with information.
+
+## Want to learn more?
+
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
