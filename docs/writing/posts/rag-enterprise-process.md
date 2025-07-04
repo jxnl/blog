@@ -180,3 +180,10 @@ Last night, if you do know what the economic value is, just build the automation
 ---
 
 _Want to dive deeper into implementation details? I'm working on a guide covering MCP patterns, evaluation frameworks, and case studies from the teams who've reached out through improvingrag.com. [Subscribe to improvingrag.com](https://improvingrag.com) for early access and updates._
+
+## Want to learn more?
+
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+

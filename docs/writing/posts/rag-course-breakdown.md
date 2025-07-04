@@ -293,3 +293,10 @@ People see RAG as “LLM plus chunk text.” That’s the superficial part. The 
 I hope this has clarified the methodical, data-driven path to building a world-class RAG system. Stay sharp—**absence bias** and **intervention bias** are always around the corner. Measure everything, refine your pipeline step by step, and you’ll watch your system’s performance rise.
 
 If you enjoyed this post, you can also check out [improvingrag.com](https://improvingrag.com) a free guide that tries to capture much of what we teach in my [maven course](https://maven.com/applied-llms/rag-playbook).
+
+## Want to learn more?
+
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+

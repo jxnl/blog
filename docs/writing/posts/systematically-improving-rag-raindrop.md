@@ -194,3 +194,10 @@ When building AI systems, you want your improvements to be engineered, repeatabl
 Monitor your system before and after making changes to see if the frequency of related issues decreases. Look for positive user feedback that specifically mentions the improved experience. The most reliable validation comes from seeing a measurable reduction in the issues you were targeting, combined with positive user sentiment about the specific improvements you made.
 
 If you want to see the whole video checkout our [lesson](https://maven.com/p/d792aa/online-evals-and-production-monitoring?utm_medium=ll_share_link&utm_source=instructor)
+
+## Want to learn more?
+
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+

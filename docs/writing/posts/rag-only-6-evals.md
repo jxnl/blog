@@ -194,3 +194,10 @@ Because in RAG evaluation, as in RAG implementation, the systematic approach win
 ---
 
 _What's your experience with RAG evaluation? Do you find yourself focusing on particular metrics more than others? Drop a comment below—I'd love to hear which of these 6 relationships causes you the most headaches._
+
+## Want to learn more?
+
+I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+
+[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+
