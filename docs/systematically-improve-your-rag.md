@@ -7,7 +7,7 @@ description: Enhance your RAG applications with our expert-led course. Learn pra
 
 ## Stop Guessing. Start Building RAG That Actually Works.
 
-**:star: Top rated AI course on Maven.com (4.8/5 stars, +200 students) :star:**
+**:star: Top rated AI course on Maven.com (4.8/5 stars, +500 students) :star:**
 
 Confidently build and refine Retrieval-Augmented Generation (RAG) systems that deliver real-world impact. Our 6-week, hands-on course takes you from the fundamentals of evaluating quality all the way through building stable, production-grade capabilities.
 
