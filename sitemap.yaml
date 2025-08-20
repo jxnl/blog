@@ -684,6 +684,19 @@ writing/posts/mcp-resouces.md:
     This system aims to enhance LLM performance and productivity by enabling streamlined
     context sharing and resource utilization. Key terms include token efficiency,
     template syntax, resource references, and XML tags.
+writing/posts/money-models.md:
+  hash: 1e06082e472a8a70df2f2828a78456e0
+  summary: "The $100M Money Models report by Alex Hormozi reveals proven business\
+    \ monetization frameworks designed to build scalable, cash-flow-positive companies.\
+    \ Centered around creating self-funding customer acquisition loops, the report\
+    \ outlines four core mechanisms\u2014Attraction, Upsell, Downsell, and Continuity\
+    \ Offers\u2014that exponentially increase revenue and customer lifetime value.\
+    \ Backed by real-world case studies and a comprehensive implementation system,\
+    \ including AI tools and playbooks, this guide empowers entrepreneurs to overcome\
+    \ cash flow challenges, optimize sales, retention, and pricing strategies, and\
+    \ achieve sustainable growth. Keywords: business scaling, monetization, cash flow\
+    \ management, customer acquisition, revenue growth, retention, pricing strategy,\
+    \ subscription model, Entrepreneurship, $100M Money Models."
 writing/posts/money-negative-margin.md:
   hash: 9e289c993f3f087faa323ec946ceecda
   summary: The article, "Making Money is Negative Margin," reflects on the author's
@@ -760,30 +773,32 @@ writing/posts/rag-anti-patterns-skylar.md:
     \ tagging, hallucination reduction, query intent classification, indexing strategies,\
     \ re-ranking challenges."
 writing/posts/rag-cohort-3-speakers-improving-rag.md:
-  hash: dd395dfb28a87df93ea14b3ad04d30d1
-  summary: Join a series of free Lightning Lessons focused on enhancing Retrieval
-    Augmented Generation (RAG) systems, featuring industry experts from Cohere, Chroma,
-    Groq, OpenBB, and more. The sessions cover practical topics like extending text-based
-    RAG to visual data, optimizing performance, embedding evaluations, and browser-based
-    implementation, all aiming to provide actionable insights and solutions to common
-    RAG challenges. Engage in live Zoom meetings with real-time Q&A and community
-    interaction, with topics including visual RAG, embedding performance, AI monitoring,
-    latency optimization, browser-based RAG, architectural patterns, and data quality
-    improvement. Register now to gain insights into improving your RAG implementations
-    and benefit from expert knowledge and community engagement, presented by ImprovingRAG.com.
+  hash: a818d458aec2279044e410157518feb2
+  summary: Join free live Lightning Lessons featuring industry experts from Cohere,
+    Chroma, Groq, OpenBB, and more to master advanced techniques for enhancing Retrieval
+    Augmented Generation (RAG) systems. These 30-minute Zoom sessions cover key topics
+    such as visual and multimodal RAG, embedding evaluation with generative methods,
+    production monitoring, latency optimization, browser-based RAG, common anti-patterns,
+    natural language search on semi-structured data, and improving data quality for
+    enterprise-scale RAG. Benefit from actionable insights, live Q&A, and practical
+    solutions to optimize your RAG implementations. Register now to connect with AI
+    and machine learning professionals and advance your knowledge in RAG architectures,
+    vector search, LLM integration, and real-world deployment strategies.
 writing/posts/rag-course-breakdown.md:
-  hash: aa047456e821eea99d1c5aca19074f18
-  summary: This comprehensive guide explores systematically improving Retrieval-Augmented
-    Generation (RAG) applications, emphasizing the integration of large language models
-    (LLMs) with external data sources for domain-specific, up-to-date, and interpretable
-    results. Key topics include understanding biases such as absence and intervention
-    bias, evaluating retrieval with precision and recall metrics, using synthetic
-    data, handling segmentation and classification, leveraging structured extraction
-    and multimodality, optimizing query routing and specialized indices, and fine-tuning
-    embeddings and re-rankers. The guide also highlights the importance of user feedback,
-    optimizing user experience (UX) through streaming and interstitials, and refining
-    systems with chain-of-thought prompting and post-validation. Overall, it provides
-    a blueprint for building and iterating robust, production-ready RAG systems.
+  hash: 63af8552c9794c0020ed254efbf01479
+  summary: 'This comprehensive guide on systematically improving Retrieval-Augmented
+    Generation (RAG) applications covers essential strategies to build robust, domain-specific
+    AI systems by integrating large language models with external knowledge bases.
+    It emphasizes the importance of measuring retrieval performance using recall and
+    precision, addressing common pitfalls like absence and intervention bias, and
+    leveraging synthetic data for evaluation. Key techniques include data segmentation,
+    structured extraction, multimodal indexing, query routing, fine-tuning embeddings
+    and re-rankers, and incorporating continuous user feedback to enhance accuracy
+    and usability. The guide advocates a data-driven, iterative approach to transform
+    RAG from a basic prototype into a scalable, production-ready solution. Keywords:
+    Retrieval-Augmented Generation, RAG, large language models, retrieval metrics,
+    synthetic data, segmentation, structured extraction, multimodality, query routing,
+    embeddings fine-tuning, user feedback, AI system optimization.'
 writing/posts/rag-decomposition.md:
   hash: 1fa1cee4c3f240ff180f44572702154d
   summary: 'Discover how to enhance Retrieval-Augmented Generation (RAG) systems by
@@ -796,18 +811,19 @@ writing/posts/rag-decomposition.md:
     across industries. Key keywords include RAG, data analysis, search functionality,
     capabilities, and topics.'
 writing/posts/rag-enterprise-process.md:
-  hash: b381011c20991b055382333b9878f575
-  summary: The article "How to Invest in AI with MCPS and Data Analytics" emphasizes
-    building a discovery system to identify valuable AI projects before committing
-    resources. It suggests starting with a simple chatbot to gauge user interest and
-    leveraging tools like Kura for data-driven insights. The content outlines a strategic
-    approach using Model Context Protocol (MCP) to create scalable, modular AI services
-    that adapt to user needs, highlighting the importance of shared infrastructure,
-    standardized evaluation, and real-time data analysis. Key points include the progression
-    from chatbots to agent-based workflows, the role of MCP in AI investment, and
-    the critical nature of data literacy in evaluating AI performance. This method
-    allows businesses to align AI capabilities with actual demand, maximizing ROI
-    and facilitating strategic AI investment.
+  hash: 560d82509eeb19bbb8dc5324966ca99c
+  summary: 'Learn how to strategically invest in AI using Model Context Protocol (MCP)
+    and data analytics to build scalable, modular AI systems that discover user value
+    before committing resources. This guide emphasizes starting with simple chatbots
+    to collect real usage data, leveraging tools like Kura for pattern analysis, and
+    progressively developing agentic workflows and custom applications based on proven
+    demand. Key points include avoiding early optimization, creating shared AI infrastructure,
+    unified logging and evaluation systems, and applying data-driven decision-making
+    to ensure ROI. Ideal for AI leaders aiming to transition from pilots to production,
+    the approach advocates iterative discovery, usage-driven design, and scalable
+    AI investments aligned with business goals. Keywords: AI strategy, MCP, data analytics,
+    AI investment, chatbots, workflow automation, Kura, usage data, AI evaluation,
+    scalable AI systems, ROI in AI.'
 writing/posts/rag-faq.md:
   hash: 9193c2a67c57501f29408890f5ec3ba7
   summary: 'This comprehensive FAQ summarizes key insights from the "Systematically
@@ -905,22 +921,21 @@ writing/posts/rag-low-hanging-fruit.md:
     and efficiency in RAG applications. Keywords: RAG, search optimization, synthetic
     data, user feedback, full-text search, data-driven, retrieval-augmented generation.'
 writing/posts/rag-only-6-evals.md:
-  hash: 5e8e279e69fc238f62cd795e24240b73
-  summary: "Discover the foundational framework for evaluating Retrieval-Augmented\
-    \ Generation (RAG) systems through six core metrics based on the relationships\
-    \ between Question (Q), Context (C), and Answer (A). This practical, tiered approach\u2014\
-    covering context relevance (C|Q), faithfulness (A|C), answer relevance (A|Q),\
-    \ context support coverage (C|A), question answerability (Q|C), and self-containment\
-    \ (Q|A)\u2014simplifies RAG evaluation, improves system diagnostics, and enhances\
-    \ trust by focusing on targeted failure points. Leverage retrieval precision and\
-    \ recall for baseline tuning, apply LLM-based judgments for nuanced assessments,\
-    \ and tailor domain-specific metrics to optimize RAG performance in fields like\
-    \ medical, customer service, and technical documentation. Master RAG evaluation\
-    \ with this complete, systematic methodology designed to boost AI accuracy, reduce\
-    \ hallucinations, and deliver better user experiences. Keywords: RAG evaluation,\
-    \ retrieval-augmented generation, context relevance, faithfulness, answer relevance,\
-    \ LLM evaluation, retrieval precision, question answerability, AI trust, hallucination\
-    \ mitigation."
+  hash: 4473891286a9474f78c145c3122d6624
+  summary: "Discover the 6 fundamental evaluation metrics for RAG (Retrieval-Augmented\
+    \ Generation) systems, centered on the core components: Question (Q), Context\
+    \ (C), and Answer (A). This practical framework simplifies RAG evaluation into\
+    \ six key relationships\u2014Context Relevance (C|Q), Faithfulness (A|C), Answer\
+    \ Relevance (A|Q), Context Support Coverage (C|A), Question Answerability (Q|C),\
+    \ and Self-Containment (Q|A)\u2014organized into three tiers based on complexity\
+    \ and business impact. Learn how to implement these metrics using traditional\
+    \ retrieval measures and advanced LLM-based evaluations to enhance system trust,\
+    \ reduce hallucinations, and improve user experience. Applicable across domains\
+    \ like medical, customer service, and technical documentation, this systematic\
+    \ approach helps diagnose failure points and optimize RAG product performance\
+    \ efficiently. Keywords: RAG evaluation, Retrieval-Augmented Generation, context\
+    \ relevance, faithfulness, answer relevance, LLM evaluation, retrieval precision,\
+    \ question answerability, domain-specific RAG metrics."
 writing/posts/rag-plusplus.md:
   hash: 499442444b058a95036b36a721e91ab9
   summary: This article explores the future of Retrieval-Augmented Generation (RAG)
@@ -945,21 +960,20 @@ writing/posts/rag-six-tips-improving.md:
     and user-friendly RAG applications. Key topics include AI, machine learning, precision,
     recall, query management, and feedback-driven optimization.
 writing/posts/rag-what-is-rag.md:
-  hash: 1e07491292dda44a70be37431eb0daae
+  hash: 905ee2640bff9c827ab25210198580ac
   summary: 'Retrieval Augmented Generation (RAG) enhances large language models (LLMs)
-    by integrating external knowledge sources like databases and documents, improving
-    accuracy, relevance, and factual grounding. This technique addresses challenges
-    such as LLM hallucinations and outdated information by retrieving relevant data
-    to inform responses. Key components include a knowledge base, retrieval and re-ranking
-    models, query understanding, and the LLM itself. RAG benefits include better user
-    experience, scalability, and handling complex queries, with ongoing improvements
-    driven by metrics, user feedback, and experimentation. Emerging applications focus
-    on report generation for decision-making and resource allocation. Despite challenges
-    like data quality and system complexity, RAG represents a cutting-edge approach
-    in AI and machine learning, transforming information retrieval and generation.
-    Keywords: Retrieval Augmented Generation, RAG, large language models, LLM, external
-    knowledge, retrieval models, semantic search, query understanding, AI, machine
-    learning, factual accuracy, report generation.'
+    by integrating them with external knowledge bases, improving accuracy, relevance,
+    and factual grounding in AI-generated responses. This technique addresses common
+    LLM limitations like hallucinations and outdated information by combining retrieval
+    models, knowledge bases, and language models to deliver contextually rich outputs.
+    Key benefits include handling complex queries, scalability, and continuous improvement
+    through user feedback and iterative testing. RAG is evolving beyond question answering
+    towards report generation, offering significant potential for decision-making
+    and resource allocation. Challenges include data quality, resource demands, and
+    system complexity. Explore comprehensive RAG guides, courses, and strategies to
+    build effective, next-generation AI systems. Key terms: Retrieval Augmented Generation,
+    RAG, large language models, LLM, knowledge base, retrieval model, semantic search,
+    AI, machine learning, natural language processing.'
 writing/posts/rag.md:
   hash: 48932143575e341bf5d2d77467190efc
   summary: Discover how Retrieval Augmented Generation (RAG) goes beyond simple embedding
@@ -1035,20 +1049,18 @@ writing/posts/strings.md:
     and enabling immediate integration of API updates. Important keywords are LLM,
     prompt engineering, API, string formatting, and Python.
 writing/posts/systematically-improving-rag-raindrop.md:
-  hash: 5c91ae5fff170a01c397a0815f31d01c
-  summary: 'The article "Systematically Improving RAG with Raindrop and Oleve" features
-    insights from experts Ben and Sid on AI monitoring and data analysis frameworks.
-    It discusses the limitations of traditional AI monitoring methods, emphasizing
-    the need for structured monitoring to identify and address AI system issues. Ben
-    introduces the concept of "anatomy of an AI issue" with implicit and explicit
-    signals, while Sid presents the Trellis framework for managing AI outputs. Strategies
-    for fixing AI problems include prompt changes, RAG pipeline adjustments, and fine-tuning.
-    Real-world examples highlight the necessity of robust monitoring systems to catch
-    unexpected user behaviors and production failures. Core objectives of the article
-    include exploring effective AI product improvements, understanding AI monitoring
-    fundamentals, and leveraging frameworks for targeted refinement. Keywords: AI
-    monitoring, data analysis, Trellis framework, Raindrop, Oleve, production testing,
-    RAG improvement.'
+  hash: a5767308185ce928b476f049a8378357
+  summary: This article explores systematic approaches to improving AI systems using
+    advanced monitoring and analysis frameworks such as Raindrop and Oleve's Trellis
+    framework. It highlights the limitations of traditional AI evals and the need
+    for production monitoring that tracks implicit and explicit user signals to detect
+    real-world issues. The piece emphasizes organizing AI outputs through discretization,
+    prioritization, and recursive refinement to identify and fix problems effectively
+    via prompt engineering, RAG pipeline adjustments, and fine-tuning. Real-world
+    case studies illustrate the importance of structured workflows for attribution
+    and iterative improvement. Key topics include AI monitoring, production testing,
+    data analysis, RAG (Retrieval-Augmented Generation), user intent clustering, Trellis
+    framework, prompt engineering, and optimizing AI product performance.
 writing/posts/techno-skepticism.md:
   hash: fe4ab65497740d17186f2f19c37df52c
   summary: 'This article explores the historical skepticism toward new technologies
