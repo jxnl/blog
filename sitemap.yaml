@@ -509,21 +509,19 @@ writing/posts/data-literacy.md:
     responsible AI systems. Improve your skills in data analysis, machine learning,
     and data literacy to drive impactful AI projects with confidence and accuracy.
 writing/posts/facets-context-engineering.md:
-  hash: b4794e3c41a36c69b94f1c0a7fcac226
-  summary: "This article explores the evolution of Retrieval-Augmented Generation\
-    \ (RAG) beyond simple chunk-based search towards advanced context engineering\
-    \ tailored for agentic AI systems. It highlights how structuring tool responses\
-    \ with rich metadata, multi-modal content, and faceted search empowers persistent\
-    \ agents to strategically explore and reason over complex information landscapes.\
-    \ Key innovations include transitioning from minimal text chunks to enriched document\
-    \ metadata, optimized multi-modal formats, and facet-driven query refinement,\
-    \ enabling agents to gain \u201Cperipheral vision\u201D of data beyond top-k results.\
-    \ The piece emphasizes that effective search quality, thoughtful prompt and tool\
-    \ design, and iterative context awareness transform databases from passive repositories\
-    \ into active reasoning partners, drastically improving AI performance and business\
-    \ outcomes. Keywords: Retrieval-Augmented Generation, context engineering, agentic\
-    \ AI, faceted search, metadata, multi-modal content, RAG evolution, semantic search,\
-    \ AI tool design, knowledge retrieval."
+  hash: 111f74bdf1adb35d3675414211602b93
+  summary: "Discover why traditional chunk-based Retrieval-Augmented Generation (RAG)\
+    \ limits agentic AI systems and how context engineering unlocks their full potential.\
+    \ This article explores four progressive levels\u2014from minimal chunks and source\
+    \ metadata to multi-modal content and faceted search\u2014that transform search\
+    \ tools into strategic reasoning partners. Learn how providing agents with peripheral\
+    \ vision of the data landscape enhances their ability to plan, explore, and execute\
+    \ complex queries systematically, leading to significant business outcomes like\
+    \ reduced expert escalations and faster resolution times. Key concepts include\
+    \ metadata as prompt engineering, faceted filtering, multi-modal content optimization,\
+    \ and evolving databases from passive storage to active reasoning partners. Ideal\
+    \ for AI practitioners, developers, and teams building intelligent agents seeking\
+    \ advanced RAG techniques and context-aware search strategies."
 writing/posts/few-shot-foot-guns.md:
   hash: a2fa048fa606cc5330d0d673ca865e9c
   summary: The article "10 Foot Guns in Fine-Tuning and Few-Shots" highlights common
