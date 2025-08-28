@@ -18,7 +18,7 @@ This series shares what I've learned from these teams and conversations with pro
 
 ## What is Context Engineering?
 
-We've moved far beyond prompt engineering. Now we're designing portfolios of tools (directory listing, file editing, web search), slash commands like `/prcreate`, specialized sub-agents, and systems that work across IDEs, command lines, GitHub, and Slack.
+We've moved far beyond prompt engineering. Now we're designing portfolios of tools (directory listing, file editing, web search), slash commands like `/pr-create` that inject prompts vs , specialized sub-agents `@pr-creation-agent`, vs having an `AGENT.md` with systems that work across IDEs, command lines, GitHub, and Slack.
 
 Context engineering is designing tool responses and interaction patterns that give agents situational awareness to navigate complex information spaces effectively.
 
@@ -115,6 +115,6 @@ Each post includes practical code examples, implementation strategies, and real 
 
 ## Getting Started
 
-Start with the foundational post [Beyond Chunks: Why Context Engineering is the Future of RAG](./facets-context-engineering/) to understand the core thesis and four-level framework. From there, you can either read sequentially or jump to specific topics based on your current implementation needs.
+Start with the foundational post [Beyond Chunks: Why Context Engineering is the Future of RAG](./context-engineering-tool-response.md) to understand the core thesis and four-level framework. From there, you can either read sequentially or jump to specific topics based on your current implementation needs.
 
 The future of RAG isn't about better embeddings or larger context windows—it's about teaching agents to navigate information spaces systematically. Let's explore how to build that future together.

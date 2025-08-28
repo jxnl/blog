@@ -454,17 +454,18 @@ writing/posts/consulting-writing.md:
     marketing, consulting business growth, AIDA framework, content strategy, AI consulting,
     indie consultant.'
 writing/posts/context-engineering-index.md:
-  hash: 859f39fbbbb308a859a52736a1f2cf1e
-  summary: Discover how to build advanced agentic RAG (Retrieval-Augmented Generation)
-    systems through effective context engineering. This series guides engineering
-    teams, product leaders, and AI researchers beyond basic chunk retrieval toward
-    designing structured tool responses and multi-level architectures that enable
-    agents to explore and navigate complex information landscapes. Learn practical
-    implementation strategies, coding examples, and business impact insights from
-    real-world coding agents and enterprise systems. Key topics include agent tool
-    design, strategic search, performance optimization, and measuring ROI, making
-    this an essential resource for anyone aiming to enhance agent cognition and data
-    organization in RAG workflows.
+  hash: 5a8704477b2b4969f2b3c9f328dfd7d1
+  summary: 'Discover the "Context Engineering Series: Building Better Agentic RAG
+    Systems," a comprehensive guide on advancing from simple chunk-based retrieval
+    to structured tool responses that empower agents to navigate complex information
+    landscapes effectively. This series covers practical strategies for designing
+    persistent, multi-tool agentic systems across coding and enterprise domains, emphasizing
+    situational awareness, multi-level response architectures, and performance optimization.
+    Ideal for engineering teams, product leaders, and AI researchers, it explores
+    how context engineering enhances retrieval-augmented generation (RAG) by transforming
+    agents into strategic explorers of data, unlocking significant business value
+    and ROI. Key topics include tool design, agent cognition, business metrics, and
+    real-world implementation insights.'
 writing/posts/context-engineering-tool-response.md:
   hash: 63982738bfe506920a2c5dd8b80ffd57
   summary: "Discover why traditional chunk-based Retrieval-Augmented Generation (RAG)\
