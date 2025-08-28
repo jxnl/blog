@@ -2,9 +2,8 @@
 title: "Beyond Chunks: Why Context Engineering is the Future of RAG"
 description: "Learn how to move beyond traditional chunk-based RAG to context engineering that gives agents peripheral vision of data landscapes. Explore four levels from basic chunks to faceted search with business outcomes and practical implementation strategies."
 date: 2025-08-27
+slug: "facets-context-engineering"
 tags:
-  - RAG
-  - AI
   - Context Engineering
   - Agents
 ---
@@ -12,6 +11,8 @@ tags:
 # Beyond Chunks: Why Context Engineering is the Future of RAG
 
 **The core insight:** In agentic systems, how we structure tool responses is as important as the information they contain.
+
+_This is the first post in a series on context engineering. I'm starting here because it's the lowest hanging fruit—something every company can audit and experiment with immediately._
 
 RAG worked brilliantly for the past few years. You'd embed documents, search for relevant chunks, stuff them into a prompt, and get surprisingly good answers. Simple, effective, solved real problems.
 
@@ -48,6 +49,9 @@ Good search is the ceiling on your RAG quality. If recall is poor, no prompt eng
 
 Context engineering goes beyond returning chunks. It's about returning actionable structure about the result set so the next tool call can be smarter. Think of it as giving agents peripheral vision about the data landscape.
 
+!!! tip "Start Here: Audit Your Current Tools"
+Before building new infrastructure, audit what your tools actually return. Most improvements are just better string formatting—wrapping results in XML, adding source metadata, including system instructions. No major architectural changes required.
+
 ## The Complexity Tradeoff
 
 Here's the uncomfortable truth: there's no single right answer for how much metadata to include. Every system has different needs, and the more complex you make your tools, the higher the likelihood of hallucinations and tool misuse.
@@ -60,6 +64,8 @@ This reality demands two things from us as builders:
 
 !!! tip "Design Principle"
 Recognize when complexity pays for itself. Metadata that doesn't change agent behavior is just expensive noise.
+
+    **The beauty of context engineering:** You don't need to redesign your tools or rebuild your infrastructure. Most improvements are XML structuring, source tracking, and system instructions—essentially better string formatting with potentially massive upside.
 
 ### Level 1 — Minimal Chunks (No Metadata)
 
@@ -554,12 +560,14 @@ The business impacts are measurable: 90% reduction in clarification questions, 7
 
 ## What's Next
 
-Context engineering adoption will likely follow the same pattern we see in most infrastructure shifts: the teams building agents today will implement it first, then the tooling will catch up.
+This is the first post in a series on context engineering. I started here because it's the most accessible entry point—something every team can experiment with today.
 
-**Coding agents show the path forward.** They already demonstrate faceted thinking: `grep` reveals file distributions, `ls` shows directory structures, then agents strategically call `read_file()` on promising candidates. This grep → semantic search → load full context pattern works for any domain.
+**Why this is the lowest hanging fruit:** Context engineering doesn't require rebuilding your infrastructure or redesigning your tools. It's primarily about better string formatting—wrapping responses in XML, adding source metadata, including strategic system instructions. Low technical lift, potentially massive business impact.
 
-**Vector databases are adding facet support.** TurboPuffer ships facets and aggregations. Others will follow—the technical implementation isn't complex, it's recognizing that agent search needs differ from human search needs.
+**The immediate action:** Go audit your current RAG implementation. Look at what your tools actually return. Are you giving agents peripheral vision of the data landscape, or just the highest-scoring chunks? Most teams can implement Level 2 (source metadata) in an afternoon.
+
+**Adoption will follow the usual pattern:** The teams building agents today will implement context engineering first, then the tooling will catch up. Vector databases are already adding facet support (TurboPuffer ships facets and aggregations), but you don't need to wait for perfect tooling to start.
 
 **Tool responses become teaching moments.** The XML structures and system instructions in your tool responses directly influence how agents think about subsequent searches. Design them intentionally.
 
-Go audit your current RAG implementation. Look at what your tools actually return. Are you giving agents peripheral vision of the data landscape, or just the highest-scoring chunks?
+Next in this series: Advanced faceting strategies, when to use structured vs. extracted metadata, and measuring the business impact of context engineering improvements.

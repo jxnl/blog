@@ -13,6 +13,8 @@ requirements*.txt
 # Ignore specific files that might have special formatting
 sitemap.yaml
 ellipsis.yaml
+docs/writing/posts/facets-context-engineering.md
+docs/writing/posts/context-engineering-index.md
 
 # Ignore any auto-generated files
 **/node_modules/

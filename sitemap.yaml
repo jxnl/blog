@@ -453,6 +453,33 @@ writing/posts/consulting-writing.md:
     Keywords: consulting, consistent writing, inbound leads, client acquisition, content
     marketing, consulting business growth, AIDA framework, content strategy, AI consulting,
     indie consultant.'
+writing/posts/context-engineering-index.md:
+  hash: 859f39fbbbb308a859a52736a1f2cf1e
+  summary: Discover how to build advanced agentic RAG (Retrieval-Augmented Generation)
+    systems through effective context engineering. This series guides engineering
+    teams, product leaders, and AI researchers beyond basic chunk retrieval toward
+    designing structured tool responses and multi-level architectures that enable
+    agents to explore and navigate complex information landscapes. Learn practical
+    implementation strategies, coding examples, and business impact insights from
+    real-world coding agents and enterprise systems. Key topics include agent tool
+    design, strategic search, performance optimization, and measuring ROI, making
+    this an essential resource for anyone aiming to enhance agent cognition and data
+    organization in RAG workflows.
+writing/posts/context-engineering-tool-response.md:
+  hash: 167c7b66eb48834bfdfb09bb841db2fc
+  summary: "Discover why context engineering is the future of Retrieval-Augmented\
+    \ Generation (RAG) for agentic AI systems, moving beyond traditional chunk-based\
+    \ search to providing agents with peripheral vision of the full data landscape.\
+    \ This article outlines four progressive levels\u2014from minimal chunks and source\
+    \ metadata to multi-modal content and faceted search\u2014highlighting how enriched\
+    \ metadata and structured tool responses enable agents to make strategic, iterative\
+    \ queries rather than just retrieving isolated answers. Key benefits include improved\
+    \ agent reasoning, reduced expert escalations, and more effective exploration\
+    \ of complex information spaces. Learn practical strategies to audit and enhance\
+    \ your RAG tools with context engineering, leveraging facets and metadata to transform\
+    \ databases into active reasoning partners. Keywords: Context Engineering, RAG,\
+    \ agentic systems, faceted search, metadata, tool responses, multi-modal content,\
+    \ search optimization, AI agents, knowledge management."
 writing/posts/couch.md:
   hash: 129420f11b4901332225a84d1927f3a3
   summary: "This article critiques the traditional couch as a limiting element in\
@@ -508,21 +535,6 @@ writing/posts/data-literacy.md:
     correlation and causation, AI professionals can build robust, transparent, and
     responsible AI systems. Improve your skills in data analysis, machine learning,
     and data literacy to drive impactful AI projects with confidence and accuracy.
-writing/posts/facets-context-engineering.md:
-  hash: 163cc876681449245f6ad51c334699a3
-  summary: "Discover why traditional chunk-based Retrieval-Augmented Generation (RAG)\
-    \ falls short for agentic AI systems and learn how context engineering provides\
-    \ agents with peripheral vision of data landscapes. This article explores four\
-    \ progressive levels\u2014from minimal chunks to faceted search with multi-modal\
-    \ content\u2014that enable agents to strategically explore information, refine\
-    \ queries, and make informed decisions. Key insights include the transformation\
-    \ of tool responses into prompt engineering, the importance of search quality\
-    \ as a performance ceiling, and how facets reveal hidden data patterns for deeper\
-    \ reasoning. Emphasizing practical implementation strategies and real-world business\
-    \ impacts, this guide showcases why context engineering is the future of RAG in\
-    \ AI, agents, and semantic search technologies. Keywords: RAG, context engineering,\
-    \ agentic AI, faceted search, semantic search, multi-modal content, metadata,\
-    \ AI agents, tool design, search optimization."
 writing/posts/few-shot-foot-guns.md:
   hash: a2fa048fa606cc5330d0d673ca865e9c
   summary: The article "10 Foot Guns in Fine-Tuning and Few-Shots" highlights common
