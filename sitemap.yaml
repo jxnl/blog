@@ -466,20 +466,19 @@ writing/posts/context-engineering-index.md:
     this an essential resource for anyone aiming to enhance agent cognition and data
     organization in RAG workflows.
 writing/posts/context-engineering-tool-response.md:
-  hash: f68575ad7c12554556e70061b0d3099f
-  summary: "Discover why context engineering is the future of Retrieval-Augmented\
-    \ Generation (RAG) in agentic AI systems. This comprehensive guide explores moving\
-    \ beyond traditional chunk-based search to multi-level context strategies\u2014\
-    adding source metadata, multi-modal content formatting, and faceted search\u2014\
-    to empower agents with peripheral vision of data landscapes. Learn how structured\
-    \ tool responses transform databases into active reasoning partners, enabling\
-    \ agents to strategically explore information, improve search quality, and reduce\
-    \ expert escalations. Key topics include metadata-driven prompt engineering, persistence\
-    \ advantage of agents, practical implementation tips, and how facets reveal hidden\
-    \ data patterns for smarter query refinement. Start auditing your RAG tools today\
-    \ to unlock measurable business impact with minimal infrastructure changes. Keywords:\
-    \ Context Engineering, RAG, agentic systems, faceted search, metadata, multi-modal\
-    \ content, prompt engineering, AI agents, knowledge retrieval, search optimization."
+  hash: 63982738bfe506920a2c5dd8b80ffd57
+  summary: "Discover why traditional chunk-based Retrieval-Augmented Generation (RAG)\
+    \ is evolving into context engineering, enabling AI agents to gain peripheral\
+    \ vision of data landscapes for smarter, strategic exploration. This comprehensive\
+    \ guide explains four levels of context engineering\u2014from minimal chunks to\
+    \ advanced faceted search with metadata\u2014that transform databases from passive\
+    \ storage into active reasoning partners. Learn practical strategies to enhance\
+    \ tool responses with source metadata, multi-modal content formatting, and facets\
+    \ to improve search quality, reduce errors, and accelerate resolution times. Start\
+    \ auditing your RAG implementation today to unlock significant business impact\
+    \ without major infrastructure changes. Keywords: Context Engineering, RAG, AI\
+    \ Agents, Faceted Search, Metadata, Multi-Modal Content, Retrieval-Augmented Generation,\
+    \ Search Optimization."
 writing/posts/couch.md:
   hash: 129420f11b4901332225a84d1927f3a3
   summary: "This article critiques the traditional couch as a limiting element in\

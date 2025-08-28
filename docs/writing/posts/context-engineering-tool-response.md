@@ -252,8 +252,6 @@ def load_pages(source: str, pages: list[int]) -> dict:
 </ToolResponse>
 ```
 
-**The optimization:** Content gets formatted for how agents actually reason. Tables become analyzable, images become searchable, and content type becomes queryable metadata. **Business impact: One fintech client saw 75% fewer escalations to subject matter experts after implementing complete document loading—agents could resolve complex queries independently.** This kind of measurable improvement is what I focus on in my consulting approach, where outcomes matter more than technical complexity.
-
 But even with perfectly formatted multi-modal content, agents still face a fundamental limitation: they can only see the top-k results. What about all the other relevant documents that didn't make the similarity cutoff? What patterns exist in the broader dataset that could guide their next search?
 
 This is where facets transform the game entirely. Instead of just returning results, we start returning the _landscape_ of results.
