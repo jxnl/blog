@@ -509,19 +509,20 @@ writing/posts/data-literacy.md:
     responsible AI systems. Improve your skills in data analysis, machine learning,
     and data literacy to drive impactful AI projects with confidence and accuracy.
 writing/posts/facets-context-engineering.md:
-  hash: 111f74bdf1adb35d3675414211602b93
+  hash: 163cc876681449245f6ad51c334699a3
   summary: "Discover why traditional chunk-based Retrieval-Augmented Generation (RAG)\
-    \ limits agentic AI systems and how context engineering unlocks their full potential.\
-    \ This article explores four progressive levels\u2014from minimal chunks and source\
-    \ metadata to multi-modal content and faceted search\u2014that transform search\
-    \ tools into strategic reasoning partners. Learn how providing agents with peripheral\
-    \ vision of the data landscape enhances their ability to plan, explore, and execute\
-    \ complex queries systematically, leading to significant business outcomes like\
-    \ reduced expert escalations and faster resolution times. Key concepts include\
-    \ metadata as prompt engineering, faceted filtering, multi-modal content optimization,\
-    \ and evolving databases from passive storage to active reasoning partners. Ideal\
-    \ for AI practitioners, developers, and teams building intelligent agents seeking\
-    \ advanced RAG techniques and context-aware search strategies."
+    \ falls short for agentic AI systems and learn how context engineering provides\
+    \ agents with peripheral vision of data landscapes. This article explores four\
+    \ progressive levels\u2014from minimal chunks to faceted search with multi-modal\
+    \ content\u2014that enable agents to strategically explore information, refine\
+    \ queries, and make informed decisions. Key insights include the transformation\
+    \ of tool responses into prompt engineering, the importance of search quality\
+    \ as a performance ceiling, and how facets reveal hidden data patterns for deeper\
+    \ reasoning. Emphasizing practical implementation strategies and real-world business\
+    \ impacts, this guide showcases why context engineering is the future of RAG in\
+    \ AI, agents, and semantic search technologies. Keywords: RAG, context engineering,\
+    \ agentic AI, faceted search, semantic search, multi-modal content, metadata,\
+    \ AI agents, tool design, search optimization."
 writing/posts/few-shot-foot-guns.md:
   hash: a2fa048fa606cc5330d0d673ca865e9c
   summary: The article "10 Foot Guns in Fine-Tuning and Few-Shots" highlights common

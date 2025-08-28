@@ -1,7 +1,7 @@
 ---
 title: "Beyond Chunks: Why Context Engineering is the Future of RAG"
 description: "Learn how to move beyond traditional chunk-based RAG to context engineering that gives agents peripheral vision of data landscapes. Explore four levels from basic chunks to faceted search with business outcomes and practical implementation strategies."
-date: 2025-01-24
+date: 2025-08-27
 tags:
   - RAG
   - AI
