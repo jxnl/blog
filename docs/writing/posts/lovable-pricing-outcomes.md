@@ -17,7 +17,7 @@ There's an emerging class of creators, called "vibe coders", who can build funct
 
 ## Hitting the Stripe Wall
 
-Here's my reality: I have a [course](./systematically-improve-your-rag.md) that generated about $800,000 last year. But it required me to pay about $8,000-$9,000 a year in subscription software like Kit.com and Podia, as well as over $100,000 in fees to Maven. And I'm happy to do so because Maven handles things like a little bit of marketing email automation as well as other tools, and someone on support to help me process group sales commissions, discount codes, etc. Have a job board that does $2,000-$3,000 a month, but it's all set up through Zapier integrations because I don't really want to figure out how to write code that does interfaces with Stripe.
+Here's my reality: I have a [course](../../systematically-improve-your-rag.md) that generated about $800,000 last year. But it required me to pay about $8,000-$9,000 a year in subscription software like Kit.com and Podia, as well as over $100,000 in fees to Maven. And I'm happy to do so because Maven handles things like a little bit of marketing email automation as well as other tools, and someone on support to help me process group sales commissions, discount codes, etc. Have a job board that does $2,000-$3,000 a month, but it's all set up through Zapier integrations because I don't really want to figure out how to write code that does interfaces with Stripe.
 
 For something as small as a job board that makes $2000 a month, I could make it better. But as I've learned from my [consulting journey](./consulting-start.md), sometimes the infrastructure complexity isn't worth the marginal gains. I could add subscription tiers, group discounts, automated listing management, upsells. But I don't want to figure out Stripe testing, webhook handling, refund flows, and all the fintech minutiae that turns building into accounting.
 
@@ -37,7 +37,7 @@ Heres some examples of what I'd want:
 
 **Migration and optimization services.** When your Supabase bill starts hurting, Lovable could help you migrate to more cost-effective infrastructure. When you need CDN optimization or database scaling, they're incentivized to help because your success is their success.
 
-As a [consultant](./consulting-everything-i-know.md) myself, I know people would happily pay 5% for this level of support. It's similar to how I structure my [consulting services](./services.md) - focusing on outcomes rather than hours. The alternative is hiring agencies, managing multiple vendors, or learning infrastructure management while trying to run a business.
+As a [consultant](./consulting-everything-i-know.md) myself, I know people would happily pay 5% for this level of support. It's similar to how I structure my [consulting services](../../services.md) - focusing on outcomes rather than hours. The alternative is hiring agencies, managing multiple vendors, or learning infrastructure management while trying to run a business.
 
 Compare that to piecing together Stripe, customer support, infrastructure management, and scaling expertise across multiple vendors. Even 15% starts looking like a bargain.
 

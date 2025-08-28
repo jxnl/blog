@@ -86,7 +86,7 @@ While RAG offers significant advantages, there are also challenges to consider:
 
 For a deeper understanding of RAG systems:
 
-- Take my [comprehensive RAG course](./systematically-improve-your-rag.md)
+- Take my [comprehensive RAG course](../../systematically-improve-your-rag.md)
 - Read the [RAG course breakdown](./rag-course-breakdown.md)
 - Check out the [RAG FAQ](./rag-faq.md)
 - Learn from [RAG anti-patterns](./rag-anti-patterns-skylar.md)
@@ -100,4 +100,3 @@ RAG represents a powerful approach to combining the strengths of LLMs and extern
 I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-

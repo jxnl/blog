@@ -83,20 +83,21 @@ services.md:
     transformation, continuous improvement, experimentation acceleration, data-driven
     prioritization, AI talent development.'
 systematically-improve-your-rag.md:
-  hash: 24938b144fff94c0afc0c24bbb07e8c1
-  summary: 'Enroll in the top-rated 6-week course "Systematically Improve Your RAG
-    Applications" to master Retrieval-Augmented Generation (RAG) techniques with expert-led,
-    hands-on training. Learn to build robust, production-ready RAG systems by mastering
-    synthetic data generation, advanced retrieval methods, embedding optimization,
-    and user-centric product design. This practical program covers evaluation metrics,
-    query segmentation, specialized indices, feedback loops, and advanced prompting
-    to enhance search quality and user satisfaction. Trusted by professionals from
-    leading companies like OpenAI, Google, and Microsoft, the course offers real-world
-    insights, community support, and a money-back guarantee, making it ideal for AI
-    engineers, data scientists, and developers seeking to optimize RAG systems for
-    impactful AI applications. Keywords: RAG course, retrieval-augmented generation,
-    synthetic data, embedding optimization, query routing, AI training, search quality,
-    feedback loops.'
+  hash: 818ddbd2e3ffb33515f5e15ee95b8233
+  summary: 'Enroll in the top-rated 6-week "Systematically Improve Your RAG Applications"
+    course on Maven.com to master Retrieval-Augmented Generation (RAG) systems with
+    practical, expert-led training. Learn how to build robust, production-grade RAG
+    solutions using proven strategies including synthetic data generation, advanced
+    retrieval techniques, embedding optimization, and user-centric product design.
+    Designed for professionals in AI and software development, this course emphasizes
+    measurable improvements, query segmentation, feedback loops, and fine-tuning for
+    real-world impact. Trusted by industry leaders like OpenAI, Google, and Microsoft,
+    it offers hands-on learning, case studies, and a risk-free guarantee. Key topics
+    include evaluation metrics, specialized indices, query routing, embedding fine-tuning,
+    and advanced UI/UX, making it essential for anyone looking to optimize AI-powered
+    search and recommendation systems. Keywords: Retrieval-Augmented Generation, RAG
+    course, synthetic data, query segmentation, embedding optimization, feedback loops,
+    AI systems, production-grade RAG, advanced retrieval, AI training, Maven course.'
 test-cache.md:
   hash: 36c03ebf9de2a59ba8805f64d0f1750a
   summary: 'This document outlines a test cache file designed to demonstrate features
@@ -376,17 +377,19 @@ writing/posts/consulting-listing-prices.md:
     tiered pricing, discovery calls, consulting business development, maximizing consulting
     earnings.'
 writing/posts/consulting-marketing.md:
-  hash: d476ec2cf5a9b07ca1dfa14e05000c03
-  summary: This post shares strategic insights on marketing, positioning, and scaling
-    an AI consulting business, emphasizing lead generation through consistent content
-    creation on platforms like Twitter and blogs. Leveraging frameworks like the "One
-    Page Marketing Plan" and situational assessments from "The Consulting Bible,"
-    the author highlights techniques for defining target audiences, creating valuable
-    content, and closing deals effectively. Key topics include transitioning from
-    a technical role to consulting, building a data-driven content flywheel, attracting
-    AI/ML founders and VCs, and achieving high close rates via structured proposals.
-    Ideal for AI consultants and indie consultants seeking marketing strategies, lead
-    generation tips, and scalable business growth methods.
+  hash: fb7edfee8b48d30d6a8b714e2f03a34f
+  summary: 'This article shares strategic insights on marketing, positioning, and
+    scaling an AI consulting business, emphasizing lead generation through high-quality
+    content creation on platforms like Twitter and blogs. Drawing from personal experience
+    transitioning from a technical role, the author highlights frameworks such as
+    the "One Page Marketing Plan" and situational assessments from "The Consulting
+    Bible" to effectively close deals. Key tactics include leveraging a data flywheel
+    to convert client interactions into valuable content and focusing on founders
+    and VCs as the target audience. Readers will learn actionable strategies for attracting
+    AI/ML clients, creating thought leadership, and increasing consulting revenue
+    through subscription-based services. Keywords: AI consulting, marketing strategies,
+    lead generation, positioning, content marketing, situational assessments, consulting
+    growth, AI/ML consultants.'
 writing/posts/consulting-predictions.md:
   hash: 5575a4fea3d4d6e2cbbb99e370a2bc84
   summary: 'Discover why AI freelancing in 2024 offers unprecedented opportunities
@@ -505,6 +508,22 @@ writing/posts/data-literacy.md:
     correlation and causation, AI professionals can build robust, transparent, and
     responsible AI systems. Improve your skills in data analysis, machine learning,
     and data literacy to drive impactful AI projects with confidence and accuracy.
+writing/posts/facets-context-engineering.md:
+  hash: b4794e3c41a36c69b94f1c0a7fcac226
+  summary: "This article explores the evolution of Retrieval-Augmented Generation\
+    \ (RAG) beyond simple chunk-based search towards advanced context engineering\
+    \ tailored for agentic AI systems. It highlights how structuring tool responses\
+    \ with rich metadata, multi-modal content, and faceted search empowers persistent\
+    \ agents to strategically explore and reason over complex information landscapes.\
+    \ Key innovations include transitioning from minimal text chunks to enriched document\
+    \ metadata, optimized multi-modal formats, and facet-driven query refinement,\
+    \ enabling agents to gain \u201Cperipheral vision\u201D of data beyond top-k results.\
+    \ The piece emphasizes that effective search quality, thoughtful prompt and tool\
+    \ design, and iterative context awareness transform databases from passive repositories\
+    \ into active reasoning partners, drastically improving AI performance and business\
+    \ outcomes. Keywords: Retrieval-Augmented Generation, context engineering, agentic\
+    \ AI, faceted search, metadata, multi-modal content, RAG evolution, semantic search,\
+    \ AI tool design, knowledge retrieval."
 writing/posts/few-shot-foot-guns.md:
   hash: a2fa048fa606cc5330d0d673ca865e9c
   summary: The article "10 Foot Guns in Fine-Tuning and Few-Shots" highlights common
@@ -658,19 +677,21 @@ writing/posts/llmops.md:
     and Datadog. Keywords: LLM observability, Open Telemetry, AI agents, metrics,
     distributed systems, model optimization, telemetry data, self-improvement.'
 writing/posts/lovable-pricing-outcomes.md:
-  hash: 9f2772121ad29e79312707f1b080af67
-  summary: "This article explores innovative monetization strategies for AI-powered\
-    \ creator platforms like Lovable, emphasizing outcome-based pricing and revenue\
-    \ sharing models aligned with user success. It highlights the challenges \"vibe\
-    \ coders\"\u2014non-traditional creators building apps without coding expertise\u2014\
-    face in monetizing their products due to complex SaaS and fintech infrastructure\
-    \ like Stripe. The author proposes a Lovable Partners Program where the platform\
-    \ takes a percentage of revenue in exchange for premium support, migration assistance,\
-    \ and seamless monetization tools, creating a win-win flywheel that scales with\
-    \ creator success. Key themes include AI tools, value-based pricing, subscription\
-    \ infrastructure, creator economy, revenue sharing, and enabling non-technical\
-    \ creators to monetize without friction. The mission is to empower creators and\
-    \ pay out $1 billion to vibe coders, fostering a new wave of AI-driven entrepreneurship."
+  hash: 01ea2ff19b5e7521a78dcfcdc74bf23c
+  summary: 'This article explores the challenges and opportunities in monetizing AI-built
+    applications for a new class of creators called "vibe coders," who can build software
+    using AI tools without traditional programming skills. It critiques the limitations
+    of current subscription-based pricing models and proposes a revenue-sharing model,
+    like Lovable''s Partners Program, where the platform takes a percentage of creators''
+    earnings in exchange for seamless monetization infrastructure, premium support,
+    and migration services. Key ideas include aligning platform incentives with user
+    success, enabling frictionless payment integration, and turning platforms into
+    technical co-founders to help creators scale without fintech expertise. The mission
+    is to empower vibe coders to earn sustainably, envisioning paying out $1 billion
+    to them, and highlighting the importance of outcome-based pricing, AI monetization,
+    and supportive ecosystems for creator economies. Keywords: AI monetization, vibe
+    coders, revenue sharing, Lovable Partners Program, subscription pricing, no-code
+    AI tools, creator economy, fintech integration, outcome-based pricing.'
 writing/posts/mcp-resouces.md:
   hash: f47fdb13d17b5488fa94b0799f58636f
   summary: The "Prompt Template Resource System Specification" provides a blueprint
@@ -960,20 +981,20 @@ writing/posts/rag-six-tips-improving.md:
     and user-friendly RAG applications. Key topics include AI, machine learning, precision,
     recall, query management, and feedback-driven optimization.
 writing/posts/rag-what-is-rag.md:
-  hash: 905ee2640bff9c827ab25210198580ac
+  hash: c4bddeace1024a1a8d741863d6161560
   summary: 'Retrieval Augmented Generation (RAG) enhances large language models (LLMs)
-    by integrating them with external knowledge bases, improving accuracy, relevance,
-    and factual grounding in AI-generated responses. This technique addresses common
-    LLM limitations like hallucinations and outdated information by combining retrieval
-    models, knowledge bases, and language models to deliver contextually rich outputs.
-    Key benefits include handling complex queries, scalability, and continuous improvement
-    through user feedback and iterative testing. RAG is evolving beyond question answering
-    towards report generation, offering significant potential for decision-making
+    by integrating them with external knowledge sources to deliver more accurate,
+    relevant, and factually grounded responses. Key components include a knowledge
+    base, retrieval models, language models, and optional re-rankers and query understanding
+    modules. RAG addresses common LLM limitations like hallucinations and outdated
+    information by retrieving real-time data, improving user experience, handling
+    complex queries, and enabling scalable, domain-specific applications. Continuous
+    improvement through metrics, user feedback, and experimentation is essential.
+    Future trends focus on RAG-powered report generation for better decision-making
     and resource allocation. Challenges include data quality, resource demands, and
-    system complexity. Explore comprehensive RAG guides, courses, and strategies to
-    build effective, next-generation AI systems. Key terms: Retrieval Augmented Generation,
-    RAG, large language models, LLM, knowledge base, retrieval model, semantic search,
-    AI, machine learning, natural language processing.'
+    system complexity. Keywords: Retrieval Augmented Generation, RAG, large language
+    models, LLM, external knowledge, retrieval models, semantic search, query understanding,
+    AI, machine learning, natural language processing, scalable AI systems.'
 writing/posts/rag.md:
   hash: 48932143575e341bf5d2d77467190efc
   summary: Discover how Retrieval Augmented Generation (RAG) goes beyond simple embedding
