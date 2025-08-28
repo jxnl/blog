@@ -42,7 +42,7 @@ An analogy I often use to help understand this concept is as follows: You need s
 
 ## Consider the 80/20 rule
 
-When talking about something being  80% done or 80% ready, it is usually in a machine-learning sense. In this context, each component is deterministic, which means 80% translates to  8 out of 10 features being complete. Once the remaining 2 features are ready, we can ship the product. However, If we want to follow the 80/20 rule, we might be able to ship the product with 80% of the features and then add the remaining 20% later, like a car without a radio or air conditioning. However, The meaning of 80% can vary significantly, and this definition may not apply to an AI-powered application.
+When talking about something being  80% done or 80% ready, it is usually in a software-engineering sense. In this context, each component is deterministic, which means 80% translates to  8 out of 10 features being complete. Once the remaining 2 features are ready, we can ship the product. However, If we want to follow the 80/20 rule, we might be able to ship the product with 80% of the features and then add the remaining 20% later, like a car without a radio or air conditioning. However, The meaning of 80% can vary significantly, and this definition may not apply to an AI-powered application.
 
 ### The issue with Summary Statistics
 
