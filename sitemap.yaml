@@ -466,20 +466,20 @@ writing/posts/context-engineering-index.md:
     this an essential resource for anyone aiming to enhance agent cognition and data
     organization in RAG workflows.
 writing/posts/context-engineering-tool-response.md:
-  hash: 167c7b66eb48834bfdfb09bb841db2fc
+  hash: f68575ad7c12554556e70061b0d3099f
   summary: "Discover why context engineering is the future of Retrieval-Augmented\
-    \ Generation (RAG) for agentic AI systems, moving beyond traditional chunk-based\
-    \ search to providing agents with peripheral vision of the full data landscape.\
-    \ This article outlines four progressive levels\u2014from minimal chunks and source\
-    \ metadata to multi-modal content and faceted search\u2014highlighting how enriched\
-    \ metadata and structured tool responses enable agents to make strategic, iterative\
-    \ queries rather than just retrieving isolated answers. Key benefits include improved\
-    \ agent reasoning, reduced expert escalations, and more effective exploration\
-    \ of complex information spaces. Learn practical strategies to audit and enhance\
-    \ your RAG tools with context engineering, leveraging facets and metadata to transform\
-    \ databases into active reasoning partners. Keywords: Context Engineering, RAG,\
-    \ agentic systems, faceted search, metadata, tool responses, multi-modal content,\
-    \ search optimization, AI agents, knowledge management."
+    \ Generation (RAG) in agentic AI systems. This comprehensive guide explores moving\
+    \ beyond traditional chunk-based search to multi-level context strategies\u2014\
+    adding source metadata, multi-modal content formatting, and faceted search\u2014\
+    to empower agents with peripheral vision of data landscapes. Learn how structured\
+    \ tool responses transform databases into active reasoning partners, enabling\
+    \ agents to strategically explore information, improve search quality, and reduce\
+    \ expert escalations. Key topics include metadata-driven prompt engineering, persistence\
+    \ advantage of agents, practical implementation tips, and how facets reveal hidden\
+    \ data patterns for smarter query refinement. Start auditing your RAG tools today\
+    \ to unlock measurable business impact with minimal infrastructure changes. Keywords:\
+    \ Context Engineering, RAG, agentic systems, faceted search, metadata, multi-modal\
+    \ content, prompt engineering, AI agents, knowledge retrieval, search optimization."
 writing/posts/couch.md:
   hash: 129420f11b4901332225a84d1927f3a3
   summary: "This article critiques the traditional couch as a limiting element in\

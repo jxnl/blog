@@ -14,7 +14,7 @@ tags:
 
 _This is the first post in a series on context engineering. I'm starting here because it's the lowest hanging fruit—something every company can audit and experiment with immediately._
 
-RAG worked brilliantly for the past few years. You'd embed documents, search for relevant chunks, stuff them into a prompt, and get surprisingly good answers. Simple, effective, solved real problems.
+RAG worked brilliantly for the past few years. You'd embed documents, search for relevant chunks, stuff them into a prompt, and get surprisingly good answers. Simple, effective, solved real problems. I've written extensively about [systematically improving RAG applications](./systematically-improving-rag-raindrop.md) and [common RAG anti-patterns](./rag-anti-patterns-skylar.md) to avoid.
 
 But agents changed the game. They're persistent, make multiple tool calls, and build understanding across conversations. They don't just need the right chunk—they need to understand the landscape of available information so they can decide what to explore, make plans and then execute.
 
@@ -45,7 +45,7 @@ This progression leads to two key predictions:
 ## Search Quality is Your Ceiling
 
 !!! warning "Hard Truth"
-Good search is the ceiling on your RAG quality. If recall is poor, no prompt engineering or model upgrade will save you. I've seen teams spend weeks fine-tuning prompts when their real problem was that the relevant information simply wasn't being retrieved.
+Good search is the ceiling on your RAG quality. If recall is poor, no prompt engineering or model upgrade will save you. I've seen teams spend weeks fine-tuning prompts when their real problem was that the relevant information simply wasn't being retrieved. This is why focusing on the right RAG evaluation metrics is crucial.
 
 Context engineering goes beyond returning chunks. It's about returning actionable structure about the result set so the next tool call can be smarter. Think of it as giving agents peripheral vision about the data landscape.
 
@@ -252,7 +252,7 @@ def load_pages(source: str, pages: list[int]) -> dict:
 </ToolResponse>
 ```
 
-**The optimization:** Content gets formatted for how agents actually reason. Tables become analyzable, images become searchable, and content type becomes queryable metadata. **Business impact: One fintech client saw 75% fewer escalations to subject matter experts after implementing complete document loading—agents could resolve complex queries independently.**
+**The optimization:** Content gets formatted for how agents actually reason. Tables become analyzable, images become searchable, and content type becomes queryable metadata. **Business impact: One fintech client saw 75% fewer escalations to subject matter experts after implementing complete document loading—agents could resolve complex queries independently.** This kind of measurable improvement is what I focus on in my consulting approach, where outcomes matter more than technical complexity.
 
 But even with perfectly formatted multi-modal content, agents still face a fundamental limitation: they can only see the top-k results. What about all the other relevant documents that didn't make the similarity cutoff? What patterns exist in the broader dataset that could guide their next search?
 
@@ -538,7 +538,7 @@ All 3 returned contracts are signed, but facets reveal 12 unsigned contracts exi
 
 ## The Persistence Advantage: Why Agents Change Everything
 
-This is the paradigm shift most teams miss: agentic systems are incredibly persistent. Given enough budget and time, they'll keep searching until they find what they need. This fundamentally changes how we should think about search system design.
+This is the paradigm shift most teams miss: agentic systems are incredibly persistent. Given enough budget and time, they'll keep searching until they find what they need. This fundamentally changes how we should think about search system design. This persistence enables continuous feedback loops that improve system performance over time.
 
 Traditional RAG optimized for humans who make one query and expect comprehensive results. Miss something? The human has to think of a different search term or give up. This pressure created the "stuff everything relevant into the first response" mentality that led to context window bloat and degraded performance.
 
@@ -570,4 +570,4 @@ This is the first post in a series on context engineering. I started here becaus
 
 **Tool responses become teaching moments.** The XML structures and system instructions in your tool responses directly influence how agents think about subsequent searches. Design them intentionally.
 
-Next in this series: Advanced faceting strategies, when to use structured vs. extracted metadata, and measuring the business impact of context engineering improvements.
+Next in this series: Advanced faceting strategies, when to use structured vs. extracted metadata, and measuring the business impact of context engineering improvements. For those looking to dive deeper into RAG optimization, check out my posts on [RAG low-hanging fruit improvements](./rag-low-hanging-fruit.md) and [six key strategies for improving RAG](./rag-six-tips-improving.md).
