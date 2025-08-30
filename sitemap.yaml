@@ -453,21 +453,32 @@ writing/posts/consulting-writing.md:
     Keywords: consulting, consistent writing, inbound leads, client acquisition, content
     marketing, consulting business growth, AIDA framework, content strategy, AI consulting,
     indie consultant.'
+writing/posts/context-engineering-compaction.md:
+  hash: 23ed3673afc9918cd389165c514091ee
+  summary: 'This article explores the concept of AI agent compaction, proposing it
+    as analogous to momentum in gradient descent for in-context learning. It outlines
+    two key experiments: first, testing how the timing of compaction affects long-running
+    agent tasks on million-token trajectories; and second, using specialized compaction
+    prompts to analyze agent behavior patterns, failure modes, and user feedback clustering
+    at scale. Emphasizing the need for empirical research and better tooling, the
+    article highlights compaction''s potential to improve agent learning, task success
+    rates, and trajectory observability. Key themes include context engineering, agentic
+    systems, compaction as a compression and optimization technique, long trajectory
+    analysis, and practical experimentation for AI system improvement.'
 writing/posts/context-engineering-index.md:
-  hash: d542d20f067196bc27c4b92fb242aa7f
-  summary: 'Discover the future of agentic Retrieval-Augmented Generation (RAG) systems
-    with this comprehensive Context Engineering Series, focusing on moving beyond
-    simple text chunks toward structured tool responses that enable agents to navigate
-    complex information landscapes effectively. Learn practical strategies for building
-    persistent, multi-tool coding agents that explore data spaces, enhance situational
-    awareness, and improve performance across industries. Key topics include advanced
-    context design, multi-level response architectures, agent-friendly data organization,
-    and measuring business ROI. Ideal for engineering teams, product leaders, and
-    AI researchers, this series offers real-world examples, code snippets, and insights
-    from leading coding agents, empowering you to build smarter, more efficient RAG
-    systems. Keywords: Context Engineering, Agentic RAG, coding agents, tool responses,
-    information navigation, multi-tool agents, slash commands, subagents, enterprise
-    AI, AI product strategy.'
+  hash: 620e850703dcb051b92df300bc695889
+  summary: 'This comprehensive "Context Engineering Series" explores building advanced
+    agentic Retrieval-Augmented Generation (RAG) systems that go beyond simple chunk-based
+    search to structured tool responses enabling agents to strategically navigate
+    complex data landscapes. Covering practical strategies like faceted search, subagent
+    architecture, and agentic compaction, the series offers real-world examples, code
+    snippets, and business metrics to help engineering teams and product leaders optimize
+    agent performance and ROI. Key topics include multi-level response architectures,
+    context-aware tools, and techniques for improving agent cognition and exploration,
+    positioning context engineering as the future of effective RAG system design.
+    Keywords: Context Engineering, Agentic RAG Systems, Tool Responses, Subagents,
+    Faceted Search, AI Agents, Context-Aware Tools, Agent Compaction, Data Navigation,
+    AI Tool Design, Retrieval-Augmented Generation.'
 writing/posts/context-engineering-slash-commands-subagents.md:
   hash: 93901dcf1cfaf6e6f71328d75e52ea07
   summary: "This article explores the critical architectural choice between using\
@@ -484,19 +495,20 @@ writing/posts/context-engineering-slash-commands-subagents.md:
     \ Keywords include context engineering, context pollution, context rot, AI agents,\
     \ subagents, slash commands, Claude Code, token efficiency, and multi-agent systems."
 writing/posts/context-engineering-tool-response.md:
-  hash: 0f7f55da4ee37e7fad1a2f2417ce8ada
-  summary: "Discover the future of Retrieval-Augmented Generation (RAG) through context\
-    \ engineering, which moves beyond traditional chunk-based search by providing\
-    \ AI agents with peripheral vision of the entire data landscape. This approach\
-    \ enhances agent reasoning by structuring tool responses with metadata, multi-modal\
-    \ content, and facets that reveal data patterns and enable strategic exploration.\
-    \ Learn the four levels of context engineering\u2014from minimal chunks to faceted\
-    \ query refinement\u2014along with practical implementation strategies that don't\
-    \ require rebuilding infrastructure. Key benefits include improved search quality,\
-    \ reduced clarification questions, and transforming databases into active reasoning\
-    \ partners. Keywords: Context Engineering, Retrieval-Augmented Generation, RAG,\
-    \ AI Agents, Faceted Search, Metadata, Multi-Modal Content, Search Optimization,\
-    \ Tool Response Structuring."
+  hash: 075cd72be3fcc96ae86e47d8c15d97c9
+  summary: "Discover why context engineering is the future of Retrieval-Augmented\
+    \ Generation (RAG) in AI agent systems. This article explores moving beyond traditional\
+    \ chunk-based search by structuring tool responses with metadata, multi-modal\
+    \ content, and faceted search to provide agents with peripheral vision of data\
+    \ landscapes. Learn four levels of context engineering\u2014from minimal chunks\
+    \ to advanced facets\u2014that empower agents to strategically explore data, improve\
+    \ reasoning, and reduce errors. Key concepts include tool response as prompt engineering,\
+    \ faceted search for query refinement, and turning databases into active reasoning\
+    \ partners. Practical tips help teams audit existing tools and implement context\
+    \ engineering with minimal technical lift for significant business impact. Keywords:\
+    \ Context Engineering, Retrieval-Augmented Generation, RAG, Faceted Search, AI\
+    \ Agents, Metadata, Multi-Modal Content, Prompt Engineering, Data Landscape, Semantic\
+    \ Search."
 writing/posts/couch.md:
   hash: 129420f11b4901332225a84d1927f3a3
   summary: "This article critiques the traditional couch as a limiting element in\

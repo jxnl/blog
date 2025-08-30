@@ -57,13 +57,34 @@ When adding new blog posts:
 
 ### Thought Leadership Posts
 
-**Structure:** Main idea upfront → glossary of key terms → concrete examples → actionable next steps
+**Structure:** Core insights upfront → glossary of key terms → concrete examples → actionable next steps
+
+**Opening Format:** Use "**The core insight:**" or "**Two core insights:**" followed by direct statement. Include series positioning: "_This is part of the [Series Name](./series-index.md). I'm focusing on X because it's where theory meets practice._"
+
+**Subheadings:** Avoid corny/dramatic language. Use direct, descriptive headers like "Implementation Strategy" instead of "The Evolution from Chunks to Context" or "Why Agents Need Different Information Architecture" instead of "The Persistence Advantage: Why Agents Change Everything"
 
 **Citations:** Weave research naturally to support arguments. Use descriptive link text ("research shows", "Anthropic's approach"). Position strategically where they strengthen specific points.
 
 **Key insights:** "Bad context is cheap but toxic" (computational cheapness ≠ business value), coding agents as leading edge, economics/ergonomics matter, transferable principles across industries.
 
-**Tone:** Concise, practical urgency ("this matters now"), concrete metrics, honest about complexity.
+**Tone:** Concise, practical urgency ("this matters now"), concrete metrics, honest about complexity. First-person perspective from consulting experience.
+
+**Consulting Attribution:** Include early reference: "Through my [consulting work](https://jxnl.co/services/), I help companies..." and conclude with collaboration invitation: "If these approaches resonate with your challenges or if you're interested in working together, I'd love to help."
+
+**Cross-linking:** Use blog-crosslink-optimizer agent to enhance posts with natural internal links that add reader value.
+
+## Series Writing Guidelines
+
+**Context Engineering Series:** Multi-post series exploring practical approaches to building better agentic RAG systems. Each post should:
+
+- Position within the broader series narrative
+- Include consistent glossary format with brief definitions
+- Link to services page and mention consulting experience
+- End with series navigation footer
+- Use concrete metrics and business outcomes
+- Avoid overly dramatic or "thought leadership" subheadings
+
+**Blog Post Titles:** Use direct, actionable formats like "Four Levels Every RAG System Should Implement" or "Two Experiments We Need to Run on AI Agent Compaction" rather than abstract concepts.
 
 ## Important Notes
 

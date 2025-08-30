@@ -116,6 +116,12 @@ This series explores practical approaches to context engineering across differen
 
 **Key insight:** Same diagnostic capability, dramatically different economics: slash commands flood main threads with 91% noise, subagents burn tokens off-thread and return 8x cleaner context with 76% signal.
 
+### 3. [Two Experiments We Need to Run on AI Agent Compaction](./context-engineering-compaction.md)
+
+**Core thesis:** If in-context learning is gradient descent, then compaction is momentum. We can use compaction as both an optimization technique and a lens for understanding agent behavior at scale.
+
+**Key insight:** Compaction timing affects learning trajectory preservation, and specialized compaction prompts can reveal systematic patterns in agent failures and successes across populations.
+
 **Start Here:** If you're new to context engineering, begin with the foundational post above.
 
 ## Who This Series Is For
