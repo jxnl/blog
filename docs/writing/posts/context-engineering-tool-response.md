@@ -14,6 +14,12 @@ tags:
 
 _This is the first post in a series on context engineering. I'm starting here because it's the lowest hanging fruit—something every company can audit and experiment with immediately._
 
+**Key Terms:**
+- **Context Engineering:** Structuring tool responses and information flow to give agents the right data in the right format for effective reasoning
+- **Faceted Search:** Exposing metadata aggregations (counts, categories, filters) alongside search results to reveal the data landscape
+- **Agent Peripheral Vision:** Providing agents with structured metadata about the broader information space beyond just the top-k results
+- **Tool Response as Prompt Engineering:** Using XML structure, metadata, and system instructions in tool outputs to guide future agent behavior
+
 RAG worked brilliantly for the past few years. You'd embed documents, search for relevant chunks, stuff them into a prompt, and get surprisingly good answers. Simple, effective, solved real problems. I've written extensively about [systematically improving RAG applications](./systematically-improving-rag-raindrop.md) and [common RAG anti-patterns](./rag-anti-patterns-skylar.md) to avoid.
 
 But agents changed the game. They're persistent, make multiple tool calls, and build understanding across conversations. They don't just need the right chunk—they need to understand the landscape of available information so they can decide what to explore, make plans and then execute.

@@ -106,11 +106,15 @@ This series explores practical approaches to context engineering across differen
 
 ### 1. [Beyond Chunks: Context Engineering Tool Response](./context-engineering-tool-response.md)
 
-The foundational piece that establishes the four-level framework and demonstrates why tool response structure matters as much as content.
+**Core thesis:** Agent success depends on tool response structure, not just content. Shows how faceted search and metadata give agents "peripheral vision" of data landscapes, enabling strategic exploration beyond top-k similarity results.
 
-### 2. [`/slash` vs `@subagents`: A Context Engineering Case Study](./context-engineering-slash-commands-subagents.md)
+**Key insight:** Tool responses become prompt engineering—XML structure and system instructions in tool outputs directly influence how agents think about subsequent searches.
 
-How Claude Code implements context engineering through slash commands vs subagents. Shows how the same diagnostic work can burn 169k tokens with 91% noise (slash commands) vs 21k tokens with 76% signal (subagents).
+### 2. [Slash Commands vs Subagents: How to Keep AI Tools Focused](./context-engineering-slash-commands-subagents.md)
+
+**Core thesis:** Context pollution is killing agent performance, but subagent architecture solves it. Bad context is cheap but toxic—100k lines of logs cost nothing computationally but destroy valuable reasoning context.
+
+**Key insight:** Same diagnostic capability, dramatically different economics: slash commands flood main threads with 91% noise, subagents burn tokens off-thread and return 8x cleaner context with 76% signal.
 
 **Start Here:** If you're new to context engineering, begin with the foundational post above.
 
