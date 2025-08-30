@@ -18,7 +18,7 @@ RAG worked brilliantly for the past few years. You'd embed documents, search for
 
 But agents changed the game. They're persistent, make multiple tool calls, and build understanding across conversations. They don't just need the right chunk—they need to understand the landscape of available information so they can decide what to explore, make plans and then execute.
 
-I learned this building AI systems for clients. We had a perfectly functional search system returning relevant text chunks. Then users started asking "Who modified this document last?" and "How recent is this policy?" and we started asking ourselves, what is the work that these systems can really do?
+I learned this through my consulting work and teaching at [improvingrag.com](https://improvingrag.com). I get to talk to a lot of companies building AI systems, plus I host office hours where teams bring their real production challenges. The pattern is consistent: teams have perfectly functional search systems returning relevant text chunks. Then users start asking "Who modified this document last?" and "How recent is this policy?" and teams start asking themselves, what is the work that these systems can really do?
 
 The breakthrough came when we realized chunks themselves were the limitation. When search results showed multiple fragments from the same document, we were asking agents to piece together puzzles instead of loading complete pages. A simple `load_pages()` function improved agent reasoning dramatically.
 

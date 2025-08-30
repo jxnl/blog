@@ -53,6 +53,18 @@ When adding new blog posts:
 3. Run `python generate_desc.py` to generate AI descriptions if needed
 4. Links should be verified with `python check_links.py`
 
+## Writing Style Guidelines
+
+### Thought Leadership Posts
+
+**Structure:** Main idea upfront → glossary of key terms → concrete examples → actionable next steps
+
+**Citations:** Weave research naturally to support arguments. Use descriptive link text ("research shows", "Anthropic's approach"). Position strategically where they strengthen specific points.
+
+**Key insights:** "Bad context is cheap but toxic" (computational cheapness ≠ business value), coding agents as leading edge, economics/ergonomics matter, transferable principles across industries.
+
+**Tone:** Concise, practical urgency ("this matters now"), concrete metrics, honest about complexity.
+
 ## Important Notes
 
 - The site is live at https://jxnl.co/

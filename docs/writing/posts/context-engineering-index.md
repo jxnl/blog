@@ -102,7 +102,17 @@ This series explores practical approaches to context engineering across differen
 - Performance optimization for agentic workloads
 - Business metrics and ROI measurement strategies
 
-**Start Here:** [Beyond Chunks: Why Context Engineering is the Future of RAG](./facets-context-engineering/) - The foundational piece that establishes the four-level framework and demonstrates why tool response structure matters as much as content.
+## Posts in This Series
+
+### 1. [Beyond Chunks: Context Engineering Tool Response](./context-engineering-tool-response.md)
+
+The foundational piece that establishes the four-level framework and demonstrates why tool response structure matters as much as content.
+
+### 2. [`/slash` vs `@subagents`: A Context Engineering Case Study](./context-engineering-slash-commands-subagents.md)
+
+How Claude Code implements context engineering through slash commands vs subagents. Shows how the same diagnostic work can burn 169k tokens with 91% noise (slash commands) vs 21k tokens with 76% signal (subagents).
+
+**Start Here:** If you're new to context engineering, begin with the foundational post above.
 
 ## Who This Series Is For
 
