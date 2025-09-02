@@ -14,7 +14,10 @@ tags:
 
 _This is the first post in a series on context engineering. I'm starting here because it's the lowest hanging fruit—something every company can audit and experiment with immediately._
 
+<!-- more -->
+
 **Key Terms:**
+
 - **Context Engineering:** Structuring tool responses and information flow to give agents the right data in the right format for effective reasoning
 - **Faceted Search:** Exposing metadata aggregations (counts, categories, filters) alongside search results to reveal the data landscape
 - **Agent Peripheral Vision:** Providing agents with structured metadata about the broader information space beyond just the top-k results

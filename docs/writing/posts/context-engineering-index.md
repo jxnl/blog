@@ -16,6 +16,8 @@ I've been helping companies build agentic RAG systems and studying coding agents
 
 This series shares what I've learned from these teams and conversations with professional developers using these systems daily, exploring what we can apply to other industries.
 
+<!-- more -->
+
 ## What is Context Engineering?
 
 We've moved far beyond prompt engineering. Now we're designing portfolios of tools (directory listing, file editing, web search), slash commands like `/pr-create` that inject prompts vs , specialized sub-agents `@pr-creation-agent`, vs having an `AGENT.md` with systems that work across IDEs, command lines, GitHub, and Slack.

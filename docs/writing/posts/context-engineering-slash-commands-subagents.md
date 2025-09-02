@@ -17,6 +17,8 @@ series: Context Engineering
 
 _This is part of the [Context Engineering Series](./context-engineering-index.md) that shows how to build better AI tools based on what I've learned from coding assistants and business systems._
 
+<!-- more -->
+
 **Key Terms:**
 
 - **Context Engineering:** Building dynamic systems to provide the right information and tools in the right format so agents can accomplish tasks reliably

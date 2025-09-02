@@ -20,6 +20,8 @@ draft: true
 
 _This is part of the [Context Engineering series](./context-engineering-index.md). I'm focusing on compaction because it's where theory meets practice—and where we desperately need empirical research._
 
+<!-- more -->
+
 Through my [consulting work](https://jxnl.co/services/), I help companies build better AI systems and I've been thinking about compaction and how it connects to the research showing that [in-context learning is gradient descent](https://arxiv.org/abs/2212.07677). If that's true, then compaction is basically a momentum term. And if compaction is momentum, there are two experiments I desperately want to see someone run.
 
 This builds on the foundational concepts I've explored in [context engineering](./context-engineering-tool-response.md), where the structure of information flow becomes as critical as the information itself.
