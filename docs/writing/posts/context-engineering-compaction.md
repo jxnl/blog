@@ -8,7 +8,6 @@ tags:
   - Agents
   - Research
   - Compaction
-draft: true
 ---
 
 # Two Experiments We Need to Run on AI Agent Compaction

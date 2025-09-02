@@ -454,61 +454,60 @@ writing/posts/consulting-writing.md:
     marketing, consulting business growth, AIDA framework, content strategy, AI consulting,
     indie consultant.'
 writing/posts/context-engineering-compaction.md:
-  hash: 23ed3673afc9918cd389165c514091ee
-  summary: 'This article explores the concept of AI agent compaction, proposing it
-    as analogous to momentum in gradient descent for in-context learning. It outlines
-    two key experiments: first, testing how the timing of compaction affects long-running
-    agent tasks on million-token trajectories; and second, using specialized compaction
-    prompts to analyze agent behavior patterns, failure modes, and user feedback clustering
-    at scale. Emphasizing the need for empirical research and better tooling, the
-    article highlights compaction''s potential to improve agent learning, task success
-    rates, and trajectory observability. Key themes include context engineering, agentic
-    systems, compaction as a compression and optimization technique, long trajectory
-    analysis, and practical experimentation for AI system improvement.'
+  hash: 3ce96e5b69420e586f74e33e0a86a56b
+  summary: This article explores the concept of AI agent compaction, likening it to
+    momentum in gradient descent, and proposes two key experiments to advance understanding
+    and optimization of long-running agent tasks. The first experiment investigates
+    how timing of compaction affects success rates in million-token agent trajectories
+    on complex coding tasks, while the second uses specialized compaction prompts
+    to analyze agent behaviors and failure modes at a population level. By focusing
+    on compaction as a tool for preserving learning trajectories and improving trajectory
+    observability, the research aims to enhance AI agent performance, address context
+    pollution, and enable systematic analysis of multi-step reasoning in agents. Keywords
+    include AI agent compaction, in-context learning, momentum analogy, long-running
+    tasks, trajectory observability, failure mode detection, context engineering,
+    and agent optimization.
 writing/posts/context-engineering-index.md:
-  hash: 620e850703dcb051b92df300bc695889
-  summary: 'This comprehensive "Context Engineering Series" explores building advanced
-    agentic Retrieval-Augmented Generation (RAG) systems that go beyond simple chunk-based
-    search to structured tool responses enabling agents to strategically navigate
-    complex data landscapes. Covering practical strategies like faceted search, subagent
-    architecture, and agentic compaction, the series offers real-world examples, code
-    snippets, and business metrics to help engineering teams and product leaders optimize
-    agent performance and ROI. Key topics include multi-level response architectures,
-    context-aware tools, and techniques for improving agent cognition and exploration,
-    positioning context engineering as the future of effective RAG system design.
-    Keywords: Context Engineering, Agentic RAG Systems, Tool Responses, Subagents,
-    Faceted Search, AI Agents, Context-Aware Tools, Agent Compaction, Data Navigation,
-    AI Tool Design, Retrieval-Augmented Generation.'
+  hash: 2078bb0b804eb89055b887b01e9bcccd
+  summary: This comprehensive "Context Engineering Series" explores advanced strategies
+    for building agentic Retrieval-Augmented Generation (RAG) systems that go beyond
+    traditional chunk-based approaches. It focuses on designing structured tool responses
+    and interaction patterns to give AI agents situational awareness for navigating
+    complex data landscapes effectively. Covering topics like faceted search, subagent
+    architectures, and agent-friendly data organization, the series offers practical
+    implementation guidance, real-world case studies, and business metrics. Ideal
+    for engineering teams, product leaders, and AI researchers, it highlights how
+    context engineering enhances agent cognition, optimizes performance, and drives
+    measurable ROI in coding and enterprise AI applications. Keywords include Context
+    Engineering, Agentic RAG, AI Agents, Tool Responses, Structured Data, Subagents,
+    Faceted Search, and AI Optimization.
 writing/posts/context-engineering-slash-commands-subagents.md:
-  hash: 93901dcf1cfaf6e6f71328d75e52ea07
-  summary: "This article explores the critical architectural choice between using\
-    \ slash commands versus subagents to keep AI tools focused when handling large,\
-    \ messy data like logs and test outputs. It highlights how slash commands overwhelm\
-    \ the main AI context with noisy data, causing context pollution and rot, while\
-    \ subagents process complex tasks separately and return distilled insights, resulting\
-    \ in cleaner, more efficient workflows. Using Claude Code as a case study, the\
-    \ post demonstrates that subagents dramatically reduce token usage and improve\
-    \ context quality\u2014key for building scalable, reliable AI systems in coding,\
-    \ customer support, financial analysis, and more. The core takeaway: isolate heavy,\
-    \ read-only tasks in specialized subagents to preserve main thread focus and performance,\
-    \ a foundational principle in context engineering and multi-agent system design.\
-    \ Keywords include context engineering, context pollution, context rot, AI agents,\
-    \ subagents, slash commands, Claude Code, token efficiency, and multi-agent systems."
+  hash: fa105fd5a6f4533924acabc480533992
+  summary: This article explores the critical architectural choice between using slash
+    commands and subagents to manage messy, token-intensive tasks in AI tools, focusing
+    on Claude Code as a case study. It highlights how slash commands pollute the main
+    AI context with excessive diagnostic data, leading to context rot and degraded
+    performance, while subagents isolate heavy processing off-thread, returning only
+    distilled, useful insights to keep the main reasoning thread focused and efficient.
+    Key concepts include context engineering, context pollution, context rot, and
+    multi-agent systems, emphasizing the importance of clean information management
+    to build scalable, reliable AI agents for coding, customer support, financial
+    analysis, and more. The article guides readers on auditing workflows, deciding
+    when to implement subagents, and understanding the token economics behind maintaining
+    AI focus and performance.
 writing/posts/context-engineering-tool-response.md:
-  hash: 075cd72be3fcc96ae86e47d8c15d97c9
-  summary: "Discover why context engineering is the future of Retrieval-Augmented\
-    \ Generation (RAG) in AI agent systems. This article explores moving beyond traditional\
-    \ chunk-based search by structuring tool responses with metadata, multi-modal\
-    \ content, and faceted search to provide agents with peripheral vision of data\
-    \ landscapes. Learn four levels of context engineering\u2014from minimal chunks\
-    \ to advanced facets\u2014that empower agents to strategically explore data, improve\
-    \ reasoning, and reduce errors. Key concepts include tool response as prompt engineering,\
-    \ faceted search for query refinement, and turning databases into active reasoning\
-    \ partners. Practical tips help teams audit existing tools and implement context\
-    \ engineering with minimal technical lift for significant business impact. Keywords:\
-    \ Context Engineering, Retrieval-Augmented Generation, RAG, Faceted Search, AI\
-    \ Agents, Metadata, Multi-Modal Content, Prompt Engineering, Data Landscape, Semantic\
-    \ Search."
+  hash: 1598e30966a47c7f2fee8f0d1b95b82f
+  summary: 'Discover why context engineering is the future of Retrieval-Augmented
+    Generation (RAG) in AI agentic systems. Moving beyond traditional chunk-based
+    search, this approach structures tool responses with metadata, multi-modal content,
+    and faceted search to provide agents with peripheral vision of the entire data
+    landscape. Key concepts include improved tool response formatting, strategic document
+    loading, and leveraging facets for query refinement, enabling agents to explore,
+    plan, and reason more effectively. Learn practical implementation strategies across
+    four levels of context engineering, boosting search quality, reducing errors,
+    and transforming databases into active reasoning partners. Keywords: Context Engineering,
+    RAG, Faceted Search, Agents, Tool Response, Metadata, Multi-Modal Content, Search
+    Optimization, Query Refinement, AI Systems.'
 writing/posts/couch.md:
   hash: 129420f11b4901332225a84d1927f3a3
   summary: "This article critiques the traditional couch as a limiting element in\
