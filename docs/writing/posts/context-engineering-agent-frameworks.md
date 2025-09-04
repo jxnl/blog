@@ -138,43 +138,9 @@ This is how you build agent systems that actually work in production: not as mon
 
 ---
 
-## Part III — "Show me, don't tell me." A conversation with Vignesh
+## From Concept to Working System
 
-[Vignesh](https://nila.is/) asked the key questions that every CTO has about agent reliability and cost. During our call, I showed him a working example: a simple prototype with clear tools and measurable results.
-
-**Vignesh:** *Everyone says “build an agent,” and the diagrams always have a while-loop. In practice, how do you know it won’t wander? How do you get order without hard-coding order?*
-
-**Jason:** I don't build the loop first. I set up a testing environment with clear instructions and well-named tools. The instructions describe the job and when it's complete. The tools explain what they need and what they return. Error messages guide the AI to the next step when something goes wrong.
-
-**Vignesh:** *Okay, but does it do anything non-toy?*
-
-**Jason:** I showed you a simple example with three tools. The goal: "Take a YouTube URL and create study notes." The tools download subtitles, clean up timestamps to save tokens, and format content into sections with bullet points. The instructions were clear: clean the transcript if needed, then read it, then write notes in the specified format, then stop when done.
-
-**Vignesh:** *And on screen?*
-
-**Jason:** You saw it handle the tricky part. The video didn't have English subtitles, which would break a rigid script. But the system adapted: it got what subtitles were available, cleaned them up, and still produced useful notes. It worked because we set a clear goal and gave it the right tools.
-
-**Vignesh:** *You keep saying “harness.” Why not just wire an orchestrator and be done with it?*
-
-**Jason:** The testing setup shows us if the idea works before we build complex systems. I create test folders with real URLs, run the project, and check if the output file has the right format—one title, three sections, ten bullets each. If it works once, we know it's possible. If it never works, we learn that quickly and cheaply.
-
-**Vignesh:** *Where do you put the intelligence, then—in the model or in the tools?*
-
-**Jason:** Both places, but differently. Tools define what's possible and how to use them. Instructions explain the goal and steps. Error messages teach the AI what to do next: "Missing `user_id`; first call `lookup_user(email)`." Good error messages guide the AI better than long prompts.
-
-**Vignesh:** *And cost? Leaders will ask.*
-
-**Jason:** Track it from the start. Testing shows you the real costs quickly: number of API calls, response time, success rate. If common tasks work reliably, write code for those and use AI for edge cases. If nothing is predictable, at least you know that before spending months building.
-
-**Vignesh:** *So your rule of thumb?*
-
-**Jason:** Use regular code when possible. Add AI functions for messy data. Chain AI calls for multi-step tasks. Use graphs when workflows branch. Save tool-calling loops for complex cases that need flexibility. Test everything quickly before building production systems.
-
----
-
-## From Conversation to Prototype: The Fast Path
-
-During our conversation, [Vignesh](https://nila.is/) and I explored a critical question that comes up in every agent consulting engagement: *How do you test whether an agent idea actually works without building all the infrastructure first?*
+A critical question comes up in every agent consulting engagement: *How do you test whether an agent idea actually works without building all the infrastructure first?*
 
 The answer turned into a complete methodology that I've extracted into its own guide: **[Context Engineering: Rapid Agent Prototyping](./context-engineering-agent-prototyping.md)**.
 
