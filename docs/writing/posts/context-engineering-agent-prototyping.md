@@ -22,6 +22,8 @@ tags:
 
 Most teams waste months building agent frameworks before they know if their idea actually works. There's a faster way: use Claude Code as your testing harness to validate agent concepts without writing orchestration code.
 
+<!-- more -->
+
 ## The Core Problem
 
 When teams want to test an agent idea, they typically start by building infrastructure:
@@ -232,84 +234,20 @@ For transcripts >50,000 characters:
 
 **Production migration**: Successful test folders become your production test suite. Tools and instructions transfer directly to any framework you build.
 
-## Real Example: Customer Service Agent
-
-Let me show you how this works for a more complex scenario:
-
-```markdown
-# Customer Service Agent
-
-## Mission
-Process customer support requests and route to appropriate resolution
-
-## Execution Flow
-1. Parse customer email/message using parse-request tool
-2. Look up customer history using customer-lookup tool  
-3. Classify issue severity and type using classify-issue tool
-4. Route to appropriate resolution:
-   - Password reset → trigger-password-reset tool
-   - Billing inquiry → escalate-to-billing tool
-   - Technical issue → create-support-ticket tool
-5. Send response using send-response tool
-
-## Available Tools
-- `parse-request <message>` → structured request data
-- `customer-lookup <email>` → customer history and account status
-- `classify-issue <request_data>` → severity and category
-- `trigger-password-reset <customer_id>` → reset link sent
-- `escalate-to-billing <customer_id> <issue>` → billing team notified
-- `create-support-ticket <details>` → ticket created
-- `send-response <customer_email> <response>` → customer notified
-```
-
-Test scenarios become customer emails with expected outcomes:
-
-```
-# tests/password-reset-request/request.txt
-From: user@example.com
-Subject: Can't log in to my account
-
-Hi, I've been trying to log in but keep getting "invalid password" errors. 
-I'm sure I'm using the right password. Can you help me reset it?
-
-Thanks,
-Jane
-```
-
-```python
-# tests/password-reset-request/check.py
-import json
-import pathlib
-
-# Check that password reset was triggered
-reset_file = pathlib.Path("password_reset_triggered.json")
-assert reset_file.exists(), "Password reset was not triggered"
-
-reset_data = json.loads(reset_file.read_text())
-assert reset_data["customer_email"] == "user@example.com"
-assert reset_data["method"] == "email_link"
-
-# Check customer response was sent
-response_file = pathlib.Path("customer_response.txt")
-assert response_file.exists(), "No response sent to customer"
-
-response = response_file.read_text()
-assert "password reset link" in response.lower()
-assert "user@example.com" in response
-
-print("✅ Password reset flow completed correctly")
-```
-
 ## When This Methodology Doesn't Apply
 
-Clear boundaries exist:
+The boundaries are narrower than you might expect:
 
-* **Real-time interaction dependencies**: If the agent's value requires immediate user feedback loops
-* **Multi-session state requirements**: When context must persist across days or users  
-* **High-volume production loads**: Claude Code isn't designed for concurrent execution at scale
-* **Complex authentication flows**: OAuth dances make CLI wrappers cumbersome
+- **High-volume production loads**: Claude Code isn't designed for concurrent execution at scale—but this rarely matters for prototyping
+- **Hardware integration requirements**: Physical device control or specialized hardware interfaces can't be easily wrapped in CLI tools
 
-But for the fundamental question—"Is this agent idea possible?"—this provides the fastest path to evidence.
+**Common misconceptions about limitations:**
+
+- **Complex authentication**: Actually works well—API keys, service account tokens, and even multi-step auth flows can be handled in your CLI wrappers. Claude Code manages tool permissions and can resume from previous sessions.
+- **Multi-session state**: Claude Code handles conversation history and can pick up where it left off across sessions. State that needs to persist beyond the conversation can be managed through your tools.
+- **Real-time interaction**: The command-line interaction pattern is often simpler than building a chat interface—users can provide input when the agent requests it.
+
+But for the fundamental question—"Is this agent idea possible?"—this provides the fastest path to evidence in almost all cases.
 
 ## Implementation Checklist
 
@@ -322,21 +260,7 @@ Before writing orchestration code:
 - [ ] **Build simple CLI tool wrappers** for your APIs
 - [ ] **Execute test scenarios** and iterate on instructions/tools
 - [ ] **Achieve at least one passing test** before considering production architecture
-
-## Migration to Production
-
-Once you have passing tests, you have several options:
-
-**Option 1: Harden the harness**
-Keep using Claude Code but add proper logging, monitoring, and error handling for production workloads.
-
-**Option 2: Reimplement the hot path**  
-Use your successful tests as specifications to build optimized production code for the most common scenarios.
-
-**Option 3: Hybrid approach**
-Build deterministic workflows for the predictable 80% of cases, keep the agent for the complex 20%.
-
-The test folders become your regression suite regardless of which path you choose.
+- [ ] **Explore architectural patterns**: Use the prototype to test whether [slash commands or subagents](./context-engineering-slash-commands-subagents.md) work better for your specific use case
 
 ## Conclusion
 
