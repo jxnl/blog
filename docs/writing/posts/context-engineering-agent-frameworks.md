@@ -92,19 +92,49 @@ Chain multiple AI calls together when tasks need several steps: draft, then crit
 
 **Common mistake:** Using chains for simple tasks that need only one AI call, or for complex tasks that need branching logic.
 
-### Step 3: The graph state machine (Level **two**)
+### Step 3: The graph state machine
 
 Here the workflow has multiple paths. You define specific states and transitions between them. The AI helps choose which path to take when the data isn't clear. For example: intake leads to triage, which leads to one of three different workflows, each with its own ending conditions.
 
 **Key difference:** You recognize that requests are different and need different handling. You track the current state clearly instead of hiding it in prompts.
 
-### Step 4: The tool-calling loop (Level **three**)
+### Step 4: The tool-calling loop
 
 This is the classic "agent": a loop where the AI suggests an action, you execute it with a tool, add the result back to the conversation, and repeat until the task is complete. It's powerful but expensive and easy to get wrong. Use this for unusual cases that can't be handled with fixed workflows.
 
 **How to control it:** Put the steps in your system prompt, tool descriptions, and error messages ("missing `user_id`; first call `lookup_user(email)`"). Set clear end conditions. Limit the number of tool calls. Track the cost.
 
 This progression gives you a clear upgrade path. You don't need to start with the most complex option. Begin with deterministic code, add AI functions where you need flexibility, use chains when tasks have multiple steps, upgrade to graphs when workflows branch, and save the tool-calling loop for cases that truly need improvisation. This builds reliability step by step.
+
+## The Key Insight: Every Level is a Tool for Higher Levels
+
+Here's what makes this spectrum powerful: **any system at any level can become a tool for systems at higher levels**. A deterministic script becomes a tool for an AI function. An AI function becomes a tool for a prompt chain. A complete prompt chain becomes a tool for a graph state machine. Even an entire tool-calling agent can be a single tool in a larger orchestration system.
+
+Think of it this way:
+
+**Level 0 → Level 1**: Your AI function might call a deterministic validation script to check if extracted data meets business rules.
+
+**Level 1 → Level 2**: Your prompt chain might use an AI function to classify documents, then route each document type to specialized processing.
+
+**Level 2 → Level 3**: Your graph state machine might have states that are themselves complete prompt chains—one for intake processing, another for follow-up generation.
+
+**Level 3 → Level 4**: Your tool-calling loop might have access to tools that are actually complete sub-agents, each handling specialized domains like "customer data research" or "contract generation."
+
+This creates an architecture where simple, reliable components compose into more complex systems. The customer support agent that routes to password reset isn't calling a single API—it's calling a complete Level 2 chain that handles authentication, validation, and email generation. From the agent's perspective, it's just another tool.
+
+### Why This Matters for Architecture
+
+**Testability**: Each level can be tested independently. Your Level 1 AI function works reliably before it becomes a tool in your Level 2 chain.
+
+**Reliability**: Complex systems are built from proven components. If your document classification AI function has a 95% success rate, you can count on that when designing the higher-level system.
+
+**Cost Control**: You can optimize each level separately. Maybe your Level 1 function is expensive but accurate, so you only call it after a cheap deterministic filter.
+
+**Migration**: You can replace any level without changing the levels above it. Start with a simple deterministic tool, then upgrade it to an AI function when you need more flexibility—the calling system doesn't change.
+
+**Team Structure**: Different teams can own different levels. The infrastructure team builds Level 0 tools, the AI team builds Level 1 functions, the product team composes them into Level 2 chains.
+
+This is how you build agent systems that actually work in production: not as monolithic "intelligent" systems, but as compositions of focused, reliable components at different levels of autonomy.
 
 ---
 
@@ -146,7 +176,7 @@ This progression gives you a clear upgrade path. You don't need to start with th
 
 During our conversation, [Vignesh](https://nila.is/) and I explored a critical question that comes up in every agent consulting engagement: *How do you test whether an agent idea actually works without building all the infrastructure first?*
 
-The answer turned into a complete methodology that I've extracted into its own guide: **[Context Engineering: Rapid Agent Prototyping](./context-engineering-agent-prototyping.md)**. 
+The answer turned into a complete methodology that I've extracted into its own guide: **[Context Engineering: Rapid Agent Prototyping](./context-engineering-agent-prototyping.md)**.
 
 **The core insight**: Use Claude Code's project runner as a testing harness. Write instructions in English, expose tools as simple CLI commands, create test folders with real inputs, and get evidence in hours instead of weeks.
 
@@ -154,11 +184,11 @@ This approach has saved multiple teams from months of premature infrastructure w
 
 The methodology also integrates with all the other context engineering patterns: [tool response design](./context-engineering-tool-response.md), [slash commands vs subagents](./context-engineering-slash-commands-subagents.md), and [compaction behavior](./context-engineering-compaction.md). Prototyping reveals which patterns your specific use case actually needs.
 
---  -
+---
 
 ## A note to leadership
 
-Ask your team for specific results, not just "agents." Have them pick one of the three approaches—**chatbot**, **workflow**, or **report generator**—and define success. Ask where they'll start on the complexity spectrum and when they'd add more AI. 
+Ask your team for specific results, not just "agents." Have them pick one of the three approaches—**chatbot**, **workflow**, or **report generator**—and define success. Ask where they'll start on the complexity spectrum and when they'd add more AI.
 
 Ask for a testing setup where they can try the idea with real data and measure results. If they can show one successful test, the concept works. If they can't, you know that before investing more time.
 
