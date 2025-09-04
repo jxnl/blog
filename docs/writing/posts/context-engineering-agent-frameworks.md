@@ -1,15 +1,22 @@
 ---
-title: "Before You “Build an Agent”: The Conversation I Have With Every Team"
-description: "A field note for product & engineering leaders, with a coda in dialogue with Vignesh Mohankumar"
+title: "Context Engineering: Agent Frameworks and Form Factors"
+description: "How to choose between chatbots, workflows, and research artifacts - and navigate the autonomy spectrum from deterministic systems to tool-calling loops"
 date: 2025-09-04
 authors:
   - jxnl
 categories:
   - Applied AI
   - Software Engineering
+tags:
+  - Context Engineering
+  - Agents
+  - RAG
+  - Series
 ---
 
-# Before You “Build an Agent”: The Conversation I Have With Every Team
+# Context Engineering: Agent Frameworks and Form Factors
+
+*This is part of the [Context Engineering Series](./context-engineering-index.md). I'm focusing on agent frameworks because understanding form factors and complexity levels is essential before building any agentic system.*
 
 
 ## Part I — The talk I give when a team says, “We’re going to build agents.”
@@ -142,215 +149,15 @@ You couldn’t see the screen on our call, so here’s the moment that mattered,
 
 ---
 
-## The Claude Code SDK Testing Methodology: How to Prototype Agents Without Building an Orchestrator
+## From Conversation to Prototype: The Fast Path
 
-The conversation with Vignesh revealed what most teams miss: you don't need to build an agent framework to test whether an agent idea is viable. What you need is a harness that lets you iterate on the three things that actually matter—system instructions, tool descriptions, and tool response formats—without getting distracted by message management, retry logic, or UI concerns.
+During our conversation, Vignesh and I explored a critical question that comes up in every agent consulting engagement: *How do you test whether an agent idea actually works without building all the infrastructure first?*
 
-**If your boss is asking you to "explore agents," start here. This methodology will give you evidence in days, not quarters.**
+The answer turned into a complete methodology that I've extracted into its own guide: **[Context Engineering: Rapid Agent Prototyping](./context-engineering-agent-prototyping.md)**. 
 
-### The Core Insight: Use Claude Code as Your Testing Harness
+**The core insight**: Use Claude Code's project runner as a testing harness. Write instructions in English, expose tools as simple CLI commands, create test folders with real inputs, and get evidence in hours instead of weeks.
 
-Claude Code has a project runner mode (`claude -p`) that turns any directory into an agent execution environment. It reads a `CLAUDE.md` file as a system instruction and executes workflows using whatever CLI tools you make available. This creates a nearly perfect testing harness for agent ideas—you write instructions in plain English, expose tools as simple commands, and let Claude Code execute end-to-end.
-
-The workflow becomes: if it works once in this harness, the idea is possible. If it fails consistently, you know what's missing—without building orchestration infrastructure.
-
-### The Anatomy of a Rapid Prototype
-
-Here's the exact structure I showed Vignesh, because replication matters:
-
-```
-agent-prototype/
-├── .claude/agents/
-│   └── youtube-study-notes-generator.md
-├── CLAUDE.md              # System instruction + tool inventory  
-├── tools/                 # CLI wrappers for your APIs
-│   ├── yt-dl              
-│   └── notes-writer      
-└── tests/                 # One folder per test scenario
-    ├── scenario1/
-    │   ├── request.txt    # Input (URL, email, JSON, etc.)
-    │   └── check.py       # Assertions on expected outputs
-    ├── scenario2/
-    │   ├── request.txt
-    │   └── check.py
-    └── scenario3/
-        ├── request.txt
-        └── check.py
-```
-
-**The CLAUDE.md file** becomes your executable specification:
-
-```markdown
-# YouTube Study Notes Generator
-
-## Mission
-Given a YouTube URL, produce structured study notes in markdown format.
-
-## Execution Flow
-1. Fetch transcript/subtitles using yt-dl tool
-2. If transcript contains timestamps or XML noise, run cleanup-transcript  
-3. Read cleaned content and produce notes.md with exact formatting requirements
-4. Stop when notes.md exists and passes structural validation
-
-## Available Tools
-- `yt-dl <url>` → transcript.srt|vtt|txt (handles multiple subtitle formats)
-- `cleanup-transcript <file>` → cleaned.txt (removes timestamps, ~4x token reduction)  
-- `notes-writer <file>` → notes.md (enforces: 1 H1, 3 H2s, 10 bullets each)
-
-## Success Criteria  
-Final notes.md must contain:
-- One H1 title derived from video content
-- Three H2 sections with descriptive headers  
-- Ten bullet points per section
-- Brief summary at top (2-3 sentences)
-- Links found in transcript under "Further Reading"
-
-## Error Recovery
-- If yt-dl fails on English subtitles, try auto-generated or alternative languages
-- If transcript too short/empty, document what was attempted
-- If cleanup unnecessary (already clean), proceed directly to notes-writer
-```
-
-**Tool implementations** are deliberately simple CLI wrappers:
-
-```bash
-#!/bin/bash
-# yt-dl wrapper script
-if [ -z "$1" ]; then
-    echo "ERROR: YouTube URL required"
-    echo "USAGE: yt-dl <youtube-url>"  
-    exit 1
-fi
-
-# Fetch transcript with error handling
-if ! yt-dlp --write-subs --write-auto-subs --sub-langs en --skip-download "$1"; then
-    echo "ERROR: Could not fetch subtitles. Video may not have captions available."
-    exit 1
-fi
-
-echo "SUCCESS: Transcript downloaded"
-```
-
-**Test validation** makes success concrete:
-
-```python
-# tests/scenario1/check.py
-import pathlib
-import re
-
-# Verify output file exists
-notes_file = pathlib.Path("notes.md")
-assert notes_file.exists(), "notes.md was not generated"
-
-# Validate structure
-content = notes_file.read_text()
-
-# Check header count
-h1_count = content.count('\n# ')
-assert h1_count == 1, f"Expected 1 H1, found {h1_count}"
-
-h2_count = content.count('\n## ')  
-assert h2_count >= 3, f"Expected ≥3 H2s, found {h2_count}"
-
-# Validate bullet density per section
-sections = re.split(r'\n## ', content)
-for i, section in enumerate(sections[1:], 1):
-    bullets = [line for line in section.split('\n') 
-              if line.strip().startswith('- ')]
-    assert len(bullets) >= 8, f"Section {i}: {len(bullets)} bullets (need ≥8)"
-
-print("✅ All structural requirements met")
-```
-
-### The Execution Protocol
-
-To test any agent idea:
-
-1. **Navigate to test scenario**: `cd tests/scenario1`
-2. **Execute the workflow**: `claude -p` (reads CLAUDE.md, runs end-to-end)  
-3. **Validate results**: `python check.py` (pass/fail with specific reasons)
-
-What you observe is Claude Code reading your instructions, selecting tools, handling errors, and producing artifacts. The critical moment in the Vignesh demo was watching it navigate missing English subtitles—instead of failing, it explored alternatives and still delivered structured notes.
-
-### Why This Beats Building an Orchestrator First
-
-**Iteration speed**: You're editing text files, not debugging message arrays or tool call parsing.
-
-**Real-world inputs**: Test with actual URLs, emails, PDFs—not sanitized examples.
-
-**Binary success metrics**: Either the output meets specification, or it doesn't. No subjective evaluation needed.
-
-**Tool design feedback**: You immediately discover whether tool names are intuitive, argument patterns sensible, and error messages helpful.
-
-**Economic transparency**: Token costs, latency, and failure rates become visible in hours, not sprints.
-
-### Advanced Patterns for Production Readiness
-
-**Teaching through tool errors**: Instead of generic failures, tools should guide next actions:
-
-```bash
-if [ -z "$user_id" ]; then
-    echo "ERROR: user_id parameter missing"
-    echo "NEXT_STEP: Call lookup_user --email user@domain.com first"
-    exit 1
-fi
-```
-
-**Structured tool responses**: Control output format for easier parsing:
-
-```bash  
-echo "STATUS: SUCCESS"
-echo "OUTPUT_FILE: notes.md"
-echo "METRICS: tokens_used=15420, sections=3, bullets=47"
-echo "WARNINGS: Used auto-generated subtitles, accuracy may vary"
-```
-
-**Sub-agent workflows**: Handle complexity with specialized instructions:
-
-```markdown
-## Sub-Agent: Content Analysis  
-For transcripts >50,000 characters:
-1. Use split-content tool to create manageable chunks
-2. Call /analyze-section on each chunk with specific focus areas  
-3. Use /synthesize-findings to combine results into final notes
-```
-
-### The Economics of Rapid Prototyping
-
-**Time to evidence**: Validate agent feasibility in hours, not weeks.
-
-**Risk mitigation**: If Claude Code can't achieve the task with perfect tool access and no UI constraints, your production version likely won't either.
-
-**Tool clarity discovery**: Learn whether you need narrow tools (`search_contracts`, `search_invoices`) or broad ones (`search(type=contract)`).
-
-**Failure mode identification**: Pinpoint exactly where prompts are insufficient and where tools need better error handling.
-
-**Production migration**: Successful test folders become your production test suite. Tools and instructions transfer directly to any framework you build.
-
-### When This Methodology Doesn't Apply
-
-Clear boundaries exist for this approach:
-
-- **Real-time interaction dependencies**: If the agent's value requires immediate user feedback loops
-- **Multi-session state requirements**: When context must persist across days or users  
-- **High-volume production loads**: Claude Code isn't designed for concurrent execution at scale
-- **Complex authentication flows**: OAuth dances and multi-step auth make CLI wrappers cumbersome
-
-But for the fundamental question—"Is this agent idea possible?"—this methodology provides the fastest path to reliable evidence.
-
-### Implementation Checklist for Teams
-
-Before writing any orchestration code:
-
-- [ ] **Define the form factor**: Chatbot, workflow, or research artifact?
-- [ ] **Identify 3-6 core tools** that would make the task possible
-- [ ] **Create 5-10 test scenarios** with real-world inputs
-- [ ] **Write CLAUDE.md** with clear success criteria
-- [ ] **Build simple CLI tool wrappers** for your APIs
-- [ ] **Execute test scenarios** and iterate on instructions/tools
-- [ ] **Achieve at least one passing test** before considering production architecture
-
-This methodology has saved multiple consulting engagements from months of premature infrastructure work. **If you're being asked to "build agents," start here. Get evidence first, then decide what's worth hardening into production.**
+This approach has saved multiple teams from months of premature infrastructure work. If you're being asked to "build agents," start there first—get one passing test before you write any orchestration code.
 
 ---
 
@@ -360,4 +167,4 @@ Ask your team for an outcome, not a platform. Ask them which of the three they'r
 
 Finally, ask for a harness: a place to try the idea against real inputs, produce a tangible result, and assert on it. If they can show you one passing run, you have evidence. If they can't, you still have clarity. Both are progress.
 
-**Share this guide with your team before they start building. The methodology will save you months of premature architecture work and give you confidence in what's actually possible.**
+**Share this guide with your team before they start building. Understanding form factors and complexity levels will save you months of premature architecture work and give you confidence in what's actually possible.**

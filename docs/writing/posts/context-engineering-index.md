@@ -124,7 +124,19 @@ This series explores practical approaches to context engineering across differen
 
 **Key insight:** Compaction timing affects learning trajectory preservation, and specialized compaction prompts can reveal systematic patterns in agent failures and successes across populations.
 
-**Start Here:** If you're new to context engineering, begin with the foundational post above.
+### 4. [Context Engineering: Agent Frameworks and Form Factors](./context-engineering-agent-frameworks.md)
+
+**Core thesis:** Agent success starts with choosing the right form factor—chatbot, workflow, or research artifact—and navigating the autonomy spectrum from deterministic systems to tool-calling loops.
+
+**Key insight:** Teams fail because they don't commit to outcomes. The MCP decision matrix and autonomy spectrum provide clear frameworks for making architectural choices based on economic realities rather than hype.
+
+### 5. [Context Engineering: Rapid Agent Prototyping](./context-engineering-agent-prototyping.md)
+
+**Core thesis:** Most teams waste months building agent infrastructure before knowing if their idea works. Claude Code's project runner provides a faster path to evidence through folder-based testing and executable specifications.
+
+**Key insight:** If Claude Code can't achieve your task with perfect tool access and no UI constraints, your production version probably won't either. Get one passing test before building any orchestration code.
+
+**Start Here:** If you're new to context engineering, begin with the foundational post above, then explore agent frameworks and prototyping approaches.
 
 ## Who This Series Is For
 
