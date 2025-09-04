@@ -99,7 +99,7 @@ Final notes.md must contain:
 
 ### Tool Implementations: Simple CLI Wrappers
 
-Tools should be deliberately simple—CLI commands that wrap your actual APIs:
+Tools should be deliberately simple—CLI commands that wrap your actual APIs. This connects directly to the [tool response design principles](./context-engineering-tool-response.md) I've written about—the structure of your tool outputs becomes as important as the functionality itself:
 
 ```bash
 #!/bin/bash
@@ -190,18 +190,21 @@ fi
 
 ### Structured Tool Responses
 
-Control output format for easier parsing:
+Control output format for easier parsing. This is a practical application of the [context engineering principles](./context-engineering-tool-response.md) around faceted tool responses—providing metadata that helps agents make better decisions:
 
 ```bash  
 echo "STATUS: SUCCESS"
 echo "OUTPUT_FILE: notes.md"
 echo "METRICS: tokens_used=15420, sections=3, bullets=47"
 echo "WARNINGS: Used auto-generated subtitles, accuracy may vary"
+echo "FACETS: language=auto-generated, video_length=1247s, transcript_quality=medium"
 ```
 
-### Sub-Agent Workflows
+Just like Level 4 faceted search responses, this gives Claude Code peripheral vision about the task completion, enabling better follow-up decisions.
 
-Handle complexity with specialized instructions:
+### Sub-Agent Workflows and Slash Commands
+
+Handle complexity with specialized instructions. The Claude Code harness naturally supports both [slash commands and subagents](./context-engineering-slash-commands-subagents.md)—two different approaches to managing context pollution:
 
 ```markdown
 ## Sub-Agent: Content Analysis  
@@ -211,6 +214,8 @@ For transcripts >50,000 characters:
 3. Use /synthesize-findings to combine results into final notes
 ```
 
+**The key insight from prototyping**: Claude Code lets you experiment with both approaches. You can implement `/analyze-transcript` as a slash command that dumps everything into the main context, or as a subagent that processes off-thread and returns clean summaries. Testing both in your prototype reveals which approach works better for your specific use case—often subagents win for token-heavy operations.
+
 ## The Economics of Rapid Prototyping
 
 **Time to evidence**: Validate agent feasibility in hours, not weeks.
@@ -218,6 +223,10 @@ For transcripts >50,000 characters:
 **Risk mitigation**: If Claude Code can't achieve the task with perfect tool access and no UI constraints, your production version likely won't either.
 
 **Tool clarity discovery**: Learn whether you need narrow tools (`search_contracts`, `search_invoices`) or broad ones (`search(type=contract)`).
+
+**Context management insights**: Because Claude Code handles conversation state automatically, you can focus on testing how much context pollution your tools create. This naturally surfaces candidates for [subagent architecture](./context-engineering-slash-commands-subagents.md) vs slash commands.
+
+**Compaction benefits**: Claude Code's automatic [compaction behavior](./context-engineering-compaction.md) means you can prototype long-running tasks without managing conversation state manually. This reveals which workflows naturally generate trajectory data worth preserving vs noise that should be compacted away.
 
 **Failure mode identification**: Pinpoint exactly where prompts are insufficient and where tools need better error handling.
 
@@ -341,3 +350,17 @@ Stop building agent infrastructure before you know if the idea works. Use this m
 If Claude Code can't make it work with perfect tool access and no constraints, your production version probably won't either. But if you can get one passing test, you've proven the concept and can invest in hardening with confidence.
 
 **The fastest way to prototype an agent isn't to build an agent at all—it's to test whether the idea works before you build anything.**
+
+## Connection to the Broader Context Engineering Framework
+
+This prototyping methodology integrates with all the other context engineering patterns:
+
+**Tool Response Design**: Your CLI tools naturally implement the [four levels of context engineering](./context-engineering-tool-response.md)—from minimal chunks to faceted responses with metadata. Prototyping reveals which level your use case actually needs.
+
+**Context Pollution Management**: The harness makes [slash commands vs subagents](./context-engineering-slash-commands-subagents.md) trade-offs visible immediately. You'll see when main context gets flooded with noise and when clean subagent responses perform better.
+
+**Compaction Understanding**: Long-running prototypes surface [compaction patterns](./context-engineering-compaction.md) naturally. You'll discover which conversation trajectories preserve learning vs which create maintenance burden.
+
+**Form Factor Validation**: The methodology connects directly to the [agent framework decisions](./context-engineering-agent-frameworks.md) around chatbots, workflows, and research artifacts. Your tests reveal which form factor actually delivers the outcome you need.
+
+This is why rapid prototyping belongs in the Context Engineering series—it's not just about speed, it's about discovering the right information architecture for your specific problem before committing to production complexity.

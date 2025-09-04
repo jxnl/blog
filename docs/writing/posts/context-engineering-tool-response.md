@@ -573,6 +573,8 @@ This is the first post in a series on context engineering. I started here becaus
 
 **The immediate action:** Go audit your current RAG implementation. Look at what your tools actually return. Are you giving agents peripheral vision of the data landscape, or just the highest-scoring chunks? Most teams can implement Level 2 (source metadata) in an afternoon.
 
+**For rapid validation:** Use the [prototyping methodology](./context-engineering-agent-prototyping.md) to test different tool response levels quickly. Claude Code's project runner lets you experiment with minimal chunks vs faceted responses without building infrastructure—you can discover which level your use case needs through folder-based testing.
+
 **Adoption will follow the usual pattern:** The teams building agents today will implement context engineering first, then the tooling will catch up. Vector databases are already adding facet support (TurboPuffer ships facets and aggregations), but you don't need to wait for perfect tooling to start.
 
 **Tool responses become teaching moments.** The XML structures and system instructions in your tool responses directly influence how agents think about subsequent searches. Design them intentionally.

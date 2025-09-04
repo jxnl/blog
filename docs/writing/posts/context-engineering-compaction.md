@@ -63,6 +63,8 @@ The first experiment is about momentum. If compaction preserves learning traject
 
 **The problem**: Public benchmarks generally run tasks that are very short and don't burn 700,000 tokens. You need those massive trajectories that only companies like Cursor, Claude Code, or GitHub actually have access to.
 
+**A practical workaround**: The [rapid prototyping methodology](./context-engineering-agent-prototyping.md) using Claude Code lets you generate long trajectories for testing. Complex multi-step tasks naturally burn through context as they iterate on tool calls and file modifications. You can study compaction behavior in these prototyping sessions before building production systems.
+
 This connects to broader challenges in [AI engineering communication](./ai-engineering-communication.md)—how do you measure and report progress on systems where the unit of work isn't a feature but a learning trajectory?
 
 But we do have examples of long trajectories. Take the [Claude plays Pokemon](https://www.lesswrong.com/posts/HyD3khBjnBhvsp8Gb/so-how-well-is-claude-playing-pokemon) experiment—it generates "enormous amounts of conversation history, far exceeding Claude's 200k context window," so they use sophisticated summarization when the conversation history exceeds limits. That's exactly the kind of trajectory where compaction timing would matter.

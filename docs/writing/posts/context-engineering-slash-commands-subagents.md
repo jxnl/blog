@@ -41,6 +41,8 @@ By the end of this post, you'll understand:
 
 Any AI tool that handles messy data faces this choice. This includes tools that read logs, process data, check security, or help customers. **Good information management is how you build AI tools that work at scale.**
 
+**Want to test this yourself?** The [rapid prototyping methodology](./context-engineering-agent-prototyping.md) I've developed lets you experiment with both slash commands and subagent patterns using Claude Code as a harness. You can implement the same diagnostic capability both ways and measure the context pollution differences directly—without building production infrastructure first.
+
 Here's the uncomfortable truth: **bad context is cheap but toxic.** Loading 100,000 lines of test logs costs almost nothing computationally, but it easily pollutes valuable context. A well-crafted 3,000-token feature spec gets destroyed when you dump Python outputs and error traces on top of it.
 
 Coding agents like Claude Code are at the forefront of solving this problem. The patterns emerging here will make it to other domains—customer support, financial analysis, medical diagnosis—within months. Understanding these architectural choices now prepares you for what's coming.

@@ -161,6 +161,8 @@ The answer turned into a complete methodology that I've extracted into its own g
 
 This approach has saved multiple teams from months of premature infrastructure work. If you're being asked to "build agents," start there first—get one passing test before you write any orchestration code.
 
+The methodology also integrates with all the other context engineering patterns: [tool response design](./context-engineering-tool-response.md), [slash commands vs subagents](./context-engineering-slash-commands-subagents.md), and [compaction behavior](./context-engineering-compaction.md). Prototyping reveals which patterns your specific use case actually needs.
+
 ---
 
 ## A note to leadership
