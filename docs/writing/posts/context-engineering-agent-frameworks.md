@@ -18,6 +18,8 @@ tags:
 
 *This is part of the [Context Engineering Series](./context-engineering-index.md). I'm focusing on agent frameworks because understanding form factors and complexity levels is essential before building any agentic system.*
 
+*Field note from a conversation with [Vignesh Mohankumar](https://nila.is/), a successful consultant who helps companies navigate AI implementation decisions. Our discussion revealed the frameworks teams need before building any agentic system.*
+
 
 ## Part I — The talk I give when a team says, “We’re going to build agents.”
 
@@ -115,9 +117,9 @@ The spectrum matters because it gives you a migration path. You don’t have to 
 
 ---
 
-## Part III — “Show me, don’t tell me.” A conversation with Vignesh
+## Part III — "Show me, don't tell me." A conversation with Vignesh
 
-You couldn’t see the screen on our call, so here’s the moment that mattered, captured as it was: a quick, working prototype; no orchestrator; just a harness, a few tools, and a result we could argue about.
+During our conversation, [Vignesh](https://nila.is/) asked the questions every CTO asks about agent reliability and economics. You couldn't see the screen during our call, so here's the moment that mattered, captured as it was: a quick, working prototype; no orchestrator; just a harness, a few tools, and a result we could argue about.
 
 **Vignesh:** *Everyone says “build an agent,” and the diagrams always have a while-loop. In practice, how do you know it won’t wander? How do you get order without hard-coding order?*
 
@@ -151,7 +153,7 @@ You couldn’t see the screen on our call, so here’s the moment that mattered,
 
 ## From Conversation to Prototype: The Fast Path
 
-During our conversation, Vignesh and I explored a critical question that comes up in every agent consulting engagement: *How do you test whether an agent idea actually works without building all the infrastructure first?*
+During our conversation, [Vignesh](https://nila.is/) and I explored a critical question that comes up in every agent consulting engagement: *How do you test whether an agent idea actually works without building all the infrastructure first?*
 
 The answer turned into a complete methodology that I've extracted into its own guide: **[Context Engineering: Rapid Agent Prototyping](./context-engineering-agent-prototyping.md)**. 
 
