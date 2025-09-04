@@ -1,5 +1,5 @@
 ---
-description: Transform your engineering team into AI experts in 2-3 months. No dependencies, just results.
+description: $700k+ in proven AI consulting results. Transform your engineering team into AI experts in 2-3 months. No dependencies, just results.
 ---
 
 # AI Consulting for Engineering Leaders
@@ -7,6 +7,8 @@ description: Transform your engineering team into AI experts in 2-3 months. No d
 ## Transform your great engineers into great AI engineers
 
 Your talented engineering team deserves to adapt to the AI revolution without replacement. You need a proven approach that transforms your existing team into AI experts. With the right frameworks and guidance, your team can achieve measurable improvements in just 2-3 months.
+
+**$700k+ in consulting revenue demonstrates real results for real companies.**
 
 You get independence, not dependencies. You get capabilities, not ongoing contracts.
 
@@ -26,6 +28,29 @@ You get independence, not dependencies. You get capabilities, not ongoing contra
 | [Modal Labs](https://modal.com/)       | CEO           | Cloud Computing   |
 | [Timescale](https://timescale.com/)    | VP Product    | Database          |
 | [Pydantic](http://pydantic.dev/)       | Creator       | Developer Tools   |
+
+## Core Technical Capabilities
+
+**Advanced Prompt Engineering & LLM Optimization**
+Systematic approaches to prompt design, evaluation, and optimization for production systems. Build reliable, consistent outputs from language models at scale.
+
+**Rapid Prototyping & Validation**
+Turn AI concepts into working prototypes in days, not weeks. Validate technical feasibility and business impact before committing to full development cycles.
+
+**Agent Systems Architecture**
+Design and implement autonomous AI workflows that handle complex, multi-step processes. From simple task automation to sophisticated reasoning systems.
+
+**Document Extraction & Processing**
+Build robust pipelines that transform unstructured documents into structured, actionable data. Handle edge cases and maintain accuracy at scale.
+
+**Hands-on Skills Transfer**
+Pair programming sessions and intensive training that builds permanent AI capabilities in your team. No black boxes - your engineers learn to own and extend the systems.
+
+**Systematic Experimentation**
+Establish frameworks for continuous AI improvement. Design experiments, measure impact, and systematically optimize your AI applications for business outcomes.
+
+**Strategic Content & Positioning**
+Leverage AI expertise for growth and developer relations. Define clear value propositions, create compelling technical content, and build market credibility.
 
 ## I'm not a consultant trying to change recurring revenue over impact.
 
