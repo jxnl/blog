@@ -27,6 +27,7 @@ Most teams waste months building agent frameworks before they know if their idea
 ## The Core Problem
 
 When teams want to test an agent idea, they typically start by building infrastructure:
+
 - Message management systems
 - Tool call parsing logic  
 - Retry mechanisms
@@ -46,6 +47,7 @@ Claude Code has a project runner mode (`claude -p`) that turns any directory int
 While this article shows Claude Code, the approach is agent-agnostic. If a coding system can be driven from a CLI and read a simple instruction file (for example, `CLAUDE.md` or `agents.md`), you can use it with this harness.
 
 Examples that fit (or can with a thin adapter):
+
 - Cursor’s coding agent
 - Devin
 - AMP Code
@@ -53,6 +55,7 @@ Examples that fit (or can with a thin adapter):
 - Windsurf Agent
 
 This also unlocks cross-agent evals:
+
 - Keep the same `commands/` and `subagents/` folders and success criteria
 - Add a small wrapper per agent that maps a standard command (for example, `run-agent <scenario-dir>`) to its CLI flags or subcommands
 - Run the same scenarios across agents and compare pass rate, time, and cost
