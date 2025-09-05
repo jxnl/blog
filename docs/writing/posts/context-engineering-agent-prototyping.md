@@ -41,6 +41,24 @@ Claude Code has a project runner mode (`claude -p`) that turns any directory int
 
 **The key insight**: If it works once in this harness, the idea is viable. If it fails consistently, you know what's missing without building any infrastructure.
 
+## Works With Any Coding Agent
+
+While this article shows Claude Code, the approach is agent-agnostic. If a coding system can be driven from a CLI and read a simple instruction file (for example, `CLAUDE.md` or `agents.md`), you can use it with this harness.
+
+Examples that fit (or can with a thin adapter):
+- Cursor’s coding agent
+- Devin
+- AMP Code
+- Codex
+- Windsurf Agent
+
+This also unlocks cross-agent evals:
+- Keep the same `commands/` and `subagents/` folders and success criteria
+- Add a small wrapper per agent that maps a standard command (for example, `run-agent <scenario-dir>`) to its CLI flags or subcommands
+- Run the same scenarios across agents and compare pass rate, time, and cost
+
+As features converge (slash commands, subagents, instruction files), you can swap the runner without changing your prototype. This lets you identify the useful components of systems that actually work well, separate from any single vendor.
+
 ## The Anatomy of a Rapid Prototype
 
 Here's the exact structure that lets you test any agent idea:
