@@ -10,7 +10,7 @@ tags:
   - Compaction
 ---
 
-# Two Experiments We Need to Run on AI Agent Compaction
+# What Experiments Should We Run on AI Agent Compaction?
 
 **Two core insights:**
 
@@ -25,7 +25,7 @@ Through my [consulting work](https://jxnl.co/services/), I help companies build 
 
 This builds on the foundational concepts I've explored in [context engineering](./context-engineering-tool-response.md), where the structure of information flow becomes as critical as the information itself.
 
-## Glossary
+## What Do These Compaction Terms Mean?
 
 **Compaction**: Automatic summarization of conversation history when context windows approach limits, preserving essential information while freeing memory space.
 
@@ -37,7 +37,7 @@ This builds on the foundational concepts I've explored in [context engineering](
 
 <!-- more -->
 
-## The Momentum Analogy
+## Why Is Compaction Like Momentum?
 
 Traditional gradient descent with momentum:
 
@@ -111,7 +111,7 @@ Compact emphasizing: correction requests, preference statements,
 workflow interruptions, and satisfaction indicators.
 ```
 
-### Expected Discoveries
+### What Do We Expect to Discover?
 
 I suspect we'd find things like:
 
@@ -126,7 +126,7 @@ Here's why this matters: [Clio](https://www.anthropic.com/research/clio) found t
 
 This type of systematic analysis aligns with the [data flywheel approaches](./data-flywheel.md) that help AI systems improve through user feedback loops—but applied to multi-step reasoning rather than single predictions.
 
-### The Clustering Approach
+### How Would the Clustering Approach Work?
 
 1. **Compact trajectories** using specialized prompts
 2. **Cluster compacted summaries** using embedding similarity
@@ -137,7 +137,7 @@ This is trajectory-level observability. Instead of just knowing "agents do codin
 
 It's similar to the systematic improvement approaches I cover in [RAG system optimization](./rag-flywheel.md), but focused on agent behavior patterns rather than search relevance.
 
-## The Missing Infrastructure
+## What Infrastructure Is Missing?
 
 Context windows keep getting bigger, but we still hit limits on complex tasks. More importantly, we have no systematic understanding of how agents actually learn and fail over long interactions.
 
@@ -145,13 +145,13 @@ This connects to fundamental questions about [how AI engineering teams should ru
 
 Companies building agents could figure out why some trajectories work and others don't. Researchers could connect theory to practice. The field could move beyond single-turn benchmarks toward understanding actual agentic learning.
 
-## Getting Started
+## How Do We Get Started?
 
 The momentum experiment realistically needs a company already running coding agents at scale. The observability experiment could work for anyone with substantial agent usage data.
 
 Both need access to long trajectories and willingness to run controlled experiments.
 
-## Let's Collaborate
+## Who Should Collaborate on This?
 
 If you're working with agents at scale and want to explore these directions, [I'd love to collaborate](https://jxnl.co/services/). These sit at the intersection of ML theory and practical deployment—exactly where the most interesting problems live.
 

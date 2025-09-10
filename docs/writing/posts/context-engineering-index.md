@@ -10,7 +10,7 @@ tags:
   - Series
 ---
 
-# Context Engineering Series: Building Better Agentic RAG Systems
+# What Is the Context Engineering Series for Agentic RAG Systems?
 
 I've been helping companies build agentic RAG systems and studying coding agents from Cognition, Claude Code, Cursor, and others. These coding agents are probably unlocking a trillion-dollar industry—making them the most economically viable agents to date.
 
@@ -20,11 +20,26 @@ This series shares what I've learned from these teams and conversations with pro
 
 ## What is Context Engineering?
 
-We've moved far beyond prompt engineering. Now we're designing portfolios of tools (directory listing, file editing, web search), slash commands like `/pr-create` that inject prompts vs , specialized sub-agents `@pr-creation-agent`, vs having an `AGENT.md` with systems that work across IDEs, command lines, GitHub, and Slack.
+We've moved far beyond prompt engineering. Now we're designing portfolios of tools (directory listing, file editing, web search), slash commands like `/pr-create` that inject prompts, specialized subagents such as `@pr-creation-agent`, and instruction files like `AGENT.md` that work across IDEs, command lines, GitHub, and Slack.
 
 Context engineering is designing tool responses and interaction patterns that give agents situational awareness to navigate complex information spaces effectively.
 
 To understand what this means practically, let's look at how systems have evolved:
+
+## What Key Terms Should I Know?
+
+- Context Engineering: Designing tool responses and interaction patterns that teach agents how to navigate data landscapes, not just consume chunks.
+- Faceted Search: Returning metadata aggregations (counts, categories) alongside results so agents can refine queries strategically.
+- Agent Peripheral Vision: Structured hints about the broader information space beyond top‑k results.
+- Tool Response as Prompt Engineering: Using structure (XML/JSON), metadata, and inline system instructions in tool outputs to shape future behavior.
+- Context Pollution: Noisy, low-signal outputs (logs, traces) that crowd out useful reasoning context.
+- Context Rot: Reliability degrading as conversations get longer and messier.
+- Subagents: Specialized sidecar agents that do token-heavy, messy reads in isolation and return distilled summaries.
+- Compaction: Summarizing conversation history to preserve essential trajectory while freeing context; treated as “momentum” in this series.
+- Agent Trajectory: The full sequence of tool calls, steps, and messages that accomplish a task.
+- Form Factors: Chatbots (conversational), workflows (side‑effect engines), and research artifacts (reports/tables).
+- MCP (Model Context Protocol): A protocol for reusable tools across clients; best when reuse and client diversity justify the overhead.
+- RAG: Retrieval‑augmented generation; here, evolved from chunks to structured, faceted information landscapes.
 
 **Before:** We precomputed what chunks needed to be put into context, injected them, and then asked the system to reason about the chunks. Search was a one-shot operation—you got your top-k results and that was it.
 
@@ -92,7 +107,7 @@ The fundamental shift is this: **agents don't just consume information, they exp
 
 <!-- more -->
 
-## What This Series Covers
+## What Does This Series Cover?
 
 This series explores practical approaches to context engineering across different domains and use cases. The focus is on implementation strategies, real-world examples, and measurable business outcomes from companies making this transition.
 
@@ -104,7 +119,7 @@ This series explores practical approaches to context engineering across differen
 - Performance optimization for agentic workloads
 - Business metrics and ROI measurement strategies
 
-## Posts in This Series
+## What Posts Are in This Series?
 
 ### 1. [Beyond Chunks: Context Engineering Tool Response](./context-engineering-tool-response.md)
 
@@ -138,7 +153,20 @@ This series explores practical approaches to context engineering across differen
 
 **Start Here:** If you're new to context engineering, begin with the foundational post above, then explore agent frameworks and prototyping approaches.
 
-## Who This Series Is For
+## How Should I Use This Series?
+
+- Quick Start: Audit your tool responses for sources and structure; add Level 2 (source metadata) immediately.
+- Prototype: Use a CLAUDE.md + CLI tools + scenario checks to validate one task end‑to‑end before building orchestration.
+- Isolate Noise: Keep test logs and heavy reads in subagents; return summaries to main thread.
+- Measure: Track clarification rate, expert escalations, 504s, and resolution time before/after changes.
+- Plan Compaction: Choose when and how to compact; test timing and prompts on long trajectories.
+
+- Recommended Paths by Role:
+  - Engineering: Tool Response → Rapid Prototyping → Slash vs Subagents → Compaction → Frameworks
+  - Product/Leads: Frameworks → Rapid Prototyping → Tool Response → Slash vs Subagents
+  - Researchers: Compaction → Tool Response → Slash vs Subagents → Rapid Prototyping
+
+## Who Is This Series For?
 
 - **Engineering teams** building agentic RAG systems
 - **Product leaders** evaluating the ROI of agent implementations  
@@ -147,7 +175,7 @@ This series explores practical approaches to context engineering across differen
 
 Each post includes practical code examples, implementation strategies, and real business metrics from companies that have made this transition.
 
-## Getting Started
+## How Do I Get Started?
 
 Start with the foundational post [Beyond Chunks: Why Context Engineering is the Future of RAG](./context-engineering-tool-response.md) to understand the core thesis and four-level framework. From there, you can either read sequentially or jump to specific topics based on your current implementation needs.
 
