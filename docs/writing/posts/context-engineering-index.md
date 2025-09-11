@@ -188,7 +188,8 @@ The future of RAG isn't about better embeddings or larger context windows—it's
 
 ## Want to Learn More?
 
-If you're implementing these Context Engineering patterns in production RAG systems, I offer comprehensive training on systematic RAG improvement:
+I know this is a lot to absorb—context engineering touches everything from tool design to business metrics. I try to write down what I learn from consulting, but sometimes a more structured approach helps. If you're looking to implement these patterns systematically, I also do training and consulting:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[Maven RAG Playbook Course — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+[Consulting Services](../../services.md){ .md-button }

@@ -97,6 +97,7 @@ RAG represents a powerful approach to combining the strengths of LLMs and extern
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+The most common question I get: "Where do I even start with RAG?" Here's exactly how I walk teams through it, step by step:
 
-[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Maven RAG Playbook — 20% off with EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button }

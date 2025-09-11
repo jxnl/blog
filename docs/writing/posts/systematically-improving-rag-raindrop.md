@@ -197,7 +197,8 @@ If you want to see the whole video checkout our [lesson](https://maven.com/p/d79
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+Production monitoring is where theory meets reality. Most teams struggle with this because monitoring AI systems is fundamentally different from traditional software. Want help setting this up? Here's how I approach it:
 
-[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Consulting Services](../../services.md){ .md-button .md-button--primary }
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button }
 

@@ -76,10 +76,10 @@ This economic reality aligns with insights from successful [Coding Agents](./cod
 
 ---
 
-**Want to build AI systems that deliver real business value?** Learn systematic approaches to AI implementation:
+**Want to build AI systems that deliver real business value?** I know positioning AI can be tricky—I try to share what I've learned helping companies navigate this, but sometimes it helps to talk through your specific situation:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+[Consulting Services](../../services.md){ .md-button }
 
 ---
 

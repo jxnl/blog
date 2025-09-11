@@ -184,7 +184,7 @@ The future of coding isn't just about AI writing code—it's about AI understand
 
 ## Want to Learn More?
 
-While coding agents represent the most successful application of RAG and agentic principles, these patterns apply broadly to knowledge work systems. If you're building information retrieval and generation systems:
+I know these conversations cover a lot of ground—from architectural decisions to business strategy. I try to capture what I learn from working with these teams, but sometimes having someone walk you through it can be more helpful. If you're building similar systems and want some guidance, I do both consulting and training:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[Maven RAG Playbook Course — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }

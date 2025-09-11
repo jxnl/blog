@@ -158,6 +158,7 @@ If you have any questions about these details, please leave a comment below and 
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
+Want to skip the common mistakes? Most teams spend weeks on complex improvements when these 7 quick wins would give them better results in a day. Here's how to implement them systematically:
 
-[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Maven RAG Playbook — 20% off with EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button }

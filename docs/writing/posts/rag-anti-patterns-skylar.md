@@ -270,4 +270,7 @@ Metadata becomes more valuable when you have both high data volume and diverse q
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can [check it out here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }.
+Tired of debugging the same RAG issues over and over? After helping 50+ teams avoid these pitfalls, here's how I can help you skip the common mistakes:
+
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Maven RAG Playbook — 20% off with EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }

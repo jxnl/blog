@@ -217,7 +217,8 @@ Remember: the goal isn't to build the most sophisticated RAG system possible, bu
 
 ## Want to Learn More?
 
-I offer comprehensive training on RAG systems that covers everything from this series plus additional consulting insights and hands-on implementation:
+I know this is a lot of material—RAG systems touch everything from data engineering to user psychology. I try to write down everything I learn from consulting with teams, but sometimes office hours or more structured guidance can be helpful. If you want to work through this systematically, here are a couple ways I can help:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[Maven RAG Playbook Course — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+[Consulting Services](../../services.md){ .md-button }

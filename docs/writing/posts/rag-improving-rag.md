@@ -183,6 +183,7 @@ This is was written based off of a 30 conversation with a client, so I know I'm 
 
 ## Want to learn more?
 
-I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. You can see the [full course breakdown here](./rag-course-breakdown.md) and frequently asked questions in my [RAG FAQ](./rag-faq.md). It's free and you can:
+This was based on a 30-minute conversation, so I'm definitely skipping implementation details. The real breakthrough happens when you stop random improvements and start measuring what actually moves the needle:
 
-[Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Full Course Breakdown](./rag-course-breakdown.md){ .md-button } [RAG FAQ](./rag-faq.md){ .md-button }
