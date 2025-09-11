@@ -1,9 +1,4 @@
 ---
-title: Systematically Improve Your RAG
-description: Overview and course info. Browse the chapters in the sidebar; the full course includes office hours, private resources, and credits.
----
-
----
 description: Enhance your RAG applications with our expert-led course. Learn practical
   strategies for retrieval-augmented generation from industry leaders.
 ---
@@ -114,7 +109,7 @@ No more fumbling in the dark. This program shows you step-by-step how to:
 4. Integrate feedback loops
 5. Enhance product experiences
 
-[Enroll now on Maven (starts May 20)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
+[Enroll now on Maven (starts Sept 16, 2025)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 ## Not ready for a course? Check out my free RAG Playbook
 
@@ -183,36 +178,5 @@ In the rapidly evolving field of AI and machine learning, staying ahead means ma
 ## Risk-Free Guarantee
 
 We're so confident in the value of this course that we offer a money-back guarantee. If you don't feel you're making significant progress in improving your RAG applications after 4 weeks, we'll refund your course fee, no questions asked.
-
-## Secure Your Team's Spot Today
-
-The field of RAG is evolving quickly. Don't fall behind.
-
-[Enroll now on Maven (starts Sept 16, 2025)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
-=
-
-# Systematically Improve Your RAG
-
-Build RAG systems that improve over time, not just demos that plateau.
-
-This section contains a sample of the workshop material. If you want the full experience — live office hours, private community, partner credits, and hands‑on reviews — join the course.
-
-[Enroll in the Course](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
-[Get a 6‑day Email Primer](https://improvingrag.com/){ .md-button }
-
-## How to Use This Section
-
-- Browse the chapters in the sidebar to explore the content.
-- Start with the Introduction, then move through Chapters 1–6.
-- Slides are included as Markdown; transcripts and PDFs are not included here.
-
-## What’s in the Full Course
-
-- Live office hours with direct feedback on your system
-- Private community access and case studies
-- Tool credits and partner offers worth $1,500+
-- Practical templates and evaluation harnesses
-
-Ready to go deeper?
 
 [Join the Next Cohort](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
