@@ -5,7 +5,7 @@ cohort: 3
 description: Why leading coding agent companies are abandoning embedding-based RAG in favor of direct, agentic approaches to code exploration that mirror how senior engineers actually work.
 tags: [RAG, coding agents, embeddings, agentic exploration, code understanding]
 date: 2025-09-11
-categories: [Speaker Series, RAG]
+categories: [Speaker Series, RAG, Coding Agent Series]
 ---
 
 # Why I Stopped Using RAG for Coding Agents (And You Should Too)

@@ -5,7 +5,7 @@ cohort: 3
 description: A deep dive into why multi-agent systems might not be the optimal approach for coding contexts, exploring context engineering, challenges of context passing between agents, and how single agents with proper context management can outperform multi-agent setups.
 tags: [multi-agent systems, context engineering, coding, agent development]
 date: 2025-09-11
-categories: [Speaker Series, RAG]
+categories: [Speaker Series, RAG, Coding Agent Series]
 ---
 
 # Why Cognition does not use multi-agent systems

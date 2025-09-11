@@ -16,7 +16,7 @@ tags:
     model selection,
   ]
 date: 2025-09-11
-categories: [Speaker Series, RAG]
+categories: [Speaker Series, RAG, Coding Agent Series]
 ---
 
 # Rethinking RAG Architecture for the Age of Agents - Beyang Liu (Sourcegraph)

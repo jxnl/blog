@@ -5,7 +5,7 @@ cohort: 3
 description: Insights from Colin Flaherty on building autonomous coding agents and how agentic approaches reshape retrieval-augmented generation systems.
 tags: [RAG, agents, autonomous coding, agentic systems, retrieval]
 date: 2025-09-11
-categories: [Speaker Series, RAG]
+categories: [Speaker Series, RAG, Coding Agent Series]
 ---
 
 # Why Grep Beat Embeddings in Our SWE-Bench Agent (Lessons from Augment)
