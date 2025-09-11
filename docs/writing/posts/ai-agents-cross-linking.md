@@ -203,3 +203,10 @@ The future isn't AI writing our content. It's AI making our existing content wor
 ---
 
 _P.S. An AI agent helped me write this post by analyzing my commit history and identifying what made this approach unique. It suggested I focus on the agent aspect rather than the automation. Meta? Absolutely._
+
+---
+
+**Building AI systems that work?** Check out my systematic approach to RAG systems:
+
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }

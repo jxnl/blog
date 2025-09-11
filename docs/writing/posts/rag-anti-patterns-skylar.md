@@ -143,7 +143,7 @@ The most effective approach to reducing hallucination in RAG systems is:
 - Validate that each citation exists in the retrieved documents
 - Semantically validate that each citation actually supports the claimed content
 
-**_Key Takeaway:_** For complex reasoning tasks, simple RAG may not be sufficient. Consider more sophisticated approaches like agentic workflows or knowledge graphs, and always implement citation validation to prevent hallucination in sensitive domains.
+**_Key Takeaway:_** For complex reasoning tasks, simple RAG may not be sufficient. Consider more sophisticated approaches like agentic workflows or knowledge graphs, and always implement citation validation to prevent hallucination in sensitive domains. The [Context Engineering approach to tool responses](./context-engineering-tool-response.md) shows how to design structured outputs that support complex reasoning and multi-step workflows.
 
 **How important is metadata tagging in practice?**
 According to Skylar, about 40% of clients have indexes so small that metadata tagging doesn't provide significant benefits. Many B2B companies have segregated data by customer, further reducing the need for complex tagging within each customer's dataset.

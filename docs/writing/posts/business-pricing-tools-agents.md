@@ -72,6 +72,15 @@ As one example made clear during our conversation—a simple, secure API gateway
 
 The world is changing faster than most of us realize. The question isn't just "What can AI do?" but "From which budget can companies pay for it?" And in today's economic climate, the headcount budget is where the opportunity lies.
 
+This economic reality aligns with insights from successful [Coding Agents](./coding-series-index.md) that have proven their value by replacing traditional development workflows. For technical implementation guidance on building these headcount-replacement systems, see the [Context Engineering](./context-engineering-index.md) and [RAG Master Series](./rag-series-index.md).
+
+---
+
+**Want to build AI systems that deliver real business value?** Learn systematic approaches to AI implementation:
+
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+
 ---
 
 If you like this content, give me a follow on [twitter](https://twitter.com/jxnlco) or check out my other articles on the changing landscape of work and technology.

@@ -20,8 +20,10 @@ This makes them incredibly important to study. While other agent applications re
 
 This series captures those hard-won lessons, revealing what works and what doesn't when building agents that actually deliver economic value.
 
-!!! info "Companion Series: Context Engineering"
-    For technical implementation patterns of agentic RAG systems, see the [Context Engineering Series](./context-engineering-index.md). That series dives deep into tool response design, context management, and system architecture. This Speaker Series focuses on strategic insights from industry leaders, while the Context Engineering series provides the technical implementation details.
+!!! info "Related Series"
+    **[Context Engineering Series](./context-engineering-index.md)**: Technical implementation patterns for agentic RAG systems, including tool response design, context management, and system architecture. This Speaker Series provides strategic insights, while Context Engineering offers implementation details.
+    
+    **[RAG Master Series](./rag-series-index.md)**: Comprehensive guide to retrieval-augmented generation systems. Many coding agent insights (like why simple approaches beat complex ones) apply directly to RAG system design and optimization.
 
 <!-- more -->
 
@@ -179,3 +181,10 @@ The teams building these systems are still discovering fundamental principles th
 Begin with [Nik Pash's perspective on RAG](./talks/rag-is-dead-cline-nik.md) to understand the core philosophy shift, then explore the specific architectural insights from each team based on your current implementation needs.
 
 The future of coding isn't just about AI writing code—it's about AI understanding and navigating the complex, structured information spaces that real software development requires. These conversations show us how to build that future effectively.
+
+## Want to Learn More?
+
+While coding agents represent the most successful application of RAG and agentic principles, these patterns apply broadly to knowledge work systems. If you're building information retrieval and generation systems:
+
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Maven RAG Playbook Course — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }

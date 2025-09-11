@@ -16,8 +16,10 @@ I've been helping companies build agentic RAG systems and studying coding agents
 
 This series shares what I've learned from these teams and conversations with professional developers using these systems daily, exploring what we can apply to other industries.
 
-!!! info "Companion Series: Coding Agents Speaker Series"
-    For deep insights from the teams behind leading coding agents, see the [Coding Agents Speaker Series](./coding-series-index.md). That series captures conversations with Cognition (Devin), Sourcegraph (Amp), Cline, and Augment on building production coding agents. This Context Engineering series focuses on the technical implementation patterns, while the Speaker Series reveals the strategic insights and architectural decisions from industry leaders.
+!!! info "Related Series"
+    **[Coding Agents Speaker Series](./coding-series-index.md)**: Deep insights from the teams behind leading coding agents including Cognition (Devin), Sourcegraph (Amp), Cline, and Augment. While this Context Engineering series focuses on technical implementation patterns, the Speaker Series reveals strategic insights and architectural decisions.
+    
+    **[RAG Master Series](./rag-series-index.md)**: Comprehensive guide to building and scaling retrieval-augmented generation systems. Context Engineering principles directly enhance RAG implementations—structured tool responses and faceted search are foundational RAG optimization techniques.
 
 <!-- more -->
 
@@ -183,3 +185,10 @@ Each post includes practical code examples, implementation strategies, and real 
 Start with the foundational post [Beyond Chunks: Why Context Engineering is the Future of RAG](./context-engineering-tool-response.md) to understand the core thesis and four-level framework. From there, you can either read sequentially or jump to specific topics based on your current implementation needs.
 
 The future of RAG isn't about better embeddings or larger context windows—it's about teaching agents to navigate information spaces systematically. Let's explore how to build that future together.
+
+## Want to Learn More?
+
+If you're implementing these Context Engineering patterns in production RAG systems, I offer comprehensive training on systematic RAG improvement:
+
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[Maven RAG Playbook Course — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
