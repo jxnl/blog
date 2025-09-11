@@ -2,7 +2,7 @@
 
 **ML Engineer, Consultant, Advisor**
 
-[:material-email: jason@jxnl.co](mailto:jason@jxnl.co) | [:material-web: jxnl.co](https://jxnl.co) | [:material-github: jxnlco](https://github.com/jxnlco) | [:material-twitter: jxnlco](https://twitter.com/jxnlco)
+[:material-email: jason@jxnl.co](mailto:jason@jxnl.co) | [:material-web: jxnl.co](https://jxnl.co) | [:material-github: jxnl](https://github.com/jxnl) | [:material-twitter: jxnlco](https://twitter.com/jxnlco)
 
 ## Executive Summary
 
@@ -33,7 +33,7 @@ Created [Instructor](https://python.useinstructor.com/) Python library (3M+ mont
 
 **2020 - Present**
 
-Active investor in [Exa](https://exa.ai/), [BrowserBase](https://browserbase.com/), [Lovable](https://lovable.dev/), [Pydantic](https://pydantic.dev/), Haize Labs, Rork, [Smithery](https://smithery.ai/), [Vantager](https://www.vantager.co/), Raindrop, Shaped AI, Augmental, [Kino.ai](https://kino.ai/).
+Active investor in [Exa](https://exa.ai/), [BrowserBase](https://browserbase.com/), [Lovable](https://lovable.dev/), [Pydantic](https://pydantic.dev/), Haize Labs, Rork, [Smithery](https://smithery.ai/), [Vantager](https://www.vantager.com/), Raindrop, Shaped AI, Augmental, [Kino.ai](https://kino.ai/).
 
 ### Staff Machine Learning Engineer, Stitch Fix
 
