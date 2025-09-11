@@ -12,7 +12,7 @@ This comprehensive FAQ is compiled from all office hours sessions across multipl
     Use your browser's search (Ctrl+F) to find specific terms or questions, or browse through the questions below.
 
 
-<!-- more  -->
+<!-- more -->
 
 This is a collection of questions and answers from the office hours sessions of our course.
 
