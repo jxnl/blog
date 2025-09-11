@@ -8,6 +8,8 @@ description: Our next cohort is coming up—enroll today. Here’s a preview of 
 
 Our next cohort is coming up. Enroll today and get access to live office hours, hands-on reviews, and practical guidance you can use the same week.
 
+<!-- more -->
+
 [Enroll in Systematically Improving RAG — use code EBOOK for 20% off](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
 
 ## Preview: Questions We Tackle in Office Hours

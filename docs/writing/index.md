@@ -37,6 +37,17 @@ For posts about RAG (Retrieval-Augmented Generation) or LLMs (Large Language Mod
 - [RAG Feedback Loop](./posts/rag-flywheel.md): Creating a self-improving RAG system
 - [RAG Search Metrics](./posts/rag-lgtmk.md): How to measure RAG search quality
 
+[:material-school: Take the RAG course](../systematically-improve-your-rag.md){.md-button .md-button--primary}
+
+## Context Engineering
+
+- [Context Engineering Series Overview](./posts/context-engineering-index.md): Why tool responses, structure, and interaction patterns matter
+- [Beyond Chunks: Why Context Engineering is the Future of RAG](./posts/context-engineering-tool-response.md): Four levels of tool response that teach agents to navigate data
+- [Slash Commands vs Subagents](./posts/context-engineering-slash-commands-subagents.md): Reduce context pollution and keep reasoning threads clean
+- [Two Experiments on Agent Compaction](./posts/context-engineering-compaction.md): Use compaction as momentum to preserve trajectory
+- [Agent Frameworks and Form Factors](./posts/context-engineering-agent-frameworks.md): Choose the right autonomy level and delivery mode
+- [Rapid Agent Prototyping](./posts/context-engineering-agent-prototyping.md): Validate with folder-based tests before building orchestration
+
 ## Consulting and Tech Advice
 
 - [Tools for Consulting](./posts/consulting-stack.md): Essential tech for consultants
@@ -44,6 +55,8 @@ For posts about RAG (Retrieval-Augmented Generation) or LLMs (Large Language Mod
 - [Consulting 101](./posts/consulting-everything-i-know.md): Key lessons from my consulting experience
 - [Building AI App MVPs](./posts/mvp.md): How to launch a basic AI application
 - [Common Engineering Errors](./posts/stochastic-software.md): Mistakes to avoid in software development
+
+[:material-lightbulb-on-outline: Learn Indie Consulting](https://learnindieconsulting.com){.md-button .md-button--primary}
 
 ## Talks and Interviews
 

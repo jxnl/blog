@@ -11,6 +11,8 @@ categories:
 
 # Code as Craft: What Musashi's Carpenter Can Teach Us About Software
 
+<!-- more -->
+
 !!! quote "Book of Five Rings"
 
     The comparison with carpentry is through the connection with houses. Houses of the nobility, houses of warriors, the Four houses, ruin of houses, thriving of houses, the style of the house, the tradition of the house, and the name of the house. The carpenter uses a master plan of the building, and the Way of Strategy is similar in that there is a plan of campaign. If you want to learn the craft of war, ponder over this book. The teacher is as a needle, the disciple is as thread. You must practice constantly.

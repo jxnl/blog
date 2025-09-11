@@ -6,14 +6,16 @@ missing_tag_files=()
 
 echo "🔍 Checking blog posts for <!-- more --> tags..."
 
-for file in docs/writing/posts/*.md; do
-    if [ -f "$file" ]; then
-        if ! grep -q "<!-- more -->" "$file"; then
-            missing_tag_files+=("$file")
-            echo "❌ Missing <!-- more --> tag in: $file"
-        fi
+while IFS= read -r -d '' file; do
+    # Skip index pages which are not posts
+    if [[ "$(basename "$file")" == "index.md" ]]; then
+        continue
     fi
-done
+    if ! grep -q "<!-- more -->" "$file"; then
+        missing_tag_files+=("$file")
+        echo "❌ Missing <!-- more --> tag in: $file"
+    fi
+done < <(find docs/writing/posts -type f -name "*.md" -print0)
 
 if [ ${#missing_tag_files[@]} -eq 0 ]; then
     echo "✅ All blog posts have <!-- more --> tags"
