@@ -1,0 +1,139 @@
+ 
+
+Introduction to the Course and Instructor
+
+So welcome to the first week of systematically improving your rag applications. This video is just introduction, and I'm your instructor, Jason. The goal of this video is really just to go over some of the introductory content, talk a little bit about who I am and my background, a little bit about you, and then figure out what success looks like as part of this course.
+
+So over the next couple of weeks, we're really going to try to dismantle the usual guesswork in AI development and replace it with something that's much more structured, measurable, and repeatable.  And my commitment to you is to be online, answer questions, and provide as much time as I can during office hours to help you get there.
+
+But your commitment is going to be able to start, but your commitment  is to one, stick with the material, have conversations with your teammates and really make the space and make the time to not only go over the material,  but spend the time to look at your data, instrument your systems and really ask yourselves, what is the work that I'm trying to do when building these applications? 
+
+Instructor's Background and Experience
+
+My background mostly was in computer, computer vision, computational mathematics, and mathematical physics. And when I graduated from the University of Waterloo, I spent a lot of my time working on things like computational social sciences.  Um, at Facebook I did content policy, content moderation, and public risk and safety, where we looked at things like identifying, uh, graph content to figure out where the crime is happening, and effectively what we were building is just dashboards and RAG applications to find all the bad stuff on the internet.
+
+Then when I went to Stitch Fix, my time was spent building, computer vision models, multimodal retrieval models, and using things like variational autoencoders and GANs. to do Gen AI applications and ultimately we boosted about,  50 million worth of revenue.
+
+On top of that, I also oversaw a 400, 000 annual budget for  data curation. So I have a lot of experience thinking about how do we collect data in a very capital efficient manner? How do we train data labeling teams? And even though we might not use data labeling teams now, a lot of the LLM as a judge work and the prompting around that is going to look very similar. 
+
+And then lastly, we took things like my recommendation frameworks and observability tools And started processing hundreds of millions of recommendations every week. And ultimately we built out search systems for similar items, complimentary items, outfits, and curated collections.  And all of these skills really brought me to a place where when LLMs came  out a lot of my consulting was very relevant
+
+we looked at things like query understanding, prompt optimization, embedding search, fine tuning, and a bunch of different ML ops and observability. And now my consulting practice, I've worked for companies like HubSpot, Zapier, Limitless, along with a ton of others that, go over things like personal assistants, construction, research, and et cetera.
+
+And you might ask yourself, Jason, if you're so good at building these kind of systems, uh, why don't you build stuff versus being a consultant? And the truth of the matter is, earlier in 2021, 2022, I had a pretty bad hand injury that prevented me from typing as much. And so now I find that the highest leverage work that I can do revolves around advising startups and doing more education and training and just helping other folks build things as I let my hands recover. 
+
+And when, ResNet and things like that came out, a lot of the prompts and the things I was thinking about at the time was, how can we make vision work? And how can we make vision machine learning models produce economically valuable work?  And in 2022, it was about making text work.
+
+And so for the past, like, six, seven years of my career, a lot of what I've been spent doing was just building things like visual product search. Recommendation system, some recommendation systems and improving machine learning based products and the goal of this course is to not only share what I know from that experience, but also share stories of how I've worked with other companies through my consulting, as well as the stories of other students.
+
+
+
+  
+
+Course Overview and Structure
+
+So now let's go over a quick overview of what the course is going to look like.  In week one, our focus is going to be using synthetic data generation to create precision and recall evaluations. And the idea is that if you don't have any production data, you can always start with your text chunks and start producing synthetic questions that we can verify are correct.
+
+Then once we have a baseline set of evals, we can start thinking about taking these evals and turning them into few shot examples. Or larger data sets that we can use to either fine tune models or evaluate whether things like synthetic data, more synthetic data, you know, coherent re rankers, or other models and methodologies could improve these systems.
+
+And then in week three, we're going to be able to deploy something, share that with the world, collect feedback, and use this feedback and these ratings from our customers to then again improve our evals. Once we have enough of that data in week four, we will start thinking about using things like topic modeling and clustering to figure out which specific topics and capabilities are things that we should double down on and what are the things that we should really try to give up on doing for now. 
+
+And once we find the economically valuable work in week five, we'll explore things like how we can incorporate multi modal search, contextual retrieval, summarization to improve very specific segments. Of that of that query demographic and then in week six, we can combine them all together with function calling and query understanding to basically take an input query,  figure out which path it should go down, solve the individual path using some multimodal rag, and then combine them again into a final answer. 
+
+And once we can do that, not only have we built the UI and the evaluations. We have a way of identifying what's the more valuable work, how can we make investments in that work, and reapply them and figure out how we can invest in every single part of the pipeline. And by doing this, you'll always be able to give yourself a couple of different projects and allocate your resources effectively in order to figure out what needs to be done and in what order. 
+
+For Tuesdays and Thursdays, we're going to have office hours at different time zones to,  allow other people to work together. On top of that, we'll also give some guest lectures on Wednesdays, and potentially some guest lectures on Thursdays, depending on how we can find and schedule some of these interviews.
+
+And then on Fridays, ideally, we'll release the next set of videos for the next week, and then we can bring in this process all over again. 
+
+And the idea is now we can run a flip classroom where the lectures are something that we can watch asynchronously, and then we can collect our notes, submit questions ahead of time, and then start our office hours every time with a bunch of great questions that comes from the, uh, the students of this course.
+
+And then in terms of synchronous time, we'll have our guest lectures on Wednesdays and Thursdays where we can ask questions after these, speakers. And the goal of this is there's gonna be, there's gonna be much more time spent doing some active learning throughout the actual office hours And we can actually invest more of our time  over Slack to discuss any questions that you might have.
+
+This also means that other students in different time zones don't have to wake up at 2am in the morning to participate in these lectures. And it will be a better experience for everybody involved.
+
+Understanding the Students and Their Goals
+
+Okay, now let's jump into a little bit about who you guys are. About 30 percent of the people here were actually founders and CTOs of companies. About 20 percent were actually just senior engineering and the rest was a mix of software engineer, data scientist, PM, solution engineer, and consultants.
+
+And so I'm really, really excited to have a very diverse group of people here talking a little bit more about their experience building these kinds of applications. And in terms of companies, we have really great companies like OpenAI, Amazon, Microsoft, Google, Even Anthropic and NVIDIA here. I'm really excited to have you guys on board as well, because I'm  interested in also hearing more about the kinds of problems that you guys are facing and how we can help
+
+Defining Success and the Importance of Systems
+
+All right, so now let's jump into what does success actually look like and why it matters to have a system on how we improve RAG applications. So the first question is what is a system a system is simply a structured approach to solving problems that guide how we think about and tackle these challenges, 
+
+ We want to present a framework on how do we evaluate different technologies. You want to have a decision making process on how we prioritize developmental efforts. a methodology for diagnosing and improving application performance, and a standard set of metrics and benchmarks we can use to measure success. 
+
+And by having a system, we can actually free up a lot of mental energy for things like innovation and tackling unique challenges, right? Too many companies I find waste time just guessing what might work and asking me, and they just go, oh, Jason, do this, will this work, will that work?
+
+Instead of just testing these things with a really, you know,  Strong suite of evals. And oftentimes during stand ups, we hear a lot of quantitative results. Oh, Jason, this looks better. I think it feels better rather than qualitative assessments of what we need to build.  And then lastly, a bit of this is going to be a little bit more  higher level, but just securing resources for developing new capabilities is a challenge without being data driven,?
+
+If we want to solve a really complex problem, for example, say investigating whether or not we can build RAG over Notion pages, one question that we might want to answer first is going, How important is this problem? Is this problem economically valuable? And if it is, how do we allocate resources? And how much time do we spend on solving these problems?
+
+ 
+
+Now, let's talk about what success looks like and what success feels like. Ideally, at the end of this course, when you're going to your next stand up or your next, you know, sync, you're going to have much less anxiety when you hear things like, just make the AI better,  you're going to be much less overwhelmed when someone tells you to look at your data.
+
+In particular, when I tell you to look at your data. And we're going to be able to leverage this data to identify what is the high impact tasks, Effectively prioritize and make informed trade offs on how much time we spend on one problem versus the other. And choose relevant metrics that correlate with business outcomes.
+
+And if we can do this well, then we can drive better outcomes in terms of user satisfaction, retention, and ideally,, more usage. Right.
+
+ And I've done this as a consultant for things like personal agents, construction AI, workflow automation, sales, marketing, a lot of transcript and data mining, as well as even some applications and clients in the private equity due diligence space. And I have a lot of really interesting guest speakers coming up as this cohort to really talk about some of these applications.
+
+Now that we know what the feeling of success should look like,  now that we know what success looks like and feels like, how do we get there?  
+
+Experimentation and Data-Driven Improvement
+
+Well, number one, I really wanted to think of most of this next couple of weeks, thinking about the importance of experimentation, rather than the idea of just making the AI better, 
+
+when you hear, look at your data, I want you to ask, why am I looking at my data? What's the goal? What am I looking for? What is the hypothesis? And then when you see signals asking, asking yourself, is the juice worth the squeeze? And what can I do with this information to improve my application?  And then once the flywheel is in place, success is just defined by doing the most obvious thing over and over again. And your only job is to just apply consistent effort. If you think about, a different world, like building muscle, for example, you can track calories in workouts. And that's really boring, but what's not really helpful is just weighing yourself every day, and then just thinking that you're underweight or overweight.
+
+Building and Improving RAG Systems
+
+now let's compare retrieval systems like RAG versus recommendation systems. And this is going to be a big aspect of how we are going to think about improving RAG.
+
+So the idea here really is that RAG is more than just retrieval, augmentation and the generation. In fact, what really happens is that a language model will take in a query. It will hit multiple retrieval indices, multimodal, for example, uh, images, tables, whatnot. It's going to do some kind of filtering, maybe a top k filtering.
+
+We're going to do some kind of scoring, maybe something like a coherent re ranker. We're going to order them, prepare them into a context, and then ask a language model to generate the answer. And the issue really is that engineers are focusing on generation . without knowing if the right information is retrieved.
+
+And only through improving search can you really improve retrieval, which will improve generation. And so the idea is the language model will end up finding different backends. Based on those queries. And truthfully, what ends up happening in reality is retrieval is not only just multi step, in this case a four step recommendation system, But it is also a multi index and a lot of what we'll talk about in weeks four, five and six is really understanding how we can split up the work and then recombine the work later.
+
+So the real challenge is to think about instead of building a retrieval augmented generation system, just build a recommendation system wrapped around a language model. And so here we're going to have some kind of, input UI it's a chat interface, maybe it's some kind of query. Then we're going to predict a list of queries that are then routed to specific search engines.
+
+We're going to do some planning, some chain of thought, some parallel tool use.  And once we're done, we're going to be able to send those queries into these specific indices that we care about.  And then based on this original routing steps, now we can start doing things like retrieval, filtering, scoring, and ordering.
+
+And then once we produce the right kinds of chunks, we can choose a prompt to then generate the response.  And here we also have a special UI to render things like the streaming responses, you know, cards for example. Now we can think about doing things like citations and building feedback buttons, and the idea is that all that information can go back into the beginning of the system, um, And not only do we now think of this recommendations as a pipeline, the, the, the, the information we get from the filtering, the scoring, the inputs and the outputs can also impact how we then process the data upstream.
+
+into chunks, into databases, and this is how we improve this system in a reliable way.
+
+Here, for example, if you look at the pseudocode, what we're doing is we first produce some kind of query understanding step where we generate a list of search queries and a qualified query. We can generate a prompt to answer a question, execute the various search engine requests, format everything, and then what we can do is we can answer the question using the results and a specific answer prompt that might be dependent and conditional on some information we know about the kinds of questions that users are asking.
+
+ 
+
+The Flywheel Approach to RAG Development
+
+And now to wrap up the introduction, let's actually go over the specific details of what the flywheel entails.
+
+So the number one thing has already been done by most of you here, which is to just build a basic RAG application. You can use something like lang chain or llama index. You can roll your own. It doesn't really matter.  What really matters in the beginning is figuring out some way of creating evaluation data.
+
+And for most people, we can use synthetic questions to test the system's ability to do retrieval. We might just take random text chunks, ask a language model, okay, create a question for me that would be answered by this, by this text chunk, and then just verify whether or not that question would have retrieved that chunk.
+
+Now we can define metrics like precision and recall and mean reciprocal rank, rather than using these bigger, heavier language model based methods.  And what this does is it really allows us to make very fast evaluations and test, many experiments. without blowing up the budget. Once we have a general idea of how these things work, now we can go collect real world feedback and collect real world data.
+
+We might be looking at, user queries and interactions, or we might want to make sure that the feedback is aligned with any business outcomes that we care about, or at least correlated with the important qualities that predict things like customer satisfaction. Once we have enough of this data, we're going to start thinking about how we can categorize and analyze the user questions to identify different patterns and gaps.
+
+And based on this analysis, make very targeted improvements into the system, right? The goal isn't to build AGI here, the goal is to create economically valuable work. And then once the site is all set in place, then we can start implementing ongoing monitoring  📍  📍 to track the system's performance. Now we can have dashboards that we can review on a weekly basis, look at more data that's negatively correlated with success, and then start incorporating those user feedback back into the system.
+
+And what this allows us to do is first,  📍  📍 with the synthetic data , address the cold start. With synthetic data, we can establish these baseline metrics and then compare things like lexical search, semantic search, and our, you know, suite of re rankers. And we can use this all to basically test different hypotheses. 
+
+Once we instrument and observe the user data, we can identify strengths and weaknesses and place them into clusters. We can implement UI to collect that user data and start fine tuning our models. And we can use topic modeling to identify missing topics and capabilities with our domain experts. And I'll explain what topics and capabilities are in weeks, uh, five and four and five.
+
+ Once we find certain areas or regions of our query space that are underperforming, but high impact, now we can start doing some offline analysis, thinking about how we can improve these systems, monitor for production data, and then ultimately build better capabilities.  Then  📍  📍 we can implement our new routers, tools and capabilities, evaluate these specific experiments for these specific indices, and then combine them again using tool calls and function calling.
+
+ And then there you have it. This is a complete flywheel in being able to first address the cold start, identify capabilities that you need to invest in, build those out, recombine them and then instrument them in a way that can help us figure out what to think about next.
+
+ 
+
+Conclusion and Next Steps
+
+And then throughout the rest of this course, through our stories and our conversation with our peers and our guest lectures, we're going to talk about very specific instances of how we can actually execute and implement parts of this playbook.  So stay tuned and, uh, you know, we'll see you in the first video.

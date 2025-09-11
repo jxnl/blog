@@ -118,7 +118,26 @@ nav:
     - User Manual: "user_manual.md"
     - Books: 'books.md'
     - Things: 'things.md'
-  - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
+  - Learn to Improve Your RAG:
+    - Overview: "systematically-improve-rag/index.md"
+    - Chapter 0: "systematically-improve-rag/chapter0.md"
+    - Chapter 1: "systematically-improve-rag/chapter1.md"
+    - Chapter 2: "systematically-improve-rag/chapter2.md"
+    - Chapter 3:
+      - Feedback Collection: "systematically-improve-rag/chapter3-1.md"
+      - Perceived Speed: "systematically-improve-rag/chapter3-2.md"
+      - Small Changes, Big Impact: "systematically-improve-rag/chapter3-3.md"
+    - Chapter 4:
+      - Patterns in User Data: "systematically-improve-rag/chapter4-1.md"
+      - What to Build Next: "systematically-improve-rag/chapter4-2.md"
+    - Chapter 5:
+      - Specialization Basics: "systematically-improve-rag/chapter5-1.md"
+      - Beyond Text: "systematically-improve-rag/chapter5-2.md"
+    - Chapter 6:
+      - Routing Basics: "systematically-improve-rag/chapter6-1.md"
+      - Build the Router: "systematically-improve-rag/chapter6-2.md"
+      - Measure & Improve: "systematically-improve-rag/chapter6-3.md"
+    - Chapter 7: "systematically-improve-rag/chapter7.md"
   - Consulting:
     - Consulting Services: "services.md"
     - Jump on a Call: "expert-calls.md"

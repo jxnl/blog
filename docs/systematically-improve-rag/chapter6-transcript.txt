@@ -1,0 +1,255 @@
+ 
+
+Introduction to Systematic Improvement
+
+Welcome back to the last core session of systematically improving Iraq applications. Last week we. Last session, we talked mostly about how we improved our search agencies one by one. This could mean extracting data, generating summaries, and then using that to combine both lexical search filters and semantic search to create a single index.
+
+And 
+
+Combining Search Indices for a Cohesive Application
+
+today we'll talk about how we  📍  📍 can combine them to create a cohesive application.
+
+The goal of this week is to talk a little bit more about query routing versus building these specific indices.  📍  📍 We'll discuss the challenges we have, how we can improve things with more testing, and more importantly, think about what the UI could look like to improve the way we collect data and improve our search end indices, and improve our,  and improve our search indices.
+
+Overall, this should be a pretty quick session, and then we'll conclude with some food for thought, and then conclude the course as a whole.
+
+In the previous week, we talked about the idea that there are two ways of improving our ability to search. One of 'em is to turn chunk data into more structured data, and the other was to build s.
+
+And the other was to build text summaries of our data so that we can fully represent them in full text search or embedding search.
+
+Blueprint Extraction and Querying
+
+So as a hypothetical, imagine us being a construction company and we wanna be able to search over the images of different blueprints. One thing we can do is define a blueprint extractor and extract out a description of the blueprint. And potentially the date the blueprint was set. And so you can imagine in this situation, we know that in this data set, all the images have our blueprints and they have some date in the OCR.
+
+Once we extract that and put into a database, now we can think about querying that database.
+
+In the first example, we define a blueprint extractor, which saves a day and a description. Now we can build a search blueprint model that searches the description and potentially has start and end dates. And now  we have to define  📍  📍 an execute method that builds the query and then sends it off to the database.
+
+And 
+
+Building and Testing Search Models
+
+with this simple tool, we can start testing whether or not that document we're looking for. Is returned in the arguments that we specified.
+
+And what we've basically done is two things. We've defined the extractor and saved it into a database, and then we define the search method that calls that database. These are the two primary ideas. And now if you wanna use a language model to be able to use this tool, we just have to specify it in the response model Here.
+
+ I have a prompt that tells the language model that they have access to the search blueprint tool, and I've given it a couple of examples.  Find blueprints for the city hall built in 2010. And you can imagine we can search city hall blueprints with a start and end date.
+
+ The idea that these future examples can help us understand how to use this response model.
+
+Now, when a user asks something like, can you help me find the plans for the 1, 2, 3 Main Street building, it's gonna be able to use the search blueprint model.
+
+ Each of these retrieval requests should  feel very much like a get request or a post request in a rest API.
+
+ It's about building an index and then defining some kind of API over that index.
+
+But defining many APIs to query that database.
+
+ This is something that model context, protocol could support in the future  that would allow you to build this tool once, expose the protocol once and expose it to many interfaces, whether it's to cloud API, or potentially cursor.
+
+Modular API Development
+
+by defining these APIs, separating our concerns, making this a lot more modular and allowing bigger teams to work together.
+
+Individual teams can work on specific APIs, whether it's our ability to search emails versus blueprints or schedules or something else. And it allows us to have a bigger team work together.  You realize is you're effectively a framework developer for the language model.
+
+ From my own experience, I spent many years developing multiple microservices to do retrieval for other teams, and I think moving forward it's gonna feel a lot like building distributed microservices.
+
+Now we can take this a lot further.
+
+Originally we had a search blueprint tool that had a description to search against to start and end date to filter. But we might also wanna define some more text search abilities.. Here we have a search query and also a filter by type. And here we can filter by contracts, proposals, bids, and all.
+
+We could have  discovered  these were the important capabilities through our data analysis we may have even discovered that bids, proposals, and contracts  📍  📍 were the important  📍  📍 kinds of filters through our data analysis and segmentation. And again, you can build a very simple filter to do this
+
+Here  📍  📍 we are running some search query, applying some filter, and then executing the search query.
+
+It doesn't really matter whether it's Lance or Chroma or Tobo, puffer, or Postgres.
+
+The detail really is that you're likely gonna be running these queries by yourself.
+
+ Now what we do is we can define a gateway or router. We can have a system prompt that says that you can search documents and blueprints. We can probably include a bunch of different examples of how we use search blueprints and how we use search text, but this time we're gonna use parallel function calling.
+
+I wanted to notice one thing here. I just talked about two tools, you know, search blueprint and search text. But more likely is that you're gonna have a lot more tools at your disposal. You might want to have a tool that spec specifically is prompted to clarify what the customer is asking. And other tools to give answers in previous examples.
+
+An answer could contain not only  📍  📍 the response , but citations and sources and follow up questions. And this can be all defined in the single model.
+
+And now when we execute a search query, we can basically send it to the search function, return a list of queries, and then gather all the results. And then what we can do is we can pass these results back into a language model that answers the question, and then you can go forward from here.
+
+This might harken back to the old school way of doing things with interfaces that we can experiment with. And they can define the interactions of the tools with our client and with our backend. Then we have implementations of individual tools.
+
+And then lastly, we have a gateway that puts it all together. 
+
+And these boundaries will ultimately help you figure out  📍  📍 how to split your team and your resources.  Each team can experiment with a different aspect of the interface, the implementation, and the gateway.  📍  📍 One team could explore the segmentation of the tools and figure out what the right interfaces are another can run experiments to improve the implementation of each one, improving the per tool recall. And then the last team, for example, can test the tools and see how they can be connected and put together   📍  📍 through the gateway router system.
+
+And obviously we talked about the first two in sessions four and five. 
+
+Challenges in Tool Selection and Recall
+
+So this week we're mostly gonna be talking about how we can think about testing. And again, we're gonna go back to the same concepts of precision and recall. You can imagine creating a simple data set in the beginning that is just for a certain question, what were the tools being called?
+
+Once we have a data set that looks like this, we can go back to just doing precision and recall of tool selection.
+
+And again, synthetic data can help you dramatically.  'cause if you have good descriptions of what these tools are, then you can potentially randomly sample them to create queries that might trigger those tools.
+
+And if you feel you can't do that, chances are you don't have detailed enough prompts on what these tools are supposed to do.
+
+And then once you've gotten all your examples and your test data, then you guys thinking about experimenting over your future examples, your descriptions,
+
+and this will just look like experimenting with the things inside your examples here.
+
+Dynamic Few-Shot Examples and Prompt Engineering 
+
+Once we have a baseline  📍  📍 for tool selection, we can start experimenting with  📍  📍 tool descriptions and few shot examples in the prompt.
+
+ 📍  📍 Initially, we might just want a hard code, 10 to 40 examples to describe how each individual tool should be used,  📍  📍 and include examples  📍  📍 of using tools can be used in tandem.
+
+As we get more complex, we  📍  📍 can apply the same approach used in Texas sql,
+
+where we can use search to fill in the ideal feature examples per tool.
+
+And this is really valuable because as you have more customers or more users using this thing. As you get more positive examples, if you're able to leverage these positive examples in your few shot examples, you're ultimately gonna get a product that is gonna be better and more reliable as more users use it.
+
+And while this isn't necessarily fine tuning, it is a critical part of the data flywheel.
+
+And again,  throughout this whole course, I'm just teaching the same thing over and over again.
+
+The system remains the same.
+
+And if this sounds similar, it's because it is. The reason I called this course Systematically Improving Rag Applications is because we are applying this system over and over again,  I really want you to pause here, internalize this concept, because this system is what we repeat over  📍  📍 and over again we start with synthetic data to produce query to tool or tool to query data. By doing so, we can create recall metrics and then what's gonna happen is we're gonna iterate on the few shot examples of each tool to figure out how we can improve, recall or tool selection.
+
+And don't be surprised if you wanna, and don't be surprised if you see. Yourself built. And don't be surprised if you see yourself making prompts with 10 to 40 examples per tool. Prompt caching makes this very tractable, and in production cases I, I've often seen tons of examples be used.
+
+And as you have more data, you can effectively just test 10, 20, 30, 40 examples and figure out where you want to be on that curve of the accuracy, LA latency and cost.
+
+In this complete example, you can see that first we have a prompt that generates the query. Then we can inject similar queries and tools based on historical data. And then the few shot examples.
+
+So we have something dynamic and something static. And this is all to basically figure out whether or not we need to execute any of these tools.
+
+And once you do that, you can start thinking about how to evaluate these things. And so 
+
+Evaluating and Improving System Performance
+
+next we'll cover some of the most common challenges I see with my clients.
+
+The first is low per class recall. You can effectively just consider each tool as some kind of class in a classification task. Okay?
+
+Now  📍  📍 you've reduced the data set. It is not enough just to look at recall of the entire system, but just to make sure you can evaluate whether or not specific tools are having challenges.
+
+For example, imagine a single query where there's a source tool. And the target tools. Here, we've predicted that the search text,
+
+consider this example here, the recall of this te, the recall of this test suite is 65%, but what's really happening is the source tool is being predicted as just search text.
+
+This might be because the classes are imbalanced or the prompts are not very good, but what you'll realize is that this is a poor reflection of its accuracy.
+
+And to fix this, we're gonna have to have better prompting and better few shot examples.
+
+But to continue with example, I,
+
+we might think 65 is bad because we're not doing a good job. But if you compute the per recall, if you can compute the recall per tool, you'll realize that. Tech search is doing very well, but it's just the fact that we're not being, it is just the fact that we are unable to figure out when to use the blueprints tool.
+
+Now we know what the problem is, and now we can have a targeted intervention. Our job is to figure out whether or not we can give more examples of search blueprints to figure out when it should be called.
+
+And here what we can do is just create a confusion matrix.
+
+Once we have that we can fit. Once we have that, we can filter out these failure modes and pull that data outta the database and just look at those examples and just figure out what's going on. A lot of it is just figuring out what to look at. Where to look, what to look at, and just fixing those individual cases.
+
+We might want to add more evals, but more importantly, you wanna just fix those examples, iterate on the prompt, fix those examples, and just verify whether or not per tool recall or recall in general is improving. Proving. 
+
+ I will also have to call out that once you use your test data to create few shot examples, you have to be very cautious of data leakage, especially when many teams I work with only start with a couple dozen examples. This is gonna be a big issue
+
+because our Lambos are limited. One of the things I want you to make sure you avoid is that the questions you ask are not in the training data. This is gonna dramatically overestimate your ability to.  Figure out whether or not the tools are actually working. There's also gonna be a chance that if the data is memorized, you're gonna have really embarrassing results as you deploy a production where customers are gonna get the example, answer from a few shots, and it's gonna be very confusing for everybody.
+
+So we talked about how we should think about routing and some simple challenges and about how we can measure recall. But the reason we try use these metrics for the most part is because generally the probability that you find  📍  📍 the right piece of data, the overall recall of the entire system is just this.
+
+Equation. It is the probability that you find the right text chunk given that you found the right retriever times the probability you found the right retriever. And so  📍  📍 you are answering two questions.  Does the search method find the text chunk? Is the LLM able to choose the right search method for the job?
+
+That's it. And the takeaway is that this equation can really help you identify the limiting factors of your system. You generally just want to have a dashboard that prints out both the conditional probability of finding that trunk and the probability of high recall.
+
+And once you know, you'll know what to work on. Do I want to focus on the subsystem or, do I want to focus on the router?
+
+  📍  📍 If you want to focus on the router, you have to think about things like few shotting and descriptions. Whereas  if you wanna improve the index, you might wanna think about things like fine tuning, generally more training data and improving the way you do filtering. And now these things are gonna be very, a very actionable.
+
+And if we interpret this equation with one more step, really it's gonna be the probability of success, condition of the correct tool being chosen times of times of probability of the tool is chosen given the query times of probability of the query.
+
+And what you'll realize is the probability of a certain query happening is basically gonna be a function of the ui. Who's asking those questions and the kind of education you're gonna do to tell customers what they can do? Well, probability of success is just a general satisfaction you're gonna have with your application.
+
+And the other two is just gonna be retrieval quality and generation, and the ability to choose the right tools for the job.
+
+And if you remember from session four, when to double down and when to fold, you know, running these segmentations  📍  📍 will help you figure out how we can break down this key query to throw away the things that we're bad at and double down on the things we're good at.
+
+And generally looking at this formula is how I think about helping teams plan both their research roadmap and their product roadmap. If there are things that we can do well, we should continue doing them. That's your product. If there are things that are doing poorly that we have to do better on, that's our research.
+
+But as always, none of these tools are just gonna be an AI component most of the time. Good UI can fix a lot of the issues that we have with underperforming and unreliable models.
+
+  User Interface and Experience
+
+And we've already talked a little bit about this kind of stuff in session three where  📍  📍 we discussed ui, but  📍  📍 I just want to give you some more examples and more food for thought.
+
+If you think about how search works in these other applications, it's gonna be the case that each tool has different UI and different filters to allow you to find the right tools. For example, you can think of YouTube  📍  📍 is Google's video index and Google Maps  📍  📍 is the Directions index. You can think of LinkedIn as your network and professional index and then Google for everything else.
+
+But even then. Whether or not Google thinks your search request is gonna be a video or a map or directions, it's gonna put  📍  📍 you in the right place.
+
+So even Google is very opinionated with what kind of UI they wanna show you based on the search request you give it
+
+and there's a, I think there's a, and personally. When I think about ui, there's a huge opportunity to include UI that that lets your users naturally map their queries to that schema that you talked about to that schema we talked about in the previous example, we, we implemented a search text feature that had a query and some filters, and we've implemented this, but the assumption is that the LLM is the one that actually is able to call this.
+
+But  chances are you're able to just expose this to your customer by itself, right? If we do this, what we're saying is if we know our user is an expert, we can shift the probability that we select the right tool to a hundred percent if we think they know what they want. And if you can, why delegate to a model to begin with?
+
+Because oftentimes building a good rag application is first about just having a good search tool and exposing it to a language model. But if you can expose it to a language model, why not also expose it to your users?
+
+And so what I often like to do as well is not only expose some kind of freeform search tool that the language model is able to use as well as a human,  but also provide a structured search tool.
+
+Right. And what's gonna happen is, you know, we might have a structured text search tool, a blueprints tool, and a freeform tool. And then you can choose how to route your customers, whether you wanna use a LLM versus just allow the customer to search something, right? If, if I go on google.com and I know I wanna search directions, I just, I just go to the maps tool, and if I know I want videos, I just go to YouTube.
+
+I don't force myself to Google everything.
+
+And as you do this, your users will just learn how to use your app over time, right? Building a rag application, building a chat bot is a feature, not a benefit. And if you really think about the fact that most people want to use a tool like this to be able to answer some questions and figure out where the data is.
+
+Building search is gonna be very important for them.
+
+And more interestingly
+
+and more interestingly, we can use the human interactions on this document selection, right? If we search for a blueprint, for example, and they click a blueprint, that becomes training that we can use to improve our ranking models or our search models. So while it is, it is very hard to figure out what kind of.
+
+So now that we've covered a little bit more about the testing in the ui,  I just wanna leave you with some, some last words.
+
+Conclusion and Final Thoughts
+
+In the last few sessions, we really talked about the importance of using synthetic data to test your systems and how we can build user experiences to collect more feedback. And once we had the mo, once we had the ability to do both.
+
+We can analyze our user query through topic modeling to identify certain segments and figure out whether or not they're inventory issues or capability issues. And depending on which one it was, we can then build specific indices to address those specific segments. And now this week and now this session, we're focused on career routing.
+
+We have to figure out what tools are the ones we should be building and  📍  📍 how to combine them. Figure out which ones work well and which ones don't work. And more importantly, whether or not these single tools, these specific tools should just be exposed to your user to begin with. Because if they are, then user feedback through their click interactions can help you build better ranking models.
+
+If you wanna see some more examples of, uh, how that, and if you wanna see more code examples of how that works in practice, you can check out some of the resources here.
+
+
+
+And this generally concludes the course, obviously there's gonna be many more office hours, and I'll still be on Slack for the remainder of the year to answer any questions. But what I hope to distill in you is that you need a valuation.
+
+Way too many teams I work with have either no evaluations or a tiny set of evaluations, like 10 or 20 examples. But evaluations are critical to understanding how to improve your system. Evals represent the dataset you can use to inform your decision making.
+
+And ideally you can change the, the way you run meetings so that your conversations are, are not  📍  📍 just about how to make the AI better, but  📍  📍 how to move specific metrics?
+
+And as you build more evals, your evals become few shot examples that you can use to improve your system. And from few shot examples, you can create even larger data sets. And now you can think about things like fine tuning, embedding models or re rankers.
+
+ And one of the biggest lessons I hope you can take away is the value of synthetic data.
+
+Synthetic data and customer feedback is ultimately what you need to make your applications go to the next level.  This is the fundamental building block of creating good and successful machine learning products.
+
+And if you refuse to believe this, you're ultimately condemning yourself to being lost and confused in this very hyped up space of machine learning. And it's been the same every single  📍  📍 time. There are always  📍  📍 going to be  📍  📍 new companies, new technologies, and new frameworks with new names.
+
+ 📍  📍 But we're all more or less doing the same thing we have been doing for the past 20 years.
+
+But ultimately the process has been the same. A good product generates better evaluations with a strong user experience good UI and good expectation setting. Better evaluations allow you to train and fine tune models to create a better product and data analysis over your data and data analysis over your users.
+
+In particular, doing things like segmentation will tell you where to focus your product development efforts on,
+
+and that's ultimately what doing machine learning is all about and why doing things like.
+
+And that process is ultimately what doing machine learning is all about. And that process is ultimately what building and deploying a machine learning based project is all about. I,
+
+and this marks the end of our course.  Please don't hesitate to give me any feedback 'cause my goal is effectively to con 'cause my goal is to convey effectively the importance of having these strong fundamentals. A lot of this is gonna be product oriented because, because the product oriented, because technology, because the technology will always be changing.
+
+And if you think there's any way this course can be made better for future iterations. Please let me know if there's topics you wish I covered but didn't let me know. And I'll work on some additional videos for everyone else for the remainder of the year. Thank you everyone, and as always, we'll see you on Slack and at office hours.

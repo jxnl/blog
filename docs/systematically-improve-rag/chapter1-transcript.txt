@@ -1,0 +1,297 @@
+ 
+
+Introduction to Systematically   Improving RAG Applications
+
+ Welcome to the first actual lecture for Systematically Improving RAG Applications. This week is all about giving you the tools to kickstart the data flywheel, and in particular thinking about evaluations, the mistakes people make, and then ultimately thinking about synthetic data as a way of addressing a lot of these concerns before you even have users.
+
+Common Pitfalls in AI Development
+
+ 📍  📍  📍  📍 Today the 
+
+common pitfalls that most AI developers make and the vicious cycle I see in every consulting engagement that I go into. We'll talk a little bit about 
+
+ 📍  📍 how we over emphasize 
+
+lagging metrics and how many of us fall victim to absence blindness and intervention bias.
+
+So my first question is, how often do we hear things like we need more complex reasoning? My hot take here is that it's often going to take often going to be a case of a lack of user empathy, right? When you hear something like this, I would really challenge you to figure out when was the last time we looked at data from customers and figured out what they want, what they really cared about.
+
+When was the last time we read that feedback? And when was the last time we asked for that feedback? And oftentimes, this is a general result of a lack of specificity in the tools that we actually build for our customers.
+
+And this is how we tend to enter the vicious cycle. , these developers unknowingly sabotage their applications because they define very vague metrics. We think things like does it look better or does it feel right? And ultimately you're sabotaging not only your product but your team and yourself if you don't define these clear metrics And you would be surprised at how pervasive these problems are There's been companies i've worked with with 100 million dollar valuations with less than 30 evals And in this situation what happens is when something changes You have no way of understanding what is actually moving the needle.
+
+Importance of Metrics and User Feedback
+
+The second thing that ends up happening is many of us don't build any superpowers.  We build very generic solutions for broad problems instead of very specific 
+
+ 📍  📍 work that  📍  📍 is 
+
+economically valuable.  And this ultimately means that you focus on the features of what you're building rather than the outcomes.
+
+This might happen because your mandate is too broad, you've overpromised, and now you end up building a very generic tool that is and then you enter a world where maybe churn is 30 and 40 percent and now you're just too scared to fully launch a product because people might lose interest.
+
+And the solution here really is try to be world class in just a few narrow domains and earn that complexity as you discover the use cases your customers care about. And ultimately, this comes down to the fact that the feedback we collect  is usually coming from LLMs and they're not very actionable.
+
+And the point of actually looking at your data is to identify what's next. Which ultimately comes back down to the metrics we care about. If you're looking at data and it does not result in recommendations for what we do next time, there really isn't any point.
+
+And if you do this poorly, this just leads to a lot of disappointed leadership and very sad developers?  After looking at data, you're supposed to take action. But this won't be you.  If you're in this class, I really challenge you to spend the next couple of weeks thinking about how we can fundamentally shift our mindsets into making our teams focus on metrics and running experiments rather than just features.
+
+And more importantly, really thinking about the lagging metrics and the leading metrics of what success looks like. 
+
+Understanding Lagging and Leading Metrics
+
+So now let's look into that a little bit more and really just cover something that was really profound to me at the time when I had been working at Facebook. So if you're a product scientist, like a product, so if you're on product or a data scientist, this might be very obvious to you, but for everyone else, let's go  define what lagging metrics are, and then talk a little bit about leading metrics.
+
+And if you can take any way,  and if you can take away anything just from just, if you can take away anything from just today that can improve your life and your business in many ways, I think this is going to be it. So a lagging metric is difficult to improve, but very easy to measure. It measures the culmination, it measures past outcomes and is often very unresponsive and hard to change.
+
+And it often outputs. And it often measures the outputs of a system. For example, things like application quality, churn, or satisfaction. Very easy to measure, very hard to change. A good example of this might be just being stronger or losing weight. We can always test how strong we are. We can also always weigh ourselves, but we can't do much about it at the time.
+
+But let's compare that to leading metrics. These are things that are very easy to change, Right? But much harder to measure.  This might track and predict, you know, future performance and provide feedback on when and where to intervene when something goes wrong. And oftentimes they're the inputs of a system.
+
+Focus on Experimentation
+
+The simple example I want you to think about the most in the upcoming weeks is just how many experiments are we running. A simple analogy to this is , going to be around counting calories and burning calories and working out. On any given moment of any given day, you can count up how many calories you've eaten.
+
+If you want to gain weight, you just check if you've eaten enough.  And if you want to lose weight, you just gotta check if you've eaten too much. Same thing with burning calories. And it turns out that if you want to control your weight, the lagging metric, the only thing that matters is calories in and calories out.
+
+This is just a very reductive example. But the goal here is I really want you to completely think about restructuring the way you think about stand up. You gotta focus on one thing, and that one thing is just the number of experiments that you can run. If you're feeling lost and don't know what to do
+
+plan to do a couple more experiments. At the early stages, 
+
+ 📍  📍 instead of 
+
+asking about the outcomes of these experiments, just focus on how many experiments are we running, and what kind of investments do we need in our infrastructure to improve that velocity. And ideally, during these team meetings, when you're reviewing data, I want you to be thinking about how we can brainstorm new ideas to design better experiments.
+
+And through this continual experimentation, you're going to be able to build a stronger intuition for what kind of retrieval methods and indices you need to actually build a better product. And this is going to be way more boring, right? This is basically going to be around counting calories in and counting calories out.
+
+But that is often what success looks like, doing the obvious thing over and over again.
+
+Absence Blindness and Intervention Bias
+
+And the last thing I want to go over is just this idea of absence blindness and intervention bias as a way of anchoring our patterns and trying to avoid those mistakes.
+
+So first, let's define absence blindness. You don't fix what you can't see. And I see this every day with almost every client. People are always talking about generation and latency, and no one has ever really looked at whether the retrieval is good or bad, whether the representations and the text chunks are bad, or even if the data has been extracted correctly.
+
+Too many of us focus on what you can see, the generation and latency, and not the retrieval itself. 
+
+ 📍  📍 And this is why a lot of the focus of today's lecture is 
+
+around just thinking about precision and recall. Something else that we do too often is we just try to do things in order to feel control. 
+
+ 📍  📍 We'll just switch between 
+
+different models and add a couple of lines of prompts everywhere we, we go and we just wanna see if anything gets better.
+
+ 📍  📍 A lot of people pay me just 
+
+to tell them what they hope to hear is just the answer of what to do, but that's usually not how things work. Things are very empirical, right.
+
+And if you send me an email and you pay me a couple dollars to ask me whether or not this thing or that thing is going to work, the answer is always going to be it depends on your data, your evaluations, and your benchmarks. And again, it's one thing to do something because you want to feel like you're in control, versus taking specific interventions against specific metrics, and testing very specific hypotheses.
+
+And it feels good to feel like you're making an impact, But the important thing, but the importance, but the important thing here is to set evaluations that we can hill climb  and evaluations that really reflect and correlate with  business outcomes that we care about.
+
+The RAG Flywheel and Retrieval Evaluations
+
+Now let's just switch gears a little bit and  talk about the RAG flywheel itself. The basic principle here is that everything that we've applied in search is incredibly relevant to how we want to do retrieval. Many of here already have a basic RAG setup, and the only thing to do next is to think about how we can bring in synthetic questions that test the system's ability to do retrieval.
+
+Then we can conduct very fast unit tests  Then we can conduct, then we can conduct unit tests like evaluations that assess basic retrieval capabilities like precision recall and like precision and recall. And later we'll explain why that matters. As a bonus, if you already have real world data collected, you can bring them back in in a way to use the LLM to create better synthetic questions.
+
+ And, and what I want to say is that for every company that I worked with that did not come from a machine learning background started focusing on things like subjective generation evals way too early?  In the long term, language models are going to improve their ability to synthesize new data in context, but it's our responsibility to be improving things like our search and retrieval evals.
+
+And if we focus on generation evals, for example, things like factuality become very subjective and confusing. And as you start using tools that give you a suite of these evals, you end up getting flooded with information. Whereas if we start committing to improving precision and recall directly, now we can test things like whether or not lexical search, semantic search, or re rankers can help us improve our retrieval.
+
+On top of that, instead of running tests that take minutes or hours to run, you can run tests that take seconds. They're also going to be much cheaper, and we're not going to run into issues where we wake up one Monday morning and we realize an engineer has spent 1, 000 on OpenAI credits to run your factuality evals.
+
+And as they get more expensive and take longer, we tend to run them more infrequently, and now we are losing the ability to run more experiments in a shorter amount of time. And lastly, as you scale to having hundreds or even thousands of tests, again, retrieval evals scale incredibly well, whereas generation evals, and using LLM as a judge too early in the process, can result in much more difficult test cycles.
+
+So what is the real difference between a generation eval and a retrieval eval? If we think of a generation eval, what we're assuming is that a retrieval works, and our only job is to come up with an answer. So if you have a question for a textbook, like what is the powerhouse of a cell, the potential answers could be very different.
+
+Maybe it's a single word with some citations and square brackets. Maybe it's a full paragraph of text. Maybe it's the definition first. It's very subjective and we don't really know how to do that well just yet. Whereas if we look at retrieval evals, our primary focus is acknowledging whether or not we can even find the correct pages to the answer that we talked about.
+
+If the answer was pages 6, 9, and 13, a simple test is just whether or not those three pages came up in the top, you know, end results. The same thing is true for something like potentially contact information, where maybe the question is, how do I contact Jason? And sometimes the answer is an email, sometimes it's a phone number, sometimes it's a Twitter account.
+
+Again, it's going to be very challenging to figure out what does a good answer look like. But the first question we should really answer is, Can we find that information? And again, I think too many people and too many businesses are just making the assumption that retrieval works.
+
+And ultimately, when we use generation evals in the beginning,  the assumption that retrieval works is a big one. And as a result, so many retrieval issues just go unnoticed.
+
+And what people tend to realize is just by having good retrieval over documents, a lot of initial use cases can be built out. Much faster and in a way where we can start collecting feedback on what customers really care about.
+
+So before we continue, I also just want to go give a brief overview and a brief refresher on what these metrics actually mean. 
+
+Precision and Recall Metrics
+
+So recall is the percentage of relevant documents that are successfully retrieved.  So if there are 10 correct documents and we find the top five and four of them are in there, then recall is four out of 10.
+
+And high recall means that the system is able to find most of the relevant documents. This is particularly important where facts are hard to find across many documents. Precision, on the other hand, is the percentage of retrieved documents that are relevant to the query. So if we have two good answers in the top 10 results, the precision is two out of 10.
+
+Here, high precision means that the system retrieves mostly relevant documents. And this is important because dumber models might be more confused with irrelevant context. Now with other models that have more thinking time, sometimes even the smarter models can be confused with more relevant context.
+
+This is in contrast with recall, where if you have low recall, you're never going to be able to answer the question. So I'll pause here to let you take a screenshot for your own references in the future.
+
+Now let's just go over two very simple tests Now let's go over two simple case studies  on how we were able to quickly improve precision and recall by just building out some custom data sets.
+
+Case Studies: Improving Recall
+
+So I work with a company that does report generation for user interviews. And so these consultants do about 15 to 30 research interviews with experts.  And ultimately what they want is they want to have their specific perspectives about the product. These consulting teams then request an AI generated report and what they found for some customers without certain fields, only a subset of the quotes were being found. 
+
+So maybe the consultant says, you know what? I know I asked 15 people and six of them said they really like the product. But when this report was generated, only three of them said so. I know there were six. There's something wrong. And now I don't trust the system. And what this means is that we had a three out of six recall.
+
+And so as a result, we set a goal internally to have very high recall for a lot of the test cases or the examples that our customers were unhappy with. We manually built out a question chunk data set for relevance
+
+by looking some of it. And then by looking at some of these examples, we found that a lot of the work could be done in pre processing. This was our bet. And so by doing three or four experiments on pre processing text chunks before ingestion, we found that we could improve our recall from 50 percent to 90%.
+
+And our ability to do that, be data driven and share examples to our customers allowed us to continue the sales process and build trust and more importantly, build customer specific evaluations that we can continually to report on as we develop that relationship. And here, the key takeaway is the fact that in some cases, pre processing that is done can help us really enter the key takeaway here is that it is essential to have pre processing that is done in a way that aligns with the anticipated queries that we have from our customers.
+
+And because we had a very short goal, and because we had a very specific goal, like improving recall for specific use cases, it was very easy for us to start experimenting and start hill climbing. Thank you for listening. And more importantly, we're able to leverage our customer interactions to motivate the way with that we build test suites.
+
+And by continually communicating with our customers, we can build out trust One eval at a time.
+
+Another example that we had was around using AI for multimodal search and in particular searching blueprints at a construction company. Here, the situation was that many times the construction workers want to ask questions regarding blueprints. When we took some of the examples of questions that we had, we found that we only had a 27 percent recall for even finding the correct image, the correct blueprint.
+
+And by looking at the data and looking at the questions and looking at the images, we found that we might be able to do better if we had better image summaries to describe the descriptions and caption these blueprints.  This was our hypothesis. And so our approach was actually using a visual language model to create captions and descriptions over these blueprints.
+
+We use chain of thought and ask the language model to reason about the blueprint first, look at other questions that were asked about something like, look at other questions that were asked for the blueprint to generate hypothetical questions. And then we tested our ability to recall the correct document and answer the question.
+
+And in just four days of experimenting, maybe, you know, about 12 prompts and trying three models, we went from 27 percent recall on finding the correct blueprint image to 85%. We were able to present this to our design partners and then start really collecting real user data on what kind of questions people are sort of asking.
+
+Once we looked at the, once we looked at those queries, we found that 20 percent of the queries were around counting objects in our blueprints. And this justified an investment to run bounding box models on all of our blueprints to help count images, count objects in our image. And here the takeaway was that by divi  Here, the key takeaway was that by testing our ability to create a single subsystem, This blueprint subsystem, it was very easy to start moving our baselines very quickly.
+
+And by experimenting with very highly specific prompts for synthetic summary generation, it went a long way in our ability to improve the recall of images, and not only images, but we applied this to tables and documents and many other artifacts as well. And it only took four days.
+
+And it only took four days.
+
+Synthetic Data Generation
+
+So now let's jump into a little bit about how we actually might want to do synthetic data generation  and why the tests are fast and also review some of the processes that we have. And again, the idea here is that if you don't have any users, if you don't have any real data, you can just fake it until you make it.
+
+And if you do, all the better. And everyone talks about synthetic data, but it's not as simple as just asking an LLM for more data. The questions here will revolve around how do you make an LLM create diverse and interesting data sets that reflect production traffic. And because LLMs are getting cheaper and cheaper and chain of thought models are getting more and more intelligent, training is still difficult.
+
+And now everyone talks about synthetic data, but it's not as simple as just asking a LLM for more data. We have to answer questions like how to make the LLM create data and questions that are realistic, that are diverse, and reflect production traffic. And now that language models are getting cheaper and cheaper, we can create more examples.
+
+And we can use things like chain of thought to create higher quality examples. And then we can use things like few shotting to create more diverse examples. And Ivan will talk more about this in the tutorials.
+
+And here again, if you have no query data, the simplest thing you can do is just take a random text chunk, ask a language model to generate a question for that this text chunk answers,  and just verify that when you do retrieval, that retrieval, when you do retrieval, that text chunk is recovered when you search the question that was generated.
+
+And now you can have your synthetic data set test how well you can find the right text chunk. It's very simple. And here, recall is a very binary metric.
+
+On top of that, if you have more user query data, you can use these user query data as few shots for generation.  You can generate chunks from queries and test if they can be retrieved. And then you can use an LLM as a ranker to produce weak ranking labels. We can review the weak labels to get correct labels, and then use that again to test precision and recall.
+
+It won't be a true recall, but it'll still be very correlated with how successful your retrieval system will work. And now you can ask yourself, given what I know about the user data, what kind of questions could I not answer with the infrastructure that I have, and what can I build out next? And this is super valuable.
+
+Now you can start collecting everything and track the questions and create evals. Every demo, every user interview, every thumbs up or thumbs down rating can be used to help us improve how we build our systems. Initially you can probably just put them in a Google Sheet and just collect it and those valuable labels are already going to be gold.
+
+And then when you get more complex you can use tools like Braintrust to start sharing with teams and collect things more programmatically. And in weeks And in sessions two and three, we'll talk about how to implement UI for rag application to collect even more data and also how we can use them not only to improve our labels, but also improve retrieval itself, improve retrieval itself through fine tuning.
+
+Now let's look at an example of a prompt 
+
+ 📍  📍 that we can use for 
+
+question generation. We want to try to bake as much information as possible in the domain knowledge of these prompts. And we want to change these prompts based on things like document types or other information. description. This product, sorry, this prompt in particular is about trying to create questions that would retrieve certain products. 
+
+So we might want to give it a product description, some other context around the text data, and maybe some example questions.  And the prompt's job is to basically create questions that 
+
+ 📍  📍 are relevant for this 
+
+kind of product. Here I've also baked in some context and knowledge about what kind of questions I want to ask, maybe comparing things or recognizing patterns and et cetera.
+
+ In sessions four and five, we're going to talk about using. topic modeling and segmentation to really understand the core capabilities and the core questions people are asking. And this can help us increase the scope of what kind of prompt we might use.
+
+, Ivan will discuss this more in the tutorials below, as well as some other writing that we're going to publish later on.
+
+, feel free to pause here to take a look, but we'll share more results  later on.
+
+We can also do the same thing for ranking data.
+
+If we start with one text chunk, we can generate one question. 📍  📍  
+
+But then the next thing we want to do is 
+
+worry about whether or not the other text chunks are relevant as well. This is where it might be a good idea, this is where it, oh my fucking god. 
+
+Here's an example of how we might want to use LLMs to do our ranking problem. Here's an example of how we might want to use LLMs to create our ranking data. In the example below, in the example before,
+
+in the example, before we took a text chunk or a product or, or to some description, some document, and we produced a question. Now, when we, when we retrieve the question or search for the question, we hope to at least get that text chunk back out, but chances are there might be other relevant information and we might want to not only measure recall, but also precision 
+
+ 📍  📍 and so we can also use a 
+
+language model to grade that as well.
+
+We can give it the question, other text chunks, and then use things like chain of thought to get a better answer. And now that we have models like R1 and O1, we can use these models of chain of thought to really help us understand what is relevant. This will again produce a data set that is easy to test against,?
+
+ 📍  📍 This is not the thing that's running in production . 
+
+This prompt is just to give us a precision recall data set that we can run over and over again.
+
+So how does this help us, right? So this, so how does this help us? Synthetic data is a huge field and everyone these days is using synthetic data. And I've helped about 15 companies create synthetic data sets to create evals. And this is just one step that we can take to one, get ahead of the competitors, but two, also bridge the huge gap between the data that we have today and the data that we might have in the future.
+
+It is going to It helps us troubleshoot early by stress testing our systems with diverse synthetic queries, and by doing so we can really identify potential issues before they impact real users. By also having a well structured synthetic dataset, we can quickly evaluate changes to our system and enable very rapid experimentation and improvement.
+
+And then lastly, it establishes common ground. The synthetic data and its results can serve as a common reference point for discussions between team members, leadership, clients, and even domain experts. And they can set expectations on what kind of system capabilities and goals you want to set for the future.
+
+Homework and Next Steps
+
+Let's just jump into a little bit about what kind of homework I want you guys to really think about and take with you as you go back and work in your companies.
+
+  Don't hesitate to ask me any questions during office hours or on Slack. 
+
+ 📍  📍 This is what we're here to do . And 
+
+we can just deep dive into the problems of your application and what you're struggling with. I really want you to start thinking about creating synthetic data sets and evaluation data sets and, I really want you to start thinking about creating evaluation datasets by leveraging synthetic data.
+
+And, if you have user queries, bring them in as well. If you're using something like LanceDB or ChromaDB, also check if something like BM25 and full text search can improve these systems. 
+
+ 📍  📍 Whether or not different embedding 
+
+models or different chunking strategies and different re rankers can also improve.
+
+And with these baselines that we had defined, if something does not improve, we can do nothing. And we can choose to do nothing if experiments don't pan out. And lastly, review these generated questions with subject matters. And lastly, review generate these. And lastly, review these generated question sets with subject matter experts.
+
+Look at the data, understand what generates low scores. 
+
+ 📍  📍 And, ask them, are 
+
+these questions even relevant for the use cases? , try these, even embedding models, try some domain specific ones. Try these re rankers that we work with and cohere.
+
+Test how re rankers can improve retrieval, and experiment with different top K metrics, like, you know, top 10 or top 20 or top 30, and all these things are going to help you understand how successful your product is going to look. Potentially test out hybrid search, and whether additional embeddings or adding text to the sections can help you there as well.
+
+And lastly, you can also compare different latency tradeoffs compared to retrieval methods.. Are we willing to take a 30 
+
+ 📍  📍 percent improvement in retrieval, 
+
+but potentially,, double the latency of our search? It depends on your use cases., if you anticipate any common questions from users, use these questions as few shot examples to generate more aligned questions.
+
+If you run out of ideas, we can always just chat in show your work as well.
+
+Before we wrap up, let's also review some common pitfalls to avoid.
+
+Common Pitfalls to Avoid
+
+The first one is oversimplification. You don't actually want 100 percent recall, because it probably means that your test cases are too simple. Instead, I want you to think about defining  dynamic datasets versus static datasets. As your scores get higher and higher, it means that your models are getting better.
+
+And as a result, I want you to think about adding more complex examples into your dataset. And by neglecting real data, and if you have real data, don't neglect it. Make sure it's included in your data
+
+that way, you can have a high quality data set that you can use to test your retrieval system. And along with that, you also want to make sure that the search 
+
+ 📍  📍 implementations that 
+
+you're using and 
+
+ 📍  📍 the search implementations  that you're testing are 
+
+the same ones in production. And you've got to make sure that there are no misalignment in how things are being configured or specified.
+
+Conclusion and Future Sessions
+
+And once you've defined some kind of synthetic data set with synthetic questions and ranking labels and relevancy labels, Then we can jump into Session 2, where we're going to talk about things like fine tuning. And just as a review, the focus of this session was really about generating a single evaluation dataset and reviewing the questions line by line, and potentially 
+
+ 📍  📍 with subject matter experts.
+
+I 
+
+want you to start thinking about logging user queries so we can use them to augment synthetic data. And eventually, we're going to run into the limitations of this method. As we get more data, more opinions, and more diverse users, we'll be able to see the forest from the trees. The focus for next week, however, is thinking about taking this synthetic dataset, and  exploring things like fine tuning, representations, and embeddings, and ultimately training re ranker models to just give you that extra boost in precision and recall.
+
+And just as a note, we're still learning who you are. As we learn everyone's technical levels, we'll be able to dig deeper in these office hours and calibrate office hours to everyone's level. So make sure to ask questions on Slack and in the link that Marion will share.  And remember, we're trying to just establish baselines.
+
+With this, we're going to be able to use the techniques that we learn in sessions four, five, and six, and really start testing different interventions and seeing which ones make a real difference in our metrics. And most importantly, by using these benchmarks, we can also reject interventions. We don't have to add superstitious interventions that become tech debt too quickly and too soon.
+
+And as you collect more data, we can just slowly transition our evals to a few shots to fine tuning. So stay tuned.

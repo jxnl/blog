@@ -1,0 +1,359 @@
+ 
+
+Introduction to Session Five
+
+Welcome to session five of Systematically Improving Your  Rag Applications. Today we're mostly gonna be focused on navigating multimodal rag and in particular, thinking about how we can split up these different capabilities that we discover through our segmentation work,  and start addressing these one at a time.
+
+Recap of Previous Sessions
+
+Let's recap what we've covered so far. In session one, we talked about the rag playbook, the importance of doing synthetic data generation to create evals. And in session two, we focus on fine tuning. The idea here is that once we know what relevancy is, we can start building these ourselves one at a time.
+
+ Session three, we focused on building a user experience that helps us collect more data. And in the last session we introduced this three part idea on Split Map and apply.  With Split. We're  📍  📍 thinking about how we do segmentation with map. We're gonna solve each and indi each.
+
+Solve each individual segment. And in the last session, session four, we built out models to segment the users and the queries and the conversations. And by doing so, we can prioritize our segments, find new capabilities based on the impact,  volume, and the probability  📍  📍 of success .
+
+Focus on Multimodal RAG
+
+And today we're mostly gonna be focused on how we can solve these individual user experiences. And in the last session, session six, we'll think about how we can combine them in in a unified solution.
+
+ We're going to do this by thinking about how we can build a multiple indices for rag applications.  📍  📍 We're really gonna think about these two different classes of improvements,  📍  📍 the important  metrics we need to think about when we think about search.  And ultimately we'll dive into things like entity specific search indices.
+
+Maybe it's images or tables or SQL or something else. And then we'll go over what we expect to see in the last session.
+
+Building Specific Indices
+
+The most important point of today's lesson is  📍  📍 that you should be building very specific indices to solve very specific problems. And then next week we're thinking about how we can bring them together using a router.  This is always gonna be the case. When segments exist in a population, the assumption we make is that a local decision model, a smaller model that solves a specific problem will outperform the global model.
+
+Instead of building a single search index, we might want to split up the problem space and solve each one locally. And by building specific indices from an organizational perspective, specific indices means that you can divide the labor into these isolated  📍  📍 problems
+
+A couple people can work on each individual problem, and then we can combine them again as a router. And as you learn more about individuals and specific user needs, adding a new index is easier than rebuilding an entire system.
+
+If you imagine us building a search tool for a hardware store, if you imagine us building a specific search index for a hardware store, sometimes we might want to use Lexi search right when we compare, uh, two specific serial numbers. They're not really going to embed to anything specific, but by building Lexi, by building Lexile search, we can just search the code specifically.
+
+Then we might also want to think about semantic search. If someone asks, what do 10 people if, if people tend to, someone might ask, what do people think about the RAs  about? And then we might ask. What do people think about this saws durability? That would be a semantic search question. And lastly, we might wanna just search across the structured data.
+
+How much does this weigh? What's the latest version? Those things might need to be answered through text to sql.
+
+And if you think about it, search engines have been doing this for a very long time.  We have different tools for Google Maps, Google Photos, YouTube, and web. However, at some point in time Google has learned how to decide, which you ought to show you depending on what you search. Even if you search for directions in the web, it might take you to the map, for example.
+
+Then they might want to build a shopping product. Again, all this idea. 
+
+Combining Search Tools
+
+All of this really revolves around the idea that we're gonna split up the search base, solve each individual problem, and then combine them later. And it's pretty straightforward to build a simple router
+
+with just function calling with something like instructor. By using something like parallel function calls, you could imagine building a system that says,
+
+first I have the weather tool. Then I have Google search, and then all you need to do is, as you ask the question, what is the weather  in Dallas, we can find that we are calling multiple tools at the same time we're searching for two different pieces of weather and a single search query. And again, you can combine this alt into one single function call or, or a single set of parallel calls, execute them in parallel, connect the answers, collect the answers.
+
+And then reply with a language model prompt,
+
+and there's both going to be a short term and a long term approach. 
+
+Short-term and Long-term Approaches
+
+In the short term. We can just concat, once we get results from all these different search tools, how do we combine them into a single search result? In the short term, we can just concatenate the results, apply a re ranker and stuff, everything to the context.
+
+And in the long term, we could even think about training a ranking model to use things like relevancy or recency or even the, the data that we get from citations to build a better model.  Then it can take in different scores like freshness or authority and relevancy, and build a single unified model. But generally it's gonna look something like this.
+
+We're just gonna have a bunch of different weights for the cosign score, the cohere score. Maybe we have authority in the future, maybe we have relevance in the future. All these things can come into a single score that we use to rank and pick the top K or filter against them.
+
+Improving Retrieval Systems
+
+And the critical insight today is that we, we have to focus first on these individual tools,  and then we can start using routers to connect them all in one place. And by doing this, solving individual tools can also be developed concurrently due to their separation of concerns. There's a reason we have teams that focus on front end and back end.
+
+We might wanna have teams that focus on image search versus Texas SQL or something else altogether. And so when it comes to cre, and so when it, when it comes to creating multiple indices, I find that there's, there's 10. When it comes to creating multiple indices to build these rag applications, there tends to be two kinds of improvements, two classes of improvements.
+
+The first one is defining more metadata in your two into your text chunks. This would be in line with the capabilities that we talked about in the previous session, and the idea is that we can expose these new structured data sets.  To a search engine.
+
+In my consulting, we found a bunch of different capabilities that really mattered to our use cases in finance. It turns out that we really cared about fiscal years compared to calendar years, and if we could resolve them in a better way, we would get better answers when we were doing search over all of our legal documents.
+
+It turns out that just by being able to predict whether something was a contract that was signed or unsigned, we can have much better ways of processing or filtering, especially where we can also extract things like payment days and payment terms and just simply return the document id I,
+
+and lastly, just by classifying call transcripts, maybe by a job interview or a standup or a design review, we could extract. Type specific metadata that allows us to build additional searches against different kinds of transcripts. And so my first question to you is think about all the different kinds of crews that you see, and really ask yourself what kind of metadata exists that could make your ability to search much simpler. 
+
+And ask yourself whether or not you can extract that using a structured and ask yourself whether you can extract that using structured outputs. To answer these questions a lot easier.
+
+For example, if you wanted to extract facts from a book, you can define some kind of edan object that defines the fat class. Plot your tier language model, and you'll start extracting facts where we have the names of people and their statements. It's,
+
+you could also imagine doing this for financial statements here. We're trying to extract the revenue and the net income and earnings per share, and all this information can be just used in a search engine,  maybe in Postgres or something, rather than trying to deal with all those embeddings and text chunks and whatnot.
+
+And again, it all depends.
+
+So if the first approach is to extract structured data out of a text chunk so that it is easier to, so that it is easier to search in a structured way. The second approach is taking structured data. Or even unstructured data and producing a synthetic text chunk. A text chunk that then we can use to embed and index.
+
+So if the first approach is to use a language model to extract structured data out and then query the structured data, the second approach is using a language model to create a summary or a synthetic text chunk that is optimized for recall. And with this new piece of text, we can use things like BM 25 or Semantic Search and find a synthetic text chunk.
+
+And then not only can we return the synthetic text chunk into our language model, maybe this would be something like a, an image summary or a summary of a transcript, or even just something like contextual retrieval. We can also retrieve the original source text. And now these synthetic text chunks become pointers to the source data.
+
+A simple example might be if you're doing research interviews or something like that, we can have a language model extract A FAQ,  embed the question, answer pairs instead. For images, you can give the language model images and asset to generate detailed descriptions based on sample user queries. Some queries that we've seen in different examples have been, some  have been things like.
+
+Count the number of cones in the image or describe the mood of an image, or describe the type of shot or camera shot.
+
+That might not be something that a image inventing could do, but a language model could definitely describe the image in a specific way if we know that's how people wanna search for the product.
+
+And here we are giving some text chunk and then we're extracting this summarized content. We have a title a category, which is basically gonna be some kind of classification as well as summary and a list of entities. And what this means is when we actually apply this data extraction, we can probably embed the summary.
+
+We could filter against category and we can use text search in a lot of different ways to improve this, the per.  And then we can use text search in a lot of different ways to improve the search performance. But again, we have to realize that to do this well, we do need to create synthetic data that allows us to verify whether or not this actually improves recall.
+
+The goal is to do this blindly, but to say that doing this actually improves the metrics we care about.
+
+And if you can remember anything about this talk, make it this.  If you look closely, what we're doing is effectively extracting, structured outputs, and then either putting it back into a database
+
+or indexing it a different way.
+
+But the general idea is that this is, this almost feels like a materialized view of your existing data, but processed by AI, either through structuring or rewriting.
+
+And now let's go over the same metrics that we talked about before. We,
+
+if you recall, sessions one and four. If you recall sessions one and four, session one, we sort of define a global index. All of our text chunks are a single search engine, and our job is to create some synthetic data to test the performance of our recall. However, by session four, we realized we might want to have some local solutions because we identified some topics and capabilities that through our segmentation process, and now the obvious next step after segmentation is to improve each one.
+
+And if we think about how we want to merge all these tools, it turns out we're using the same metrics  now instead of choosing. Which text chunk from a single search engine, precision and recall could also be defined as choosing the right search method out of the total set of search methods.
+
+Now, high recall means that we're actually hitting the right index, and high precision means that we're not hitting irrelevant indices. So for example, if when I ask a question that should be. Triggering the image search tool. Are we, are we doing so  if we are asking a question that should have been answered through Texas sql, are we doing so?
+
+And again, we go back to precision and recall. And so what we discover is that there's really two things. There's a probability that we find the correct text chunk given that we found the correct retrieval system. And the probability that we, we identified the correct retriever, and if you multiply those two together, you basically get the probability, you find the right data, and now your only job is to break down which one is the limiting factor.
+
+Is the tool having a hard time finding the relevant data, or are we having a hard time choosing which tool to use?
+
+And just with this formula, we can figure out the root cause of where our system is breaking down.
+
+And in this session, we're gonna mostly focus on. Assuming that we've selected the right retriever, because this is kind of the routing side of things, and really focus on improving the the ARB and really focus on improving retrieval condition on the right retriever.
+
+And this is important because this,  and this is very important because this effectively gives you a way to determine what needs to be improved in your entire system. First you see if retrieval works in a global sense. Once you're happy with that, then you can figure out clusters. And through this clustering process, you can figure out by whether and after you've clustered, you understand that probability of success you impact this segment has in the population, and how many people ask these kinds of questions.
+
+And using that, you can prioritize what you want to invest in. And as you develop new retrievers. You can identify whether or not the retriever is finding the right data, whether it's precision or recall, and then secondly, measure whether or not the language model is choosing the right tools. And at any given step of this process, you have a way of prioritizing what you need to do tomorrow.
+
+I,
+
+and if you do this long enough, it's gonna feel very boring.  And all the work that ends up happening is the work that's required to collect these data points. But if you do that, you'll always know what you need to improve Next, do I need to make sure the segment gets more traffic? Do I need to make sure the segment gets less traffic?
+
+If this segment is important, is it because we don't have the right tool? Can we choose the right tool? And when we choose the rule right tool, is it being, is it finding the right answer? That's just really gonna be a bunch of numbers multiplied together, and you just gotta figure out which one's the lowest and improve that one.
+
+'em, and this is the relevance of having these very short term, these very  simple metrics like recall, because if you just throw LLMs across this whole process, you're really not gonna know what you need to do next.
+
+Next, let's now in this session.
+
+Handling Different Modalities
+
+Now let's take a look at some specific modalities that we might care about in the context of building a entity specific search in search index, building a entity specific search index. We'll talk about documents, images, and a little bit about tables.
+
+At a glance, there's only a couple of different ways that we can actually handle searching for documents. We can chunk the documents, we can make sure they have the correct metadata and we can use things that contextual retrieval to rewrite some of the original text chunks. Once that's in place, we can either use Lexical search or Semantic Search to do a good job,  and then with the passages that we find we apply re-ran.
+
+Lastly, we find the documents that matter using the re rankers and shove it into a language model. Take advantage of the long context and move on. And then anything else that we need to do in, in improving. This will either come from the summarization or the extraction that we talked about earlier today,
+
+and if you blend all of these different abilities together. You're gonna just have a system that could return different summaries. You could re, it will result in a, it will result in a system that sometimes returns, summaries of data, sometimes could return the entire document that we use in long context, and sometimes it might result in specific text chunks, whether they're structured out structured data that we pull out, or just a chunk that is, or just a regular chunk that we have from maybe, you know, an 80.
+
+ From a 800 token window, from an 800 token window and a 50% overlap, and as long then, as long as the data is represented correctly, maybe some of the metadata is in the x ml format of a prompt or whatnot. All we have to do is that we have to tell the language model that we're gonna receive a mixture of these kind of digital sources, and this will ultimately elicit a higher quality result.
+
+And as models get better, like I've said before, many times before, as the models get better. Your answers are gonna get better, and your only job is to curate this mixture of data sets.
+
+If we use structured outputs, for example, to extract structured data, maybe by defining some kind of category like type and payment and invoice, right? We might define a tape and a statement. Just by doing this, we can just easily say this into a Postgres database. And then when we start having questions about this, we could potentially have a different function that has says, you know what?
+
+I want be able to query anything I want. I want to be able to, you know, filter on a type. If it matters and I want to create some kind of date range, and now your only job is to hit that same database, create some kind of SQL statement, and you can extract that data back out, right? These two things are pretty synonymous.
+
+In the dataset world, in the PDF parsing world and in the world docking processing, PDF parsing has gotten a lot better. Docking is a really great free service. Tools like Gemini allow you to actually sidestep all of the extraction, but then ultimately a lot of the different,
+
+and in the world of document processing, PDF parsing has only gotten. Much, much better. For example, if you don't actually need to be able to extract the data back out using something like ge,
+
+for example, with companies like reductor, you can get 90% accuracy. But even just by using very simple models like Gemini, philanthropic, you still get pretty high performance in the notebooks. Later, we'll talk a little bit more about how we might want to use. Language malls that do extraction, but also why we might care about having things like bounding boxes and be able to cite things.
+
+You can check that out in video three.
+
+And my general bet is that a lot of this PDF parsing world is gonna be around  finding the locations of specific citations.
+
+So with documents, a lot of it is gonna be around extraction and structured querying and whatnot.
+
+And as prompt caching gets better, things like contextual retrieval will work quite well. Images on the other hand are a whole nother story.
+
+Historically, many visual language models are trained.
+
+When we talked about images, we've talked briefly around the idea of generating summaries of images. However, it's really important to recognize that visual language funnels were trained on captioning data, and so this captioning data and the clip embeddings. Aren't very powerful in some situations.
+
+And while clip and, and while multimodal embeddings like clip and Buddings might make sense for costs, complex question answering might result in very low precision for the same reasoning and passages.
+
+And it really comes down to the same assumption we talked about in session two. Why would the question and an image be similar?
+
+And this assumption and challenging this assumption is how you're gonna be able to get good summarizations. And generating good summarizations is a skill that you'll need, not just for understanding images, but for all kinds of data. The big mistake I see when people try to do this pro, do this kind of work is they have a really simple prompt, like what's in this image?
+
+And 'cause you're not very specific, maybe the image just says it's two people.
+
+To avoid this gap between the embedding of a question and a the embedding of a summary. We have to do a lot better on how we do write our prompts. We can't simply ask what's in this image. Instead, you have to be very specific and try again to incorporate the questions you anticipate being asked about a system.
+
+If you just ask what's in this image, you might get two people. If you could do a little bit better, you might get two people arguing,
+
+and if you prompt it very well, maybe the actual description is gonna be. This is an image of person one and person two in a mysterious, foggy scene arguing over the dinner table and someone has a knife, right? You can definitely imagine the embedding of these two phrases. These three phrases are gonna dramatically change whether or not information is dramatically change, whether or not information is gonna be retrieved,
+
+and to improve the systems you're building. It's really important to tackle these specific problems, these three problems. If you use something like chain of thought or these reasoning models, you can reason out the captioning data and start eliciting much more interesting and much more powerful.
+
+Summaries. Summaries.
+
+Then you can augment the con for things that are not fully scenes. You can also augment the context by extracting images. By extracting those images, attaching the OCR and even passages above and below, image above the image, you know, especially when
+
+to improve the summary. There's a ton of things that you can do. For one, you can leverage things like chain of thought to reason out the caption data, if you're processing images that exist in the context of other documents. You could augment that context by extracting the image itself, potentially attaching any OCR results from that image, and even attaching nearby passages, maybe the text below and above a figure.
+
+And we can even do things like leverage things like bounding boxes and extract structure data from these images. And by doing all these techniques, part of the summarization work we talked about, we can create much more powerful summaries that can be used to improve our ability to recall certain documents.
+
+If you wanna pause here, this is an example of a prompt I use to generate better summaries. We attach the OCR data. We ask about visual descriptions of the scenes. We ask it to reason and even potential, and even generate potential questions and tags.
+
+And only once we've done all that do we actually ask for a summary and evaluate its performance. And again, its performance is gonna be defined by whether or not the embedding of that summary is returned for potential for a synthetic or user question.
+
+We can also augment the context. This is very similar to how people think about contextual retrieval. You know, we could pass in this entire image to the system, but also make sure we include the text here. And that's allows, that allows us to get better results, and that will allow us to get better results.
+
+We can just provide the image of the model, add the text above and below, and provide as much context as possible. And lastly, for other situations where it matters, we can also add things like bounty boxes and visual grounding. In a lot of construction context, people ask about. Ask us to count things and it's really hard unless we do bounty boxes.
+
+And then the question is gonna be a factor of whether or not our bounty box system is accurate. And we have very good classic classical methods to evaluate that.
+
+And this kind of visual grounding is relevant not only for images. But also for, you know, simple things like PDFs, because once we get very complex figures, even those are gonna be bounding boxes, right? We can do things like counting and facial recognition, all of that. But that's not really in the, in the scope of this course.
+
+But again, as always, I'm happy to talk on Slack. I.
+
+Then once you have these image descriptions, you can create synthetic questions based off the images and the descriptions, and see if there's any gaps in your ability to have high recall.
+
+And as you get more event and as you get more sophisticated, you can always segment these questions on these image types. And evaluate any needs for specialization later on. And again, we can think about this in terms of capabilities or inventory.
+
+
+
+ 
+
+Working with Tables
+
+Lastly, let's look at the final entity type tables.
+
+If you want to look at some of the simpler ways of thinking about tables. The first two I would recommend are the following. If you know that what you're looking for are specific rows on a table, then chunking a table and then using semantic search is totally fine. We might also want to generate summaries of these and run them against things like legacy called Search and Semantic Search.
+
+With this, like I've said many times, synthetic data will tell you whether or not this direction is working. The only thing you have to make sure you have to do, one thing you have to make sure to do is to preserve all the headers as part of the chunking.
+
+This is really useful if you're looking for things like. Finding specific tables across many years in a financial document or finding specifications with, or, you know, order forms for example.
+
+The other thing you can do is directly incorporate the table metadata and treat a table as just another search index. In which case the important task is figuring out which table to query. Here we can just standardize the schemas. So for example, we might think of a create statement for a SQL table and then build semantic search against that.
+
+And the same tools apply. It might be the case that embedding the create table is enough. Sometimes we might want to do a summary and allows more and allow for more complexity. In that summary, by having things like sample data,
+
+then your job is to find the right table and then figure out what to do afterwards. If you find the right table, there's generally two other things you can consider.  The first one, the simpler approach is to just simply put the table into the context and read out of the data. Here we're treating the table data just as another document, and this might work quite well for tools that are, this might, this might work.
+
+This will work quite well with some of the thinking models that are available these days.
+
+And by giving the language model some ability to write some code, you actually might be able to do some data analysis as well. And the last thing you can do is dynamically load this data either into a SQL or write SQL against it, or even load this as a CSV, have a Python interpreter and do some data analysis in Pandas.
+
+This is a lot more complex. We won't really go into the details of how we can run Pandas code dynamically, but generally the idea is that if you wanna do some more analysis, we will have to load this in some kind of SQL-like tool
+
+here. As long as we're able to intelligently find the right table statements, we can use something like Lexile Search and Semantic Search. And then the real challenge is thinking about how we can use different ways. The real challenge will be how we can use. Pre-existing code snip and pre-existing code analysis
+
+to show the language model. What's possible in this example, the tables themselves is the inventory and the capabilities might be different ways of different ways. We want to demonstrate to the language model how we want to create this data.
+
+So I also wanted to introduce a baseline for what I see. So I also wanted to introduce a baseline on how I think about Texas equal generation,
+
+and apply the same ideas we've thought about in terms of synthetic data generation.
+
+And apply that same ideas we've thought about in synthetic data generation and understanding inventory versus capabilities.
+
+And the big challenge with types of SQL text to SQL is that there's multiple correct answers and executing some of these things can be very time consuming.
+
+And a lot of practical examples. I've seen companies want to try to work with complex schemas that have tens or even hundreds of columns.
+
+And so if we reframe our approach using the same tools that we have already at our disposal, then we can think about the following. Let's focus on first inventory. Do we have the right tables? Can we retrieve them well? And do we have the right columns? And can we retrieve those wells? Then we can focus on the right capabilities. 
+
+Can we demonstrate some understanding from historical data, perhaps how we can write the correct queries and how we can find the correct joints? It's not always the case. That data is gonna be defined by some foreign key in a create state table in a create statement.  And oftentimes in very spec business specific use cases, something as simple as revenue isn't just a sum of some cost.
+
+And in some examples in, you know, in finance  and in some examples like finance, computing, profit might be very specific to the business and it won't be as simple as just summing up a single column somewhere in the database. And once we have all those, and once we have a good understanding of what the inventory and the capabilities are, we can actually still try to define precision and recall metrics against that inventory.
+
+And then finally we can go back to our basics. And then finally, and then finally go back to basics, create synthetic data and start to flywheel over and over again. And I hope you're really just noticing how repetitive this process is. This process, I've been trying to drill into everyone throughout this course.
+
+So the first challenge again is to define what is the right asset, and our objective is to test that the system can correctly return the right tables for search query when there have many tables in place. We might want to take the create statements, have some descriptions for the tables, and generate summaries that point to the reference to the tables.
+
+Once we do that, we can verify whether or not the questions we're asking are retrieving threat correct, and then we can ask if the questions we're asking can retrieve the correct tables. A simple example could be if I asked a question like how many users generate more than $10,000 revenue?  Ideally, I want to assert that the user's table and the finance table is being retrieved.
+
+And just like that we can think about precision and recall all over again.
+
+And if you wanna make this more complex, complex, we can also figure out what kind of tables co-occur and use that to improve our ability to retrieve. For example, if, if queries that use. Users and finance also use something else. Maybe we should also include that into the prompt. And now we're making trade-offs between precision and recall.
+
+And just by knowing that we can extract the correct snippets, we can start thinking about defining Texas SQL prompts. We might be able to load in or dynamically load in. A set of tools, a set of tables. On top of that, if we have some golden SQL queries, we can also load in queries that are relevant.
+
+Then we can use the language model to analyze the question, the tables preexisting queries to write a better Texas SQL query.
+
+And this works quite well, and a lot of the quality of your generation is really gonna be defined by how well you can load tables, how well you describe tables and columns, as well as how often you're able to load in these SQL snippets that really describe how the business actually writes sql.
+
+We might even want to use the summaries themselves as part of the context or even show, you know, a couple roads just to understand what's going on. And if you can't show roads, you know, because of some kind of security reason, there's always other ways of just, again, improving the descriptions. So the language model has more information to go with and these small hacks really go a long way.
+
+Once we have identified the correct tables, it's also really valuable to identify the correct SQL crews. And again, we might want to just load in from preexisting tables.
+
+It is one thing to make sure that we have the correct tables, but it's another to make sure that we're using them correctly. So one of the other things we want to think about is retrieving the right capabilities
+
+Here. Our goal is to identify whether or not the system retrieves the correct SQL queries, especially in situations that involve things like joins and might include different, different, different mistakes the average data scientist might make. Here, our goal is to identify patterns in existing SQL queries and create snippets for them.
+
+For example, in a lot of the companies I work with, computer computing month over month statistics is a very complex and nuanced situation that might depend on finance, for example, and just having a single example on how to compute month over month or day over day can really help the language model do the right thing.
+
+And then as always, we summarize these, create a description, and then verify that we can retrieve this correctly.
+
+Then what we can do is if we just ask for a month over month revenue growth, we can pull on a single example and use the correct date times.
+
+And here one really important call I wanna make is we can have an example of, and here, one additional call out is that we can actually build UI to start collecting these, you know, gold snippets that we use as few shots in the future. This really goes back to our. Session three content where a lot of the product that we build should help us secretly collect data to improve our product.
+
+And allowing a user to, you know, star, a SQL statement, for example,  can go a long way.
+
+And if you really look at how nuanced some of these SQL careers are, you'll realize how powerful
+
+pulling out these examples could be. It's not always obvious what month over month means. Sometimes when a company says month over month, they're really thinking 28 day rolling average. Versus completing the calendar month. We don't really know what they're talking about unless we have examples.
+
+In the examples here, here I've included some examples of subjective queries that can just be resolved to a very specific query once we know what the customers really want. For example, when I just ask a language model for month over month, it potentially could do a 30 day rolling window. A 28 day rolling window.
+
+It might round to the calendar month,  but we don't really know which one is the correct one.  And if we have opinions on this, we can set this in the context. Set this as a system message, or dynamically retrieve this as your problem. Space gets bigger.
+
+And in summary for thinking about things like tables, we have to really recognize whether it's an inventory or a capabilities issue. And for a lot of the companies I, I work with, a lot of our ability to improve the system is really around improving our ability to have high recall for table snippets.
+
+High recall for tables and high recall for snippets,
+
+and as we deploy this system into production, we do the same analysis that we did in session four, where we do segmentation to identify potentially missing tables or missing capabilities. And when we see these missing tables, we might want to create more. We, we might want to create AI specific views of data that can help our language model or just create some more snippets, add 'em to the test set, add 'em to the, add them to our inventory of capabilities.
+
+Summary and Next Steps
+
+And just to summarize what we talked about, the first thing we should really understand is identifying whether or not are the improvements.
+
+And just to recap
+
+and just to recap is really important to, and if you look at the recap of how we handle tables, you'll see that we apply a lot of the things that we've learned across this, across our.
+
+And if you try to summarize how we think about handling tables, you'll realize that we cover a lot of what we've learned in the past couple of weeks. Doing well can be defined as having an inventory problem of whether or not we have the right table or a capabilities problem, whether or not we understand how to create a cable table effectively.
+
+And we can define very simple metrics like our precision and recall in selecting the right table and selecting the right examples. And as we try to continuously improve the system, a lot of it will be around analyzing these queries to identify underperforming areas, whether we have missing inventory or missing capabilities.
+
+And once we identify this, we can improve our table's inventory. By creating some materialized views or some custom tables that can help us understand, or at least help the AI understand how to create the data.
+
+And with this relatively simple system and simple setup, our general rag playbook can be reapplied to any subsystem. In this example, we're talking about Texas sql. But it's gonna exist in all other cases, whether it's documents, whether it's images, or anything else.
+
+You evals provide us with a good way of understanding our probability of success, which in many cases might just be a proxy for recall.
+
+Evals provide us with an estimate of prob probability evals, provide us a evals, provide us
+
+evals, provide us with an estimate of the probability of success. And we, we tend to proxy this with recall segmentation allows us to figure out what kinds of problems we have, and the solution oftentimes will be splitting up the monolithic retriever into multiple retrievers.
+
+And when we want to improve these retrievers, it is likely the case that they'll resemble either two, two things. One, extracting structured data and querying structured data or two, summarizing information and making those rich entities be pointers to the source data. And then with, and as a result, we can recursively apply the playbook.
+
+For single components and,  and so forth for multiple components and so forth.
+
+After this, we can continue to apply the synthetic data, uh, segmentation topics and capabilities workflow to dig deeper into new prompts. I,
+
+it is just gonna be the same thing over and over again. None of these AI systems that we build are gonna be a deploy and forget kind of situation,
+
+and none of these systems that we deploy is gonna be a fire and forget scenario. We're always gonna have to be monitoring and iterating on these processes
+
+because no matter how much better the AI gets, you're gonna be responsible for retrieval.
+
+All right. Alright, before we wrap up, let's just go over a quick preview of next session so we can also spend some ideas for office hours.
+
+And before you go, I really want you to try this at your own work or on any of your own. And before we go, I really want you to think about a couple of things, whether it's for your work or for your own personal projects. If you've identified any specific user query segments or conversation segments, I really want you to think about whether a new index or new metadata could be extracted to help you answer those questions.
+
+And then start, start playing around with whether or not you can actually extract this data outta your text chunks or whether or not you can write queries for them.
+
+And once you've built out this new index, then you can start synthetically generating new questions and basically rerun the playbook for that specific segment.
+
+And if you can do that well, I think you're on a really good track to just being able to repu reproduce this.
+
+And if you can just be creative and do these steps really, really well, I think you're gonna be in a very good position to improve any arbitrary AI application. Whether it's for RAG or anything else, most of machine learning is actually around training a monolithic model.  Identifying ways of specializing in such a way that in the future, a monolithic model takes over again. 
+
+Right? You can see this in LLMs.  You first have a, you know, small model, it gets bigger, and if we can't make it any bigger, what we just do instead is we just train a mixture of experts. And at some point you trained one more model, and at some point you become a mixture of a mixture of experts, of a bigger model.
+
+This is just generally how much works. And next week we'll think about how we can actually have these mixture of retrievers and combine them again using a router. And as always, if you have any questions, feel to message me on, feel free to message me on Slack. And as always, if you have any questions, feel free to come to office hours or leave any questions on Slack.
+
+I'll see you next time.
