@@ -14,7 +14,7 @@ tags:
   - Series
 ---
 
-# Context Engineering: Rapid Agent Prototyping
+# How Do We Prototype Agents Rapidly?
 
 *This is part of the [Context Engineering Series](./context-engineering-index.md). I'm focusing on rapid prototyping because testing agent viability quickly is essential for good context engineering decisions.*
 
@@ -24,7 +24,7 @@ Most teams waste months building agent frameworks before they know if their idea
 
 <!-- more -->
 
-## The Core Problem
+## What Problem Does Rapid Prototyping Solve?
 
 When teams want to test an agent idea, they typically start by building infrastructure:
 - Message management systems
@@ -35,13 +35,13 @@ When teams want to test an agent idea, they typically start by building infrastr
 
 By the time they get to testing the actual agent behavior, they've invested weeks in plumbing. Often they discover the fundamental idea doesn't work, but only after significant engineering investment.
 
-## The Claude Code SDK Solution
+## How Does the Claude Code SDK Help?
 
 Claude Code has a project runner mode (`claude -p`) that turns any directory into an agent execution environment. It reads a `CLAUDE.md` file as system instructions and executes workflows using CLI tools you provide. This creates a perfect testing harness—you write instructions in English, expose tools as simple commands, and let Claude Code handle the execution loop.
 
 **The key insight**: If it works once in this harness, the idea is viable. If it fails consistently, you know what's missing without building any infrastructure.
 
-## Works With Any Coding Agent
+## Which Coding Agents Does This Work With?
 
 While this article shows Claude Code, the approach is agent-agnostic. If a coding system can be driven from a CLI and read a simple instruction file (for example, `CLAUDE.md` or `agents.md`), you can use it with this harness.
 
@@ -59,7 +59,7 @@ This also unlocks cross-agent evals:
 
 As features converge (slash commands, subagents, instruction files), you can swap the runner without changing your prototype. This lets you identify the useful components of systems that actually work well, separate from any single vendor.
 
-## The Anatomy of a Rapid Prototype
+## What Is the Anatomy of a Rapid Prototype?
 
 Here's the exact structure that lets you test any agent idea:
 
@@ -83,7 +83,7 @@ agent-prototype/
         └── check.py
 ```
 
-### The CLAUDE.md File: Your Executable Specification
+### What Goes in CLAUDE.md?
 
 This becomes your system prompt, structured for execution:
 
@@ -117,7 +117,7 @@ Final notes.md must contain:
 - If cleanup unnecessary (already clean), proceed directly to notes-writer
 ```
 
-### Tool Implementations: Simple CLI Wrappers
+### How Should We Implement Tools as CLI Wrappers?
 
 Tools should be deliberately simple—CLI commands that wrap your actual APIs. This connects directly to the [tool response design principles](./context-engineering-tool-response.md) I've written about—the structure of your tool outputs becomes as important as the functionality itself:
 
@@ -139,7 +139,7 @@ fi
 echo "SUCCESS: Transcript downloaded"
 ```
 
-### Test Validation: Make Success Concrete
+### How Do We Validate Success in Tests?
 
 Each test folder represents a real scenario with concrete pass/fail criteria:
 
@@ -172,7 +172,7 @@ for i, section in enumerate(sections[1:], 1):
 print("✅ All structural requirements met")
 ```
 
-## The Execution Protocol
+## How Do We Execute the Prototype?
 
 To test any agent idea:
 
@@ -182,7 +182,7 @@ To test any agent idea:
 
 What you observe is Claude Code reading instructions, selecting tools, handling errors, and producing artifacts. You can watch it navigate edge cases in real-time—like when a video lacks English subtitles, it explores alternatives rather than simply failing.
 
-## Why This Beats Building Infrastructure First
+## Why Is This Better Than Building Infrastructure First?
 
 **Iteration speed**: You edit text files, not debug message loops or tool call parsing.
 
@@ -194,9 +194,9 @@ What you observe is Claude Code reading instructions, selecting tools, handling 
 
 **Economic transparency**: Token costs, latency, and failure rates visible in hours, not sprints.
 
-## Advanced Patterns for Production Readiness
+## How Do We Prepare for Production?
 
-### Teaching Through Tool Errors
+### How Can Tool Errors Teach Next Actions?
 
 Instead of generic failures, tools should guide next actions:
 
@@ -208,7 +208,7 @@ if [ -z "$user_id" ]; then
 fi
 ```
 
-### Structured Tool Responses
+### How Should We Structure Tool Responses?
 
 Control output format for easier parsing. This is a practical application of the [context engineering principles](./context-engineering-tool-response.md) around faceted tool responses—providing metadata that helps agents make better decisions:
 
@@ -252,7 +252,7 @@ For transcripts >50,000 characters:
 
 **Production migration**: Successful test folders become your production test suite. Tools and instructions transfer directly to any framework you build.
 
-## When This Methodology Doesn't Apply
+## When Doesn't This Methodology Apply?
 
 The boundaries are narrower than you might expect:
 
@@ -267,7 +267,7 @@ The boundaries are narrower than you might expect:
 
 But for the fundamental question—"Is this agent idea possible?"—this provides the fastest path to evidence in almost all cases.
 
-## Implementation Checklist
+## What Checklist Guides Implementation?
 
 Before writing orchestration code:
 
@@ -280,7 +280,7 @@ Before writing orchestration code:
 - [ ] **Achieve at least one passing test** before considering production architecture
 - [ ] **Explore architectural patterns**: Use the prototype to test whether [slash commands or subagents](./context-engineering-slash-commands-subagents.md) work better for your specific use case
 
-## Conclusion
+## What Is the Bottom Line?
 
 Stop building agent infrastructure before you know if the idea works. Use this methodology to get evidence in hours:
 
@@ -293,7 +293,7 @@ If Claude Code can't make it work with perfect tool access and no constraints, y
 
 **The fastest way to prototype an agent isn't to build an agent at all—it's to test whether the idea works before you build anything.**
 
-## Connection to the Broader Context Engineering Framework
+## How Does This Connect to the Context Engineering Framework?
 
 This prototyping methodology integrates with all the other context engineering patterns:
 

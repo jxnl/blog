@@ -21,7 +21,7 @@ Develops AI-based tools for automated stress testing of large language models (L
 
 ## [Exa](https://exa.ai/)
 
-AI-powered search engine API, backed by $22 million in funding from investors like [Lightspeed](https://lsvp.com/), [Nvidia](https://nventures.nvidia.com/), and [Y Combinator](https://www.ycombinator.com/), connecting AI systems to real-time web data. Offers semantic search, embedding search, and content scraping for developers and companies.
+AI-powered search engine API, backed by $22 million in funding from investors like [Lightspeed](https://lsvp.com/), [NVIDIA](https://www.nvidia.com/en-us/nventures/), and [Y Combinator](https://www.ycombinator.com/), connecting AI systems to real-time web data. Offers semantic search, embedding search, and content scraping for developers and companies.
 
 ## [Lovable.dev](https://lovable.dev/)
 
@@ -43,7 +43,7 @@ AI-powered configurable recommendations and search systems, which raised an $8 m
 
 Developer-centric observability platform by Pydantic, which raised a $12.5 million Series A led by [Sequoia](https://www.sequoiacap.com/) with participation from [Partech](https://partechpartners.com/) and [Irregular Expression](https://www.irregex.vc/). Simplifies software monitoring and performance insights.
 
-## [Vantager](https://www.vantager.co/)
+## [Vantager](https://www.vantager.com/)
 
 AI-native investment platform for limited partners. Transforms complex financial datasets into actionable insights for investment strategies.
 

@@ -14,11 +14,11 @@ tags:
   - Series
 ---
 
-# Context Engineering: Agent Frameworks and Form Factors
+# How Should We Choose Agent Frameworks and Form Factors?
 
 *This is part of the [Context Engineering Series](./context-engineering-index.md). I'm focusing on agent frameworks because understanding form factors and complexity levels is essential before building any agentic system.*
 
-## Part I — What I actually talk about when companies say they want to build agents
+## What Do We Actually Mean When We Say We Want to Build Agents?
 
 *Field note from a conversation with [Vignesh Mohankumar](https://nila.is/), a successful consultant who helps companies navigate AI implementation decisions. [Vignesh](https://nila.is/) and I are both AI consultants helping companies build AI systems—he focuses on implementations and workflows, while I help with overall strategy and execution.*
 
@@ -49,7 +49,7 @@ Everything else is preference.
 
 A practical question that comes up frequently: should you build custom tools or use MCP servers? The economics are more important than the technical architecture.
 
-## The MCP Decision Matrix
+## When Should We Choose MCP?
 
 MCP servers make sense when you need the same tools across multiple applications. If your team uses Claude Desktop, ChatGPT, and other AI platforms that all need Google Drive integration, an MCP server lets you build once and reuse everywhere.
 
@@ -72,7 +72,7 @@ If you're answering "multiple platforms," "existing infrastructure," "complex to
 
 ---
 
-## Part II — The autonomy spectrum (what we can safely automate, and how)
+## How Does the Autonomy Spectrum Guide What We Automate?
 
 When leadership hears "agent," they imagine fully autonomous systems. That's not what works in practice. Successful systems follow a spectrum of increasing autonomy. Here's the progression I recommend:
 
@@ -106,7 +106,7 @@ This is the classic "agent": a loop where the AI suggests an action, you execute
 
 This progression gives you a clear upgrade path. You don't need to start with the most complex option. Begin with deterministic code, add AI functions where you need flexibility, use chains when tasks have multiple steps, upgrade to graphs when workflows branch, and save the tool-calling loop for cases that truly need improvisation. This builds reliability step by step.
 
-## The Key Insight: Every Level is a Tool for Higher Levels
+## Why Is Every Level a Tool for Higher Levels?
 
 Here's what makes this spectrum powerful: **any system at any level can become a tool for systems at higher levels**. A deterministic script becomes a tool for an AI function. An AI function becomes a tool for a prompt chain. A complete prompt chain becomes a tool for a graph state machine. Even an entire tool-calling agent can be a single tool in a larger orchestration system.
 
@@ -122,7 +122,7 @@ Think of it this way:
 
 This creates an architecture where simple, reliable components compose into more complex systems. The customer support agent that routes to password reset isn't calling a single API—it's calling a complete Level 2 chain that handles authentication, validation, and email generation. From the agent's perspective, it's just another tool.
 
-### Why This Matters for Architecture
+### Why Does This Matter for Architecture?
 
 **Testability**: Each level can be tested independently. Your Level 1 AI function works reliably before it becomes a tool in your Level 2 chain.
 
@@ -138,7 +138,7 @@ This is how you build agent systems that actually work in production: not as mon
 
 ---
 
-## From Concept to Working System
+## How Do We Go from Concept to Working System?
 
 A critical question comes up in every agent consulting engagement: *How do you test whether an agent idea actually works without building all the infrastructure first?*
 
@@ -152,7 +152,7 @@ The methodology also integrates with all the other context engineering patterns:
 
 ---
 
-## A note to leadership
+## What Should Leadership Ask For?
 
 Ask your team for specific results, not just "agents." Have them pick one of the three approaches—**chatbot**, **workflow**, or **report generator**—and define success. Ask where they'll start on the complexity spectrum and when they'd add more AI.
 

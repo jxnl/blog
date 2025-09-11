@@ -11,7 +11,7 @@ tags:
 series: Context Engineering
 ---
 
-# Slash Commands vs Subagents: How to Keep AI Tools Focused
+# How Do Slash Commands and Subagents Keep AI Tools Focused?
 
 **The main idea:** When AI tools do messy tasks, they can either stay focused or get confused by too much information.
 
@@ -49,7 +49,7 @@ Coding agents like Claude Code are at the forefront of solving this problem. The
 
 <!-- more -->
 
-## The Slash Command Path (Prompts)
+## What Happens on the Slash Command Path?
 
 Take a simple example: you're building a feature, you touch a few files, and now you need to run tests.
 
@@ -229,7 +229,7 @@ This problem happens in more than just coding tools. As I wrote about in [RAG Lo
 **Context pollution:** 91% noise
 **Problem:** Test diagnostics flood your reasoning thread with massive logs
 
-## The Subagent Path
+## What Is the Subagent Path?
 
 Now instead of using a slash command, you create a Test Runner helper.
 
@@ -291,7 +291,7 @@ I've watched a test runner subagent identify failing tests, run git bisect, and 
 
 A friend built a performance optimization subagent. Their main agent was busy implementing a UX feature, while the subagent ran scripts, parsed logs, did data analysis, and reported: "These three functions cause 70% of latency." The core stayed focused on the feature; the sidecar did the heavy lifting.
 
-# How This Actually Works in Claude Code
+# How Does This Work in Claude Code?
 
 I've been diving into how Claude Code implements this stuff, and it's pretty clever.
 
@@ -320,7 +320,7 @@ I've watched this in action. A friend had a performance optimization subagent th
 
 That's exactly the kind of insight you need, without any of the noise.
 
-## Context Engineering Beyond Code
+## How Does Context Engineering Apply Beyond Code?
 
 This pattern applies far beyond coding assistants. The key insight is **read-only research models** that burn tokens exploring messy data while keeping your main reasoning thread clean.
 
@@ -336,7 +336,7 @@ The pattern is universal: **burn tokens in specialized workers, preserve focus i
 
 But recognize these systems are complicated. If you're building a product, you have to decide whether you want to manually orchestrate these workflows and educate users, or build for expert users who understand the complexity.
 
-## What's Next
+## What Comes Next?
 
 This architectural choice will define how agent systems scale. Teams building production agents today are implementing these patterns now, while the tooling ecosystem catches up.
 

@@ -8,7 +8,7 @@ tags:
   - Agents
 ---
 
-# Beyond Chunks: Why Context Engineering is the Future of RAG
+# Why Is Context Engineering the Future of RAG?
 
 **The core insight:** In agentic systems, how we structure tool responses is as important as the information they contain.
 
@@ -37,7 +37,7 @@ This is the fundamental problem with chunk-based RAG in agentic systems. Agents 
 
 <!-- more -->
 
-## Four Levels of Context Engineering
+## What Are the Four Levels of Context Engineering?
 
 I'll demonstrate this through four progressively complex levels:
 
@@ -51,7 +51,7 @@ This progression leads to two key predictions:
 1. **Tool results become prompt engineering** - Metadata teaches agents how to use tools in future calls
 2. **Databases become reasoning partners** - Facets surface patterns that agents leverage but humans wouldn't think to ask for
 
-## Search Quality is Your Ceiling
+## Why Is Search Quality Your Ceiling?
 
 !!! warning "Hard Truth"
 Good search is the ceiling on your RAG quality. If recall is poor, no prompt engineering or model upgrade will save you. I've seen teams spend weeks fine-tuning prompts when their real problem was that the relevant information simply wasn't being retrieved. This is why focusing on the right RAG evaluation metrics is crucial.
@@ -61,7 +61,7 @@ Context engineering goes beyond returning chunks. It's about returning actionabl
 !!! tip "Start Here: Audit Your Current Tools"
 Before building new infrastructure, audit what your tools actually return. Most improvements are just better string formatting—wrapping results in XML, adding source metadata, including system instructions. No major architectural changes required.
 
-## The Complexity Tradeoff
+## How Should We Balance Complexity?
 
 Here's the uncomfortable truth: there's no single right answer for how much metadata to include. Every system has different needs, and the more complex you make your tools, the higher the likelihood of hallucinations and tool misuse.
 
@@ -361,15 +361,15 @@ def search(
 
 **The transformation:** Agents gain peripheral vision of the entire data landscape. Facets reveal hidden documents that similarity search missed, enabling strategic exploration beyond the top-k cutoff.
 
-## Two Types of Facet Data Sources
+## What Types of Facet Data Sources Exist?
 
 Facets can come from two primary sources: existing structured systems and AI-extracted metadata from unstructured documents.
 
-### Structured Systems
+### What Are Structured Systems for Facets?
 
 CRMs, ERPs, HR systems, and other business databases already contain rich structured data that can power faceted search. These systems track entities, relationships, and metadata that users often don't realize can be leveraged for search.
 
-#### Hypothetical Study: Linear Ticket Search
+#### How Would This Work for Linear Ticket Search?
 
 ```python
 def search(
@@ -457,11 +457,11 @@ When an agent searches `search("API timeout issues")`, it gets:
 !!! danger "Similarity Bias Alert"
 All 3 returned tickets are "Done" but facets show 5 "Open" tickets exist. Resolved tickets have better documentation and rank higher in similarity search, while active issues get filtered out. Call `search("API timeout", status="Open")` to find them.
 
-### Extracted Facets
+### What Are Extracted Facets?
 
 Companies like Extend and Reducto can perform structured data extraction over documents to create facets that don't naturally exist in the raw text.
 
-#### Hypothetical Study: Contract Analysis
+#### How Would This Work for Contract Analysis?
 
 ```python
 def search(
@@ -543,7 +543,7 @@ When an agent searches `search("liability provisions")`, it gets:
 !!! warning "Critical Documents Missing"
 All 3 returned contracts are signed, but facets reveal 12 unsigned contracts exist in the broader result set. Signed contracts have better-developed liability language (higher similarity scores), while unsigned contracts with liability provisions didn't make the top-k cut. The agent should call `search("liability", signature_status="Unsigned")` to examine those hidden contracts - they need attention before signing.
 
-## The Persistence Advantage: Why Agents Change Everything
+## Why Does Agent Persistence Change Everything?
 
 This is the paradigm shift most teams miss: agentic systems are incredibly persistent. Given enough budget and time, they'll keep searching until they find what they need. This fundamentally changes how we should think about search system design. This persistence enables continuous feedback loops that improve system performance over time.
 
@@ -557,7 +557,7 @@ Consider the contract example: the agent didn't need to find all liability provi
 
 This transforms the database from a passive responder to an active reasoning partner. Facets surface patterns and gaps that agents can leverage but humans would never think to ask for directly.
 
-## The Evolution from Chunks to Context
+## How Do We Evolve from Chunks to Context?
 
 We've traced the evolution from basic chunks to sophisticated context engineering across four levels. Level 1 gives agents raw text but leaves them blind to metadata patterns. Level 2 adds source tracking, enabling strategic document loading and proper citations. Level 3 optimizes multi-modal content formatting so agents can reason about tables, images, and structured data. Level 4 introduces facets that reveal the complete data landscape, transforming search from similarity-based retrieval to exploration.
 
@@ -565,7 +565,7 @@ The progression shows a clear pattern: **each level adds peripheral vision about
 
 The business impacts are measurable: 90% reduction in clarification questions, 75% reduction in expert escalations, 95% reduction in 504 errors, 4x improvement in resolution times. But the deeper transformation is architectural—databases evolve from passive storage to active reasoning partners that surface patterns human users would never think to request.
 
-## What's Next
+## What Comes Next?
 
 This is the first post in a series on context engineering. I started here because it's the most accessible entry point—something every team can experiment with today.
 
