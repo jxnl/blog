@@ -53,7 +53,7 @@ In this chapter, we'll explore three categories of improvements:
 Each of these approaches not only enhances immediate user experience but also strengthens the feedback flywheel we've been building throughout these chapters. By implementing these techniques, you'll create a RAG system that users not only tolerate but genuinely enjoy using—a system that explains its reasoning, justifies its answers, and catches its own mistakes.
 
 !!! example "Real-world Impact"
-One healthcare company implementing the techniques in this chapter saw their user satisfaction scores increase by 34% in just six weeks. More importantly, their user trust metrics—measuring how much users believed and acted on the system's recommendations—increased by 62%. This wasn't just about making users happy; it fundamentally changed how their system influenced real-world decisions.
+    One healthcare company implementing the techniques in this chapter saw their user satisfaction scores increase by 34% in just six weeks. More importantly, their user trust metrics—measuring how much users believed and acted on the system's recommendations—increased by 62%. This wasn't just about making users happy; it fundamentally changed how their system influenced real-world decisions.
 
 ## Beyond the Basics: Practical Improvements
 
@@ -177,7 +177,7 @@ The study found that accurate citations improve user trust<cit id="42" span="Acc
 ```
 
 !!! tip "Production Insight"
-From office hours: "XML-based approaches with chunk IDs and text span references are most reliable. Fine-tuning can reduce citation error rates from 4% to nearly 0% with ~10,000 examples." This data is easy to synthetically generate.
+    From office hours: "XML-based approaches with chunk IDs and text span references are most reliable. Fine-tuning can reduce citation error rates from 4% to nearly 0% with ~10,000 examples." This data is easy to synthetically generate.
 
 **Key Implementation Details:**
 
@@ -360,7 +360,7 @@ We implemented a monologue-based approach that instructed the model to:
 Quote accuracy improved from 62% to 94%, and sales representatives reported greater confidence in the system's recommendations. The monologue approach helped the model connect scattered information from the transcript with the rules in the pricing document.
 
 !!! success "Business Impact"
-After implementing this approach, 90% of the follow-up emails were accepted by sales reps without any edits. This generated a wealth of training data that we used to fine-tune a smaller, more efficient model. Eventually, the fine-tuned model achieved similar accuracy without needing the explicit monologue step, demonstrating how monologues can be used as a stepping stone to more efficient solutions.
+    After implementing this approach, 90% of the follow-up emails were accepted by sales reps without any edits. This generated a wealth of training data that we used to fine-tune a smaller, more efficient model. Eventually, the fine-tuned model achieved similar accuracy without needing the explicit monologue step, demonstrating how monologues can be used as a stepping stone to more efficient solutions.
 
 ### Monologue in Action
 
@@ -528,7 +528,7 @@ def regenerate_email_if_needed(query: str, initial_email: str, allowed_domains: 
 After implementing this validator, the error rate dropped from 4% to 0% after just one retry.
 
 !!! success "Beyond Validation: Fine-tuning from Corrections"
-Even more interestingly, we took the validation process a step further. After collecting sufficient examples of corrections, we fine-tuned our model (distilling GPT-4 into a smaller model) using this dataset of corrected responses. The result was astonishing - the base error rate before validation dropped to nearly zero. The model had effectively learned from its corrections, internalizing the patterns of valid URLs and avoiding problematic ones altogether.
+    Even more interestingly, we took the validation process a step further. After collecting sufficient examples of corrections, we fine-tuned our model (distilling GPT-4 into a smaller model) using this dataset of corrected responses. The result was astonishing - the base error rate before validation dropped to nearly zero. The model had effectively learned from its corrections, internalizing the patterns of valid URLs and avoiding problematic ones altogether.
 
 ```
 This entire validation and fine-tuning process took just three days to implement and resulted in a much faster application since we no longer needed the retry loop. The model now produces valid URLs in a single pass.
@@ -676,7 +676,7 @@ This chapter covered techniques that turn a technically sound RAG system into a 
 1. **Capability showcasing guides users effectively** - Explicitly highlighting your system's strengths improves user satisfaction and engagement while setting appropriate expectations.
 
 !!! quote "Practical Implementation Strategy"
-"When implementing these improvements, I recommend starting with citations and validation patterns, as they provide the most immediate reliability gains. Then add chain of thought for complex reasoning scenarios, followed by strategic rejection for edge cases. These foundational elements will deliver the most value for your development time while setting the stage for more advanced techniques."
+    "When implementing these improvements, I recommend starting with citations and validation patterns, as they provide the most immediate reliability gains. Then add chain of thought for complex reasoning scenarios, followed by strategic rejection for edge cases. These foundational elements will deliver the most value for your development time while setting the stage for more advanced techniques."
 
 These improvements work in concert with the feedback mechanisms from Chapter 3.1 and the streaming techniques from Chapter 3.2 to create a comprehensive, user-centered RAG experience. Each element reinforces the others: citations provide opportunities for feedback, streaming makes the thinking process engaging, and validation ensures that what users see is reliable.
 

@@ -217,7 +217,7 @@ This training gap means VLMs excel at generating accurate captions but struggle 
 - **Context loss**: VLMs see isolated images without surrounding document context
 
 !!! warning "Embedding Spaces Mismatch"
-The naive approach—applying the same embedding strategy used for text—often fails because question embeddings and image caption embeddings exist in fundamentally different semantic spaces. Simply embedding captions like "two people" will not retrieve well when users search for "business meeting" or "team collaboration."
+    The naive approach—applying the same embedding strategy used for text—often fails because question embeddings and image caption embeddings exist in fundamentally different semantic spaces. Simply embedding captions like "two people" will not retrieve well when users search for "business meeting" or "team collaboration."
 
 **Solution**: Bridge this gap with chain-of-thought reasoning that explicitly connects visual elements to likely search terms.
 
@@ -226,7 +226,7 @@ The naive approach—applying the same embedding strategy used for text—often 
 Here's how to make image search actually work:
 
 !!! example "Advanced Image Description Techniques"
-**Rich Prompting**: Move beyond simple "what's in this image?" prompts to detailed instructions that anticipate likely queries. Compare:
+    **Rich Prompting**: Move beyond simple "what's in this image?" prompts to detailed instructions that anticipate likely queries. Compare:
 
 ```
 *Basic*: "Describe this image."
@@ -439,7 +439,7 @@ The old approach of "just translate natural language to SQL" breaks down fast wh
 We wasted months trying to fine-tune SQL generation models. Then we started retrieving similar queries from our analytics repository instead. Accuracy jumped 30% immediately.
 
 !!! example "RAPTOR: Recursive Summarization for Long Documents"
-**The RAPTOR Approach:**
+    **The RAPTOR Approach:**
 
     When dealing with concepts that span multiple pages or sections:
 
@@ -505,7 +505,7 @@ The same question can mean different things. Take "Show me month-over-month reve
 - What about partial months?
 
 !!! example "Subjective Query Interpretations"
-| Question | Possible Interpretation 1 | Possible Interpretation 2 | Possible Interpretation 3 |
+    | Question | Possible Interpretation 1 | Possible Interpretation 2 | Possible Interpretation 3 |
 |\----------|---------------------------|---------------------------|---------------------------|
 | "Monthly active users" | Users who logged in during calendar month | Users who performed an action in last 30 days | Users who made a purchase in billing cycle |
 | "Revenue by region" | Geographic sales regions | Product categories | Customer segments |
@@ -528,7 +528,7 @@ Models can't read your mind about business logic. But if you show them examples 
 5. **It's also about org structure**: Specialized indices let teams work independently and improve their piece without breaking everything.
 
 !!! tip "Combining Lexical and Semantic Search"
-**The Power of Hybrid Search:**
+    **The Power of Hybrid Search:**
 
     Don't abandon lexical search! It excels at:
     - Exact matches (product codes, names)

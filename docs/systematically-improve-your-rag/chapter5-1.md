@@ -337,7 +337,7 @@ This formula is incredibly powerful for systematic debugging and optimization. W
 The key insight is that these problems require completely different solutions. Without this breakdown, you'd waste time optimizing the wrong component.
 
 !!! tip "Diagnostic Example"
-If you find that your system correctly routes 95% of queries to the appropriate retriever, but those retrievers only find relevant information 60% of the time, your priority should be improving retrieval quality rather than router accuracy.
+    If you find that your system correctly routes 95% of queries to the appropriate retriever, but those retrievers only find relevant information 60% of the time, your priority should be improving retrieval quality rather than router accuracy.
 
 Measuring both levels tells you where to focus your efforts.
 

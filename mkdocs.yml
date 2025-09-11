@@ -120,24 +120,20 @@ nav:
     - Things: 'things.md'
   - Learn to Improve Your RAG:
     - Overview: "systematically-improve-your-rag/index.md"
-    - Chapter 0: "systematically-improve-your-rag/chapter0.md"
-    - Chapter 1: "systematically-improve-your-rag/chapter1.md"
-    - Chapter 2: "systematically-improve-your-rag/chapter2.md"
-    - Chapter 3:
-      - Feedback Collection: "systematically-improve-your-rag/chapter3-1.md"
-      - Perceived Speed: "systematically-improve-your-rag/chapter3-2.md"
-      - Small Changes, Big Impact: "systematically-improve-your-rag/chapter3-3.md"
-    - Chapter 4:
-      - Patterns in User Data: "systematically-improve-your-rag/chapter4-1.md"
-      - What to Build Next: "systematically-improve-your-rag/chapter4-2.md"
-    - Chapter 5:
-      - Specialization Basics: "systematically-improve-your-rag/chapter5-1.md"
-      - Beyond Text: "systematically-improve-your-rag/chapter5-2.md"
-    - Chapter 6:
-      - Routing Basics: "systematically-improve-your-rag/chapter6-1.md"
-      - Build the Router: "systematically-improve-your-rag/chapter6-2.md"
-      - Measure & Improve: "systematically-improve-your-rag/chapter6-3.md"
-    - Chapter 7: "systematically-improve-your-rag/chapter7.md"
+    - ch0: Beyond Implementation to Improvement: "systematically-improve-your-rag/chapter0.md"
+    - ch1: Kickstarting the Data Flywheel with Synthetic Data: "systematically-improve-your-rag/chapter1.md"
+    - ch2: Converting Evaluations into Training Data: "systematically-improve-your-rag/chapter2.md"
+    - ch3.1: Feedback Collection That Works: "systematically-improve-your-rag/chapter3-1.md"
+    - ch3.2: Making RAG Feel Fast: "systematically-improve-your-rag/chapter3-2.md"
+    - ch3.3: Small Changes, Big Impact: "systematically-improve-your-rag/chapter3-3.md"
+    - ch4.1: Finding Patterns in User Data: "systematically-improve-your-rag/chapter4-1.md"
+    - ch4.2: Deciding What to Build Next: "systematically-improve-your-rag/chapter4-2.md"
+    - ch5.1: When One Size Doesn't Fit All: "systematically-improve-your-rag/chapter5-1.md"
+    - ch5.2: Search Beyond Text: "systematically-improve-your-rag/chapter5-2.md"
+    - ch6.1: Query Routing Basics: "systematically-improve-your-rag/chapter6-1.md"
+    - ch6.2: Building the Router: "systematically-improve-your-rag/chapter6-2.md"
+    - ch6.3: Measuring and Improving Routers: "systematically-improve-your-rag/chapter6-3.md"
+    - ch7: Production Considerations: "systematically-improve-your-rag/chapter7.md"
   - Consulting:
     - Consulting Services: "services.md"
     - Jump on a Call: "expert-calls.md"

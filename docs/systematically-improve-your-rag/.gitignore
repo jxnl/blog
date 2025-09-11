@@ -1,4 +1,4 @@
 # Ignore large or non-doc assets in this section
 *.pdf
 *.txt
-
+*-slides.md

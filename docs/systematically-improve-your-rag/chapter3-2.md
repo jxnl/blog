@@ -46,10 +46,11 @@ These techniques not only improve user experience but also lead to higher engage
 **Implementation Timing**: If you're on the fence about implementing streaming in your RAG application, do it early. Migrating from a non-streaming to a streaming application is significantly more complex than building with streaming from the start. It can add weeks to your development cycle if attempted later in the project lifecycle.
 
 !!! example "Impact of Visual Feedback"
-\- Users perceive animated progress bars as 11% faster even when wait times are identical
-\- Users will tolerate up to 8 seconds of waiting when given visual feedback, reducing abandonment rates
-\- Applications with engaging loading screens report higher satisfaction scores
-\- Facebook discovered that skeleton screens significantly reduced perceived load times, resulting in better user retention and engagement
+    - Users perceive animated progress bars as 11% faster even when wait times are identical
+    - Users will tolerate up to 8 seconds of waiting when given visual feedback, reducing abandonment rates
+    - Applications with engaging loading screens report higher satisfaction scores
+    - Facebook discovered that skeleton screens significantly reduced perceived load times, resulting in better user retention and engagement
+
 
 The strategies we'll cover in this chapter are becoming essential components of modern LLM applications. By the end of this chapter, you'll understand how to turn waiting time from a point of frustration to an opportunity for engagement and trust-building.
 
@@ -209,14 +210,12 @@ This approach gives users insight into how their query is being processed, creat
 Streaming isn't limited to plain text—you can stream structured data like citations, follow-up questions, or data visualizations. This technique is especially valuable for complex RAG applications where responses have multiple components.
 
 !!! example "Streaming in Modern Applications"
-Libraries like Instruct and modern LLM frameworks now support streaming structured data. This allows applications to:
+    Libraries like Instruct and modern LLM frameworks now support streaming structured data. This allows applications to:
 
-```
-- Stream citations with IDs and titles
-- Stream different response components in parallel
-- Stream function calls and their arguments
-- Build dynamic UI that renders each component as it becomes available
-```
+    - Stream citations with IDs and titles
+    - Stream different response components in parallel
+    - Stream function calls and their arguments
+    - Build dynamic UI that renders each component as it becomes available
 
 Here's how you might implement structured streaming for a response that includes an answer, citations, and follow-up questions:
 
@@ -446,7 +445,7 @@ Here's a simple but effective approach for Slack bots:
 
 
 !!! tip "Slack Feedback Collection"
-By pre-filling emoji reactions (👍 👎 ⭐), you increase the likelihood of receiving user feedback. This approach places feedback options directly in the user's view, rather than requiring them to take additional steps. In testing, this approach increased feedback collection rates by up to 5x compared to text-based feedback prompts.
+    By pre-filling emoji reactions (👍 👎 ⭐), you increase the likelihood of receiving user feedback. This approach places feedback options directly in the user's view, rather than requiring them to take additional steps. In testing, this approach increased feedback collection rates by up to 5x compared to text-based feedback prompts.
 
 ## The Connection Between Streaming, Performance, and Feedback
 
@@ -459,7 +458,7 @@ In our experience, implementations with effective streaming collect 30-40% more 
 The most successful RAG applications aren't just accurate—they're responsive, engaging, and transparent. By applying the techniques in this chapter, you create an experience that keeps users engaged throughout the interaction, building trust and encouraging the feedback that fuels continuous improvement.
 
 !!! quote "Real-world Impact"
-"For a customer support RAG application, implementing streaming and feedback-optimized interstitials increased our feedback collection rate from 5.6% to over 25%. This allowed us to fine-tune five times faster and quickly identify the most problematic query types. Within six weeks, we improved customer satisfaction scores by 34% by addressing these specific failure modes."
+    "For a customer support RAG application, implementing streaming and feedback-optimized interstitials increased our feedback collection rate from 5.6% to over 25%. This allowed us to fine-tune five times faster and quickly identify the most problematic query types. Within six weeks, we improved customer satisfaction scores by 34% by addressing these specific failure modes."
 
 ## Conclusion: Performance as Experience Design
 
@@ -470,7 +469,7 @@ By implementing streaming, you change the user experience from a binary "waiting
 These approaches work in concert to create a responsive, engaging RAG experience that keeps users invested and encourages feedback. Users provide up to 5x more feedback when your application feels responsive and engaging. This creates a strong feedback loop where better performance leads to more feedback, which enables more targeted improvements.
 
 !!! tip "Implementation Priority"
-If you're at the start of your RAG implementation journey, prioritize streaming first. It's much easier to integrate from the beginning than to retrofit later. Next, focus on meaningful interstitials and skeleton screens. Finally, implement platform-specific optimizations for your particular usage context (web, Slack, mobile, etc.).
+    If you're at the start of your RAG implementation journey, prioritize streaming first. It's much easier to integrate from the beginning than to retrofit later. Next, focus on meaningful interstitials and skeleton screens. Finally, implement platform-specific optimizations for your particular usage context (web, Slack, mobile, etc.).
 
 In the next chapter, we'll build on these foundations by exploring quality-of-life improvements like interactive citations, chain-of-thought reasoning, and validation patterns. These elements further enhance the user experience while creating additional opportunities for feedback collection.
 
@@ -613,7 +612,3 @@ Remember: If you only implement one improvement from this chapter, make it strea
 1. Article: ["The Psychology of Waiting Lines"](https://www.nngroup.com/articles/progress-indicators/) - David Maister's research on the psychological aspects of waiting
 
 1. GitHub Repository: [React Skeleton Screens](https://github.com/danilowoz/react-content-loader) - Open-source library for implementing skeleton screens in React applications
-
----
-
-

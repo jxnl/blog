@@ -34,7 +34,7 @@ These objectives build directly on the evaluation foundation from Chapter 1 and 
     All of this content comes from my [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK) course. Readers get **20% off** with code EBOOK. Join 500+ engineers who've transformed their RAG systems from demos to production-ready applications.
 
 !!! success "Fine-Tuning Cost Reality Check"
-**Real Numbers from Production:**
+    **Real Numbers from Production:**
     - **Just 6,000 examples = 6-10% improvement** (Sentence Transformers team validated)
     - **Cost: Hundreds of dollars in API calls** (vs tens of thousands for data labeling previously)
     - **Time: 40 minutes training on your laptop** 
@@ -208,7 +208,7 @@ I've seen numerous companies hire machine learning engineers to fine-tune embedd
 I watched a team build a great RAG app for internal docs. Six months later they wanted to fine-tune embeddings but had zero data because they never set up logging. Had to start from scratch with synthetic data. Don't do this.
 
 !!! success "Small Datasets Can Make Big Differences"
-The team at Sentence Transformers has demonstrated that even with just 6,000 examples, you can achieve 6-10% better performance. With 40 minutes of fine-tuning on a laptop, you can create significant lifetime value for your application. This makes fine-tuning embedding models accessible even to teams without massive datasets or specialized infrastructure.
+    The team at Sentence Transformers has demonstrated that even with just 6,000 examples, you can achieve 6-10% better performance. With 40 minutes of fine-tuning on a laptop, you can create significant lifetime value for your application. This makes fine-tuning embedding models accessible even to teams without massive datasets or specialized infrastructure.
 
 ## Understanding Contrastive Learning for Embeddings
 
@@ -392,7 +392,7 @@ Fine-tune your embedding models when:
 4. **Cost at scale** justifies maintaining your own infrastructure
 
 !!! tip "Production Insight"
-From office hours: "With just 6,000 examples from your domain, you can train embedding models and cross-encoders that outperform general-purpose models on your specific tasks. This typically costs around $1.50 and takes about 40 minutes on a laptop."
+    From office hours: "With just 6,000 examples from your domain, you can train embedding models and cross-encoders that outperform general-purpose models on your specific tasks. This typically costs around $1.50 and takes about 40 minutes on a laptop."
 
 ### The Fine-Tuning Process
 
@@ -405,7 +405,7 @@ Transform your evaluation data into training format:
 - **Validation set**: Hold out 20% for testing improvements
 
 !!! warning "Critical Success Factor"
-The quality of your hard negatives determines the quality of your fine-tuned model. Documents that are topically similar but serve different intents make the best hard negatives.
+    The quality of your hard negatives determines the quality of your fine-tuned model. Documents that are topically similar but serve different intents make the best hard negatives.
 
 #### Step 2: Model Selection
 
@@ -434,7 +434,7 @@ Track these metrics before and after fine-tuning:
 4. **Latency impact** if self-hosting
 
 !!! example "Real-World Results"
-A healthcare company fine-tuned embeddings on medical abbreviations where generic models confused similar acronyms. Results: - Recall@10 improved from 72% to 89% - Reduced confusion between similar medical terms - Cost: $1.50 in compute, 45 minutes of training - ROI: Prevented multiple medical documentation errors
+    A healthcare company fine-tuned embeddings on medical abbreviations where generic models confused similar acronyms. Results: - Recall@10 improved from 72% to 89% - Reduced confusion between similar medical terms - Cost: $1.50 in compute, 45 minutes of training - ROI: Prevented multiple medical documentation errors
 
 ### Common Pitfalls to Avoid
 
@@ -452,14 +452,14 @@ For detailed implementation guides:
 - [OpenAI's Fine-tuning Best Practices](https://platform.openai.com/docs/guides/fine-tuning)
 
 !!! quote "Key Takeaway"
-"It's probably a bad idea to train your own language model, but it's a very good idea to train your own embedding model. The infrastructure requirements are minimal, the process is well-understood, and the improvements are substantial for domain-specific applications."
+    "It's probably a bad idea to train your own language model, but it's a very good idea to train your own embedding model. The infrastructure requirements are minimal, the process is well-understood, and the improvements are substantial for domain-specific applications."
 
 ## Testing Different Approaches Systematically
 
 Now that you have evaluation data from Chapter 1, you can start testing different approaches. You need to be systematic about this.
 
 !!! tip "Good Experimentation Practices"
-For each experiment:
+    For each experiment:
 
 1. Have a clear hypothesis ("Re-ranker will improve recall@10 by 15%")
 2. Define success before you start
@@ -476,7 +476,7 @@ Experiments worth trying:
 5. Different few-shot examples
 
 !!! example "Debate Resolved Through Data"
-One team I worked with spent weeks debating which embedding model to use, with different team members advocating for their preferred option. Instead of continuing the debate, they implemented a simple experiment: they indexed their documents with three different embedding models and measured recall on their evaluation set. The results settled the debate in hours, not weeks, and the team moved forward with data-backed confidence.
+    One team I worked with spent weeks debating which embedding model to use, with different team members advocating for their preferred option. Instead of continuing the debate, they implemented a simple experiment: they indexed their documents with three different embedding models and measured recall on their evaluation set. The results settled the debate in hours, not weeks, and the team moved forward with data-backed confidence.
 
 Keep running experiments, measuring results, and iterating. That's how you get better.
 
@@ -485,7 +485,7 @@ Keep running experiments, measuring results, and iterating. That's how you get b
 Once you've run some experiments, you can plan what to do next. It's not just about adding features—it's about having a process.
 
 !!! tip "Prioritization Framework"
-When deciding what to work on:
+    When deciding what to work on:
 
 - **Impact**: What will move the needle most?
 - **Effort**: How much work is it?
@@ -495,14 +495,14 @@ When deciding what to work on:
 I like using a simple impact/effort grid. High impact, low effort goes first—those quick wins build momentum while you're working on the harder stuff.
 
 !!! example "Prioritization in Action"
-In one project, we identified that implementing BM25 hybrid retrieval would be high-impact and medium-effort, while fine-tuning custom embeddings would be high-impact but high-effort. We prioritized the hybrid retrieval first, which gave us immediate gains while we collected data for the eventual embedding fine-tuning.
+    In one project, we identified that implementing BM25 hybrid retrieval would be high-impact and medium-effort, while fine-tuning custom embeddings would be high-impact but high-effort. We prioritized the hybrid retrieval first, which gave us immediate gains while we collected data for the eventual embedding fine-tuning.
 
 ## Linear Adapters: A Cost-Effective Alternative
 
 Before diving into full fine-tuning, consider linear adapters - a technique that can deliver significant improvements at a fraction of the cost.
 
 !!! info "What Are Linear Adapters?"
-Linear adapters add a small trainable layer on top of frozen embeddings: - Train only a linear transformation matrix - Keep the base embedding model unchanged - Combine benefits of domain specificity with pre-trained knowledge
+    Linear adapters add a small trainable layer on top of frozen embeddings: - Train only a linear transformation matrix - Keep the base embedding model unchanged - Combine benefits of domain specificity with pre-trained knowledge
 
     **Cost Comparison:**
     - Full fine-tuning: $50-100 for meaningful datasets
@@ -510,7 +510,7 @@ Linear adapters add a small trainable layer on top of frozen embeddings: - Train
     - Training time: Minutes vs hours
 
 !!! example "When to Use Linear Adapters"
-**Perfect for:** - Domain-specific terminology mapping - Multi-domain applications (train separate adapters) - Rapid experimentation - Limited computational resources
+    **Perfect for:** - Domain-specific terminology mapping - Multi-domain applications (train separate adapters) - Rapid experimentation - Limited computational resources
 
     **Implementation:**
     ```python

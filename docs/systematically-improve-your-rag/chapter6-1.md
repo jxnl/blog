@@ -234,4 +234,4 @@ The key was treating each retriever as a service with a clear API contract.
 - **Performance Clarity**: Can identify whether bottlenecks are routing or retrieval issues
 
 !!! tip "Next Steps"
-	In [Chapter 6-2](chapter6-2.md), we'll implement the specific tool interfaces and routing logic that bring this architectural vision to life.
+    	In [Chapter 6-2](chapter6-2.md), we'll implement the specific tool interfaces and routing logic that bring this architectural vision to life.

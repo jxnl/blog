@@ -698,4 +698,4 @@ Cost Analysis (GPT-4 with prompt caching):
 - **User Experience**: Both AI routing and direct tool access provide value to different user types
 
 !!! tip "Next Steps"
-	In [Chapter 6-3](chapter6-3.md), we'll implement comprehensive performance measurement and create user interfaces that leverage both AI routing and direct tool access.
+    	In [Chapter 6-3](chapter6-3.md), we'll implement comprehensive performance measurement and create user interfaces that leverage both AI routing and direct tool access.

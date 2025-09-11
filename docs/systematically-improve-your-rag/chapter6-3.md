@@ -54,7 +54,7 @@ To evaluate tool selection, we need a test dataset with queries annotated with t
 1. **Per-Tool Recall**: How often each specific tool is correctly selected when it should be
 
 !!! warning "Data Leakage Risk"
-When creating test datasets for router evaluation, be vigilant about data leakage. If your few-shot examples appear in your test set, you'll get artificially high performance that won't generalize to real queries. Always maintain separate development and test sets with distinct query patterns.
+    When creating test datasets for router evaluation, be vigilant about data leakage. If your few-shot examples appear in your test set, you'll get artificially high performance that won't generalize to real queries. Always maintain separate development and test sets with distinct query patterns.
 
 Here's a sample evaluation for a construction information system's query router:
 
@@ -494,7 +494,7 @@ def update_few_shot_examples(router_examples, max_examples_per_tool=5):
 This creates another improvement flywheel: as users interact with the system, it collects data that makes both retrieval and routing better, which leads to higher user satisfaction and more interactions.
 
 !!! warning "Feedback Biases"
-Be aware of potential biases in user feedback:
+    Be aware of potential biases in user feedback:
 
 ```
 1. **Position bias**: Users tend to click on top results regardless of relevance
@@ -749,4 +749,4 @@ By the end of this chapter implementation, you should have:
 - Clear strategic framework for ongoing development priorities
 
 !!! tip "Course Completion"
-	Congratulations! You've now implemented a complete systematically improving RAG application that uses evaluation-driven improvement, specialized capabilities, intelligent routing, and continuous learning. The principles and processes you've learned will remain valuable even as specific technologies evolve.
+    	Congratulations! You've now implemented a complete systematically improving RAG application that uses evaluation-driven improvement, specialized capabilities, intelligent routing, and continuous learning. The principles and processes you've learned will remain valuable even as specific technologies evolve.

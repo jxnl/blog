@@ -51,7 +51,7 @@ I keep seeing this in consulting: changing "How did we do?" to "Did we answer yo
 - **Only 20% of companies** I work with actually implement streaming well - but the ones that do see massive UX improvements
 
 !!! success "Effective Feedback Copy"
-**Copy That Actually Works:**
+    **Copy That Actually Works:**
     - ✅ "Did we answer your question?" 
     - ✅ "Was this information helpful?"
     - ✅ "Did we take the correct actions?"
@@ -87,6 +87,7 @@ Tiny thumbs up/down hidden in corner (0.1% response rate)
 
 **What Actually Works:**
 
+```
 "Did we answer your question? [Yes] [Somewhat] [No]"
 
 If "Somewhat" or "No":
@@ -167,7 +168,7 @@ For enterprise applications, especially when working with large customers who ha
 This approach creates transparency and builds trust by showing customers that their feedback drives real improvements. This method typically increases feedback by 5x compared to traditional forms, while also improving customer retention.
 
 !!! example "Enterprise Feedback Pattern"
-**The Most Effective B2B Feedback Flow:**
+    **The Most Effective B2B Feedback Flow:**
 
     1. **In-App Collection:**
        - Binary feedback (thumbs up/down) for quick signals
@@ -306,7 +307,7 @@ This approach is particularly valuable for PDF-heavy domains like legal, medical
 > This is particularly critical for healthcare, legal, and financial applications. [See more anti-patterns to avoid →](../talks/rag-antipatterns-skylar-payne.md)
 
 !!! info "XML-Based Citation Pattern"
-**The Most Robust Approach:**
+    **The Most Robust Approach:**
 
     Instead of relying on markdown links or footnotes, use XML tags with start/end word anchoring:
 
@@ -462,7 +463,7 @@ Effective feedback collection is essential for systematic improvement of RAG sys
 1. **Start Small**: Begin with simple, high-visibility feedback mechanisms and gradually add sophistication as you learn what works for your specific users and use cases.
 
 !!! success "Quick Implementation Wins"
-**Start with these patterns:**
+    **Start with these patterns:**
 
     1. **Change your feedback copy** to "Did we answer your question?" (immediate 5x improvement)
     2. **Add streaming progress indicators** to reduce perceived latency by 45%
