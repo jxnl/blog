@@ -30,7 +30,7 @@ This miscommunication happens because each agent only understands what it was to
 
 The context isn't just the user's message but includes everything the agent has done - code files examined, questions asked, and answers received. These full agent traces should ideally be passed to all agents in the system.
 
-**Key Takeaway:** Multi-agent systems often break down due to context loss between agents. What seems like a minor miscommunication in simple examples becomes a significant problem at scale with complex tasks.
+**Key Takeaway:** Multi-agent systems often break down due to context loss between agents. What seems like a minor miscommunication in simple examples becomes a significant problem at scale with complex tasks. This connects to the broader [Context Engineering principles](../context-engineering-index.md) around managing information flow and avoiding context pollution in AI systems.
 
 ## How can we improve context passing between agents?
 

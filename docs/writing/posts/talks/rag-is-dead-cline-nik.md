@@ -91,7 +91,7 @@ This aligns with the "bitter lesson" in AI - that simpler approaches often outpe
 
 ## What's the "bitter lesson" for AI application developers?
 
-The "bitter lesson" in AI, as Nik describes it, is that the application layer is shrinking over time. With traditional ML, developers needed extensive code to make models useful, but with modern LLMs, the amount of code required is decreasing:
+The ["bitter lesson" in AI](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), as Nik describes it, is that the application layer is shrinking over time. With traditional ML, developers needed extensive code to make models useful, but with modern LLMs, the amount of code required is decreasing:
 
 > "The bitter lesson to me, what it really means, is that this application layer is just shrinking over time. Every day it's just growing smaller and smaller."
 
@@ -105,7 +105,7 @@ This pattern extends beyond RAG to other areas:
 - **Static analysis tools:** Companies like Codegen spent years building knowledge graphs for code, only to abandon them for simpler approaches
 - **Multi-agents:** Nik suspects that complex multi-agent systems may follow the same pattern
 
-**Key Takeaway:** As AI models improve, complex application layers often become unnecessary overhead. The most effective approach is often to simplify and let the model's capabilities shine through rather than building elaborate systems around them.
+**Key Takeaway:** As AI models improve, complex application layers often become unnecessary overhead. The most effective approach is often to simplify and let the model's capabilities shine through rather than building elaborate systems around them. This aligns with the [Context Engineering principles](../context-engineering-index.md) of designing simple, effective tool responses rather than complex retrieval systems.
 
 ## What about multi-agent approaches for coding tasks?
 

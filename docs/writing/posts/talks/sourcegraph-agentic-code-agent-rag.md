@@ -74,7 +74,7 @@ Model choices - tight coupling between models and tools requires intentional mod
 
 For Amp, the tool panel includes multiple simple tools rather than one monolithic RAG engine. These include grep and glob for basic searches, a search sub-agent that performs multiple queries and refinements, web documentation tools, and specialized services.
 
-Key Takeaway: Instead of building complex monolithic RAG engines, focus on providing agents with a thoughtfully designed portfolio of simple tools that can be composed to solve complex problems.
+Key Takeaway: Instead of building complex monolithic RAG engines, focus on providing agents with a thoughtfully designed portfolio of simple tools that can be composed to solve complex problems. The [Context Engineering series](../context-engineering-index.md) explores exactly how to design these tool portfolios for maximum agent effectiveness.
 
 How do sub-agents extend agent capabilities?
 One of the most important innovations in agent architecture is the use of sub-agents to extend the effective context window. While techniques like compaction (summarizing previous interactions) can help, they're lossy and often lose important details.

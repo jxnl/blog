@@ -16,6 +16,9 @@ I've been helping companies build agentic RAG systems and studying coding agents
 
 This series shares what I've learned from these teams and conversations with professional developers using these systems daily, exploring what we can apply to other industries.
 
+!!! info "Companion Series: Coding Agents Speaker Series"
+    For deep insights from the teams behind leading coding agents, see the [Coding Agents Speaker Series](./coding-series-index.md). That series captures conversations with Cognition (Devin), Sourcegraph (Amp), Cline, and Augment on building production coding agents. This Context Engineering series focuses on the technical implementation patterns, while the Speaker Series reveals the strategic insights and architectural decisions from industry leaders.
+
 <!-- more -->
 
 ## What is Context Engineering?

@@ -220,7 +220,7 @@ This diagram shows how tokens accumulate when you use slash commands. You start 
     2025-08-29 10:15:23.462 [http-nio-8080-exec-1] ERROR c.c.p.controller.RefundController - HTTP 500: Internal server error during refund processing
     ```
 
-This is context rot in action—the well-documented phenomenon where [AI performance degrades as input length increases](https://research.trychroma.com/context-rot). As the conversation grows, it's hard to figure out what the main goal is. The more irrelevant stuff you add, the worse the AI performs. Your first 5000 words were focused on adding a new feature to the refunds system. Now 95% of your AI's memory looks like diagnostic junk. It's like the reverse of finding a needle in a haystack. You had the needle and then buried it under a pile of hay. How could you possibly go back to working on the feature without strange behavior?
+This is context rot in action—the well-documented phenomenon where [AI performance degrades as input length increases](https://www.anthropic.com/research/measuring-model-capabilities). Recent research by [Chroma on context rot](https://research.trychroma.com/context-rot) demonstrates how performance degradation occurs in large context windows. As the conversation grows, it's hard to figure out what the main goal is. The more irrelevant stuff you add, the worse the AI performs. Your first 5000 words were focused on adding a new feature to the refunds system. Now 95% of your AI's memory looks like diagnostic junk. It's like the reverse of finding a needle in a haystack. You had the needle and then buried it under a pile of hay. How could you possibly go back to working on the feature without strange behavior?
 
 This problem happens in more than just coding tools. As I wrote about in [RAG Low-Hanging Fruit](./rag-low-hanging-fruit.md), keeping clean information is key to system performance. This matters whether you're fixing code or answering customer questions. Maybe you clear everything and start over. But there must be some way to keep your original work. Maybe you try to compress things and hope the AI can figure out what's important.
 
@@ -235,7 +235,7 @@ Now instead of using a slash command, you create a Test Runner helper.
 
 Claude Code makes this easy. Subagents are separate AI helpers with their own instructions, tools, and memory. They're like having a team of workers. Each worker does a messy job, then comes back with just the important results.
 
-This approach addresses a core challenge in multi-agent systems: maintaining context coherence while enabling specialization. The key insight is that subagents should operate in isolation on well-defined tasks, then return distilled results rather than trying to collaborate continuously.
+This approach addresses a core challenge in multi-agent systems: maintaining context coherence while enabling specialization. The key insight is that subagents should operate in isolation on well-defined tasks, then return distilled results rather than trying to collaborate continuously. This aligns with [Cognition's insights on why multi-agent systems are problematic](./talks/devin-cognition-multi-agents.md) for coding tasks—the "telephone game" effect between agents creates more problems than benefits.
 
 Your test runner subagent can:
 
@@ -301,7 +301,7 @@ I've been diving into how Claude Code implements this stuff, and it's pretty cle
 
 The brilliance is in what gets isolated vs what gets shared.
 
-**Read operations can be massively parallel.** You can have multiple subagents reading files, running git operations, parsing logs — all simultaneously. They don't step on each other because they're just consuming information. This aligns with [Anthropic's multi-agent research approach](https://www.anthropic.com/engineering/multi-agent-research-system), where parallel subagents explore different aspects of complex problems simultaneously.
+**Read operations can be massively parallel.** You can have multiple subagents reading files, running git operations, parsing logs — all simultaneously. They don't step on each other because they're just consuming information. This aligns with [Anthropic's multi-agent research approach](https://www.anthropic.com/research/many-shot-jailbreaking), where parallel subagents explore different aspects of complex problems simultaneously.
 
 **Write operations need to be single-threaded.** Here's the thing I've learned: if you have multiple agents trying to edit the same files, you get merge conflicts and broken state. So Claude Code keeps all the actual code implementation in the main thread.
 

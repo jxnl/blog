@@ -61,7 +61,7 @@ When deciding between traditional RAG, agent+grep/find, or agent+embeddings, Col
 
 Traditional RAG offers decent quality with excellent speed, low cost, and high scalability, but lacks course correction. Agent+grep provides excellent quality and reliability but struggles with speed, cost, and scale. Agent+embeddings combines the best of both but remains slow and expensive.
 
-**_Key Takeaway:_** Don't throw away your existing retrieval systems - instead, expose them as tools to agents. This gives you the benefits of both approaches while allowing you to optimize based on your specific constraints.
+**_Key Takeaway:_** Don't throw away your existing retrieval systems - instead, expose them as tools to agents. This gives you the benefits of both approaches while allowing you to optimize based on your specific constraints. For implementation guidance, see the [Context Engineering approach to tool response design](../context-engineering-tool-response.md), which shows how to structure tool outputs to give agents better peripheral vision of the information landscape.
 
 **Evaluating agentic retrieval systems**
 Colin emphasized a "vibe-first" approach to evaluation:
