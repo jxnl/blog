@@ -8,7 +8,7 @@ date: 2025-09-11
 description: A letter to the readers of the AI Coding Accelerator.
 ---
 
-# A Story About Two 'AI' Engineers
+# Do Your Engineers Know How to Leverage AI?
 
 This past spring, two senior engineers at different companies received the same challenge from their CEOs: "We need to move faster. Use AI to get there."
 
