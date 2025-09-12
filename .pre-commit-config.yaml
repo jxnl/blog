@@ -25,4 +25,10 @@ repos:
         entry: ./check_more_tags.sh
         language: system
         files: '^docs/writing/posts/.*\.md$'
-        pass_filenames: false 
+        pass_filenames: false
+      - id: check-no-heavy-assets
+        name: Disallow PDFs and TXTs in systematically-improve-your-rag
+        entry: ./check_no_heavy_assets.sh
+        language: system
+        files: '^docs/systematically-improve-your-rag/.*$'
+        pass_filenames: false
