@@ -35,6 +35,8 @@ Then we noticed something profound: these structured tool responses weren't just
 
 This is the fundamental problem with chunk-based RAG in agentic systems. Agents aren't just looking for answers—they're trying to understand what questions to ask next. They need peripheral vision of the data landscape, not just the highest-scoring chunks.
 
+**The paradigm shift:** As [Anthropic explains](https://www.anthropic.com/engineering/writing-tools-for-agents), tools represent a new kind of software contract—between deterministic systems and non-deterministic agents. Traditional functions like `getWeather("NYC")` work predictably every time. But when an agent asks "Should I bring an umbrella today?" it might call the weather tool, answer from memory, ask for location clarification, or even hallucinate. This fundamental non-determinism means we need to design tools that increase the surface area over which agents can be effective, not just return the "right" answer.
+
 <!-- more -->
 
 ## What Are the Four Levels of Context Engineering?
@@ -61,6 +63,8 @@ Context engineering goes beyond returning chunks. It's about returning actionabl
 !!! tip "Start Here: Audit Your Current Tools"
 Before building new infrastructure, audit what your tools actually return. Most improvements are just better string formatting—wrapping results in XML, adding source metadata, including system instructions. No major architectural changes required.
 
+**Design principle from [Anthropic's tool development guide](https://www.anthropic.com/engineering/writing-tools-for-agents):** Think of tool descriptions as prompt engineering for your agents. How you name functions, structure parameters, and format responses directly influences agent reasoning patterns. Clear tool boundaries and meaningful parameter names reduce confusion and hallucinations.
+
 ## How Should We Balance Complexity?
 
 Here's the uncomfortable truth: there's no single right answer for how much metadata to include. Every system has different needs, and the more complex you make your tools, the higher the likelihood of hallucinations and tool misuse.
@@ -74,7 +78,11 @@ This reality demands two things from us as builders:
 !!! tip "Design Principle"
 Recognize when complexity pays for itself. Metadata that doesn't change agent behavior is just expensive noise.
 
+**Token efficiency insight:** [Anthropic's research](https://www.anthropic.com/engineering/writing-tools-for-agents) shows that tool responses should prioritize contextual relevance over flexibility. Return high-signal information that directly informs downstream actions, not low-level technical identifiers. Consider adding `response_format` parameters ("concise" vs "detailed") to let agents control verbosity based on their current reasoning needs. They recommend implementing pagination, filtering, and truncation with sensible defaults for any responses that could consume significant context.
+
     **The beauty of context engineering:** You don't need to redesign your tools or rebuild your infrastructure. Most improvements are XML structuring, source tracking, and system instructions—essentially better string formatting with potentially massive upside.
+
+**Evaluation-driven improvement:** [Anthropic's research](https://www.anthropic.com/engineering/writing-tools-for-agents) shows that systematic evaluation is critical for tool optimization. Generate realistic test tasks based on your actual use cases, measure agent performance across tool response levels, and iterate based on concrete metrics rather than intuition. The teams that build comprehensive evaluations early dramatically outperform those that rely on ad-hoc testing.
 
 ### Level 1 — Minimal Chunks (No Metadata)
 
@@ -170,6 +178,10 @@ def load_pages(source: str, pages: list[int]) -> dict:
   <system-instruction>
     Key insight: Multiple chunks from same source = use load_pages() instead of fragments.
     Decision framework: Same source clustering → load full pages; Multiple sources → targeted follow-up searches.
+    
+    Tool usage guidance: When writing tool descriptions, think like you're training a new team member. Make implicit knowledge explicit—specialized query formats, terminology definitions, and relationships between resources. Ambiguous parameter names like "user" should become "user_id" for clarity.
+    
+    Error handling strategy: If tool calls fail validation, return actionable error messages that guide agents toward correct usage rather than cryptic error codes. For example: "Date filter requires YYYY-MM-DD format, received '2024/03/15'" instead of "ValueError: invalid date format".
   </system-instruction>
 </ToolResponse>
 ```
@@ -553,6 +565,8 @@ Agents operate differently. They're methodical, systematic, and don't get frustr
 
 **The strategic implication:** You don't need perfect recall on query #1. You need to give agents enough context about the information landscape that they can systematically traverse it. Each faceted search reveals new dimensions to explore, creating an implicit knowledge graph that agents can navigate without you having to explicitly define node relationships.
 
+This aligns perfectly with [Anthropic's observation](https://www.anthropic.com/engineering/writing-tools-for-agents) that effective tools increase the "surface area over which agents can be effective." Rather than trying to solve everything in one perfect retrieval, facets guide agents through multiple successful strategies until they achieve comprehensive coverage. The goal isn't perfect tools—it's tools that help agents pursue diverse paths to success.
+
 Consider the contract example: the agent didn't need to find all liability provisions in one search. It needed to discover that liability provisions cluster around document types (contracts vs. amendments), signing status (signed vs. unsigned), and projects (Alpha vs. Beta vs. General). Armed with these facets, it can systematically explore each combination until it has complete coverage.
 
 This transforms the database from a passive responder to an active reasoning partner. Facets surface patterns and gaps that agents can leverage but humans would never think to ask for directly.
@@ -575,8 +589,10 @@ This is the first post in a series on context engineering. I started here becaus
 
 **For rapid validation:** Use the [prototyping methodology](./context-engineering-agent-prototyping.md) to test different tool response levels quickly. Claude Code's project runner lets you experiment with minimal chunks vs faceted responses without building infrastructure—you can discover which level your use case needs through folder-based testing.
 
+**Collaborative optimization:** One of Anthropic's most powerful insights is using Claude to optimize its own tools. After building your initial tools, have Claude analyze the tool responses, suggest improvements to the schemas and descriptions, and even generate better evaluation tasks. The tools that are most ergonomic for agents often end up being surprisingly intuitive for humans too.
+
 **Adoption will follow the usual pattern:** The teams building agents today will implement context engineering first, then the tooling will catch up. Vector databases are already adding facet support (TurboPuffer ships facets and aggregations), but you don't need to wait for perfect tooling to start.
 
-**Tool responses become teaching moments.** The XML structures and system instructions in your tool responses directly influence how agents think about subsequent searches. Design them intentionally.
+**Tool responses become teaching moments.** The XML structures and system instructions in your tool responses directly influence how agents think about subsequent searches. Design them intentionally. As [Anthropic's engineering team notes](https://www.anthropic.com/engineering/writing-tools-for-agents), effective tools help agents pursue diverse successful strategies by providing meaningful context that guides future reasoning patterns.
 
-Next in this series: Advanced faceting strategies, when to use structured vs. extracted metadata, and measuring the business impact of context engineering improvements. For those looking to dive deeper into RAG optimization, check out my posts on [RAG low-hanging fruit improvements](./rag-low-hanging-fruit.md) and [six key strategies for improving RAG](./rag-six-tips-improving.md).
+Next in this series: Advanced faceting strategies, when to use structured vs. extracted metadata, and measuring the business impact of context engineering improvements. For additional insights on building effective agent tools, see [Anthropic's comprehensive guide](https://www.anthropic.com/engineering/writing-tools-for-agents) on writing tools for agents. For those looking to dive deeper into RAG optimization, check out my posts on [RAG low-hanging fruit improvements](./rag-low-hanging-fruit.md) and [six key strategies for improving RAG](./rag-six-tips-improving.md).
