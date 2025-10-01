@@ -10,7 +10,7 @@ tags:
   - Series
 ---
 
-# What Is the Context Engineering Series for Agentic RAG Systems?
+# Context Engineering Series for Agentic RAG Systems?
 
 I've been helping companies build agentic RAG systems and studying coding agents from Cognition, Claude Code, Cursor, and others. These coding agents are probably unlocking a trillion-dollar industry—making them the most economically viable agents to date.
 
