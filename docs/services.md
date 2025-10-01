@@ -8,8 +8,6 @@ description: $700k+ in proven AI consulting results. Transform your engineering 
 
 Your talented engineering team deserves to adapt to the AI revolution without replacement. You need a proven approach that transforms your existing team into AI experts. With the right frameworks and guidance, your team can achieve measurable improvements in just 2-3 months.
 
-**$700k+ in consulting revenue demonstrates real results for real companies.**
-
 You get independence, not dependencies. You get capabilities, not ongoing contracts.
 
 [:material-calendar: Book a 30-min Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
