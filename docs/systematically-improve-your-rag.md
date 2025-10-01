@@ -11,7 +11,7 @@ description: Enhance your RAG applications with our expert-led course. Learn pra
 
 Confidently build and refine Retrieval-Augmented Generation (RAG) systems that deliver real-world impact. Our 6-week, hands-on course takes you from the fundamentals of evaluating quality all the way through building stable, production-grade capabilities.
 
-[Enroll now on Maven (starts May 20)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
+[Enroll now on Maven (starts Nov 17)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 ## What People Are Saying
 
@@ -183,7 +183,7 @@ We're so confident in the value of this course that we offer a money-back guaran
 
 The field of RAG is evolving quickly. Don't fall behind.
 
-[Enroll now on Maven (starts May 20)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
+[Enroll now on Maven (starts Nov 17)](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--primary }
 
 !!! note "How to Get Reimbursed"
 
