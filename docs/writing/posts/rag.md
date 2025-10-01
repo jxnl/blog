@@ -19,7 +19,7 @@ tags:
 
 # RAG is more than just embedding search
 
-With the advent of large language models (LLM), retrieval augmented generation (RAG) has become a hot topic. However throught the past year of [helping startups](https://jxnl.co) integrate LLMs into their stack I've noticed that the pattern of taking user queries, embedding them, and directly searching a vector store is effectively demoware.
+With the advent of large language models (LLM), retrieval augmented generation (RAG) has become a hot topic. However over the past year of [helping startups](https://jxnl.co) integrate LLMs into their stack I've noticed that the pattern of taking user queries, embedding them, and directly searching a vector store is effectively demoware.
 
 !!! note "What is RAG?"
 
