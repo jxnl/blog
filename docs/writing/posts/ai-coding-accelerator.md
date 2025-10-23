@@ -128,6 +128,6 @@ Every week your team spends copy-pasting into ChatGPT is a week your competitors
 Sincerely,
 
 Jason Liu & Vignesh Mohankumar
-*Creators of the AI Coding Accelerator*
+_Creators of the AI Coding Accelerator_
 
 P.S. — Brian Armstrong fired engineers who wouldn't adapt to AI. That's one approach. We prefer to give engineers the knowledge they need to thrive. The choice—and the opportunity—is yours.

@@ -3,15 +3,7 @@ title: "How Extend Achieves 95%+ Document Automation (Lessons from Eli Badgio)"
 speaker: Eli Badgio, Extend
 cohort: 3
 description: Insights from Eli Badgio, CTO of Extend, on mapping document workflows, building task-specific evaluations, and implementing partial automation with human-in-the-loop approaches for 95%+ extraction accuracy.
-tags:
-  [
-    document automation,
-    extraction,
-    human-in-the-loop,
-    evaluation,
-    Extend,
-    workflow,
-  ]
+tags: [document automation, extraction, human-in-the-loop, evaluation, Extend, workflow]
 date: 2025-09-11
 categories: [Speaker Series, RAG]
 ---
@@ -21,7 +13,6 @@ categories: [Speaker Series, RAG]
 I hosted a special session with Eli Badgio, CTO of Extend, to discuss AI-native document processing in the cloud. Extend helps companies achieve 95%+ extraction accuracy for customers like Brex and other Fortune 500s. This session covered mapping document workflows, building task-specific evaluations, and implementing partial automation with human-in-the-loop approaches.
 
 <!-- more -->
-
 
 [▶️ Learn How Extend Hits 95%+ Accuracy](https://maven.com/p/da0487){: .md-button .md-button--primary}
 

@@ -186,4 +186,3 @@ _Want to dive deeper into implementation details? I'm working on a guide coverin
 I also wrote a 6 week email course on RAG, where I cover everything in my consulting work. It's free and you can:
 
 [Check out the free email course here](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-

@@ -201,4 +201,3 @@ Production monitoring is where theory meets reality. Most teams struggle with th
 
 [Consulting Services](../../services.md){ .md-button .md-button--primary }
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button }
-

@@ -15,6 +15,8 @@ I’ve helped dozens of teams adapt to AI’s rapid evolution. When I’m not co
 
 I'm also the creator of [Instructor](https://python.useinstructor.com/), a popular Python library for structured outputs from LLMs, which was cited by the OpenAI team as inspiration for their `structured output` feature. We currently have over 8000 stars and 1M monthly downloads.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Best technical blog on the planet <a href="https://t.co/example">https://t.co/example</a></p>&mdash; Dylan Patel (@dylan522p) <a href="https://twitter.com/dylan522p/status/1975980076652167403">April 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Independent Consulting
 
 I run a solo consulting practice focused on helping startups build better practises as many software companies transition to AI.

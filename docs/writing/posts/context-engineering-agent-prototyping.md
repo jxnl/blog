@@ -16,7 +16,7 @@ tags:
 
 # How Do We Prototype Agents Rapidly?
 
-*This is part of the [Context Engineering Series](./context-engineering-index.md). I'm focusing on rapid prototyping because testing agent viability quickly is essential for good context engineering decisions.*
+_This is part of the [Context Engineering Series](./context-engineering-index.md). I'm focusing on rapid prototyping because testing agent viability quickly is essential for good context engineering decisions._
 
 **If your boss is asking you to "explore agents," start here. This methodology will give you evidence in days, not quarters.**
 
@@ -27,8 +27,9 @@ Most teams waste months building agent frameworks before they know if their idea
 ## What Problem Does Rapid Prototyping Solve?
 
 When teams want to test an agent idea, they typically start by building infrastructure:
+
 - Message management systems
-- Tool call parsing logic  
+- Tool call parsing logic
 - Retry mechanisms
 - UI frameworks
 - Logging and monitoring
@@ -46,6 +47,7 @@ Claude Code has a project runner mode (`claude -p`) that turns any directory int
 While this article shows Claude Code, the approach is agent-agnostic. If a coding system can be driven from a CLI and read a simple instruction file (for example, `CLAUDE.md` or `agents.md`), you can use it with this harness.
 
 Examples that fit (or can with a thin adapter):
+
 - Cursor’s coding agent
 - Devin
 - AMP Code
@@ -53,6 +55,7 @@ Examples that fit (or can with a thin adapter):
 - Windsurf Agent
 
 This also unlocks cross-agent evals:
+
 - Keep the same `commands/` and `subagents/` folders and success criteria
 - Add a small wrapper per agent that maps a standard command (for example, `run-agent <scenario-dir>`) to its CLI flags or subcommands
 - Run the same scenarios across agents and compare pass rate, time, and cost
@@ -67,10 +70,10 @@ Here's the exact structure that lets you test any agent idea:
 agent-prototype/
 ├── .claude/agents/
 │   └── youtube-study-notes-generator.md
-├── CLAUDE.md              # System instruction + tool inventory  
+├── CLAUDE.md              # System instruction + tool inventory
 ├── tools/                 # CLI wrappers for your APIs
-│   ├── youtube-dl              
-│   └── notes-writer      
+│   ├── youtube-dl
+│   └── notes-writer
 └── tests/                 # One folder per test scenario
     ├── scenario1/
     │   ├── request.txt    # Input (URL, email, JSON, etc.)
@@ -91,27 +94,33 @@ This becomes your system prompt, structured for execution:
 # YouTube Study Notes Generator
 
 ## Mission
+
 Given a YouTube URL, produce structured study notes in markdown format.
 
 ## Execution Flow
+
 1. Fetch transcript/subtitles using youtube-dl tool
-2. If transcript contains timestamps or XML noise, run cleanup-transcript.py  
+2. If transcript contains timestamps or XML noise, run cleanup-transcript.py
 3. Read cleaned content and produce notes.md with exact formatting requirements
 4. Stop when notes.md exists and passes structural validation
 
 ## Available Tools
-- `youtube-dl <url>` → transcript.srt|vtt|txt (handles multiple subtitle formats)
-- `cleanup-transcript.py <file>` → cleaned.txt (removes timestamps, ~4x token reduction)  
 
-## Success Criteria  
+- `youtube-dl <url>` → transcript.srt|vtt|txt (handles multiple subtitle formats)
+- `cleanup-transcript.py <file>` → cleaned.txt (removes timestamps, ~4x token reduction)
+
+## Success Criteria
+
 Final notes.md must contain:
+
 - One H1 title derived from video content
-- Three H2 sections with descriptive headers  
+- Three H2 sections with descriptive headers
 - Ten bullet points per section
 - Brief summary at top (2-3 sentences)
 - Links found in transcript under "Further Reading"
 
 ## Error Recovery
+
 - If youtube-dl fails on English subtitles, try auto-generated or alternative languages
 - If transcript too short/empty, document what was attempted
 - If cleanup unnecessary (already clean), proceed directly to notes-writer
@@ -126,7 +135,7 @@ Tools should be deliberately simple—CLI commands that wrap your actual APIs. T
 # youtube-dl wrapper script
 if [ -z "$1" ]; then
     echo "ERROR: YouTube URL required"
-    echo "USAGE: youtube-dl <youtube-url>"  
+    echo "USAGE: youtube-dl <youtube-url>"
     exit 1
 fi
 
@@ -159,13 +168,13 @@ content = notes_file.read_text()
 h1_count = content.count('\n# ')
 assert h1_count == 1, f"Expected 1 H1, found {h1_count}"
 
-h2_count = content.count('\n## ')  
+h2_count = content.count('\n## ')
 assert h2_count >= 3, f"Expected ≥3 H2s, found {h2_count}"
 
 # Validate bullet density per section
 sections = re.split(r'\n## ', content)
 for i, section in enumerate(sections[1:], 1):
-    bullets = [line for line in section.split('\n') 
+    bullets = [line for line in section.split('\n')
               if line.strip().startswith('- ')]
     assert len(bullets) >= 8, f"Section {i}: {len(bullets)} bullets (need ≥8)"
 
@@ -177,7 +186,7 @@ print("✅ All structural requirements met")
 To test any agent idea:
 
 1. **Navigate to test scenario**: `cd tests/scenario1`
-2. **Execute the workflow**: `claude -p` (reads CLAUDE.md, runs end-to-end)  
+2. **Execute the workflow**: `claude -p` (reads CLAUDE.md, runs end-to-end)
 3. **Validate results**: `python check.py` (pass/fail with specific reasons)
 
 What you observe is Claude Code reading instructions, selecting tools, handling errors, and producing artifacts. You can watch it navigate edge cases in real-time—like when a video lacks English subtitles, it explores alternatives rather than simply failing.
@@ -212,7 +221,7 @@ fi
 
 Control output format for easier parsing. This is a practical application of the [context engineering principles](./context-engineering-tool-response.md) around faceted tool responses—providing metadata that helps agents make better decisions:
 
-```bash  
+```bash
 echo "STATUS: SUCCESS"
 echo "OUTPUT_FILE: notes.md"
 echo "METRICS: tokens_used=15420, sections=3, bullets=47"
@@ -227,10 +236,12 @@ Just like Level 4 faceted search responses, this gives Claude Code peripheral vi
 Handle complexity with specialized instructions. The Claude Code harness naturally supports both [slash commands and subagents](./context-engineering-slash-commands-subagents.md)—two different approaches to managing context pollution:
 
 ```markdown
-## Sub-Agent: Content Analysis  
+## Sub-Agent: Content Analysis
+
 For transcripts >50,000 characters:
+
 1. Use split-content tool to create manageable chunks
-2. Call /analyze-section on each chunk with specific focus areas  
+2. Call /analyze-section on each chunk with specific focus areas
 3. Use /synthesize-findings to combine results into final notes
 ```
 
@@ -273,7 +284,7 @@ Before writing orchestration code:
 
 - [ ] **Define success criteria**: What concrete output proves the agent works?
 - [ ] **Identify 3-6 core tools** that would make the task possible
-- [ ] **Create 5-10 test scenarios** with real-world inputs  
+- [ ] **Create 5-10 test scenarios** with real-world inputs
 - [ ] **Write CLAUDE.md** with clear execution flow
 - [ ] **Build simple CLI tool wrappers** for your APIs
 - [ ] **Execute test scenarios** and iterate on instructions/tools
@@ -286,7 +297,7 @@ Stop building agent infrastructure before you know if the idea works. Use this m
 
 1. Write instructions in English (CLAUDE.md)
 2. Expose tools as simple CLI commands
-3. Create tests with real inputs and concrete success criteria  
+3. Create tests with real inputs and concrete success criteria
 4. Run `claude -p` and iterate until you get a pass
 
 If Claude Code can't make it work with perfect tool access and no constraints, your production version probably won't either. But if you can get one passing test, you've proven the concept and can invest in hardening with confidence.

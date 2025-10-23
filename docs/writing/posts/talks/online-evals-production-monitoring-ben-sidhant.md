@@ -14,7 +14,6 @@ I hosted a lightning lesson featuring Ben from Raindrop and Sid from Oleve to di
 
 <!-- more -->
 
-
 [▶️ Get the Production Monitoring Playbook](https://maven.com/p/285276){: .md-button .md-button--primary}
 
 ## What are the fundamentals of AI monitoring and why are traditional approaches insufficient?

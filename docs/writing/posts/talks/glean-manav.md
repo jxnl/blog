@@ -3,15 +3,7 @@ title: "Why Glean Builds Custom Embedding Models for Every Customer"
 speaker: Manav, Glean
 cohort: 3
 description: How Glean achieves 20% search performance improvements through customer-specific embedding models, unified data architecture, and smart feedback loops that most enterprise AI companies are missing.
-tags:
-  [
-    enterprise search,
-    embedding models,
-    fine-tuning,
-    RAG optimization,
-    Glean,
-    custom models,
-  ]
+tags: [enterprise search, embedding models, fine-tuning, RAG optimization, Glean, custom models]
 date: 2025-09-11
 categories: [Speaker Series, RAG]
 ---
@@ -21,7 +13,6 @@ categories: [Speaker Series, RAG]
 I hosted Manav from Glean for a guest lecture on enterprise search and fine-tuning embedding models. This session revealed a surprisingly underutilized approach that can dramatically improve RAG system performance - building custom embedding models for each customer rather than using generic solutions.
 
 <!-- more -->
-
 
 [▶️ Learn Glean's Custom Model Strategy](https://maven.com/p/1ea9c9){: .md-button .md-button--primary}
 

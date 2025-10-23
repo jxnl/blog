@@ -22,7 +22,6 @@ I hosted a special session with Anton from ChromaDB to discuss their latest tech
 
 <!-- more -->
 
-
 ## What is chunking and why is it important for RAG systems?
 
 Chunking is the process of splitting documents into smaller components to enable effective retrieval of relevant information. Despite what many believe, chunking remains critical even as LLM context windows grow larger.

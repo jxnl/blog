@@ -3,15 +3,7 @@ title: "Data Organization and Query Routing for RAG Systems"
 speaker: Anton
 cohort: 3
 description: "Guest lecture with Anton Troynikov from ChromaDB on organizing data for retrieval systems, query routing strategies, and optimizing vector search performance"
-tags:
-  [
-    data organization,
-    query routing,
-    vector search,
-    ChromaDB,
-    retrieval optimization,
-    filtering,
-  ]
+tags: [data organization, query routing, vector search, ChromaDB, retrieval optimization, filtering]
 date: 2025-09-11
 categories: [Speaker Series, RAG]
 ---
@@ -21,7 +13,6 @@ categories: [Speaker Series, RAG]
 I recently hosted a session featuring Anton Troynikov from ChromaDB who shared critical insights about organizing data for retrieval systems. This often-overlooked aspect of RAG implementation can significantly impact retrieval accuracy and overall system performance. Here's a breakdown of the key concepts and best practices for structuring your data to optimize query routing.
 
 <!-- more -->
-
 
 ## Why is data organization so critical for RAG systems?
 

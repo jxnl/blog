@@ -14,7 +14,6 @@ I hosted a session with Walden Yan, co-founder and CPO of Cognition, to explore 
 
 <!-- more -->
 
-
 [▶️ Learn Why Devin Chose Single Agents](https://maven.com/p/446ea1){: .md-button .md-button--primary}
 
 ## Why are multi-agent systems problematic for coding tasks?

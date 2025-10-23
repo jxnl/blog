@@ -3,22 +3,12 @@ title: "Lexical Search in RAG Applications"
 speaker: John Berryman
 cohort: 3
 description: "Guest lecture with John Berryman on traditional search techniques, their application in RAG systems, and how lexical search complements semantic search"
-tags:
-  [
-    lexical search,
-    traditional search,
-    hybrid search,
-    information retrieval,
-    TF-IDF,
-    filtering,
-  ]
+tags: [lexical search, traditional search, hybrid search, information retrieval, TF-IDF, filtering]
 date: 2025-09-11
 categories: [Speaker Series, RAG]
 ---
 
 # Lexical Search - John Berryman
-
-
 
 I hosted a session featuring John Berryman, who shared his expertise on lexical search and its application in RAG systems. John, who previously worked at GitHub and co-authored books on prompt engineering and information retrieval, provided valuable insights on how traditional search techniques can complement modern vector-based approaches for more effective retrieval augmented generation.
 

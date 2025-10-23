@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-I'm a former Staff MLE who built a 7-figure AI business following a hand injury. I created Instructor (3M+ monthly downloads) and I'm AI-native with experience spanning model training, information retrieval, observability, context engineering, agent development, training, content creation, marketing, and sales. I'm also an angel investor (a16z Scout) and I'm looking for my next 4-5 year project to apply my technical and business expertise.
+I'm a former Staff MLE who built a 7-figure AI business by bridging the gap between research, product, and customers. I created Instructor (3M+ monthly downloads) and have spent 10+ years building AI systems at scale while training 1000+ practitioners. I help companies establish thought leadership in agent engineering, build evaluation frameworks from customer insights, and drive developer adoption at scale. I'm looking for my next 4-5 year project to apply this expertise.
 
 ## Professional Experience
 
@@ -14,26 +14,11 @@ I'm a former Staff MLE who built a 7-figure AI business following a hand injury.
 
 **2023 - Present**
 
-AI consulting for Zapier, HubSpot, Limitless, Tensorlake, Trunk Tools, New Computer, Weights & Biases, Modal Labs, Timescale, and others. Built RAG training platform on Maven serving professionals from OpenAI, Anthropic, Google, Microsoft, Amazon, Netflix. Created comprehensive technical documentation and video-based developer education programs. Frequent speaker at AI Engineering Summit and industry podcasts.
-
-- 7-figure combined revenue from consulting and training programs  
-- Designed workflow automations, fine-tuned embedding models for images/diagrams/videos across industries (consulting, oil & gas, meeting notes, red teaming, agentic observability)
-- Taught 1000+ students through live cohort-based courses with office hours and hands-on technical content
-- Developed partnerships with Braintrust, ChromaDB, LanceDB, SourceGraph, Cognition, Turbuffer
-- Extensive experience with OpenAI and Anthropic APIs through rapid prototyping work
-- Reduced client AI deployment time by 60% through systematic frameworks and documentation
-
-### Creator, Instructor
-
-**2024 - Present**
-
-Created [Instructor](https://python.useinstructor.com/) Python library (3M+ monthly downloads), recognized and referenced by OpenAI. Comprehensive technical documentation, API design, and developer onboarding experiences.
-
-### Angel Investor
-
-**2020 - Present**
-
-Active investor in [Exa](https://exa.ai/), [BrowserBase](https://browserbase.com/), [Lovable](https://lovable.dev/), [Pydantic](https://pydantic.dev/), Haize Labs, Rork, [Smithery](https://smithery.ai/), [Vantager](https://www.vantager.com/), Raindrop, Shaped AI, Augmental, [Kino.ai](https://kino.ai/).
+- Work with Seed to Series B companies, helping engineering teams adopt AI best practices and upgrade existing LLM systems to agentic applications across Retrieval Augmented Generation (RAG), Context Engineering, and Evals.
+- AI consulting for Distributional, Galileo, Zapier, HubSpot, Limitless, Tensorlake, Trunk Tools, New Computer, Weights & Biases, Modal Labs, Timescale, and others across construction, medical, CRM, and personal assistant industries
+- Built training programs on improving AI systems on Maven serving professionals from OpenAI, Anthropic, Google, Microsoft, Amazon, Netflix
+- Designed workflow automations, fine-tuned embedding models for images/diagrams/videos across industries (consulting, oil & gas, meeting notes, red teaming, medical, crm, personal assistants)
+- Conducted AI adoption training for enterprise CTOs and engineering teams, establishing monthly lunch-and-learn programs and best practices frameworks
 
 ### Staff Machine Learning Engineer, Stitch Fix
 
@@ -43,6 +28,11 @@ Active investor in [Exa](https://exa.ai/), [BrowserBase](https://browserbase.com
 - Designed Flight framework handling 350M+ daily requests with 80% internal adoption rate across engineering teams
 - Built styling chatbots using DaVinci chat models, integrating LLMs for stylist workflows and improving recommendation quality by 40%
 - Technical lead for team of 6-7 engineers and data scientists
+
+### Side Projects
+
+- [**Instructor**](https://python.useinstructor.com/) Python library (4.5M+ monthly downloads), recognized and referenced by OpenAI. Technical documentation, API design, and developer onboarding experiences.
+- **Data Science Arena** system for training AI judges on analysis quality, enabling preference collection and evaluation beyond code correctness
 
 ### Data Scientist, Facebook (Meta) - Protect & Care
 
@@ -62,9 +52,9 @@ University of Waterloo, Ontario, Canada | 2012-2017
 
 ## Publications & Research
 
-Liu, J., Weitzman, E.R., & Chunara, R. (2017). Assessing behavior stage progression from social media data. *Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing*, 1320–1333.
+Liu, J., Weitzman, E.R., & Chunara, R. (2017). Assessing behavior stage progression from social media data. _Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing_, 1320–1333.
 
-Rehman, N., Liu, J., & Chunara, R. (2016). Propensity score matching for vaccination sentiment analysis. *AAAI Spring Symposium on Observational Studies through Social Media and Other Human-Generated Content*, 23–25.
+Rehman, N., Liu, J., & Chunara, R. (2016). Propensity score matching for vaccination sentiment analysis. _AAAI Spring Symposium on Observational Studies through Social Media and Other Human-Generated Content_, 23–25.
 
 ---
 

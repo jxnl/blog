@@ -14,7 +14,6 @@ I hosted Colin Flaherty, previously a founding engineer at Augment and co-author
 
 <!-- more -->
 
-
 [▶️ See How Grep Beat Complex Embeddings](https://maven.com/p/5f4d74){: .md-button .md-button--primary}
 
 ## Do agents make traditional RAG obsolete?

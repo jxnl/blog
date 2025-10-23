@@ -154,18 +154,21 @@ This series addresses each challenge with proven methodologies developed through
 ## How Should I Use This Series?
 
 **If you're new to RAG:**
+
 1. Start with [What is RAG?](./rag-what-is-rag.md) for foundations
 2. Read [Levels of Complexity](./rag-levels-of-rag.md) to understand architectural options
 3. Follow the [Systematic Improvement Guide](./rag-improving-rag.md) for implementation
 4. Check [Low-Hanging Fruit](./rag-low-hanging-fruit.md) for quick wins
 
 **If you're optimizing existing systems:**
+
 1. Review [Anti-Patterns](./rag-anti-patterns-skylar.md) to identify issues
 2. Implement the [Six Strategies](./rag-six-tips-improving.md) systematically
 3. Build monitoring with [Production Insights](./systematically-improving-rag-raindrop.md)
 4. Create improvement loops using the [RAG Flywheel](./rag-flywheel.md)
 
 **If you're planning enterprise deployment:**
+
 1. Study [Enterprise Process](./rag-enterprise-process.md) for organizational considerations
 2. Plan evaluation using [The 6 Core Evaluations](./rag-only-6-evals.md)
 3. Consider advanced applications in [RAG++](./rag-plusplus.md)

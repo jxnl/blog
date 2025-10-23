@@ -14,7 +14,6 @@ I hosted a session with Vitor from Zapier to discuss how they dramatically impro
 
 <!-- more -->
 
-
 [▶️ See How Zapier 4x'd Their Feedback](https://maven.com/p/ec1439){: .md-button .md-button--primary}
 
 Zapier has been building numerous AI-powered features, with Zapier Central being their newest product - essentially an AI automation platform that connects with third-party apps and keeps data in sync. It functions as both a chat interface for your live data and an automation tool that can be controlled through natural language.

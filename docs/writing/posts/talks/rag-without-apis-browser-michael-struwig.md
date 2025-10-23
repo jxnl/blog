@@ -14,7 +14,6 @@ I hosted a session with Michael Struwig, Head of AI at OpenBB, who shared a fasc
 
 <!-- more -->
 
-
 [▶️ See OpenBB's Browser-First RAG Architecture](https://maven.com/p/18bf94){: .md-button .md-button--primary}
 
 ## Why is the browser the most natural system for connecting LLMs to data?

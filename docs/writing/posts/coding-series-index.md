@@ -21,8 +21,8 @@ This makes them incredibly important to study. While other agent applications re
 This series captures those hard-won lessons, revealing what works and what doesn't when building agents that actually deliver economic value.
 
 !!! info "Related Series"
-    **[Context Engineering Series](./context-engineering-index.md)**: Technical implementation patterns for agentic RAG systems, including tool response design, context management, and system architecture. This Speaker Series provides strategic insights, while Context Engineering offers implementation details.
-    
+**[Context Engineering Series](./context-engineering-index.md)**: Technical implementation patterns for agentic RAG systems, including tool response design, context management, and system architecture. This Speaker Series provides strategic insights, while Context Engineering offers implementation details.
+
     **[RAG Master Series](./rag-series-index.md)**: Comprehensive guide to retrieval-augmented generation systems. Many coding agent insights (like why simple approaches beat complex ones) apply directly to RAG system design and optimization.
 
 <!-- more -->
@@ -32,7 +32,7 @@ This series captures those hard-won lessons, revealing what works and what doesn
 The most striking pattern across all conversations is the **retreat from complexity**. Every team independently discovered that simpler approaches consistently outperform elaborate architectures:
 
 - **Grep beats embeddings** for code search in most scenarios
-- **Single agents outperform multi-agent systems** due to context coherence  
+- **Single agents outperform multi-agent systems** due to context coherence
 - **Direct exploration beats RAG** for understanding codebases
 - **Simple tools with agentic loops** surpass complex retrieval engines
 
@@ -109,7 +109,7 @@ The fundamental shift is from **retrieval-first** (fetch context, then reason) t
 Every successful coding agent team independently discovered that simpler approaches work better:
 
 - Cline abandoned embedding-based RAG for direct exploration
-- Augment found grep sufficient for SWE-Bench tasks  
+- Augment found grep sufficient for SWE-Bench tasks
 - Cognition chose single agents over multi-agent coordination
 - Sourcegraph designed composable tools rather than monolithic systems
 
@@ -134,18 +134,21 @@ Successful agents use thoughtfully designed tool portfolios:
 ## How Should I Use This Series?
 
 **If you're building coding agents:**
+
 1. Start with [Why I Stopped Using RAG](./talks/rag-is-dead-cline-nik.md) to understand why simple approaches win
-2. Read [Cognition's multi-agent lessons](./talks/devin-cognition-multi-agents.md) to avoid coordination pitfalls  
+2. Read [Cognition's multi-agent lessons](./talks/devin-cognition-multi-agents.md) to avoid coordination pitfalls
 3. Study [Sourcegraph's architecture principles](./talks/sourcegraph-agentic-code-agent-rag.md) for design guidelines
 4. Review [Augment's retrieval insights](./talks/colin-rag-agents.md) for tool selection strategy
 
 **If you're evaluating coding agents:**
+
 - Focus on how agents handle context coherence in long sessions
-- Evaluate tool simplicity and composability over feature complexity  
+- Evaluate tool simplicity and composability over feature complexity
 - Test performance on real codebases, not synthetic benchmarks
 - Prioritize systems that feel like coherent single entities
 
 **If you're researching agent architectures:**
+
 - Study how successful teams balance autonomy with user control
 - Investigate context management strategies beyond simple compaction
 - Explore the economics of different tool design approaches
@@ -155,7 +158,7 @@ Successful agents use thoughtfully designed tool portfolios:
 
 - **Engineering teams** building or evaluating coding agents
 - **Product leaders** understanding the ROI of AI-assisted development
-- **AI researchers** studying agent architecture and tool design  
+- **AI researchers** studying agent architecture and tool design
 - **Developers** curious about how these systems actually work in practice
 
 Each conversation includes specific implementation details, real-world metrics, and honest assessments of what works and what doesn't in production environments.

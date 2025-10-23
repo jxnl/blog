@@ -6,15 +6,7 @@ author:
   title: CTO
 cohort: 3
 description: "CTO of Sourcegraph explores how the evolution of AI models has fundamentally changed agent architecture, requiring a complete rethinking of context management, tool design, and model selection"
-tags:
-  [
-    agents,
-    RAG architecture,
-    coding agents,
-    context management,
-    tool design,
-    model selection,
-  ]
+tags: [agents, RAG architecture, coding agents, context management, tool design, model selection]
 date: 2025-09-11
 categories: [Speaker Series, RAG, Coding Agent Series]
 ---
@@ -24,7 +16,6 @@ categories: [Speaker Series, RAG, Coding Agent Series]
 I hosted a session with Beyang Liu, CTO of Sourcegraph, to explore how the evolution of AI models has fundamentally changed how we should approach building agent systems. This discussion revealed why many best practices from the chat LLM era are becoming obsolete, and how the architecture of effective agents requires rethinking context management, tool design, and model selection from first principles.
 
 <!-- more -->
-
 
 [▶️ See Sourcegraph's Agent Architecture Revolution](https://maven.com/p/be969c){: .md-button .md-button--primary}
 

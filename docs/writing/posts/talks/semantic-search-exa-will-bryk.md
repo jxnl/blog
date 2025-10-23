@@ -14,7 +14,6 @@ I hosted a session with Will Bryk from Exa who shared insights about the evoluti
 
 <!-- more -->
 
-
 [▶️ Watch How Exa Rebuilt Search for AI](https://maven.com/p/18711e){: .md-button .md-button--primary}
 
 ## Why is traditional search inadequate for the AI era?

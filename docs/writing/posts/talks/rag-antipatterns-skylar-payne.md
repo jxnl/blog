@@ -14,7 +14,6 @@ I hosted a Lightning Lesson with Skylar Payne, an experienced AI practitioner wh
 
 <!-- more -->
 
-
 [▶️ Avoid These Critical RAG Mistakes](https://maven.com/p/35585d){: .md-button .md-button--primary}
 
 ## What are the most common RAG anti-patterns across different industries?

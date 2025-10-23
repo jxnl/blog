@@ -14,7 +14,6 @@ I hosted a discussion with Nik Pash, head of AI at Cline, about his viral essay 
 
 <!-- more -->
 
-
 ## Why are coding agent companies moving away from embedding-based RAG?
 
 Nik's journey with RAG began when he built Vault, a popular open-source project for ingesting documents and creating knowledge bases. Despite his extensive experience optimizing RAG pipelines, he's now actively against using embedding-based RAG for coding agents.

@@ -22,7 +22,6 @@ I hosted a session with Simon, CEO of TurboPuffer, to explore how vector search 
 
 <!-- more -->
 
-
 ---
 
 👉 If you want to learn more about RAG systems, check out our RAG Playbook course. Here is a 20% discount code for readers. 👈
@@ -49,7 +48,7 @@ The TurboPuffer architecture leverages three technological advances that weren't
 TurboPuffer implements a three-tier storage hierarchy that automatically moves data based on access patterns:
 
 1. **Object Storage (S3/GCS/Azure)**: Cold storage at ~$0.02/GB, queries take 200-500ms
-2. **NVMe SSD Cache**: Warm storage, queries take tens of milliseconds  
+2. **NVMe SSD Cache**: Warm storage, queries take tens of milliseconds
 3. **RAM Cache**: Hot storage, queries take <10ms
 
 This creates a tiered storage system where data inflates from object storage to disk to RAM as needed - like a pufferfish inflating when threatened, hence the name. The system automatically manages this hierarchy without manual intervention.
@@ -71,6 +70,7 @@ By storing data primarily in object storage and only caching what's actively bei
 For vector search specifically, TurboPuffer uses clustered indexes rather than graph-based approaches (like HNSW) that require many round trips. This design is optimized for object storage access patterns:
 
 **How Clustered Indexes Work:**
+
 1. Vectors are grouped semantically into clusters
 2. Cluster centroids are stored together for fast access
 3. Query execution involves just two round trips:
@@ -78,6 +78,7 @@ For vector search specifically, TurboPuffer uses clustered indexes rather than g
    - Second trip: Fetch only the most relevant cluster data
 
 **Why This Beats Graph-Based Approaches:**
+
 - HNSW requires many small round trips (bad for object storage)
 - Clustered indexes maximize data retrieved per round trip
 - Better suited for high-throughput, batch-oriented workloads

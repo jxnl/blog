@@ -16,11 +16,11 @@ tags:
 
 # How Should We Choose Agent Frameworks and Form Factors?
 
-*This is part of the [Context Engineering Series](./context-engineering-index.md). I'm focusing on agent frameworks because understanding form factors and complexity levels is essential before building any agentic system.*
+_This is part of the [Context Engineering Series](./context-engineering-index.md). I'm focusing on agent frameworks because understanding form factors and complexity levels is essential before building any agentic system._
 
 ## What Do We Actually Mean When We Say We Want to Build Agents?
 
-*Field note from a conversation with [Vignesh Mohankumar](https://nila.is/), a successful consultant who helps companies navigate AI implementation decisions. [Vignesh](https://nila.is/) and I are both AI consultants helping companies build AI systems—he focuses on implementations and workflows, while I help with overall strategy and execution.*
+_Field note from a conversation with [Vignesh Mohankumar](https://nila.is/), a successful consultant who helps companies navigate AI implementation decisions. [Vignesh](https://nila.is/) and I are both AI consultants helping companies build AI systems—he focuses on implementations and workflows, while I help with overall strategy and execution._
 
 When companies say they want to build agents, I focus on practical outcomes. What specific functionality do you need? What business value are you trying to create?
 
@@ -42,8 +42,8 @@ This produces structured outputs like reports, summaries, or data tables. The sy
 
 Choose one of these three approaches first. All other technical decisions—tool design, prompts, data processing, orchestration—depend on this choice. Don't try to build a chatbot that should be a workflow, or force a report generator to be conversational. Once you know what you're building, focus on two key areas:
 
-* **Clear tool design.** Your system is limited by the tools you provide. Name functions clearly, define inputs and outputs precisely, and make error messages helpful.
-* **Testing setup.** Test your concept quickly before building complex systems. Create a simple environment to try instructions with tools and verify outputs. One successful test proves the concept works.
+- **Clear tool design.** Your system is limited by the tools you provide. Name functions clearly, define inputs and outputs precisely, and make error messages helpful.
+- **Testing setup.** Test your concept quickly before building complex systems. Create a simple environment to try instructions with tools and verify outputs. One successful test proves the concept works.
 
 Everything else is preference.
 
@@ -140,7 +140,7 @@ This is how you build agent systems that actually work in production: not as mon
 
 ## How Do We Go from Concept to Working System?
 
-A critical question comes up in every agent consulting engagement: *How do you test whether an agent idea actually works without building all the infrastructure first?*
+A critical question comes up in every agent consulting engagement: _How do you test whether an agent idea actually works without building all the infrastructure first?_
 
 The answer turned into a complete methodology that I've extracted into its own guide: **[Context Engineering: Rapid Agent Prototyping](./context-engineering-agent-prototyping.md)**.
 

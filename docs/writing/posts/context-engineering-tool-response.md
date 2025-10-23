@@ -178,9 +178,9 @@ def load_pages(source: str, pages: list[int]) -> dict:
   <system-instruction>
     Key insight: Multiple chunks from same source = use load_pages() instead of fragments.
     Decision framework: Same source clustering → load full pages; Multiple sources → targeted follow-up searches.
-    
+
     Tool usage guidance: When writing tool descriptions, think like you're training a new team member. Make implicit knowledge explicit—specialized query formats, terminology definitions, and relationships between resources. Ambiguous parameter names like "user" should become "user_id" for clarity.
-    
+
     Error handling strategy: If tool calls fail validation, return actionable error messages that guide agents toward correct usage rather than cryptic error codes. For example: "Date filter requires YYYY-MM-DD format, received '2024/03/15'" instead of "ValueError: invalid date format".
   </system-instruction>
 </ToolResponse>

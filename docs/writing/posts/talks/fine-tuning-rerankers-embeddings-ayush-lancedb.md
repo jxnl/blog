@@ -14,7 +14,6 @@ I hosted a session with Ayush, an ML Engineer at LanceDB, to explore how fine-tu
 
 <!-- more -->
 
-
 [▶️ Get the 12% Performance Boost Technique](https://maven.com/p/935d62){: .md-button .md-button--primary}
 
 ## What are re-rankers and why should we use them in RAG systems?

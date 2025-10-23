@@ -14,7 +14,6 @@ I hosted a session with Kelly Hong from Chroma, who presented her research on ge
 
 <!-- more -->
 
-
 [▶️ See Chroma's Testing Framework in Action](https://maven.com/p/30886a){: .md-button .md-button--primary}
 
 **Why public benchmarks like MTEB don't reflect real-world performance**

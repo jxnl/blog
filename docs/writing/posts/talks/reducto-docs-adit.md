@@ -14,7 +14,6 @@ I hosted a session with Adit, CEO of Reducto, to explore the challenges and solu
 
 <!-- more -->
 
-
 [▶️ Discover Reducto's Document Parsing Secrets](https://maven.com/p/662e5f){: .md-button .md-button--primary}
 
 ## Why is accurate document parsing so critical for AI applications?

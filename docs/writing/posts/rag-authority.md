@@ -1,17 +1,17 @@
 ---
 authors:
-- jxnl
+  - jxnl
 categories:
-- RAG
+  - RAG
 comments: true
 date: 2025-03-06
 description: Learn how to integrate authority into retrieval-augmented generation (RAG) systems, including case studies, open-source tools, and best practices for software engineers focused on information retrieval.
 draft: false
 tags:
-- RAG
-- Authority
-- Retrieval
-- Information Retrieval
+  - RAG
+  - Authority
+  - Retrieval
+  - Information Retrieval
 ---
 
 # Authority in RAG Systems: The Missing Piece in Your Retrieval Strategy
@@ -35,7 +35,7 @@ Think about Google's original PageRank algorithm. It wasn't just checking if you
 This isn't just academic theory. It's the difference between your RAG system pulling information from a random blog versus the official documentation. It's the difference between hallucination and accuracy.
 
 !!! note "Why authority matters in RAG"
-    If your retrieval pulls low-quality or unreliable content, your LLM will confidently present garbage as fact. It's the classic "garbage in, garbage out" problem, but now with the added danger that the output sounds perfectly reasonable. Authority is our defense against this.
+If your retrieval pulls low-quality or unreliable content, your LLM will confidently present garbage as fact. It's the classic "garbage in, garbage out" problem, but now with the added danger that the output sounds perfectly reasonable. Authority is our defense against this.
 
 The stakes are higher with RAG than with regular search. In search, users see the source and can judge it. In RAG, users often just see the final answer. If that answer is built on shaky foundations, they might never know.
 
@@ -44,6 +44,7 @@ The stakes are higher with RAG than with regular search. In search, users see th
 There's a fundamental tension here that's worth unpacking:
 
 **Traditional search engines** like Google and Bing have spent decades incorporating authority. They combine:
+
 - Does the query appear in the document? (lexical relevance)
 - Is this document trustworthy? (authority signals)
 - How do users engage with this result? (click-through, dwell time)
@@ -73,6 +74,7 @@ Here's where old-school information retrieval wisdom meets modern ML. Learning t
 Learning to rank (LTR) is a supervised machine learning approach where we train a model to rank documents based on their relevance to a query. But "relevance" here is multi-dimensional – not just semantic similarity.
 
 For each query-document pair, we extract features like:
+
 - BM25 score (keyword matching)
 - Vector similarity score
 - PageRank or domain authority
@@ -84,17 +86,19 @@ For each query-document pair, we extract features like:
 We then train a model (often XGBoost, LambdaMART, or similar) to predict the optimal ranking based on these features.
 
 !!! note "The click signal is gold"
-    I've found that user clicks and engagement data are incredibly valuable features. If users consistently click on and spend time with certain documents for particular query types, that's powerful implicit feedback about what's truly useful. This is why we emphasize proper user feedback collection so heavily in our RAG improvement process.
+I've found that user clicks and engagement data are incredibly valuable features. If users consistently click on and spend time with certain documents for particular query types, that's powerful implicit feedback about what's truly useful. This is why we emphasize proper user feedback collection so heavily in our RAG improvement process.
 
 ### XGBoost for RAG Ranking
 
 XGBoost is particularly well-suited for learning to rank in RAG systems. It's:
+
 - Fast at inference time (critical for production)
 - Handles diverse feature types well
 - Naturally models complex interactions between features
 - Provides feature importance metrics to help understand what's driving rankings
 
 The training process looks like this:
+
 1. Collect query-document pairs with relevance labels (ideally from real user interactions)
 2. Extract features for each pair
 3. Train the model to optimize a ranking metric (like NDCG or MAP)
@@ -107,6 +111,7 @@ The beauty of this approach is its flexibility. If you discover a new authority 
 Modern neural re-rankers like Cohere's rerank model are incredibly powerful at assessing semantic relevance between a query and document. But rather than using them in isolation, we can incorporate them as features in our learning-to-rank model.
 
 Imagine a system where:
+
 1. Your first-stage retriever gets 100 candidate documents
 2. Cohere's rerank model scores each document's semantic relevance
 3. You extract other features (authority, freshness, etc.)
@@ -119,6 +124,7 @@ This approach lets neural relevance and traditional authority signals work toget
 One of the most effective approaches I've seen (and that we cover extensively in Weeks 3-4 of our development process) is combining specialized indices with intelligent query routing.
 
 Instead of having a single massive vector database, consider:
+
 - A primary text search index using hybrid (BM25 + vector) search
 - A specialized "high authority" index containing only vetted sources
 - A "recency" index optimized for timeline queries and recent events
@@ -134,6 +140,7 @@ Implementing learning to rank doesn't require complex frameworks. Here are some 
 **Elasticsearch's Learning to Rank Plugin**: This integrates with your existing Elasticsearch setup, allowing you to apply ML ranking models on top of ES queries. You can train models externally (using tools like RankLib or XGBoost) and deploy them to Elasticsearch for scoring.
 
 **DIY Python Pipeline**: For smaller-scale systems, a simple Python pipeline can work well:
+
 1. Use any retrieval method to get candidate documents
 2. Extract features (using whatever sources you have)
 3. Apply your trained XGBoost model to score and rank results
@@ -190,7 +197,7 @@ I see several exciting directions for authority in learning-to-rank RAG systems:
 
 3. **Context-Aware Ranking**: Models that dynamically adjust the importance of different signals based on user context, query intent, and task type.
 
-4. **Counterfactual Learning**: Training ranking models not just on what users clicked, but what they *would have* clicked if shown different results. This helps overcome position bias and other sampling issues.
+4. **Counterfactual Learning**: Training ranking models not just on what users clicked, but what they _would have_ clicked if shown different results. This helps overcome position bias and other sampling issues.
 
 5. **UX Integration**: As we cover in Week 6, the presentation layer matters enormously. By showing citations and confidence levels, you can help users understand which parts of an answer come from high-authority sources.
 
