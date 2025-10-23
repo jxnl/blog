@@ -12,7 +12,7 @@ I'm a former Staff MLE who built a 7-figure AI business following a hand injury.
 
 ### Founder, 567 Studio
 
-**2023 - Present 
+**2023 - Present**
 
 AI consulting for Zapier, HubSpot, Limitless, Tensorlake, Trunk Tools, New Computer, Weights & Biases, Modal Labs, Timescale, and others. Built RAG training platform on Maven serving professionals from OpenAI, Anthropic, Google, Microsoft, Amazon, Netflix. Created comprehensive technical documentation and video-based developer education programs. Frequent speaker at AI Engineering Summit and industry podcasts.
 
