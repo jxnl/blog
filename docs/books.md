@@ -1,56 +1,72 @@
 ---
-description: Explore my reading journey through influential books, philosophical works,
-  business insights, and recommendations for personal growth.
+description: Books that have shaped my thinking on philosophy, business, and life.
 ---
 
-# Books I read
+# Books
 
-## Influences on my life
+## Influences
 
-- Tao Te Ching by Lao Tzu
-- Book of Disquiet by Fernando Pessoa
-- In Praise of Shadows by Jun'ichirō Tanizaki
-- Centering in Pottery, Poetry, and the Person by M.C. Richards
-- The Three-Body Problem Series by Liu Cixin
-- Vagabond by Takehiko Inoue
+Books that changed how I see the world:
 
-## Prince Era
+- **Tao Te Ching** - Lao Tzu
+- **Book of Disquiet** - Fernando Pessoa
+- **In Praise of Shadows** - Jun'ichiro Tanizaki
+- **Centering in Pottery, Poetry, and the Person** - M.C. Richards
+- **The Three-Body Problem Series** - Liu Cixin
+- **Vagabond** - Takehiko Inoue
 
-I plan to spend the spring and summer in Europe, reading and writing. I finally give myself permission to read philosophy now that I've got some seasoning, and I'm excited to see what I can learn from the lense of my own life.
+---
 
-- Nausea by Jean-Paul Sartre
-- Being and Nothingness by Jean-Paul Sartre
-- The Unbearable Lightness of Being by Milan Kundera
-- The Stranger by Albert Camus
-- Burnout Society by Byung Chul Han
+## Philosophy
 
-## Highlights
+Reading philosophy now that I have some life experience to bring to it:
 
-- Tao Te Ching by Lao Tzu
-- The Book of Tea by Kakuzō Okakura
-- In Praise of Shadows by Jun'ichirō Tanizaki
-- Centering in Pottery, Poetry, and the Person by M.C. Richards
-- The Will to Change by bell hooks
-- Psychopolitics by Byung Chul Han
-- Existentialism is a Humanism by Sartre
-- China in Ten Words by Yu Hua
-- More than Human by Dazai
-- The Three-Body Problem Series by Liu Cixin
-- Exhalation by Ted Chiang
-- Paper Menagerie by Ken Liu
-- Vagabond by Takehiko Inoue
-- Works of Rumi, Ren Hang, and Basho
+- **Nausea** - Jean-Paul Sartre
+- **Being and Nothingness** - Jean-Paul Sartre
+- **Existentialism is a Humanism** - Jean-Paul Sartre
+- **The Unbearable Lightness of Being** - Milan Kundera
+- **The Stranger** - Albert Camus
+- **Burnout Society** - Byung Chul Han
+- **Psychopolitics** - Byung Chul Han
+- **The Will to Change** - bell hooks
 
-## Business Stuff
+---
 
-- First break all the rules by Mark Caine
-- 100M Offers / 100M Leads by Alex Hormozi
-- Principles by Ray Dalio
-- Consulting Bible by Alan Weiss
-- 1 Page Marketing Plan by Allan Dib
+## Fiction & Poetry
 
-## Recommendation from others I have not yet read
+- **The Three-Body Problem Series** - Liu Cixin
+- **Exhalation** - Ted Chiang
+- **Paper Menagerie** - Ken Liu
+- **More than Human** - Osamu Dazai
+- **China in Ten Words** - Yu Hua
+- **Vagabond** - Takehiko Inoue
+- Works of **Rumi**, **Ren Hang**, and **Basho**
 
-- The Three Cornered World by Natsume Soseki
-- Mans' Search for Meaning by Viktor Frankl
-- Pedro Paramo by Juan Rulfo
+---
+
+## Eastern Aesthetics
+
+- **Tao Te Ching** - Lao Tzu
+- **The Book of Tea** - Kakuzo Okakura
+- **In Praise of Shadows** - Jun'ichiro Tanizaki
+- **Centering in Pottery, Poetry, and the Person** - M.C. Richards
+
+---
+
+## Business
+
+- **100M Offers / 100M Leads** - Alex Hormozi
+- **Principles** - Ray Dalio
+- **Consulting Bible** - Alan Weiss
+- **1 Page Marketing Plan** - Allan Dib
+- **First Break All the Rules** - Marcus Buckingham
+
+---
+
+## To Read
+
+Recommendations I haven't gotten to yet:
+
+- **The Three Cornered World** - Natsume Soseki
+- **Man's Search for Meaning** - Viktor Frankl
+- **Pedro Paramo** - Juan Rulfo

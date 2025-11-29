@@ -1,60 +1,92 @@
 ---
-description: Explore innovative investments in AI, health tech, and wearable technology,
-  enhancing accessibility, data management, and personalized solutions.
+description: Angel investments in AI infrastructure, developer tools, and applied AI companies.
 ---
 
 # Investments
 
-Here are some of the companies I've invested in. I write individual checks and also serve as a scout for [Andreessen Horowitz](https://a16z.com/), and have working relationships with [Weekend Fund](https://weekend.fund/) and [Script Capital](https://script.capital/).
+Angel investor and scout for [Andreessen Horowitz](https://a16z.com/). 
 
-## [Kino.ai](https://kino.ai/)
+---
 
-Kino AI helps filmmakers search, log and organize their footage using AI and search.
+## Portfolio
 
-## [Augmental](https://www.augmental.tech/)
+| Company | Category | Funding | Lead Investors |
+|---------|----------|---------|----------------|
+| [Haize Labs](https://haizelabs.com/) | AI Safety | $100M valuation | General Catalyst |
+| [Browserbase](https://browserbase.com/) | Infrastructure | $44.4M | - |
+| [Exa](https://exa.ai/) | Search | $22M | Lightspeed, NVIDIA, YC |
+| [Lovable.dev](https://lovable.dev/) | AI Code Gen | $20M+ | Creandum |
+| [Extend](https://www.extend.app/) | Document AI | $17M Series A | - |
+| [Modal](https://modal.com/) | Infrastructure | $16M Series A | - |
+| [Pydantic Logfire](https://logfire.pydantic.dev/) | Observability | $12.5M Series A | Sequoia |
+| [Julius AI](https://julius.ai/) | Data Analysis | $11M | - |
+| [Shaped AI](https://www.shaped.ai/) | Recommendations | $8M Series A | Madrona, YC |
+| [Rork](https://rork.app/) | AI Code Gen | $2.8M Seed | a16z Speedrun |
+| [Godel Terminal](https://godelterminal.com/) | Finance AI | $2M Pre-seed | - |
+| [Augmental](https://www.augmental.tech/) | Accessibility | $1M+ | - |
+| [Sandbar](https://sandbar.com/) | Identity | Seed | True Ventures |
+| [Kino.ai](https://kino.ai/) | Video AI | YC S23 | Y Combinator |
+| [Raindrop.ai](https://www.raindrop.ai/) | AI | YC | Y Combinator |
+| [Daytona](https://www.daytona.io/) | Dev Environments | - | - |
+| [Vantager](https://www.vantager.com/) | Finance AI | - | - |
+| [Argo Labs](https://www.argolabs.ai/) | Voice AI | - | - |
+| [Smithery.ai](https://smithery.ai/) | MCP Registry | - | - |
+| [Empower Sleep](https://www.empowersleep.com/) | Health Tech | - | - |
 
-Innovative wearable technology company, creator of MouthPad - a hands-free trackpad operated by the tongue, which has attracted over $1 million in funding to enhance digital accessibility for users with limited mobility.
+---
 
-## [Haize Labs](https://haizelabs.com/)
+## Company Details
 
-Develops AI-based tools for automated stress testing of large language models (LLMs), and recently achieved a $100 million valuation led by [General Catalyst](https://www.generalcatalyst.com/), to focus on identifying risks and potential failure modes in AI systems.
+### AI Infrastructure
 
-## [Exa](https://exa.ai/)
+**[Haize Labs](https://haizelabs.com/)** - AI safety and red-teaming. Automated stress testing of LLMs to identify risks and failure modes. $100M valuation led by General Catalyst.
 
-AI-powered search engine API, backed by $22 million in funding from investors like [Lightspeed](https://lsvp.com/), [NVIDIA](https://www.nvidia.com/en-us/nventures/), and [Y Combinator](https://www.ycombinator.com/), connecting AI systems to real-time web data. Offers semantic search, embedding search, and content scraping for developers and companies.
+**[Modal](https://modal.com/)** - Cloud infrastructure for AI/ML workloads. Run code in the cloud without managing infrastructure. $16M Series A.
 
-## [Lovable.dev](https://lovable.dev/)
+**[Pydantic Logfire](https://logfire.pydantic.dev/)** - Developer-centric observability platform. Simplifies monitoring and performance insights for Python applications. $12.5M Series A led by Sequoia.
 
-AI-powered app builder that helps users create web applications, backed by over $20 million in funding including a $15 million round led by [Creandum](https://www.creandum.com/). It uses AI to generate code, connect to backends, and deploy applications.
+**[Browserbase](https://browserbase.com/)** - Headless browser infrastructure for AI agents. $44.4M raised.
 
-## [Rork](https://rork.app/)
+**[Daytona](https://www.daytona.io/)** - Standardized development environments. Self-hosted and secure dev environment management.
 
-AI-powered text to mobile app builder, which recently secured a $2.8 million seed round led by [Andreessen Horowitz](https://a16z.com/), with participation from [Hustle Fund](https://www.hustlefund.vc/), [ChapterOne](https://chapterone.com/), and [Founders Inc.](https://f.inc/), enabling users to create mobile apps with simple text prompts.
+### AI Code Generation
 
-## [Extend](https://www.extend.app/)
+**[Lovable.dev](https://lovable.dev/)** - AI-powered app builder. Generate code, connect backends, deploy applications. $20M+ including $15M led by Creandum.
 
-Document processing reimagined with LLMs. Turn your documents into high quality data, achieve unmatched accuracy, and ship custom document automation in days, not months.
+**[Rork](https://rork.app/)** - Text to mobile app builder. Create mobile apps with simple prompts. $2.8M seed led by a16z Speedrun.
 
-## [Shaped AI](https://www.shaped.ai/)
+### Search & Data
 
-AI-powered configurable recommendations and search systems, which raised an $8 million Series A led by [Madrona Ventures](https://www.madrona.com/) with participation from [Y Combinator](https://www.ycombinator.com/). Specializes in real-time adaptability for increased engagement and revenue across various industries.
+**[Exa](https://exa.ai/)** - AI-powered search API. Semantic search, embeddings, and content scraping for developers. $22M from Lightspeed, NVIDIA, YC.
 
-## [Pydantic Logfire](https://logfire.pydantic.dev/)
+**[Shaped AI](https://www.shaped.ai/)** - Real-time recommendations and search. $8M Series A led by Madrona.
 
-Developer-centric observability platform by Pydantic, which raised a $12.5 million Series A led by [Sequoia](https://www.sequoiacap.com/) with participation from [Partech](https://partechpartners.com/) and [Irregular Expression](https://www.irregex.vc/). Simplifies software monitoring and performance insights.
+**[Julius AI](https://julius.ai/)** - AI data analyst. Analyze data and create visualizations with natural language. $11M raised.
 
-## [Vantager](https://www.vantager.com/)
+### Document & Voice AI
 
-AI-native investment platform for limited partners. Transforms complex financial datasets into actionable insights for investment strategies.
+**[Extend](https://www.extend.app/)** - Document processing with LLMs. Turn documents into structured data with high accuracy. $17M Series A.
 
-## [Empower Sleep](https://www.empowersleep.com/)
+**[Argo Labs](https://www.argolabs.ai/)** - Voice AI for restaurants. 24/7 AI receptionist for orders, reservations, and inquiries.
 
-Data-driven sleep care platform offering continuous tracking, expert consultations, and personalized treatment plans. Aims to improve overall health through better sleep.
+### Developer Tools
 
-## [Argo Labs](https://www.argolabs.ai/)
+**[Smithery.ai](https://smithery.ai/)** - MCP server registry. Discovery and distribution for Model Context Protocol servers.
 
-Voice-to-voice AI technology for restaurant phone management. Their AI receptionist answers calls 24/7, taking orders, making reservations, and answering business questions with human-like conversation capabilities.
+**[Kino.ai](https://kino.ai/)** - AI for filmmakers. Search, log, and organize footage. YC S23.
 
-## [Smithery.ai](https://smithery.ai/)
+### Applied AI
 
-AI-powered platform for automated testing and quality assurance. Helps developers and QA teams create, maintain, and execute test cases with machine learning, reducing manual testing efforts and improving software reliability.
+**[Vantager](https://www.vantager.com/)** - AI-native investment platform for LPs. Complex financial data into actionable insights.
+
+**[Godel Terminal](https://godelterminal.com/)** - AI for finance. $2M pre-seed.
+
+**[Raindrop.ai](https://www.raindrop.ai/)** - YC-backed AI company.
+
+### Other
+
+**[Augmental](https://www.augmental.tech/)** - MouthPad, a hands-free trackpad operated by the tongue. Digital accessibility for users with limited mobility. $1M+ raised.
+
+**[Sandbar](https://sandbar.com/)** - Identity verification. Seed round led by True Ventures.
+
+**[Empower Sleep](https://www.empowersleep.com/)** - Data-driven sleep care. Continuous tracking, expert consultations, personalized treatment plans.

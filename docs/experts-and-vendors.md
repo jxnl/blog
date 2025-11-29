@@ -1,82 +1,39 @@
 ---
-description: Access a network of AI & ML experts and trusted vendors for comprehensive consulting packages. Leverage industry expertise for growth!
+description: My network of AI/ML experts and trusted vendors. Available through consulting packages.
 ---
 
 # Experts and Vendors
 
-Over the years, I've built a network of AI and ML specialists, vendors, and industry experts. As part of both the comprehensive and strategic consulting packages, you'll have access to this network, including:
+Over the years, I've built a network of AI and ML specialists. As part of consulting engagements, you get access to this network.
+
+---
 
 ## Experts
 
-### [Hamel Husain](https://www.linkedin.com/in/hamelhusain/)
+| Expert | Focus | Background |
+|--------|-------|------------|
+| [Hamel Husain](https://www.linkedin.com/in/hamelhusain/) | ML tools, infrastructure, LLM evals | R&D at Answer AI |
+| [Eugene Yan](https://www.linkedin.com/in/eugeneyan/) | Recommender systems, LLMs | ML Research Scientist at Amazon |
+| [Thomas Millar](https://www.linkedin.com/in/thmsmlr/) | High-performance inference servers | ML and Data Platforms |
+| [Shreya Shankar](https://www.linkedin.com/in/shrshnk/) | LLM Evals | PhD student at Berkeley |
+| [Skylar Payne](https://www.linkedin.com/in/skylar-payne-766a1988/) | Executive coaching | Former VP of Engineering & Data Science |
+| [John Berryman](https://arcturus-labs.com/) | Search and retrieval | Author of "Relevant Search", former GitHub Copilot |
+| [Zhou Yu](https://www.linkedin.com/in/zhouyustanford/) | Data science capabilities | Former head of data science at Google, Stitch Fix |
 
-- LLM Consultant, R&D at Answer AI
-- Focus: ML tools, infrastructure, and LLM evaluations
-
-### [Eugene Yan](https://www.linkedin.com/in/eugeneyan/)
-
-- ML Research Scientist at Amazon
-- Focus: Recommender Systems and Large Language Models
-
-### [Thomas Millar](https://www.linkedin.com/in/thmsmlr/)
-
-- ML and Data Platforms expert
-- Focus: High-performance inference servers in Python and Elixir
-
-### [Shreya Shankar](https://www.linkedin.com/in/shrshnk/)
-
-- Expert in LLM Evals, PhD student at Berkeley
-- Focus: Practical ML solutions
-
-### [Skylar Payne](https://www.linkedin.com/in/skylar-payne-766a1988/)
-
-- Independent Consultant and Executive Coach
-- Background: Former VP of Engineering & Data Science
-
-### [John Berryman](https://arcturus-labs.com/)
-
-- Author of ["Relevant Search"](https://www.amazon.com/Relevant-Search-applications-Solr-Elasticsearch/dp/161729277X) and ["Prompt Engineering for LLMs"](https://oreillymedia.pxf.io/c/5303529/1975458/15173)
-- Background: Former GitHub Code Search and Copilot contributor
-
-### [Zhou Yu](https://www.linkedin.com/in/zhouyustanford/)
-
-- Data science & ML consultant
-- Focus: Helping early stage companies build data science capabilities
-- Background: Former head of data science at Google, Stitch Fix, and Signalfire
+---
 
 ## Trusted Vendors
 
-### Braintrust
+| Company | CEO/Contact | Product |
+|---------|-------------|---------|
+| [Braintrust](https://braintrust.dev) | Ankur Goyal | LLM evals and observability |
+| [LanceDB](https://lancedb.com) | Chang She | Database for multimodal AI |
+| [Modal Labs](https://modal.com) | Akshat Bubna | Serverless platform for AI/ML |
+| [Vespa.ai](https://vespa.ai) | Jo Kristian Bergum | Search, recommendation, ranking |
+| [Extend](https://www.extend.app) | Kushal Byatnal | AI document processing |
+| [Shaped](https://www.shaped.ai) | Tullie Murrell | AI recommendations and search |
+| [Haize Labs](https://haizelabs.com) | Leonard Tang | LLM red teaming and robustness |
 
-- [Ankur Goyal](https://www.linkedin.com/in/ankrgyl), CEO
-- Product: LLM evals and observability platform
+---
 
-### LanceDB
-
-- [Chang She](https://www.linkedin.com/in/changshe), CEO
-- Product: Database for Multimodal AI
-
-### Modal Labs
-
-- [Akshat Bubna](https://www.linkedin.com/in/akshat-bubna-188885103/), Co-founder
-- Product: Serverless platform for AI, data and ML teams
-
-### Vespa.ai
-
-- [Jo Kristian Bergum](https://no.linkedin.com/in/jo-bergum), Chief Scientist
-- Product: Search, recommendation, and ranking systems
-
-### Extend
-
-- [Kushal Byatnal](https://www.linkedin.com/in/kushal-byatnal-92a33085/), CEO
-- Product: AI-driven document processing and business transformation
-
-### Shaped
-
-- [Tullie Murrell](https://www.linkedin.com/in/tullie/), CEO
-- Product: AI recommendation and search platform for marketplaces, e-commerce, and content
-
-### Haize Labs
-
-- [Leonard Tang](https://www.linkedin.com/in/leonard-tang/), CEO
-- Product: LLM robustness through red teaming and observability techniques
+[:material-calendar: Book a Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }

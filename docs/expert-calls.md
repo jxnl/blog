@@ -1,40 +1,64 @@
 ---
-description: Book expert AI consultations with Jason Liu. Choose between quick and
-  comprehensive sessions to address your AI challenges effectively.
+description: Book a paid consultation with Jason Liu. Get expert advice on RAG, AI systems, and ML engineering.
 ---
 
-# Expert Calls with Jason Liu
+# Expert Calls
 
-## AI Consultation Options
+Get direct access to my expertise on AI systems, RAG, embeddings, and ML engineering. I've helped teams at Zapier, HubSpot, Anthropic, and dozens of startups solve their toughest AI challenges.
 
-I offer two types of expert calls to address your AI challenges:
+---
 
-### 1. Quick Consultation (25 minutes)
+## Quick Consultation
+
+**25 minutes | $500**
 
 For focused questions and problem-solving.
 
-- Purpose: Technical queries, strategy checks, roadblock resolution
-- Outcome: Insights to advance your project
+- Technical queries and architecture review
+- Strategy checks and roadblock resolution
+- Quick feedback on your approach
 
-[Book a Quick Consultation](https://cal.com/jasonliu/expert-call){ .md-button .md-button--secondary }
+[Book Quick Call](https://cal.com/jasonliu/expert-call){ .md-button .md-button--primary }
 
-### 2. Comprehensive Consultation (55 minutes with memo)
+---
 
-For in-depth analysis and planning of AI initiatives.
+## Comprehensive Consultation
 
-1. Pre-call:
+**55 minutes + written memo | $1,000**
 
-   - Send questions and documents
-   - I'll review your materials
+For in-depth analysis and planning.
 
-2. Consultation:
+**Before the call:**
 
-   - Discuss AI challenges and opportunities
-   - Develop strategies
-   - Include team members as needed
+- Send your questions and relevant documents
+- I'll review your materials in advance
 
-3. Post-call:
-   - Receive a memo summarizing our discussion
-   - Includes recommendations and next steps
+**During the call:**
 
-[Book a Comprehensive Consultation](https://cal.com/jasonliu/expert-call-55-minutes){ .md-button .md-button--primary }
+- Deep dive on your AI challenges
+- Develop strategies and recommendations
+- Include team members as needed
+
+**After the call:**
+
+- Written memo summarizing our discussion
+- Specific recommendations and next steps
+
+[Book Comprehensive Call](https://cal.com/jasonliu/expert-call-55-minutes){ .md-button .md-button--primary }
+
+---
+
+## Common Topics
+
+- RAG system architecture and optimization
+- Embedding model selection and fine-tuning
+- Evaluation frameworks and metrics
+- Production deployment strategies
+- Agent system design
+- Technical hiring and team building
+
+---
+
+## Need Ongoing Support?
+
+For larger engagements, check out my [consulting services](./services.md) or [RAG course](./systematically-improve-your-rag.md).

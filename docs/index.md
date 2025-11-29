@@ -1,103 +1,159 @@
 ---
-description: Explore RAG techniques, AI engineering jobs, and consulting insights
-  from a machine learning expert. Join our upcoming RAG course!
+description: AI consultant, investor, and creator of Instructor. Founder of 567 Studios. I help teams build better AI systems.
 ---
 
-# :boom: What's up?
+# Jason Liu
 
-I'm an [independent consultant](./services.md), staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. I write about open source, consulting, and how to systematically improve AI applications.
+Founder of [567 Studios](./services.md). Creator of [Instructor](https://python.useinstructor.com/) (6M+ monthly downloads). Angel investor and a16z scout. Based in New York.
 
-After years at top tech companies, RSI forced me to reinvent myself. Instead of writing code, I now teach teams to work more scientifically—measuring improvements, iterating quickly, and focusing on what truly matters.
+Previously Staff ML Engineer at Stitch Fix (2018-2023). RSI forced me to pivot from coding to teaching. Now I help teams work more scientifically: measuring improvements, iterating quickly, and focusing on what truly matters.
 
-I’ve helped dozens of teams adapt to AI’s rapid evolution. When I’m not consulting, I produce educational content and courses to help more engineers thrive in the changing AI landscape.
+<div class="hero-stats" markdown>
 
-[:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
-
-I'm also the creator of [Instructor](https://python.useinstructor.com/), a popular Python library for structured outputs from LLMs, which was cited by the OpenAI team as inspiration for their `structured output` feature. We currently have over 8000 stars and 1M monthly downloads.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Best technical blog on the planet <a href="https://t.co/example">https://t.co/example</a></p>&mdash; Dylan Patel (@dylan522p) <a href="https://twitter.com/dylan522p/status/1975980076652167403">April 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Independent Consulting
-
-I run a solo consulting practice focused on helping startups build better practises as many software companies transition to AI.
-
-| Client                                 | Contact       | Industry          |
-| -------------------------------------- | ------------- | ----------------- |
-| [Zapier](https://zapier.com/)          | VP of Product | Automation        |
-| [HubSpot](https://hubspot.com/)        | GM            | Sales & Marketing |
-| [Enterpret](https://enterpret.com/)    | CTO           | Analytics         |
-| [Tensorlake](https://tensorlake.ai/)   | CEO           | Data              |
-| [Limitless AI](http://limitless.ai/)   | CTO           | AI                |
-| [Trunk Tools](https://trunktools.com/) | VP Eng        | Construction      |
-| [Naro](http://narohq.com/)             | CTO           | Sales & Marketing |
-
-... including many others like [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Raycast](https://raycast.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
-
-[:material-briefcase: Understand my services](./services.md){ .md-button .md-button--primary }
-
-## Systematically Improve Your RAG (Enrollment Open)
-
-Join our intensive [6 week certification](./systematically-improve-your-rag.md) starting February 2024 to systematically improve your Retrieval-Augmented Generation (RAG) systems. Learn how to build robust processes for identifying system bottlenecks, significantly enhance your probabilistic systems, and implement advanced RAG techniques for real-world applications.
-
-Where our students come from:
-
-<div class="grid two-columns" markdown="1">
-
-| Company                              | Industry                                  |
-| ------------------------------------ | ----------------------------------------- |
-| [OpenAI](https://openai.com)         | AI Research & Development                 |
-| [Anthropic](https://anthropic.com)   | AI Research & Development                 |
-| [Google](https://google.com)         | Search Engine                             |
-| [Salesforce](https://salesforce.com) | Customer Relationship Management Software |
-| [Microsoft](https://microsoft.com)   | Software, Cloud Computing                 |
-| [Amazon](https://amazon.com)         | E-commerce, Cloud Computing               |
-| [Zapier](https://zapier.com)         | Automation Software                       |
-| [Adobe](https://adobe.com)           | Software, Creative Tools                  |
-
-| Company                                    | Industry                        |
-| ------------------------------------------ | ------------------------------- |
-| [Accenture](https://accenture.com)         | Consulting, Technology Services |
-| [McKinsey & Company](https://mckinsey.com) | Management Consulting           |
-| [Bain & Company](https://bain.com)         | Consulting                      |
-| [PwC](https://pwc.com)                     | Professional Services           |
-| [Cisco](https://cisco.com)                 | Networking Technology           |
-| [Electronic Arts](https://ea.com)          | Gaming                          |
-| [Shopify](https://shopify.com)             | E-commerce Platform             |
+**6M+** monthly downloads | **1000+** engineers trained | **11k+** GitHub stars
 
 </div>
 
-[:material-email: Free 6 Day RAG Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
-[Learn more :octicons-arrow-right-24:](./systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+[:material-email: Subscribe to Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
+[:material-briefcase: Work with Me](./services.md){ .md-button }
 
-## What People Are Saying
+---
 
-| Person      | Role                            | Quote                                                                                                                                                                                                                                                                                                                       |
-| ----------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sam Flamini | Solutions Engineer at Anthropic | "As an Applied AI Engineer at Anthropic, I was familiar with all of the standard retrieval methods and RAG papers going into the course, but **Jason's frameworks helped me to operationalize what I'd learned** and it's had an incredibly positive impact in my work with customers."                                     |
-| Team        | Camu (a16z backed)              | "Jason helped us **break down our vision into actionable steps**, providing clear recommendations on the best models for each use case. His guidance gave us a tangible roadmap for our next steps and introduced practical techniques that drive continuous product improvements. Grateful for his expertise and support!" |
-| Christian   | Founder at Dunbar               | "**Full-stack AI-business guidance in a box.** The value went beyond just product acceleration."                                                                                                                                                                                                                            |
-| Taylor      | Head of Product at Zapier       | "**Jason gave our AI product the horsepower it needed.** He's a pro if you need real results fast."                                                                                                                                                                                                                         |
-| Avthar      | Lead PM at Timescale            | "**Brought a wealth of experience and understanding** that helped us develop better ideas and move faster. 100% worth it."                                                                                                                                                                                                  |
-| Vitor       | Staff Engineer at Zapier        | "Highly recommend Jason if you want to **level up your AI product and team.** Always came away with insights and actionable ideas."                                                                                                                                                                                         |
-| Luke        | CEO of Kino AI                  | "**Definitely speak with Jason if you're doing RAG or semantic search.** Amazingly helpful."                                                                                                                                                                                                                                |
-| Jay         | VP of Technology                | "Jason's writing introduced me to several effective patterns for wrangling and using LLMs in actual user-facing systems. His insights have been **instrumental in helping my teams launch two LLM-based features with measurable business impact.** We're working on a new product now."                                    |
+## What I Believe
 
-## Free Resources
+- **Your AI problems aren't AI problems.** They're usually data, process, or people problems.
+- **Sell outcomes, not tasks.** Measure what matters: does this solve a real problem someone will pay for?
+- **Simplicity beats complexity.** If you can't explain it simply, you don't understand it.
+- **Experimentation speed is your only moat.** Confidence is the memory of success; practice more than you play.
 
-<div class="grid cards" markdown>
+---
 
-- :material-briefcase-search:{ .lg .middle } **Looking for AI Engineering Jobs?**
+## Consulting
 
-  ***
+I help companies turn prototypes into production systems. No maintenance contracts. No dependencies. Just results.
 
-  Discover AI engineering roles at well-funded startups. Our job board features companies with strong growth potential and innovative projects.
+<div class="client-grid" markdown>
 
-  [:octicons-arrow-right-24: Browse AI jobs](https://jobs.applied-llms.org/)
-
-- :material-account-group:{ .lg .middle } **Social Media**
-
-  ***
-
-  Stay connected and get the latest updates by following me on [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/@jxnlco), [:fontawesome-brands-x-twitter: Twitter](https://x.com/jxnlco), and [:fontawesome-brands-github: GitHub](https://github.com/jxnl). These platforms are where I share my latest content, thoughts, and projects in the world of AI and machine learning.
+| Company | Contact |
+|---------|---------|
+| [Zapier](https://zapier.com/) | VP of Product |
+| [HubSpot](https://hubspot.com/) | GM |
+| [Limitless AI](http://limitless.ai/) | CTO |
+| [Weights & Biases](https://wandb.ai/) | CTO |
+| [Modal Labs](https://modal.com/) | CEO |
+| [Pydantic](http://pydantic.dev/) | Creator |
+| [Timescale](https://timescale.com/) | VP Product |
+| [Raycast](https://raycast.com/) | Team |
 
 </div>
+
+Also: [Enterpret](https://enterpret.com/), [Tensorlake](https://tensorlake.ai/), [Trunk Tools](https://trunktools.com/), [Naro](http://narohq.com/), [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Galileo](https://www.rungalileo.io/), [Distributional](https://www.distributional.com/)
+
+[:material-calendar: Book Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
+
+---
+
+## Training
+
+### Systematically Improve Your RAG
+
+A [6-week certification](./systematically-improve-your-rag.md) for engineers who want to build production RAG systems. **4.8 rating** from 1000+ engineers.
+
+**Where students come from:** OpenAI, Anthropic, Google, Microsoft, Amazon, Airbnb, Databricks, TikTok, Shopify, Nvidia, Meta, GitLab, Intercom, PostHog, Miro, Workday, Mozilla, Red Hat, Gumroad, Visa, PwC, KPMG, Accenture, Bain & Company, Booz Allen Hamilton, Northrop Grumman, DataStax, Decagon
+
+[:material-email: Free 6-Day Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
+[Learn More](./systematically-improve-your-rag.md){ .md-button }
+
+### AI Coding Accelerator
+
+A [3-day intensive](https://maven.com/nila/ai-coding-accelerator) with Vignesh Mohankumar on building with AI tools.
+
+---
+
+## What People Say
+
+<div class="testimonial-grid">
+  <div class="testimonial-card">
+    <p class="quote">"As an Applied AI Engineer at Anthropic, I was familiar with all of the standard retrieval methods and RAG papers, but <strong>Jason's frameworks helped me operationalize what I'd learned</strong> and it's had an incredibly positive impact in my work with customers."</p>
+    <p class="author">Sam Flamini, Solutions Engineer at Anthropic</p>
+  </div>
+
+  <div class="testimonial-card">
+    <p class="quote">"<strong>Jason gave our AI product the horsepower it needed.</strong> He's a pro if you need real results fast."</p>
+    <p class="author">Taylor, Head of Product at Zapier</p>
+  </div>
+  
+  <div class="testimonial-card">
+    <p class="quote">"<strong>Full-stack AI-business guidance in a box.</strong> The value went beyond just product acceleration."</p>
+    <p class="author">Christian, Founder at Dunbar</p>
+  </div>
+
+  <div class="testimonial-card">
+    <p class="quote">"<strong>Brought a wealth of experience and understanding</strong> that helped us develop better ideas and move faster. 100% worth it."</p>
+    <p class="author">Avthar, Lead PM at Timescale</p>
+  </div>
+</div>
+
+---
+
+## Open Source
+
+I created [Instructor](https://python.useinstructor.com/), a Python library for structured outputs from LLMs. OpenAI cited it as inspiration for their `structured output` feature.
+
+**11,000+ stars** on GitHub | **6M+ monthly downloads**
+
+---
+
+## Investing
+
+Angel investor and a16z scout. Working relationships with [Weekend Fund](https://weekend.fund/) and [Script Capital](https://script.capital/).
+
+<div class="investment-grid" markdown>
+
+- [Pydantic Logfire](https://pydantic.dev/) - $12.5M Series A, Sequoia
+- [Haize Labs](https://haizelabs.com/) - $100M valuation
+- [Browserbase](https://browserbase.com/) - $44.4M
+- [Exa](https://exa.ai/) - $22M, YC 2021
+- [Lovable.dev](https://lovable.dev/) - $20M+
+- [Extend](https://www.extend.app/) - $17M Series A
+- [Modal](https://modal.com/) - $16M Series A
+- [Julius AI](https://julius.ai/) - $11M
+- [Shaped AI](https://www.shaped.ai/) - $8M Series A, YC 2022
+- [Rork](https://rork.app/) - $2.8M seed, a16z Speedrun
+- [Godel Terminal](https://godelterminal.com/) - $2M pre-seed
+- [Kino.ai](https://kino.ai/) - YC S23
+- [Raindrop.ai](https://www.raindrop.ai/) - YC
+- [Sandbar](https://sandbar.com/) - Seed, True Ventures
+- [Augmental](https://www.augmental.tech/) - $1M+
+- [Daytona](https://www.daytona.io/)
+- [Vantager](https://www.vantager.com/)
+- [Argo Labs](https://www.argolabs.ai/)
+- [Smithery.ai](https://smithery.ai/)
+- [Empower Sleep](https://www.empowersleep.com/)
+
+</div>
+
+[View Full Portfolio](./investments.md){ .md-button }
+
+---
+
+## Background
+
+| | |
+|---|---|
+| **Stitch Fix** | Staff ML Engineer (2018-2023) |
+| **Meta** | Data Scientist (2017) |
+| **South Park Commons** | Sabbatical |
+| **University of Waterloo** | Computational Mathematics & Statistics |
+
+---
+
+## Connect
+
+<div class="social-links" markdown>
+
+[:fontawesome-brands-x-twitter: Twitter](https://twitter.com/jxnlco) | [:fontawesome-brands-github: GitHub](https://github.com/jxnl) | [:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/jxnlco) | [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/@jxnlco)
+
+</div>
+
+**Consulting:** [work@jxnl.co](mailto:work@jxnl.co)
