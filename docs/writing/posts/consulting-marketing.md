@@ -33,7 +33,7 @@ As a former MLE, I had always relied on my hands-on coding skills to excel in my
 
 !!! note "The numbers"
 
-I publish about 10 blogs a month and close to a 1000 tweets a month and grow about 3000 followers a month. This results in about two emails a week from potential prospects at a 50% close rate. I make anywhere between $40,000 to $80,000 a month. Everything is on a monthly subscription basis and you can see my services page [here](../../services.md)
+I publish about 10 blogs a month and close to a 1000 tweets a month and grow about 3000 followers a month. This results in about two emails a week from potential prospects at a 50% close rate. At the time, I was making anywhere between $40,000 to $80,000 a month.
 
 Transitioning from a technical role to consulting was a significant change, but I embraced the challenge. One of the helpful resources I discovered during this process was the book "One Page Marketing Plan". This book provided a simple yet effective framework for creating a marketing plan, focusing on three key areas: before the sale, during the sale, and after the sale (customer retention and referrals).
 
@@ -91,13 +91,7 @@ Transitioning from a technical role to consulting after a hand injury was challe
 
 The key to my success has been creating valuable content that showcases my expertise and attracts potential clients. Continuously turning client insights into blog posts and videos maintains a steady stream of leads.
 
-If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
-
-<form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
-    <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
-</form>
+Note: this post is archival. I’m no longer taking consulting engagements.
 
 ## Recommended Reading
 

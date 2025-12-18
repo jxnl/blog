@@ -63,7 +63,7 @@ As we explored in our work on segmentation and classification (Week 2 of our dev
 - Coding questions might be best answered by community sites like Stack Overflow
 - Internal company policies need official documentation
 
-This is why simply using a monolithic embedding index often falls short. When I work with teams to analyze their data, we often find that poor performance clusters around specific query types that need specialized handling.
+This is why simply using a monolithic embedding index often falls short. When I worked with teams to analyze their data, we often found that poor performance clusters around specific query types that need specialized handling.
 
 ## Learning to Rank: The Path Forward
 

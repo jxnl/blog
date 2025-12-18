@@ -6,18 +6,13 @@ date: 2024-12-01
 
 # Systematically Improving RAG Applications Speaker Series
 
-This section contains talks and presentations from [the Systematically Improving RAG Applications series](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK), featuring insights from industry experts and practitioners. Each talk provides specific learning outcomes, actionable techniques, and often surprising insights that challenge conventional RAG wisdom.
+This section contains talks and presentations from the Systematically Improving RAG Applications series, featuring insights from industry experts and practitioners. Each talk provides specific learning outcomes, actionable techniques, and often surprising insights that challenge conventional RAG wisdom.
 
 ---
 
-!!! success "📚 Get the Complete Course - 20% Off"
-This content is from the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK) course on Maven.
+This content originally accompanied a cohort-based course, which is now closed. For the course archive page, see: [Systematically Improve Your RAG Applications (Closed)](../../../systematically-improve-your-rag.md).
 
-    **Readers can enroll for 20% off with code: `EBOOK`**
-
-    Join 500+ engineers who've transformed their RAG systems from demos to production-ready applications.
-
-    [Enroll in the RAG Playbook Course - 20% Off](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
+If you want hands-on help, I recommend reaching out to my friend Nila: [nila.is](https://nila.is/). Please mention you came from me.
 
 ---
 

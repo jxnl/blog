@@ -2,10 +2,8 @@
 categories:
   - Entrepreneurship
 comments: true
-description: Explore insights on consulting, open source, and AI applications through
-  personal stories and expert tips.
+description: Explore applied AI, RAG, open source, and personal notes.
 tags:
-  - consulting
   - AI
   - open source
   - writing
@@ -14,7 +12,9 @@ tags:
 
 # Writing and mumblings
 
-I write about a mix of consulting, open source, personal work, and applying llms. I won't email you more than twice a month, not every post I write is worth sharing but I'll do my best to share the most interesting stuff including my own writing, thoughts, and experiences.
+I write about applied AI, open source, personal work, and building with LLMs. Some older posts cover consulting as a topic, but I’m not offering consulting services.
+
+If you want hands-on help, I recommend reaching out to my friend Nila: [nila.is](https://nila.is/). Please mention you came from me.
 
 [:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){.md-button .md-button--primary}
 [:material-twitter: Follow me on X](https://x.com/jxnlco){.md-button .md-button--secondary}
@@ -37,7 +37,7 @@ For posts about RAG (Retrieval-Augmented Generation) or LLMs (Large Language Mod
 - [RAG Feedback Loop](./posts/rag-flywheel.md): Creating a self-improving RAG system
 - [RAG Search Metrics](./posts/rag-lgtmk.md): How to measure RAG search quality
 
-[:material-school: Take the RAG course](../systematically-improve-your-rag.md){.md-button .md-button--primary}
+[:material-school: RAG resources](../systematically-improve-your-rag.md){.md-button .md-button--secondary}
 
 ## Context Engineering
 
@@ -48,15 +48,13 @@ For posts about RAG (Retrieval-Augmented Generation) or LLMs (Large Language Mod
 - [Agent Frameworks and Form Factors](./posts/context-engineering-agent-frameworks.md): Choose the right autonomy level and delivery mode
 - [Rapid Agent Prototyping](./posts/context-engineering-agent-prototyping.md): Validate with folder-based tests before building orchestration
 
-## Consulting and Tech Advice
+## Business and Tech Advice
 
 - [Tools for Consulting](./posts/consulting-stack.md): Essential tech for consultants
 - [Solo Consulting Guide](./posts/consulting-indie.md): Tips for independent consultants
 - [Consulting 101](./posts/consulting-everything-i-know.md): Key lessons from my consulting experience
 - [Building AI App MVPs](./posts/mvp.md): How to launch a basic AI application
 - [Common Engineering Errors](./posts/stochastic-software.md): Mistakes to avoid in software development
-
-[:material-lightbulb-on-outline: Learn Indie Consulting](https://learnindieconsulting.com){.md-button .md-button--primary}
 
 ## Talks and Interviews
 

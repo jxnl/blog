@@ -21,7 +21,7 @@ tags:
 
 !!! note "RAG Course"
 
-    If you're looking to deepen your understanding of RAG systems and learn how to systematically improve them, consider enrolling in the [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) course. This 4-week program covers everything from evaluation techniques to advanced retrieval methods, helping you build a data flywheel for continuous improvement.
+    If you're looking to go deeper on RAG, start with [RAG resources](../../systematically-improve-your-rag.md) (course closed).
 
 RAG (Retrieval-Augmented Generation), is a powerful technique that combines information retrieval with LLMs to provide relevant and accurate responses to user queries. By searching through a large corpus of text and retrieving the most relevant chunks, RAG systems can generate answers that are grounded in factual information.
 
@@ -160,5 +160,5 @@ If you have any questions about these details, please leave a comment below and 
 
 Want to skip the common mistakes? Most teams spend weeks on complex improvements when these 7 quick wins would give them better results in a day. Here's how to implement them systematically:
 
-[Maven RAG Playbook — 20% off with EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
-[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button }
+[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--primary }
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--secondary }

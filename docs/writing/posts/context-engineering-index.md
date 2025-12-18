@@ -16,6 +16,8 @@ I've been helping companies build agentic RAG systems and studying coding agents
 
 This series shares what I've learned from these teams and conversations with professional developers using these systems daily, exploring what we can apply to other industries.
 
+If you want hands-on help, I recommend reaching out to my friend Nila: [nila.is](https://nila.is/). Please mention you came from me.
+
 !!! info "Related Series"
     **[Coding Agents Speaker Series](./coding-series-index.md)**: Deep insights from the teams behind leading coding agents including Cognition (Devin), Sourcegraph (Amp), Cline, and Augment. While this Context Engineering series focuses on technical implementation patterns, the Speaker Series reveals strategic insights and architectural decisions.
     

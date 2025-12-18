@@ -206,7 +206,7 @@ _P.S. An AI agent helped me write this post by analyzing my commit history and i
 
 ---
 
-**Want help building systems like this?** I know AI automation can feel overwhelming—I try to share what works from my consulting, but sometimes it helps to have someone walk through it with you:
+If you want more material in this vein:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }

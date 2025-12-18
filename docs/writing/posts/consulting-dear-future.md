@@ -44,10 +44,4 @@ About those four AI engineers I mentioned earlier: we all had the same starting 
 
 I can't promise you'll be flying business class next month if you join. But I can guarantee you'll find it packed with actionable insights to launch your consulting career - and potentially never worry about hourly rates, investor pressure, or how to price your services ever again.
 
-Just enter your email below to get started, you'll get an email from me every 10 days or so, and I'll see you on the inside.
-
-<form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
-    <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
-</form>
+Note: this post is archival.

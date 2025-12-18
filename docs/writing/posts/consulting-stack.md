@@ -89,13 +89,7 @@ With the legal and financial foundation in place, here are the key software tool
 
     Having a standard engagement letter and proposal process saves time and projects professionalism. Don't reinvent the wheel for every client. Subribe to my news letter if you want to get notified when I publish more posts on how I set up my engagement letters and proposals examples
 
-    If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
-
-    <form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
-        <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-        <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-        <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
-    </form>
+    Note: this post is archival. I’m no longer taking consulting engagements.
 
 ## Scaling Your Practice
 

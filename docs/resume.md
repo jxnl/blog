@@ -70,5 +70,4 @@ Rehman, N., Liu, J., & Chunara, R. (2016). Propensity score matching for vaccina
 
 ---
 
-[:material-calendar: Book a Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
-[:material-email: Email Me](mailto:jason@jxnl.co){ .md-button }
+[:material-email: Contact (speaking/advisory)](mailto:jason@jxnl.co){ .md-button .md-button--primary }

@@ -39,7 +39,7 @@ When I first started consulting, I made the mistake of listing my rates. Here's 
 
 ## The Airline Pricing Model
 
-As we've discussed in the [email course](https://indieconsulting.podia.com). Instead of fixed prices, think about pricing like an airline:
+As we've discussed in the email course (archived). Instead of fixed prices, think about pricing like an airline:
 
 - Economy class: Your basic offering
 - Business class: Enhanced service with more perks
@@ -85,13 +85,7 @@ The key takeaways:
 
 By adopting these strategies, you'll be able to price your services more effectively, attract the right clients, and maximize the value you provide (and receive) in your consulting work.
 
-If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
-
-<form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
-    <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
-</form>
+Note: this post is archival. I’m no longer taking consulting engagements.
 
 ## Recommended Reading
 

@@ -1,16 +1,14 @@
 ---
 title: RAG Office Hours — Preview and Next Cohort
 date: 2025-08-10
-description: Our next cohort is coming up—enroll today. Here’s a preview of the kinds of questions we tackle in office hours.
+description: Archive of questions we tackled in office hours across cohorts.
 ---
 
 ## RAG Office Hours: Preview and Next Cohort
 
-Our next cohort is coming up. Enroll today and get access to live office hours, hands-on reviews, and practical guidance you can use the same week.
+These are example questions we tackled in office hours across previous cohorts. Office hours are not currently running.
 
 <!-- more -->
-
-[Enroll in Systematically Improving RAG — use code EBOOK for 20% off](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
 
 ## Preview: Questions We Tackle in Office Hours
 
@@ -37,12 +35,10 @@ These are representative of the practical topics we work through together.
 
 ### What You’ll Get in the Cohort
 
-- Live office hours focused on your problems and data
+- Live reviews focused on your problems and data
 - Practical evaluation methods and templates you can adopt in days
 - Product and UX patterns that increase trust and perceived speed
 - Retrieval, re-ranking, and routing strategies that beat strong baselines
 - A community of peers shipping real systems across industries
-
-[Enroll now — seats are limited](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button }
 
 Looking for the full FAQ? Read it here: [RAG Office Hours — Frequently Asked Questions](./rag-office-hours.md)

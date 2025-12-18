@@ -109,4 +109,4 @@ If you're already in tech with AI expertise, you're well-positioned to capitaliz
 
 For those with technical backgrounds but limited AI experience, now is the time to upskill. The current AI landscape offers numerous resources and tools to facilitate your learning journey.
 
-[Subscribe to my Consulting Newsletter](https://indieconsulting.podia.com/){ .md-button .md-button--primary }
+Note: this post is archival. I’m no longer taking consulting engagements.

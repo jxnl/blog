@@ -20,7 +20,7 @@ _This is part of the [Context Engineering Series](./context-engineering-index.md
 
 ## What Do We Actually Mean When We Say We Want to Build Agents?
 
-_Field note from a conversation with [Vignesh Mohankumar](https://nila.is/), a successful consultant who helps companies navigate AI implementation decisions. [Vignesh](https://nila.is/) and I are both AI consultants helping companies build AI systems—he focuses on implementations and workflows, while I help with overall strategy and execution._
+_Field note from a conversation with my friend Nila, who helps companies navigate AI implementation decisions: [nila.is](https://nila.is/). Nila focuses on implementations and workflows; I focus on writing down strategy and execution patterns on this blog._
 
 When companies say they want to build agents, I focus on practical outcomes. What specific functionality do you need? What business value are you trying to create?
 

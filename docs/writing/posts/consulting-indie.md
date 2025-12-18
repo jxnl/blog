@@ -27,9 +27,7 @@ In contrast to these large firms, indie consulting focuses on specialized expert
 
 <!-- more -->
 
-If you want to get a slow drip of educational content checkout my newsletter dedicated to indie consulting
-
-[Subscribe to my Indie Consulting Newsletter](https://indieconsulting.podia.com/){ .md-button .md-button--primary }
+Note: this post is archival. I’m no longer taking consulting engagements.
 
 !!! warning "The failure of big time consulting"
 
@@ -242,10 +240,4 @@ If your content addresses one, great; if it addresses two, even better. If it ad
 
 ---
 
-If you found this helpful, subscribe to my newsletter for more posts on how I build my consulting practice.
-
-<form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
-    <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
-</form>
+If you found this helpful, you may also like `docs/writing/posts/consulting-everything-i-know.md`.

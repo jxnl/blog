@@ -21,7 +21,7 @@ _This is part of the [Context Engineering series](./context-engineering-index.md
 
 <!-- more -->
 
-Through my [consulting work](https://jxnl.co/services/), I help companies build better AI systems and I've been thinking about compaction and how it connects to the research showing that [in-context learning is gradient descent](https://arxiv.org/abs/2212.07677). This theoretical foundation provides a framework for understanding how context management affects agent learning trajectories. If that's true, then compaction is basically a momentum term. And if compaction is momentum, there are two experiments I desperately want to see someone run.
+Previously, through consulting work, I helped companies build better AI systems, and I've been thinking about compaction and how it connects to the research showing that [in-context learning is gradient descent](https://arxiv.org/abs/2212.07677). This theoretical foundation provides a framework for understanding how context management affects agent learning trajectories. If that's true, then compaction is basically a momentum term. And if compaction is momentum, there are two experiments I desperately want to see someone run.
 
 This builds on the foundational concepts I've explored in [context engineering](./context-engineering-tool-response.md), where the structure of information flow becomes as critical as the information itself.
 
@@ -34,8 +34,6 @@ This builds on the foundational concepts I've explored in [context engineering](
 **Context Pollution**: When valuable reasoning context gets flooded with irrelevant information, degrading agent performance. I've written extensively about how this affects AI systems in [my analysis of slash commands versus subagents](./context-engineering-slash-commands-subagents.md).
 
 **Momentum**: In gradient descent optimization, a component that accelerates convergence by incorporating the direction of previous updates to smooth out oscillations.
-
-<!-- more -->
 
 ## Why Is Compaction Like Momentum?
 
@@ -151,9 +149,9 @@ The momentum experiment realistically needs a company already running coding age
 
 Both need access to long trajectories and willingness to run controlled experiments.
 
-## Who Should Collaborate on This?
+## Who Should Run This?
 
-If you're working with agents at scale and want to explore these directions, [I'd love to collaborate](https://jxnl.co/services/). These sit at the intersection of ML theory and practical deployment—exactly where the most interesting problems live.
+This realistically needs a company already running agents at scale (or a research group with access to long trajectories and willingness to run controlled experiments).
 
 The future isn't just about better models. It's about understanding how agents actually learn and optimize over time. Compaction might be the key.
 
