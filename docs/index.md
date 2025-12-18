@@ -12,6 +12,8 @@ I previously did consulting, expert calls, and cohort-based training. **Those of
 
 If you want hands-on help, I recommend reaching out to my friend Nila: [nila.is](https://nila.is/). Please mention you came from me.
 
+The best way to keep up with new posts is my newsletter:
+
 [:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
 
 I'm also the creator of [Instructor](https://python.useinstructor.com/), a popular Python library for structured outputs from LLMs, which was cited by the OpenAI team as inspiration for their `structured output` feature.
