@@ -19,7 +19,7 @@ He launched Virgil with Eric Ries, author of _The Lean Startup_, and Jeremy Howa
 
 !!! note "Charge more for your Expertise"
 
-    If you're looking to increase your earning potential as an expert consultant, consider joining our AI Consultant Accelerator program. We offer a free 10-day email course at [https://learnindieconsulting.com/](https://learnindieconsulting.com/) to help you get started. For a more comprehensive learning experience, enroll in our live cohort course at [https://maven.com/indie-consulting/ai-consultant-accelerator](https://maven.com/indie-consulting/ai-consultant-accelerator). This program will equip you with the skills and strategies to command higher rates for your expertise. We go over pricing, positioning, and proposals as well as host multiple live office hours to answer your questions.
+    Note: this program is no longer running. This post is preserved for reference.
 
 Now let's get into the legal side of consulting
 
@@ -159,10 +159,4 @@ Also, there is a difference between ownership and a license. They don’t have t
 
 !!! note "Subscribe for More Consulting Tips"
 
-    If you found this advice helpful, subscribe to my consulting newsletter for more posts on building and scaling your consulting practice.
-
-    <form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
-        <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-        <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-        <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
-    </form>
+    Note: I’m no longer taking consulting engagements.

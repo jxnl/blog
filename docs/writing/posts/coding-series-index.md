@@ -187,7 +187,9 @@ The future of coding isn't just about AI writing code—it's about AI understand
 
 ## Want to Learn More?
 
-I know these conversations cover a lot of ground—from architectural decisions to business strategy. I try to capture what I learn from working with these teams, but sometimes having someone walk you through it can be more helpful. If you're building similar systems and want some guidance, I do both consulting and training:
+I know these conversations cover a lot of ground—from architectural decisions to business strategy. If you want more material in this vein:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
+[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+
+If you want hands-on help, I recommend reaching out to my friend Nila: [nila.is](https://nila.is/). Please mention you came from me.

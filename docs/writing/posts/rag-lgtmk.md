@@ -21,9 +21,7 @@ tags:
 
 I work with a few seed series a startups that are ramping out their retrieval augmented generation systems. I've noticed a lot of unclear thinking around what metrics to use and when to use them. I've seen a lot of people use "LGTM@Few" as a metric, and I think it's a terrible idea. I'm going to explain why and what you should use instead.
 
-If you want to learn about my consulting practice check out my [services](../../services.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)
-
----
+For more writing on RAG and evaluation, start with [RAG series index](./rag-series-index.md).
 
 When giving [advice](./rag.md) to developers on [improving](./rag-inverted.md) their retrieval augmented generation, I usually say two things:
 

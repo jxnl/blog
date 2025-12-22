@@ -37,7 +37,7 @@ Heres some examples of what I'd want:
 
 **Migration and optimization services.** When your Supabase bill starts hurting, Lovable could help you migrate to more cost-effective infrastructure. When you need CDN optimization or database scaling, they're incentivized to help because your success is their success.
 
-As a [consultant](./consulting-everything-i-know.md) myself, I know people would happily pay 5% for this level of support. It's similar to how I structure my [consulting services](../../services.md) - focusing on outcomes rather than hours. The alternative is hiring agencies, managing multiple vendors, or learning infrastructure management while trying to run a business.
+When I was consulting, I learned people will happily pay 5% for this level of support if it meaningfully reduces time-to-value. The alternative is hiring agencies, managing multiple vendors, or learning infrastructure management while trying to run a business.
 
 Compare that to piecing together Stripe, customer support, infrastructure management, and scaling expertise across multiple vendors. Even 15% starts looking like a bargain.
 

@@ -238,9 +238,9 @@ Thanks for reading!
 If you've found this information valuable and want to apply these concepts to your own projects, we offer two learning pathways to help you enhance your RAG applications:
 
 1. A free email sequence delivering bite-sized RAG insights directly to your inbox
-2. An intensive 6-week cohort-based course for in-depth, hands-on learning
+2. A set of archived course resources and structured reading paths (course closed)
 
 Choose the option that best suits your learning style and professional goals:
 
 [Sign up for the Free Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[Maven Course](https://maven.com/applied-llms/rag-playbook){ .md-button .md-button--secondary }
+[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }

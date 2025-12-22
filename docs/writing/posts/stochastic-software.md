@@ -33,7 +33,7 @@ This writing stems from my experience advising a few startups, particularly smal
 
 I really want to highlight the difference between software and science. In college, I studied physics and computational mathematics, where I worked on research in computational social science and epidemiology. I've worked at Facebook to build models that can detect and priotitize content moderation work flows, and I've built probabilistic systems at Stitchfix with vision models, product search, embeddings, and recommendation systems. However, I've never considered myself a software engineer.
 
-If you want to learn about my consulting practice check out my [services](../../services.md) page. If you're interested in working together please reach out to me via [email](mailto:jason+hire@jxnl.co)
+For more writing on ML systems and RAG, start with `docs/writing/index.md`.
 
 Why? None of these are things that I would consider software, in the classical sense. None of these things are features that could have been built on some kind of sprint: instead, these are all probabilistic systems that require significant exploration and experimentation to build.
 

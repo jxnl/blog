@@ -133,7 +133,7 @@ Remember, the goal isn't to have a perfect system on day one. It's to build a fl
 
 ## Want to learn more?
 
-Ready to build your own data flywheel? The teams that nail this create systems that get better every day instead of slowly degrading. Need help getting started? I work with teams on this all the time:
+Ready to build your own data flywheel? The teams that nail this create systems that get better every day instead of slowly degrading. Here are two good starting points:
 
-[Consulting Services](../../services.md){ .md-button .md-button--primary }
-[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button }
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
+[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }

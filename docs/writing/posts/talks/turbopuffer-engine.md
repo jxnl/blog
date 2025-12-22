@@ -24,12 +24,6 @@ I hosted a session with Simon, CEO of TurboPuffer, to explore how vector search 
 
 ---
 
-👉 If you want to learn more about RAG systems, check out our RAG Playbook course. Here is a 20% discount code for readers. 👈
-
-[RAG Playbook - 20% off for readers](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
-
----
-
 ## Why is TurboPuffer different from traditional vector databases?
 
 TurboPuffer represents a fundamentally different approach to vector search by being the first completely object storage native database. This architecture emerged from two key ingredients needed for any successful new database:
@@ -254,8 +248,4 @@ TurboPuffer currently has minimum spend requirements, making it more suitable fo
 
 ---
 
-👉 If you want to learn more about RAG systems, check out our RAG Playbook course. Here is a 20% discount code for readers. 👈
-
-[RAG Playbook - 20% off for readers](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
-
----
+If you want a structured path through this topic, start with [RAG resources](../../../systematically-improve-your-rag.md).

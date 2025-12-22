@@ -15,8 +15,6 @@ Use your browser's search (Ctrl+F) to find specific terms or questions, or brows
 
 This is a collection of questions and answers from the office hours sessions of our course.
 
-[Systematically Improving RAG &mdash; readers get 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
-
 ## What is your take on DSpy? Should we use it?
 
 Generally, I think DSpy allows you to do some kind of prompt optimization by synthetically creating a bunch of few-shot examples and then identifying which of these examples could improve the performance of your system.
@@ -813,7 +811,7 @@ This approach helps ensure reliability across different types of function callin
 
 ## Want to go deeper? Get the RAG Playbook
 
-If you're looking to systematically improve your RAG applications, check out the [Systematically Improving RAG &mdash; readers get 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary } course. This 4-week program covers evaluation, advanced retrieval, and building a data flywheel for continuous improvement.
+If you're looking for a structured path through this material, start with the RAG series index: [RAG System Optimization Series](./rag-series-index.md).
 
 ---
 

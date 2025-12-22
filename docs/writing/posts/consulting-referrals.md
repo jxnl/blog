@@ -124,12 +124,6 @@ Remember:
 
 By implementing these strategies, you'll find that your referral meetings become more productive, more comfortable, and ultimately, more successful.
 
-If you found this helpful and want to build out your consulting practice, subscribe to my newsletter for more posts on how I built out mine.
-
-<form action="https://indieconsulting.podia.com/email_lists/884902/subscriptions" accept-charset="UTF-8" method="post" style="width: 100%; max-width: 600px; margin: 0 auto;">
-    <input type="text" name="name" placeholder="Name" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="email" name="email" required="required" placeholder="Email" style="width: 100%; padding: 10px; font-size: 16px; margin-bottom: 10px;" />
-    <input type="submit" value="Subscribe" style="width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; font-size: 16px; cursor: pointer;" />
-</form>
+Note: this post is archival. I’m no longer taking consulting engagements.
 
 If you're interest in my other writing checkout my post on my [consulting stack](./consulting-stack.md).

@@ -22,7 +22,7 @@ Picture this: You're sitting at your desk, contemplating the leap into AI consul
 
 <!-- more -->
 
-I get it. A few years ago, I was in your shoes. After [a hand injury](./hands-part-1.md) forced me to step back from intensive coding, I had to rethink my career path. What started as a necessity evolved into an incredible journey – my consulting business now generates $50,000-$120,000 monthly through [expert calls](https://cal.com/jasonliu/expert-call-55-minutes), with more flexibility and fewer hours than my previous engineering role.
+I get it. A few years ago, I was in your shoes. After [a hand injury](./hands-part-1.md) forced me to step back from intensive coding, I had to rethink my career path. What started as a necessity evolved into an incredible journey—at the time, my consulting business was generating $50,000-$120,000 monthly through expert calls, with more flexibility and fewer hours than my previous engineering role.
 
 I've documented everything I've learned along the way: from [setting up the essential consulting tech stack](./consulting-stack.md) and [marketing strategies that actually work](./consulting-marketing.md), to [building referral networks](./consulting-referrals.md) and [transitioning from contractor to consultant](./consulting-indie.md). But before diving into those specifics, let me share the fundamental principles that took me years to figure out. Drawing from my experience [building AI applications](./mvp.md) and working with early-stage companies, I'll walk you through what I wish someone had told me when I started this journey.
 
@@ -116,6 +116,4 @@ Remember: The goal isn't to build a perfect consulting business overnight. It's 
 
 The world needs more good AI consultants. Not just people who can implement algorithms, but those who can bridge the gap between technical possibilities and business outcomes. That could be you.
 
-P.S. Want more detailed insights about building your AI consulting practice? Subscribe to my newsletter where I share weekly tips and strategies from my own journey.
-
-[Subscribe to my Indie Consulting Newsletter](https://indieconsulting.podia.com/){ .md-button .md-button--primary }
+Note: this post is archival. I’m no longer taking consulting engagements.

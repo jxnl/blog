@@ -20,6 +20,8 @@ Retrieval-Augmented Generation (RAG) has become the foundation of modern AI appl
 
 This guide covers everything from fundamental concepts to advanced optimization techniques, anti-patterns to avoid, and real-world case studies from successful deployments across industries.
 
+If you want hands-on help, I recommend reaching out to my friend Nila: [nila.is](https://nila.is/). Please mention you came from me.
+
 <!-- more -->
 
 ## What Makes RAG Systems Unique?
@@ -220,8 +222,7 @@ Remember: the goal isn't to build the most sophisticated RAG system possible, bu
 
 ## Want to Learn More?
 
-I know this is a lot of material—RAG systems touch everything from data engineering to user psychology. I try to write down everything I learn from consulting with teams, but sometimes office hours or more structured guidance can be helpful. If you want to work through this systematically, here are a couple ways I can help:
+I know this is a lot of material—RAG systems touch everything from data engineering to user psychology. If you want to work through this systematically, here are a couple good places to start:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[Maven RAG Playbook — 20% off with code EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--secondary }
-[Consulting Services](../../services.md){ .md-button }
+[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }

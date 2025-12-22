@@ -1,7 +1,7 @@
 site_name: Jason Liu
 site_author: Jason Liu
 site_description: >-
-  AI Consulting, RAG, and other personal notes.
+  Applied AI, RAG, and personal notes.
 repo_name: blog
 repo_url: https://github.com/jxnl/blog/
 site_url: https://jxnl.co/
@@ -118,11 +118,8 @@ nav:
     - User Manual: "user_manual.md"
     - Books: 'books.md'
     - Things: 'things.md'
-  - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
-  - Consulting:
-    - Consulting Services: "services.md"
-    - Jump on a Call: "expert-calls.md"
     - Experts and Vendors: "experts-and-vendors.md"
+  - RAG Resources: "systematically-improve-your-rag.md"
   - Resume: "resume.md"
   - Job Board: "https://jobs.applied-llms.org"
   - Writing:

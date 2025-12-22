@@ -426,7 +426,7 @@ As we continue to explore the depths of RAG applications, the following areas wi
 
 ## Want to learn more?
 
-Most teams jump straight to Level 4 complexity and wonder why everything breaks. The secret? Master each level before moving up. Want help navigating this progression? Here's how I work with teams:
+Most teams jump straight to Level 4 complexity and wonder why everything breaks. The secret is to master each level before moving up. If you want a guided path through the material:
 
-[Consulting Services](../../services.md){ .md-button .md-button--primary }
-[Maven RAG Playbook — 20% off with EBOOK](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button }
+[RAG series index](./rag-series-index.md){ .md-button .md-button--primary }
+[Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--secondary }

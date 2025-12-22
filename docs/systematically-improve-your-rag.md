@@ -1,17 +1,14 @@
 ---
-description: A 6-week certification for building production RAG systems. 4.8 rating from 1000+ engineers at OpenAI, Anthropic, Google, and more.
+description: Previously I ran a cohort-based course on systematically improving RAG applications. This course is now closed.
 ---
 
-# Systematically Improve Your RAG Applications
+# Systematically Improve Your RAG Applications (Closed)
 
-**Top-rated AI course on Maven (4.8/5 stars, 1000+ students)**
+Previously, I ran a cohort-based course on systematically improving RAG applications.
 
-A 6-week, hands-on certification that takes you from evaluation fundamentals to production-grade RAG systems. Stop guessing. Start measuring.
+**This course is no longer accepting enrollments.**
 
-[Enroll on Maven (20% off with code EBOOK)](https://maven.com/applied-llms/rag-playbook?promoCode=EBOOK){ .md-button .md-button--primary }
-[Free 6-Day Crash Course](https://improvingrag.com){ .md-button }
-
----
+For the core ideas and frameworks, start with [Writing](./writing/index.md) and the series index: [RAG Master Series](./writing/posts/rag-series-index.md).
 
 ## Trusted By Engineers From
 
@@ -41,8 +38,6 @@ Most RAG implementations fail because teams focus on model selection and prompt 
 - Building one-size-fits-all systems that underperform
 
 This course gives you a clear, repeatable process: from collecting the right data and generating synthetic evaluations, to routing strategies, fine-tuned embeddings, and practical UX improvements.
-
----
 
 ## What You'll Learn
 
@@ -97,6 +92,7 @@ Create systems that get better with every user interaction. Continuous refinemen
     <p class="author">Chiheb Dkhil, Founder & CTO at Cynergis AI</p>
   </div>
 
+<<<<<<< HEAD
   <div class="testimonial-card">
     <p class="quote">"If you've already shipped a RAG prototype and want a repeatable path to reliability, <strong>this course delivers a practical, evaluation-first playbook</strong>. You'll get the most from it if you've deployed a RAG system."</p>
     <p class="author">Hendrik Reh, Indie Consultant</p>
@@ -174,3 +170,9 @@ Start with the free RAG Playbook newsletter. Get bite-sized lessons covering the
     What do you think?
 
     {Your Name}
+=======
+## Where to start instead
+
+- Browse the RAG posts in `docs/writing/posts/`.
+- Start from `docs/writing/posts/rag-series-index.md` if you want a guided path.
+>>>>>>> f3f46a5 (Close consulting; add Nila referral)
