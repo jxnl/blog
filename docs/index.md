@@ -4,7 +4,7 @@ description: Creator of Instructor (6M+ downloads). Investor. Building tools and
 
 # Jason Liu
 
-Creator of [Instructor](https://python.useinstructor.com/) (6M+ monthly downloads). Angel investor and a16z scout. Based in New York.
+Creator of [Instructor](https://python.useinstructor.com/) (6M+ monthly downloads). Founded a boutique AI engineering consulting firm. Angel investor and a16z scout. Based in San Francisco.
 
 Previously Staff ML Engineer at Stitch Fix (2018-2023). Built tools and frameworks helping developers move faster with AI. Now focusing on what developers actually need to ship. Soon joining a lab to build at scale.
 
@@ -29,7 +29,7 @@ Previously Staff ML Engineer at Stitch Fix (2018-2023). Built tools and framewor
 
 ## Past Consulting Work
 
-From 2023-2024, I worked with companies on turning prototypes into production systems. No maintenance contracts. No dependencies. Just results.
+From 2023-2025, I worked with companies on turning prototypes into production systems. No maintenance contracts. No dependencies. Just results.
 
 <div class="client-grid" markdown>
 
@@ -54,7 +54,9 @@ Also: [Enterpret](https://enterpret.com/), [Tensorlake](https://tensorlake.ai/),
 
 ### Systematically Improve Your RAG
 
-A [6-week hands-on course](./systematically-improve-your-rag.md) where developers build and ship production RAG systems. **4.8 rating** from 1000+ engineers at OpenAI, Anthropic, Google, Microsoft, Amazon, and more.
+A [6-week hands-on course](./systematically-improve-your-rag.md) where developers build and ship production RAG systems. **4.8 rating** from 1000+ engineers.
+
+**Where students come from:** OpenAI, Anthropic, Google, Microsoft, Amazon, Airbnb, Databricks, TikTok, Shopify, Nvidia, Meta, GitLab, Intercom, PostHog, Miro, Workday, Mozilla, Red Hat, Gumroad, Visa, PwC, KPMG, Accenture, Bain & Company, Booz Allen Hamilton, Northrop Grumman, DataStax, Decagon
 
 Learn the evaluation-first approach to building systems that actually work, not just papers.
 
@@ -138,8 +140,8 @@ Angel investor and a16z scout. Working relationships with [Weekend Fund](https:/
 
 | | |
 |---|---|
-| **Lab (upcoming)** | Soon |
-| **567 Studios** | Founder (2023-2024) - AI consulting and training |
+| **Lab (upcoming)** | TBD |
+| **567 Studios** | Founder (2023-2025) - AI consulting and training |
 | **Stitch Fix** | Staff ML Engineer (2018-2023) |
 | **Meta** | Data Scientist (2017) |
 | **University of Waterloo** | Computational Mathematics & Statistics |

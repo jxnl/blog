@@ -6,7 +6,7 @@ description: AI consulting (2023-2024) - Archive of past consulting work.
 
 **This service is no longer available.**
 
-From 2023-2024, I helped companies turn prototypes into production systems, with a focus on transforming great engineers into great AI engineers. The work delivered measurable improvements across evaluation frameworks, agent systems, and systematic experimentation.
+From 2023-2025, I helped companies turn prototypes into production systems, with a focus on transforming great engineers into great AI engineers. The work delivered measurable improvements across evaluation frameworks, agent systems, and systematic experimentation.
 
 If you're looking for hands-on learning, check out my [RAG course](./systematically-improve-your-rag.md) where 1000+ engineers have learned to build production systems.
 

@@ -20,7 +20,7 @@ Creator of [Instructor](https://python.useinstructor.com/) (6M+ monthly download
 
 ### Founder, 567 Studios
 
-**2023 - 2024**
+**2023 - 2025**
 
 - Worked with Seed to Series B companies on AI best practices: RAG, Context Engineering, Evals
 - Consulting clients: Zapier, HubSpot, Limitless, Weights & Biases, Modal Labs, Timescale, Pydantic

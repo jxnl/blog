@@ -6,7 +6,7 @@ description: Expert calls (2023-2024) - Archive of past consultation service.
 
 **This service is no longer available.**
 
-From 2023-2024, I offered paid consultations on AI systems, RAG, embeddings, and ML engineering. I worked with teams at Zapier, HubSpot, Anthropic, and dozens of startups on their toughest AI challenges.
+From 2023-2025, I offered paid consultations on AI systems, RAG, embeddings, and ML engineering. I worked with teams at Zapier, HubSpot, Anthropic, and dozens of startups on their toughest AI challenges.
 
 For ongoing learning, consider my [RAG course](./systematically-improve-your-rag.md).
 
