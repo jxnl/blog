@@ -1,12 +1,12 @@
 ---
-description: AI consultant, investor, and creator of Instructor. Founder of 567 Studios. I help teams build better AI systems.
+description: Creator of Instructor (6M+ downloads). Investor. Building tools and knowledge for developers working with AI. Soon joining a lab.
 ---
 
 # Jason Liu
 
-Founder of [567 Studios](./services.md). Creator of [Instructor](https://python.useinstructor.com/) (6M+ monthly downloads). Angel investor and a16z scout. Based in New York.
+Creator of [Instructor](https://python.useinstructor.com/) (6M+ monthly downloads). Angel investor and a16z scout. Based in New York.
 
-Previously Staff ML Engineer at Stitch Fix (2018-2023). RSI forced me to pivot from coding to teaching. Now I help teams work more scientifically: measuring improvements, iterating quickly, and focusing on what truly matters.
+Previously Staff ML Engineer at Stitch Fix (2018-2023). Built tools and frameworks helping developers move faster with AI. Now focusing on what developers actually need to ship. Soon joining a lab to build at scale.
 
 <div class="hero-stats" markdown>
 
@@ -15,7 +15,6 @@ Previously Staff ML Engineer at Stitch Fix (2018-2023). RSI forced me to pivot f
 </div>
 
 [:material-email: Subscribe to Newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary }
-[:material-briefcase: Work with Me](./services.md){ .md-button }
 
 ---
 
@@ -28,9 +27,9 @@ Previously Staff ML Engineer at Stitch Fix (2018-2023). RSI forced me to pivot f
 
 ---
 
-## Consulting
+## Past Consulting Work
 
-I help companies turn prototypes into production systems. No maintenance contracts. No dependencies. Just results.
+From 2023-2024, I worked with companies on turning prototypes into production systems. No maintenance contracts. No dependencies. Just results.
 
 <div class="client-grid" markdown>
 
@@ -49,24 +48,22 @@ I help companies turn prototypes into production systems. No maintenance contrac
 
 Also: [Enterpret](https://enterpret.com/), [Tensorlake](https://tensorlake.ai/), [Trunk Tools](https://trunktools.com/), [Naro](http://narohq.com/), [New Computer](http://new.computer/), [Sandbar](https://sandbar.inc/), [Dunbar](https://trydunbar.com/), [Bytebot](https://bytebot.ai/), [Kay.ai](http://kay.ai/), [Galileo](https://www.rungalileo.io/), [Distributional](https://www.distributional.com/)
 
-[:material-calendar: Book Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
-
 ---
 
-## Training
+## For Developers
 
 ### Systematically Improve Your RAG
 
-A [6-week certification](./systematically-improve-your-rag.md) for engineers who want to build production RAG systems. **4.8 rating** from 1000+ engineers.
+A [6-week hands-on course](./systematically-improve-your-rag.md) where developers build and ship production RAG systems. **4.8 rating** from 1000+ engineers at OpenAI, Anthropic, Google, Microsoft, Amazon, and more.
 
-**Where students come from:** OpenAI, Anthropic, Google, Microsoft, Amazon, Airbnb, Databricks, TikTok, Shopify, Nvidia, Meta, GitLab, Intercom, PostHog, Miro, Workday, Mozilla, Red Hat, Gumroad, Visa, PwC, KPMG, Accenture, Bain & Company, Booz Allen Hamilton, Northrop Grumman, DataStax, Decagon
+Learn the evaluation-first approach to building systems that actually work, not just papers.
 
 [:material-email: Free 6-Day Crash Course](https://improvingrag.com){ .md-button .md-button--primary }
-[Learn More](./systematically-improve-your-rag.md){ .md-button }
+[Enroll](./systematically-improve-your-rag.md){ .md-button }
 
 ### AI Coding Accelerator
 
-A [3-day intensive](https://maven.com/nila/ai-coding-accelerator) with Vignesh Mohankumar on building with AI tools.
+A [3-day intensive](https://maven.com/nila/ai-coding-accelerator) with Vignesh Mohankumar on shipping with AI tools.
 
 ---
 
@@ -141,9 +138,10 @@ Angel investor and a16z scout. Working relationships with [Weekend Fund](https:/
 
 | | |
 |---|---|
+| **Lab (upcoming)** | Soon |
+| **567 Studios** | Founder (2023-2024) - AI consulting and training |
 | **Stitch Fix** | Staff ML Engineer (2018-2023) |
 | **Meta** | Data Scientist (2017) |
-| **South Park Commons** | Sabbatical |
 | **University of Waterloo** | Computational Mathematics & Statistics |
 
 ---
@@ -155,5 +153,3 @@ Angel investor and a16z scout. Working relationships with [Weekend Fund](https:/
 [:fontawesome-brands-x-twitter: Twitter](https://twitter.com/jxnlco) | [:fontawesome-brands-github: GitHub](https://github.com/jxnl) | [:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/jxnlco) | [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/@jxnlco)
 
 </div>
-
-**Consulting:** [work@jxnl.co](mailto:work@jxnl.co)

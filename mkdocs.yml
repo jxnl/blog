@@ -6,7 +6,7 @@ repo_name: blog
 repo_url: https://github.com/jxnl/blog/
 site_url: https://jxnl.co/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Jason Liu 
+copyright: Copyright &copy; 2026 Jason Liu
 theme:
   name: material
   custom_dir: overrides
@@ -180,4 +180,4 @@ extra_javascript:
   - javascripts/analytics.js
   - https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-copyright: Copyright &copy; 2023 Jason Liu
+copyright: Copyright &copy; 2026 Jason Liu

@@ -1,18 +1,18 @@
 ---
-description: Jason Liu - Staff ML Engineer, AI Consultant, Creator of Instructor. Looking for my next 4-5 year project.
+description: Jason Liu - Creator of Instructor, building tools and knowledge for developers working with AI. Soon joining a lab.
 ---
 
 # Jason Liu
 
-**Staff ML Engineer | AI Consultant | Open Source Creator**
+**Open Source Creator | Tools for Developers | AI Systems Builder**
 
 [:material-email: jason@jxnl.co](mailto:jason@jxnl.co) | [:fontawesome-brands-github: jxnl](https://github.com/jxnl) | [:fontawesome-brands-x-twitter: jxnlco](https://twitter.com/jxnlco) | [:fontawesome-brands-linkedin: jxnlco](https://linkedin.com/in/jxnlco)
 
 ---
 
-Former Staff MLE at Stitch Fix. Creator of [Instructor](https://python.useinstructor.com/) (6M+ monthly downloads, 11k+ stars, cited by OpenAI). 10+ years building AI systems at scale. I help companies establish thought leadership in AI, build evaluation frameworks, and drive developer adoption.
+Creator of [Instructor](https://python.useinstructor.com/) (6M+ monthly downloads, 11k+ stars, cited by OpenAI). 10+ years building AI systems at scale. Built frameworks helping developers move faster with AI.
 
-**Looking for my next 4-5 year project.**
+**Soon joining a lab to build at scale.**
 
 ---
 
@@ -20,12 +20,12 @@ Former Staff MLE at Stitch Fix. Creator of [Instructor](https://python.useinstru
 
 ### Founder, 567 Studios
 
-**2023 - Present**
+**2023 - 2024**
 
-- Work with Seed to Series B companies on AI best practices: RAG, Context Engineering, Evals
+- Worked with Seed to Series B companies on AI best practices: RAG, Context Engineering, Evals
 - Consulting clients: Zapier, HubSpot, Limitless, Weights & Biases, Modal Labs, Timescale, Pydantic
-- Built training programs on Maven for engineers from OpenAI, Anthropic, Google, Microsoft, Amazon, Netflix
-- Designed workflow automations and fine-tuned embedding models across industries
+- Built training programs on Maven for 1000+ engineers from OpenAI, Anthropic, Google, Microsoft, Amazon, Netflix
+- Designed evaluation frameworks, systematized experimentation, shipped production RAG systems
 
 ### Staff Machine Learning Engineer, Stitch Fix
 
@@ -70,5 +70,4 @@ Rehman, N., Liu, J., & Chunara, R. (2016). Propensity score matching for vaccina
 
 ---
 
-[:material-calendar: Book a Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
-[:material-email: Email Me](mailto:jason@jxnl.co){ .md-button }
+[:material-email: Get In Touch](mailto:jason@jxnl.co){ .md-button .md-button--primary }

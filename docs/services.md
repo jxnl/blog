@@ -1,17 +1,16 @@
 ---
-description: AI consulting for engineering leaders. $1M+ in results. Transform your team into AI experts in 2-3 months.
+description: AI consulting (2023-2024) - Archive of past consulting work.
 ---
 
-# AI Consulting
+# AI Consulting (Past Work)
 
-**Transform your great engineers into great AI engineers.**
+**This service is no longer available.**
 
-I help companies turn prototypes into production systems. Your existing team can become AI experts with the right frameworks and guidance. Measurable improvements in 2-3 months.
+From 2023-2024, I helped companies turn prototypes into production systems, with a focus on transforming great engineers into great AI engineers. The work delivered measurable improvements across evaluation frameworks, agent systems, and systematic experimentation.
+
+If you're looking for hands-on learning, check out my [RAG course](./systematically-improve-your-rag.md) where 1000+ engineers have learned to build production systems.
 
 **1000+** engineers trained | **6M+** monthly downloads (Instructor) | **11k+** GitHub stars
-
-[:material-calendar: Book a 30-min Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
-[:material-email: Email me directly](mailto:work@jxnl.co){ .md-button }
 
 ---
 
@@ -99,20 +98,15 @@ When our engagement ends, you'll have:
 
 ---
 
-## Investment Options
+## Past Pricing Structure
 
 **Monthly Advisory: $19,500/month**
 Weekly strategy sessions, unlimited access, for teams with ongoing needs.
 
-For larger engagements, my minimum is $80,000. Email me to discuss.
+For larger engagements, the minimum was $80,000.
 
 ---
 
-## Ready to Start?
+## Looking for hands-on learning?
 
-[:material-calendar: Book a 30-min Strategy Call](https://form.typeform.com/to/hQH2X1bI){ .md-button .md-button--primary }
-[:material-email: Direct Question? Email me](mailto:work@jxnl.co){ .md-button }
-
----
-
-Need something more focused? Check out my [RAG course](./systematically-improve-your-rag.md) for specific implementation techniques.
+Check out my [RAG course](./systematically-improve-your-rag.md) where you'll learn systematic approaches to building production AI systems.

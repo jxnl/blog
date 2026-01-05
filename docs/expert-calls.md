@@ -1,64 +1,33 @@
 ---
-description: Book a paid consultation with Jason Liu. Get expert advice on RAG, AI systems, and ML engineering.
+description: Expert calls (2023-2024) - Archive of past consultation service.
 ---
 
-# Expert Calls
+# Expert Calls (No Longer Available)
 
-Get direct access to my expertise on AI systems, RAG, embeddings, and ML engineering. I've helped teams at Zapier, HubSpot, Anthropic, and dozens of startups solve their toughest AI challenges.
+**This service is no longer available.**
+
+From 2023-2024, I offered paid consultations on AI systems, RAG, embeddings, and ML engineering. I worked with teams at Zapier, HubSpot, Anthropic, and dozens of startups on their toughest AI challenges.
+
+For ongoing learning, consider my [RAG course](./systematically-improve-your-rag.md).
 
 ---
 
-## Quick Consultation
+## Past Service Options
 
+### Quick Consultation
 **25 minutes | $500**
-
-For focused questions and problem-solving.
-
 - Technical queries and architecture review
 - Strategy checks and roadblock resolution
 - Quick feedback on your approach
 
-[Book Quick Call](https://cal.com/jasonliu/expert-call){ .md-button .md-button--primary }
-
----
-
-## Comprehensive Consultation
-
+### Comprehensive Consultation
 **55 minutes + written memo | $1,000**
+- Deep dive on AI challenges
+- Strategic recommendations
+- Written memo with next steps
 
-For in-depth analysis and planning.
-
-**Before the call:**
-
-- Send your questions and relevant documents
-- I'll review your materials in advance
-
-**During the call:**
-
-- Deep dive on your AI challenges
-- Develop strategies and recommendations
-- Include team members as needed
-
-**After the call:**
-
-- Written memo summarizing our discussion
-- Specific recommendations and next steps
-
-[Book Comprehensive Call](https://cal.com/jasonliu/expert-call-55-minutes){ .md-button .md-button--primary }
+**Common topics covered:** RAG system architecture, embedding model selection, evaluation frameworks, production deployment, agent system design, technical hiring.
 
 ---
 
-## Common Topics
-
-- RAG system architecture and optimization
-- Embedding model selection and fine-tuning
-- Evaluation frameworks and metrics
-- Production deployment strategies
-- Agent system design
-- Technical hiring and team building
-
----
-
-## Need Ongoing Support?
-
-For larger engagements, check out my [consulting services](./services.md) or [RAG course](./systematically-improve-your-rag.md).
+For hands-on learning from these topics, check out my [RAG course](./systematically-improve-your-rag.md).
