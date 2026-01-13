@@ -140,6 +140,10 @@ One good Yohji piece annihilates three seasons of hype drops. Buy once, hem to y
 
 The trick: find a couple good brands that work for your body type, then stick with them as you learn about your proportions.
 
+### Extreme Cashmere
+
+**[Extreme Cashmere](https://extreme-cashmere.com/)** — Dutch brand making oversized, genderless cashmere knits. Their pieces are numbered instead of named. The staff at their Soho store is wonderful, and the quality shows in the blend of materials. I have a gray set for loungewear and an outerwear jacket.
+
 ---
 
 ## Home and Objects
