@@ -169,7 +169,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/jxnl
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/jxnl
+      link: https://www.linkedin.com/in/jxnlco
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
