@@ -36,7 +36,8 @@ Previously, I ran a solo consulting practice focused on helping startups as many
 
 ## Systematically Improve Your RAG (Closed)
 
-I previously ran a cohort-based RAG course. Enrollment is closed, but I’m keeping the material and posts up.
+I previously ran a cohort-based RAG course. Enrollment is closed, and the full guide now lives at [Systematically Improving RAG](https://567-labs.github.io/systematically-improving-rag/).
+That site is the central place for RAG frameworks and updates.
 
 Where students came from:
 
@@ -66,7 +67,7 @@ Where students came from:
 </div>
 
 [:material-email: Free 6-Day Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[RAG resources](./systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+[Comprehensive RAG guide](https://567-labs.github.io/systematically-improving-rag/){ .md-button .md-button--secondary }
 
 ## What People Are Saying
 

@@ -112,18 +112,17 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 nav:
-  - Home: 
+  - Home:
     - Introductions: 'index.md'
     - Investments: "investments.md"
     - User Manual: "user_manual.md"
     - Books: 'books.md'
     - Things: 'things.md'
     - Experts and Vendors: "experts-and-vendors.md"
-  - RAG Resources: "systematically-improve-your-rag.md"
-  - Resume: "resume.md"
+    - RAG Resources: "systematically-improve-your-rag.md"
+    - Resume: "resume.md"
   - Job Board: "https://jobs.applied-llms.org"
-  - Writing:
-    - "writing/index.md"
+  - Writing: "writing/index.md"
 plugins:
   - social
   - rss:
