@@ -1,119 +1,111 @@
 404.md:
-  hash: f249d993fb179575c106870fcb81a480
-  summary: This "404 - Page not found" error page informs users that the requested
-    webpage does not exist due to possible reasons like page relocation, deletion,
-    broken links, or URL typos. It provides helpful navigation options including a
-    link back to the homepage, a search function, and recommendations for popular
-    content such as "Systematically Improve Your RAG," consulting services, and the
-    user manual. Users encountering issues are encouraged to report the problem via
-    GitHub or contact on Twitter. Key terms include 404 error, page not found, broken
-    link, URL typo, navigation, popular content, and user support.
+  hash: c902ffa5a4d7845b77e10491b5e3017b
+  summary: This 404 Page Not Found error page informs visitors that the requested
+    page doesn't exist, possibly due to being moved, deleted, a broken link, or a
+    URL typo. It provides helpful navigation options including returning to the homepage,
+    using the search function, and exploring popular content like RAG resources and
+    the User Manual. For further assistance, users are encouraged to report issues
+    on GitHub or contact via Twitter. Key keywords include 404 error, page not found,
+    broken link, navigation, RAG resources, user manual, support, and troubleshooting.
 books.md:
-  hash: 1714460dc3cb638f0d1c73b6afcdaff7
-  summary: "Explore a curated reading journey featuring influential philosophical\
-    \ works, personal growth books, and business insights. Highlights include classics\
-    \ like Tao Te Ching, Jean-Paul Sartre\u2019s existentialist writings, and Liu\
-    \ Cixin\u2019s science fiction masterpiece The Three-Body Problem. The collection\
-    \ spans diverse genres from Eastern philosophy and modern existentialism to practical\
-    \ business guides such as Principles by Ray Dalio and 100M Offers by Alex Hormozi.\
-    \ With a focus on self-reflection, cultural exploration, and professional development,\
-    \ this comprehensive list offers valuable recommendations for readers seeking\
-    \ inspiration in philosophy, literature, and entrepreneurship. Keywords: philosophy\
-    \ books, personal growth, business books, existentialism, Tao Te Ching, The Three-Body\
-    \ Problem, self-reflection, professional development, reading recommendations."
+  hash: ad082f48b1decb0979804dce22eea8f6
+  summary: 'Discover a curated collection of influential books spanning philosophy,
+    business, Eastern aesthetics, and fiction that have shaped profound thinking and
+    personal growth. Explore transformative works by Lao Tzu, Jean-Paul Sartre, and
+    Liu Cixin that delve into existentialism, humanism, and speculative fiction, alongside
+    essential business guides from Alex Hormozi and Ray Dalio. This thoughtfully categorized
+    reading list offers insights into life, mindfulness, creativity, and leadership,
+    highlighting key themes such as Taoism, existential philosophy, marketing strategies,
+    and cultural aesthetics. Perfect for readers seeking intellectual enrichment,
+    practical business advice, and literary inspiration. Keywords: philosophy books,
+    business books, Eastern aesthetics, existentialism, Tao Te Ching, marketing strategies,
+    leadership, fiction, poetry, personal growth.'
 expert-calls.md:
-  hash: 8166cc0750e082cbb4882ab4f7449344
-  summary: 'Book expert AI consultation calls with Jason Liu to effectively tackle
-    your AI challenges. Choose between a Quick Consultation (25 minutes) for targeted
-    technical questions and problem-solving, or a Comprehensive Consultation (55 minutes)
-    featuring pre-call material review, in-depth strategy discussions, and a detailed
-    post-call memo with actionable recommendations. Ideal for businesses seeking expert
-    guidance on AI strategy, technical issues, and project advancement. Keywords:
-    AI consultation, expert AI calls, AI strategy, technical support, AI project planning,
-    Jason Liu.'
+  hash: 0a0e1756e624d412a967a34c5bb1de66
+  summary: 'This page announces the closure of paid expert calls previously offered.
+    It clearly states that expert calls are no longer available. For those seeking
+    writing guidance and resources, the page directs visitors to a dedicated writing
+    section. Key points include the discontinuation of expert calls and a focus on
+    providing writing resources as an alternative. Keywords: expert calls closed,
+    paid expert calls discontinued, writing resources, writing guidance, expert consultations
+    no longer available.'
 experts-and-vendors.md:
-  hash: 84474023a8ee435d945acfda2b842650
+  hash: e5b4c69e7d34205204ee17abe23df571
   summary: 'Access a curated network of AI and machine learning experts and trusted
-    vendors for comprehensive consulting packages designed to accelerate your business
-    growth. Collaborate with leading specialists in LLMs, ML infrastructure, recommender
-    systems, and data science from top companies like Amazon, Google, and startups.
-    Leverage cutting-edge AI tools and platforms, including LLM evaluation, multimodal
-    AI databases, serverless AI infrastructure, search and recommendation systems,
-    and AI-driven document processing. Empower your projects with expert guidance
-    and innovative solutions from industry leaders and trusted vendors in AI, ML consulting,
-    and technology. Keywords: AI consulting, machine learning experts, LLM evaluation,
-    AI platforms, data science consulting, AI vendors, recommender systems, AI infrastructure.'
+    vendors through specialized consulting packages. Our expert network includes professionals
+    with deep expertise in ML tools, infrastructure, large language model (LLM) evaluations,
+    recommender systems, high-performance inference servers, and data science, featuring
+    leaders from top institutions like Amazon, Google, and Berkeley. Partner with
+    trusted vendors offering cutting-edge AI/ML solutions such as LLM observability,
+    multimodal AI databases, serverless platforms, AI document processing, and robust
+    search and recommendation systems. Enhance your AI/ML projects with industry-leading
+    expertise and innovative technology by booking a strategy call today. Keywords:
+    AI experts, machine learning specialists, LLM evaluation, recommender systems,
+    AI consulting, trusted AI vendors, multimodal AI, serverless AI platforms, AI
+    document processing.'
 index.md:
-  hash: 365113080df7d67392a08a8199a51971
-  summary: 'Discover expert insights on Retrieval-Augmented Generation (RAG) techniques,
-    AI engineering, and consulting from a seasoned machine learning consultant and
-    educator. Join the upcoming 6-week intensive RAG certification course starting
-    February 2024 to learn systematic methods for optimizing RAG systems, enhance
-    probabilistic models, and implement advanced AI applications. Benefit from proven
-    frameworks used by top companies like OpenAI, Google, Microsoft, and Anthropic.
-    Access free resources including a 6-day RAG crash course, AI engineering job boards,
-    and educational content on AI product development, open source, and machine learning
-    best practices. Keywords: RAG systems, AI engineering, machine learning consulting,
-    AI applications, systematic improvement, AI certification course, AI jobs, startup
-    consulting, Instructor Python library.'
+  hash: 66b3a625fa705af80bfbfaf71784341a
+  summary: 'Jason Liu, a staff machine learning engineer and AI expert, shares in-depth
+    insights on Retrieval-Augmented Generation (RAG) techniques, AI engineering, and
+    best practices for building AI systems in production. With extensive experience
+    consulting for top tech companies like Zapier, HubSpot, and Microsoft, Jason focuses
+    on systematic AI application improvements, team training, and product acceleration.
+    His resources include a popular RAG playbook, free email courses, and a job board
+    for AI engineering roles at innovative startups. Connect with him for expert guidance
+    on AI development, semantic search, and practical AI system deployment. Key topics:
+    RAG, AI engineering jobs, AI systems in production, structured LLM outputs, startup
+    AI consulting, AI product growth, and systematic AI improvement.'
 investments.md:
-  hash: 94e27ac7f9291b0095b03c0d714be0ae
-  summary: "Discover cutting-edge investments in AI, health tech, and wearable technology\
-    \ focused on enhancing accessibility, data management, and personalized solutions.\
-    \ Featured companies include Kino.ai for AI-driven film footage organization,\
-    \ Augmental\u2019s innovative MouthPad wearable for digital accessibility, and\
-    \ Haize Labs\u2019 AI tools for stress testing large language models. Other notable\
-    \ investments are Exa\u2019s AI-powered search engine API, Lovable.dev and Rork\u2019\
-    s AI app builders, Extend\u2019s document automation with LLMs, and Empower Sleep\u2019\
-    s data-driven sleep care platform. These investments emphasize AI innovation,\
-    \ personalized health tech, scalable app development, and advanced data insights,\
-    \ driven by leading venture firms like Andreessen Horowitz, Sequoia, and General\
-    \ Catalyst."
+  hash: eda2499a9ab141166b4501b7d9c5692e
+  summary: 'Angel investments focus on AI infrastructure, developer tools, and applied
+    AI companies driving innovation in AI safety, code generation, search, document
+    processing, voice AI, and finance AI. Key portfolio companies include Haize Labs
+    for AI safety, Modal and Browserbase for cloud infrastructure, Lovable.dev and
+    Rork for AI-powered app and code generation, and Exa and Julius AI for AI-driven
+    search and data analysis. Investments also span accessibility, identity verification,
+    and health tech sectors, supporting startups with significant funding from top
+    investors like Andreessen Horowitz, Sequoia, and Y Combinator. Keywords: AI infrastructure,
+    angel investments, AI developer tools, AI startups, AI safety, AI code generation,
+    AI search, applied AI, AI financing, cloud AI, AI accessibility.'
 resume.md:
-  hash: de4b650912b3628da44a682eb52dad0b
-  summary: "Jason Liu is an experienced Machine Learning Engineer, consultant, and\
-    \ advisor with over 10 years of expertise in building scalable AI systems and\
-    \ training over 1000 practitioners. As the founder of 567 Studio, he specializes\
-    \ in helping startups and enterprises implement advanced AI solutions including\
-    \ Retrieval Augmented Generation (RAG), agentic applications, and custom embedding\
-    \ models across industries such as CRM, medical, and personal assistants. Formerly\
-    \ a Staff Machine Learning Engineer at Stitch Fix, Jason led the development of\
-    \ multimodal embedding systems generating $50M+ in annual revenue and designed\
-    \ high-impact frameworks handling 350M+ daily requests. He is also the creator\
-    \ of Instructor, a popular Python library with 4.5M+ monthly downloads. Jason\u2019\
-    s objectives include driving AI adoption, establishing thought leadership in agent\
-    \ engineering, and delivering cutting-edge ML consulting. Keywords: Machine Learning\
-    \ Engineer, AI consulting, agentic AI, Retrieval Augmented Generation, embedding\
-    \ models, developer adoption, multimodal embeddings, Python library, Instructor,\
-    \ AI training, scalable AI systems, natural language processing."
+  hash: 87bb8dad1d763e123c585f2b0f138e78
+  summary: Jason Liu is a Staff Machine Learning Engineer and AI Consultant with over
+    10 years of experience building scalable AI systems. He is the creator of Instructor,
+    a popular Python library for structured outputs from large language models, with
+    over 6 million monthly downloads and 11,000+ GitHub stars, cited by OpenAI. Formerly
+    a Staff ML Engineer at Stitch Fix and Data Scientist at Meta, Jason specializes
+    in AI best practices, evaluation frameworks, and driving developer adoption for
+    startups and enterprises. Currently leading 567 Studios, he consults for top companies
+    including Zapier, HubSpot, and Weights & Biases. Jason holds a Bachelor of Mathematics
+    from the University of Waterloo and is seeking his next 4-5 year AI project. Key
+    skills include machine learning engineering, AI consulting, open source development,
+    natural language processing, multimodal embeddings, and AI-driven recommendation
+    systems.
 services.md:
-  hash: 3872d35b4bdd68ee90c00873bf2f6330
-  summary: "Unlock $700k+ in proven AI consulting results with expert-led transformation\
-    \ of your engineering team into AI specialists in just 2-3 months. This AI consulting\
-    \ service empowers engineering leaders to build independence through advanced\
-    \ prompt engineering, rapid prototyping, autonomous agent systems, and hands-on\
-    \ skills transfer\u2014eliminating dependencies and maintenance contracts. Trusted\
-    \ by top clients like Zapier and HubSpot, the approach focuses on systematic experimentation,\
-    \ data-driven prioritization, and continuous improvement to accelerate AI product\
-    \ innovation and measurable business impact. Book a strategy call to elevate your\
-    \ team\u2019s AI capabilities and drive real-world results without recurring fees.\
-    \ Keywords: AI consulting, engineering transformation, prompt engineering, rapid\
-    \ prototyping, AI expertise, skills transfer, systematic experimentation, AI product\
-    \ acceleration, AI team training."
+  hash: 8074fd167954d252ebb1a88c1c74496d
+  summary: 'Formerly offering AI consulting, expert calls, and cohort-based training,
+    this professional no longer accepts consulting engagements or course enrollments.
+    Current focus areas include investing and occasional advisory roles for select
+    long-term, high-impact projects. Past collaborations include notable companies
+    like Zapier, HubSpot, and Weights & Biases. For resources and insights, explore
+    available writings on AI and related topics. Keywords: AI consulting, expert calls,
+    cohort-based training, investing, advisory roles, Zapier, HubSpot, AI resources,
+    professional expertise.'
 systematically-improve-your-rag.md:
-  hash: 9a112968cd4997576e436f4e528797b2
-  summary: 'Boost your skills with the top-rated 6-week Retrieval-Augmented Generation
-    (RAG) course on Maven.com, designed to help professionals systematically build
-    and improve robust, production-ready RAG systems. Learn practical strategies including
-    synthetic data generation, advanced retrieval techniques, embedding optimization,
-    query routing, and user-centric product design from industry experts. Trusted
-    by leading tech companies like OpenAI, Google, and Microsoft, this hands-on program
-    emphasizes data-driven evaluation, continuous feedback loops, and actionable metrics
-    to enhance search quality and user experience. Enroll to master RAG fundamentals,
-    advanced implementations, and cutting-edge AI tools with a risk-free money-back
-    guarantee and exclusive discounts. Keywords: Retrieval-Augmented Generation, RAG
-    course, synthetic data, embedding optimization, query routing, AI training, search
-    quality, user feedback, advanced retrieval, production-grade AI.'
+  hash: d8c8144550857afb655c2604f1e430f5
+  summary: 'The "Systematically Improve Your RAG Applications" course offers a structured,
+    evaluation-first approach to enhancing Retrieval-Augmented Generation (RAG) systems
+    by focusing on measurement, feedback, and continuous improvement rather than just
+    model selection and prompt engineering. Over six weeks, participants learn to
+    build synthetic data evaluations, optimize retrieval and routing strategies, fine-tune
+    domain-specific embeddings, and improve product UX to achieve 10-30% recall gains.
+    Trusted by engineers from leading AI companies like OpenAI and Google, the course
+    emphasizes RAG as a recommendation problem, providing practical frameworks for
+    scalable, data-driven enhancements. Although the cohort-based course is now closed,
+    core insights and frameworks are available through the RAG Master Series and related
+    resources. Keywords: RAG applications, Retrieval-Augmented Generation, evaluation-first,
+    synthetic data, fine-tuning embeddings, retrieval optimization, continuous improvement,
+    AI engineering, recommendation systems, RAG frameworks.'
 test-cache.md:
   hash: 36c03ebf9de2a59ba8805f64d0f1750a
   summary: 'This document outlines a test cache file designed to demonstrate features
@@ -140,15 +132,16 @@ things.md:
     premium audio, sustainable fashion, home organization, travel essentials, wellness
     supplements.'
 user_manual.md:
-  hash: 62b05519d35c1926697432752c578264
-  summary: This guide offers effective management and communication strategies for
-    new leaders prioritizing team growth, ownership, and efficient task delegation.
-    Emphasizing constant learning, fast execution, direct and asynchronous communication,
-    and clarity, it outlines how to provide frequent updates, give and receive feedback,
-    and delegate confidently. Key focus areas include clear, concise messaging tailored
-    for quick decisions, health-conscious workflow, and proactive leadership accountability.
-    Ideal for emerging managers seeking to enhance team productivity, task management,
-    and leadership skills in fast-paced environments.
+  hash: 417473545c16eb3dfa12b3b4dc55e754
+  summary: 'Learn how to work effectively with Jason Liu by understanding his communication
+    preferences, work style, and expectations. Emphasizing constant learning, fast
+    execution, and asynchronous, direct communication, Jason values clear, concise
+    updates and ownership of tasks. Key points include prioritizing client work, providing
+    regular feedback, minimizing complexity, and using structured, brief messages
+    with clear action items. This guide highlights Jason''s leadership approach as
+    hands-off, focusing on delegation, accountability, and continuous growth for both
+    him and his team. Keywords: Jason Liu, effective communication, work style, delegation,
+    asynchronous communication, task ownership, leadership approach, feedback, productivity.'
 writing-samples.md:
   hash: 0411cd0c544da857da3e23c9625f61fb
   summary: Our content showcases advanced applications of AI and machine learning,
@@ -162,16 +155,17 @@ writing-samples.md:
     AI model optimization, scalable cloud computing, RAG, synthetic data, text embeddings,
     GPT fine-tuning, and structured data handling.
 writing/index.md:
-  hash: 2e265210b76cde8db38a594ffe205feb
-  summary: This blog offers valuable insights on consulting, open source development,
-    and AI applications, with a special focus on Retrieval-Augmented Generation (RAG)
-    and Large Language Models (LLMs). Featuring personal stories, expert tips, and
-    comprehensive guides, it covers topics such as context engineering, consulting
-    tools, AI app development, and common software pitfalls. Readers can explore detailed
-    posts on improving RAG systems, context-aware AI agents, and solo consulting strategies,
-    alongside interviews and talks with industry experts. Key themes include AI consulting,
-    RAG technology, LLM applications, open source software, and practical entrepreneurship
-    advice.
+  hash: 21ea10ed411700db01c4af43e66c5e5b
+  summary: 'This blog explores applied AI, open source tools, and building with Large
+    Language Models (LLMs), with a strong focus on Retrieval-Augmented Generation
+    (RAG) systems and context engineering. It offers in-depth insights, practical
+    advice, and personal stories to help developers, entrepreneurs, and AI enthusiasts
+    enhance their AI applications. Key topics include improving RAG performance, avoiding
+    common mistakes, context design for better agent interactions, and launching AI
+    app MVPs. The site also features business and consulting guidance, plus talks
+    and interviews on AI development, vector databases, and software engineering best
+    practices. Keywords: applied AI, open source, LLMs, RAG, context engineering,
+    AI development, AI consulting, AI app MVP, vector databases.'
 writing/posts/advice.md:
   hash: 46755aaa63639775d54ebe0552b7fb89
   summary: This personal growth article by jxnl offers candid advice to young people
@@ -186,16 +180,16 @@ writing/posts/advice.md:
     include personal growth, self-improvement, confidence, career tips, mental health,
     choice, impostor syndrome, resilience, and self-worth.
 writing/posts/ai-agents-cross-linking.md:
-  hash: 2fd87a61cb2cfb22f918b9b13e722f1e
-  summary: "This article explains how AI agents, specifically using GPT-4 and Claude,\
-    \ can efficiently analyze over 100 blog posts to identify and add 50+ strategic\
-    \ internal cross-links in just 30 minutes. It outlines a two-step process involving\
-    \ automated AI-generated content summaries and AI-driven analysis to uncover semantic\
-    \ relationships and natural linking opportunities, improving SEO and reader engagement.\
-    \ Key benefits include scalable content strategy, precise line-by-line linking\
-    \ recommendations, and enhanced knowledge interconnection\u2014all achieved with\
-    \ minimal cost and time. Keywords: AI agents, internal linking, cross-linking,\
-    \ GPT-4, content strategy, SEO, automated summaries, blog optimization."
+  hash: 7cc65bfaba9b8ed99e6656caf874e98a
+  summary: This article explains how leveraging AI agents like GPT-4 and Claude can
+    automate and optimize internal cross-linking across 100+ blog posts in just 30
+    minutes. By generating AI-powered summaries and analyzing semantic content relationships,
+    the author successfully added 50+ strategic, actionable cross-links that improve
+    SEO, reader engagement, and content discoverability. The process involves automated
+    summarization scripts and AI-driven link recommendations, showcasing how AI enhances
+    content strategy, SEO, and knowledge management efficiently and cost-effectively.
+    Key topics include AI agents, content strategy, internal linking, GPT-4, SEO optimization,
+    and scalable blog management.
 writing/posts/ai-coding-accelerator.md:
   hash: ed95c3b7696df72921e7cb0d080e990b
   summary: "Discover how to transform your engineering team's productivity with the\
@@ -291,18 +285,19 @@ writing/posts/baths.md:
     bathing rituals, personal growth, relaxation, hygiene, spa, American bathhouses,
     Japan.'
 writing/posts/business-pricing-tools-agents.md:
-  hash: c08e1767b1b2a3d2118e15813817a347
-  summary: 'This article explores the crucial shift in positioning AI agents as headcount
-    alternatives rather than just tools, especially amid widespread tech layoffs and
-    hiring freezes. It highlights how businesses are allocating budgets more cautiously,
-    favoring solutions that maintain output while reducing personnel costs. Key points
-    include focusing on outcomes over process, adopting human-in-the-loop models,
-    and aligning AI offerings with organizational budget realities. The content emphasizes
-    that successful AI products today must deliver consistent results at a fraction
-    of traditional headcount costs, making this perspective essential for AI builders
-    and startups navigating the evolving economic landscape. Keywords: AI agents,
-    headcount replacement, SaaS pricing, economic uncertainty, tech layoffs, budget
-    allocation, human-in-the-loop AI, AI positioning, startup strategy.'
+  hash: 2ad05a8c5fdfc71a6609263ba2422c2d
+  summary: "This article explores the strategic shift in positioning AI agents as\
+    \ cost-effective headcount alternatives rather than mere SaaS tools, highlighting\
+    \ the impact of economic pressures and tech layoffs on corporate budgets. It emphasizes\
+    \ that businesses prioritize solutions that maintain output while reducing personnel\
+    \ costs, advocating for AI products designed to replace or augment human roles\
+    \ with a human-in-the-loop approach for quality control. Key takeaways include\
+    \ focusing on outcomes over processes, aligning AI pricing with headcount budgets,\
+    \ and adapting to hiring freezes, making this insight crucial for AI builders\
+    \ and startups aiming to survive and succeed in today\u2019s challenging economic\
+    \ climate. Keywords: AI agents pricing, headcount budget, economic reality, tech\
+    \ layoffs, AI SaaS positioning, human-in-the-loop, hiring freeze, cost-effective\
+    \ AI solutions."
 writing/posts/chasing-chase.md:
   hash: 711ef3c109af6d310e6fef4fdafb248c
   summary: This cautionary tale details a small business owner's harrowing experience
@@ -329,188 +324,185 @@ writing/posts/coding-agents-lessons.md:
     multi-agent systems, SWE-Bench, AI software engineering, code exploration, AI-powered
     development.'
 writing/posts/coding-series-index.md:
-  hash: bc24d08af077317dd9a7538796ea5aba
-  summary: 'The "Coding Agents Speaker Series" offers deep insights from industry
-    leaders behind top coding agents like Devin, Amp, Cline, and Augment, revealing
-    why simpler, exploration-first approaches outperform complex RAG architectures
-    in autonomous coding systems. Key takeaways include the superiority of grep over
-    embeddings for code search, the effectiveness of single-agent systems for maintaining
-    context coherence, and the importance of composable, Unix-style tool design. This
-    series is essential for engineering teams, product leaders, and AI researchers
-    aiming to build or evaluate economically viable coding agents that excel in real-world
-    software development by leveraging better context management, tool calling loops,
-    and strategic agent design. Keywords: coding agents, retrieval-augmented generation
-    (RAG), multi-agent systems, context engineering, tool design, agentic retrieval,
-    AI-assisted development, exploration-first agents, software automation.'
+  hash: c1964f0978e07df6b33231ca4e860566
+  summary: The "Coding Agents Speaker Series" offers deep industry insights from leading
+    teams behind top coding agents like Devin, Amp, Cline, and Augment, highlighting
+    why simpler architectures outperform complex systems in autonomous coding. Key
+    takeaways include the advantage of grep over embeddings for code search, the superiority
+    of single-agent systems for maintaining context coherence, and the shift from
+    retrieval-first to exploration-first paradigms. Covering topics such as agentic
+    retrieval, context engineering, tool-calling loops, and the "bitter lesson" of
+    AI development, the series provides practical lessons for building economically
+    viable, scalable coding agents. Ideal for engineering teams, product leaders,
+    and AI researchers, this Speaker Series explores evolving best practices in multi-agent
+    systems, RAG optimization, and human-agent collaboration within modern coding
+    environments.
 writing/posts/consulting-content-creation.md:
-  hash: 53894875f789094a36acb2133842fa38
-  summary: 'This guide for AI consultants offers strategies for creating content that
-    converts prospects into clients, builds a personal brand, and overcomes the time-for-money
-    trap. It emphasizes the importance of consistent content creation as a 24/7 sales
-    tool and explores using a variety of platforms like Twitter, LinkedIn, and personal
-    blogs. Key frameworks include the Value Equation and AIDA structure to maximize
-    impact, while title testing and platform-specific strategies optimize reach. The
-    guide outlines a systematic content creation process, highlights metrics for success,
-    and discusses the "flywheel effect" of content in attracting higher-value clients.
-    Keywords: AI consulting, content marketing, personal branding, content creation
-    strategies, AIDA framework, Value Equation, platform selection, time-for-money
-    trap.'
+  hash: 845db018a3dc393ac0d4ead2fac2c9bc
+  summary: 'This comprehensive guide for AI consultants emphasizes the power of consistent
+    content creation to transform consulting businesses by converting prospects into
+    clients and building a strong personal brand. Key strategies include leveraging
+    the Value Equation and AIDA framework to craft high-impact content, testing and
+    optimizing titles, and selecting appropriate platforms like Twitter, LinkedIn,
+    and email newsletters for distribution. The guide also highlights escaping the
+    time-for-money trap through diversified offerings, systematic idea generation,
+    and aggressive content repurposing. By focusing on targeted audience engagement,
+    measurable metrics, and creating long-term content assets, AI consultants can
+    attract the right clients, scale their business effectively, and build sustainable
+    success. Keywords: AI consulting, content creation, personal branding, client
+    acquisition, content strategy, AIDA framework, value equation, audience engagement,
+    content distribution, time-for-money trap.'
 writing/posts/consulting-dear-future.md:
-  hash: f353d16eae5d0e68afa755a5e1baa9c6
-  summary: The blog post invites AI professionals to transform their skills into a
-    profitable consulting career by subscribing to the "Indie AI Consultant" newsletter.
-    It contrasts the paths of four AI engineers, highlighting the success of one who
-    leveraged personal branding, marketing, and networking in AI consulting to achieve
-    financial freedom and autonomy. The post offers insights and strategies for building
-    a successful consulting business, emphasizing freedom from hourly rates and investor
-    pressure. Key themes include AI consulting, freelancing, entrepreneurship, and
-    business growth.
+  hash: 86e3c6678c6a912f4d2340c84b067d99
+  summary: 'Discover how to transform your AI expertise into a successful and profitable
+    consulting career with the Indie AI Consultant newsletter. Learn actionable strategies
+    to build a personal brand, master marketing and distribution, and secure high-value
+    clients while gaining financial freedom and business growth. Avoid common pitfalls
+    faced by freelancers, startup founders, and indie hackers by leveraging insider
+    knowledge to create a thriving AI consulting business. Keywords: AI consulting,
+    freelancing, entrepreneurship, business growth, personal brand, Indie AI Consultant.'
 writing/posts/consulting-everything-i-know.md:
-  hash: 82213fcef070be4a0bcc62c0e516090d
-  summary: 'This comprehensive guide on AI consulting emphasizes shifting from selling
-    tasks to selling outcomes, focusing on addressing clients'' pain points to maximize
-    value. Key strategies include creating expert content to build authority, asking
-    insightful questions to uncover true business needs, and structuring proposals
-    with multiple pricing options based on value rather than time. The article also
-    highlights the importance of value-based pricing, full accountability in deliverables,
-    and the potential to scale consulting practices by transitioning into products
-    like courses or SaaS. Ideal for AI consultants and consulting professionals, this
-    resource offers actionable insights for building a successful, high-value consulting
-    practice. Key terms: AI consulting, value-based pricing, consulting proposals,
-    selling outcomes, building consulting practice, client pain points, consulting
-    strategy.'
+  hash: 216fd82bd6b3adf9ea6fe1db5223765c
+  summary: Discover essential strategies for successful AI consulting, including shifting
+    from selling tasks to outcomes, understanding client pain points, and structuring
+    proposals with multiple value-based pricing options. Learn how to position yourself
+    as an expert through targeted content creation, ask the right questions to uncover
+    true business value, and break income ceilings by divorcing pricing from hourly
+    rates. Explore the limits of pure consulting services and the benefits of transitioning
+    to product-based offerings like courses and SaaS tools. Key topics include AI
+    consulting, consulting strategy, value-based pricing, outcomes-focused selling,
+    and building a sustainable consulting practice.
 writing/posts/consulting-indie.md:
-  hash: 5f2ce60b5b72126da23bd7163a8de242
-  summary: "This article explores the unique value of indie consulting compared to\
-    \ large firms, emphasizing specialized expertise, direct accountability, and long-term\
-    \ client value. It highlights the importance of understanding value through Alex\
-    \ Hormozi's framework\u2014focusing on dream outcome, likelihood of success, time\
-    \ to success, and difficulty\u2014and shares practical insights on client targeting,\
-    \ content marketing, and proposal structuring. Key points include niching down,\
-    \ leveraging thought leadership, and aligning pricing with capital allocation\
-    \ rather than hourly rates. Indie consulting offers flexible, high-impact services\
-    \ for hungry clients, especially in niches like machine learning and RAG applications,\
-    \ helping consultants thrive as independent entrepreneurs. Keywords: indie consulting,\
-    \ consultant value, entrepreneurship, consulting strategies, independent business,\
-    \ niche consulting, client value, content marketing, proposal framework."
+  hash: 9cd9753391ceb08d55356f76145115cf
+  summary: 'This article explores the unique value of indie consulting compared to
+    large firms, emphasizing specialized expertise, direct accountability, and long-term
+    client value. It highlights the importance of understanding and delivering value
+    through the framework of dream outcome, likelihood of success, time to success,
+    and difficulty of success. Key strategies include niching down, creating valuable
+    content for marketing and trust-building, effectively conducting situational assessments,
+    and focusing on capital allocation rather than hourly billing. The post also shares
+    personal consulting experiences, advice on pricing, client engagement, and the
+    significance of thought leadership. Keywords: indie consulting, consultant value,
+    entrepreneurship, consulting strategies, independent business, value creation,
+    niche consulting, content marketing, situational assessment.'
 writing/posts/consulting-law.md:
-  hash: d0f7a1813ba4782cd865fb5a3c068e28
-  summary: 'This article provides essential legal guidance for AI consultants, addressing
-    critical areas such as types of contracts, intellectual property (IP) management,
-    company formation, and banking for both domestic and international consultants.
-    Insights from legal expert Luke highlight the creation of contracts like co-licensing
-    agreements, the importance of understanding IP ownership when consulting part-time,
-    and the considerations for choosing between LLCs and C-Corps. The article also
-    discusses setting up a U.S. entity as a foreign consultant, handling personal
-    branding in relation to company assets, managing tax implications for cross-border
-    operations, and strategies for IP retention in client contracts. Additionally,
-    the post advises on cost-efficient legal approaches, such as using annotated templates
-    and leveraging AI tools for contract drafting. Keywords: AI consultants, legal
-    considerations, contracts, IP ownership, entity formation, LLC, C-Corp, international
-    banking, tax implications, personal branding, consulting agreements.'
+  hash: fd890af8f3a2019361aebd1047ec6a74
+  summary: This post provides essential legal guidance for AI consultants, covering
+    contract types, intellectual property management, business entity formation, and
+    tax considerations. Featuring insights from legal expert Luke of Virgil, it addresses
+    common challenges such as balancing full-time employment with consulting, choosing
+    between LLCs and C-Corps, handling client IP ownership, and maintaining corporate
+    formalities. It also explores international entity setup, protecting personal
+    branding under a company, and strategies to keep legal costs manageable using
+    AI tools and annotated templates. Keywords include AI consulting legal advice,
+    consulting contracts, IP ownership, LLC vs C-Corp, entity setup for consultants,
+    startup legal services, and cross-border business structuring.
 writing/posts/consulting-listing-prices.md:
-  hash: ff8dad8cec6efe5f3d6475a7337fc39d
-  summary: 'Discover why listing your consulting prices publicly can limit your earnings
-    and deter potential clients. This article explores the pitfalls of transparent
-    pricing and advocates for value-based, tiered pricing models inspired by the airline
-    industry. Learn to focus on outcomes over hours, provide minimum engagement estimates,
-    and leverage discovery calls to tailor pricing to client needs. Key strategies
-    include avoiding fixed rates, adopting value-based pricing, and using discovery
-    calls for personalized proposals to maximize your consulting revenue and attract
-    the right clients. Keywords: consulting pricing strategy, value-based pricing,
-    tiered pricing, discovery calls, consulting business development, maximizing consulting
-    earnings.'
+  hash: e09d51d5726c81827457f7cbeef8d7bf
+  summary: 'Discover why listing consulting prices publicly can limit your earning
+    potential and deter clients, and learn effective alternatives like value-based
+    and tiered pricing models. This article explores the drawbacks of fixed rates,
+    introduces the airline pricing analogy to cater to diverse client needs, and emphasizes
+    using discovery calls to tailor pricing based on client value and outcomes. Key
+    strategies include focusing on minimum engagement estimates over hourly rates
+    and maximizing revenue through flexible, value-driven pricing approaches. Keywords:
+    consulting pricing strategy, value-based pricing, tiered pricing, discovery calls,
+    consulting rates, business development, maximizing consulting earnings.'
 writing/posts/consulting-marketing.md:
-  hash: fb7edfee8b48d30d6a8b714e2f03a34f
-  summary: 'This article shares strategic insights on marketing, positioning, and
-    scaling an AI consulting business, emphasizing lead generation through high-quality
-    content creation on platforms like Twitter and blogs. Drawing from personal experience
-    transitioning from a technical role, the author highlights frameworks such as
-    the "One Page Marketing Plan" and situational assessments from "The Consulting
-    Bible" to effectively close deals. Key tactics include leveraging a data flywheel
-    to convert client interactions into valuable content and focusing on founders
-    and VCs as the target audience. Readers will learn actionable strategies for attracting
-    AI/ML clients, creating thought leadership, and increasing consulting revenue
-    through subscription-based services. Keywords: AI consulting, marketing strategies,
-    lead generation, positioning, content marketing, situational assessments, consulting
-    growth, AI/ML consultants.'
+  hash: 0a67bbdc3e444665b50d46be122d2f1d
+  summary: "This post explores effective marketing, positioning, and scaling strategies\
+    \ for AI consulting businesses. It highlights the author's transition from a technical\
+    \ role to consulting, leveraging frameworks like the \"One Page Marketing Plan\"\
+    \ and situational assessments from \"The Consulting Bible\" to attract and close\
+    \ high-value clients. Key tactics include generating leads through consistent,\
+    \ high-quality content creation on platforms like Twitter and Hacker News, utilizing\
+    \ a data flywheel approach to turn client insights into valuable blog posts and\
+    \ videos. With a focus on AI/ML founders and VCs, the author shares proven lead\
+    \ generation methods, closing techniques, and pricing strategies that contributed\
+    \ to monthly revenues of $40,000 to $80,000. This guide is essential for consultants\
+    \ aiming to grow their business through strategic marketing and content-driven\
+    \ lead generation in the AI consulting space.  \n\nKeywords: AI consulting, marketing\
+    \ strategies, lead generation, content creation, consulting positioning, scaling\
+    \ consulting business, situational assessments, One Page Marketing Plan, AI/ML\
+    \ founders, consulting tips."
 writing/posts/consulting-predictions.md:
-  hash: 5575a4fea3d4d6e2cbbb99e370a2bc84
-  summary: 'Discover why AI freelancing in 2024 offers unprecedented opportunities
-    for tech professionals, surpassing previous revolutions like web and mobile development.
-    AI specialists are in high demand as companies across industries rush to integrate
-    AI solutions but lack in-house expertise. Freelancers benefit uniquely by leveraging
-    AI to enhance productivity and skills, gaining a compounding advantage through
-    diverse projects. This early-stage AI boom provides a limited window for experts
-    to establish themselves, making freelancing a smart path to independence, high
-    income, and real-world experience. Keywords: AI freelancing, AI revolution, tech
-    opportunities 2024, AI specialists, freelance consulting, AI productivity, AI
-    gold rush.'
+  hash: 5fcd9ce1df9a2b37a00807bbaf14f3a0
+  summary: 'Discover why 2024 presents an unprecedented opportunity for AI freelancers
+    to lead the next tech revolution, surpassing previous web and mobile booms. This
+    article highlights the high demand for AI specialists capable of building complex,
+    domain-specific solutions as companies rapidly adopt AI technologies but lack
+    in-house expertise. AI freelancers benefit from a compounding advantage by leveraging
+    AI tools to automate workflows, enhance productivity, and gain diverse project
+    experience, positioning themselves as architects of AI innovation. Act quickly
+    to capitalize on this time-sensitive window, upskill as needed, and build a versatile
+    portfolio that unlocks lucrative freelance opportunities in AI consulting and
+    development. Keywords: AI freelancing, AI revolution, consulting, tech opportunities
+    2024, AI specialists, freelance AI projects, AI productivity tools.'
 writing/posts/consulting-referrals.md:
-  hash: 7f4cc9dd491e9a643e5e74729c790b34
-  summary: 'Learn effective strategies for requesting and managing consulting referrals
-    to grow your freelance consulting practice. This guide emphasizes the importance
-    of timing your referral ask, encouraging clients to articulate the value you''ve
-    provided, and requesting specific referrals based on solved problems. Key steps
-    include guiding the introduction process, ensuring warm referrals, and approaching
-    new contacts with respect by focusing on their challenges. Implementing these
-    tactics improves client relationships, enhances networking, and drives business
-    growth through productive and trust-building referral conversations. Keywords:
-    consulting referrals, freelance consulting, client relationships, networking,
-    business strategy, referral request timing, introduction guidance.'
+  hash: 1ae557da337909cd0043278ae6b4c025
+  summary: "Learn effective strategies to request and manage consulting referrals\
+    \ that enhance your freelance consulting practice. Discover the importance of\
+    \ timing your referral ask, guiding conversations to help clients articulate your\
+    \ value, and requesting specific referrals based on solved problems. Master the\
+    \ referral process by setting up thoughtful introductions, respecting potential\
+    \ clients\u2019 time, and positioning yourself as a trusted problem-solver. Key\
+    \ points include timing, client engagement, specific referral requests, guided\
+    \ introductions, and respectful follow-ups, all aimed at building strong client\
+    \ relationships and growing your consulting network. Keywords: consulting referrals,\
+    \ client relationships, referral strategy, consulting marketing, business networking,\
+    \ freelance consulting."
 writing/posts/consulting-stack.md:
-  hash: 4a4b3120b999e83c8a78fa4c7bce3c01
-  summary: 'Discover the best tools and strategies for indie consultants to streamline
-    operations and enhance professionalism. This comprehensive guide covers setting
-    up your business foundation with LLC formation via Doola, business banking with
-    Mercury, and efficient bookkeeping using QuickBooks and Carry for tax-advantaged
-    accounts. Essential software recommendations include Wispr Flow for voice-to-text,
-    Stripe for invoicing, Dropbox Sign for contracts, Cal.com for scheduling, Circleback
-    for meeting notes, Anthropic Claude for AI-assisted content creation, and Spiral
-    Computer for transcript-based content generation. Learn how to standardize engagement
-    letters, scale your practice by hiring an EA, and develop a content strategy to
-    attract clients and grow your consulting business. Keywords: indie consultant,
-    consulting tools, LLC setup, business banking, AI consulting, bookkeeping, invoicing,
-    scheduling, content creation, scaling consulting practice.'
+  hash: fbfff61897e7ef0abce3af7e6c09ace4
+  summary: Discover the best tools and strategies for indie consultants to build a
+    professional, streamlined consulting practice. This comprehensive guide covers
+    setting up your business foundation with LLC formation, business banking, and
+    bookkeeping, alongside essential software like Stripe for invoicing, Dropbox Sign
+    for contracts, Cal.com for scheduling, and AI tools such as Anthropic Claude and
+    Spiral Computer for content creation. Learn how to optimize tax benefits with
+    Carry, standardize proposals, and scale your practice by hiring an executive assistant
+    and developing a content strategy. Perfect for indie consultants looking to enhance
+    efficiency, professionalism, and growth in the AI-driven consulting landscape.
+    Key topics include consulting tools, business setup, AI consulting, tax optimization,
+    and content marketing.
 writing/posts/consulting-start.md:
-  hash: c24eaa16716310d1e8837cdea71f6e2d
-  summary: Learn how to start a successful AI consulting business by focusing on delivering
-    clear value and outcomes rather than just technical skills. This comprehensive
-    guide covers essential steps like selecting a niche, creating a targeted content
-    strategy, setting up a simple yet effective business tech stack, and landing your
-    first clients through warm outreach and valuable content. Discover smart pricing
-    strategies based on value rather than hourly rates and avoid common pitfalls such
-    as the expertise trap and time-for-money mindset. Perfect for ML engineers, AI
-    product builders, and aspiring indie consultants aiming to build a sustainable
-    and profitable AI consulting practice. Key topics include AI consulting, business
-    setup, client acquisition, pricing models, content marketing, and referral networking.
+  hash: e476b8722192e9f4221eb16d9d6fe5e9
+  summary: 'Learn how to get started in AI consulting with practical steps to transform
+    your technical expertise into a successful consulting business. This guide covers
+    defining a clear value proposition focused on outcomes, selecting a niche, creating
+    targeted content, setting up essential business tools, and landing your first
+    clients through warm outreach and content strategies. Discover effective pricing
+    models based on value rather than hourly rates, and avoid common pitfalls like
+    the expertise trap and time-for-money mindset. Ideal for ML engineers and AI product
+    builders aiming to become independent consultants, this comprehensive approach
+    emphasizes delivering measurable business impact and building sustainable AI consulting
+    practices. Keywords: AI consulting, value proposition, niche selection, consulting
+    business setup, client acquisition, pricing strategies, AI freelancer, outcome-based
+    consulting.'
 writing/posts/consulting-writing.md:
-  hash: 04e0d338885ae6a14d37976c98f63fa1
-  summary: 'Discover how consistent writing transformed a consulting business by attracting
-    high-quality clients and closing deals faster. Learn practical strategies for
-    creating valuable content from client calls, sharing real work insights, and leveraging
-    multiple formats like blog posts, Twitter threads, and newsletters. Key benefits
-    include increased inbound leads, a 50% close rate, and stronger client understanding
-    of expertise. Start small with daily tweets or weekly blogs using the AIDA framework
-    to engage and convert prospects. Build a content flywheel that compounds over
-    time, showcasing your consulting skills and driving sustainable business growth.
-    Keywords: consulting, consistent writing, inbound leads, client acquisition, content
-    marketing, consulting business growth, AIDA framework, content strategy, AI consulting,
-    indie consultant.'
+  hash: e4c7a9d781fcf06f258ecdb27d28a23b
+  summary: "Consistently writing valuable content transformed my consulting business,\
+    \ helping me close high-value deals quickly with fewer sales calls. By turning\
+    \ client calls into insightful blog posts, Twitter threads, and newsletters, I\
+    \ attracted quality inbound leads and improved client understanding of my expertise\
+    \ in AI consulting and RAG systems. Starting small\u2014like one tweet daily or\
+    \ a weekly blog\u2014builds a powerful content flywheel that compounds over time.\
+    \ Using frameworks like AIDA and tools like Whisper and Claude streamlines the\
+    \ writing process, making it accessible and effective. This strategy boosts visibility,\
+    \ demonstrates expertise, and drives consulting success through consistent, impactful\
+    \ writing. Keywords: consulting, writing consistency, inbound leads, AI consulting,\
+    \ content marketing, client acquisition, blog posts, social media growth."
 writing/posts/context-engineering-agent-frameworks.md:
-  hash: e48d951b95f8174e3974bf8e7f654ba3
+  hash: 9b282d852a1d205ecfb13524ae5903e3
   summary: "This article explores how to choose the right agent frameworks and form\
-    \ factors\u2014chatbots, workflows, or report generators\u2014based on specific\
-    \ business needs and desired outcomes. It introduces a clear autonomy spectrum\
-    \ from deterministic systems to advanced tool-calling loops, guiding AI implementation\
-    \ from simple functions to complex multi-step agents. Key considerations include\
-    \ tool design, testing methodologies like rapid prototyping with Claude Code,\
-    \ and when to adopt MCP servers for multi-platform tool reuse. Emphasizing modular\
-    \ architecture, testability, and cost control, the guide advises leadership to\
-    \ focus on concrete results and clear success metrics to avoid premature complexity.\
-    \ Keywords: context engineering, agent frameworks, chatbots, workflows, AI autonomy\
-    \ spectrum, MCP servers, tool-calling agents, rapid agent prototyping, AI system\
-    \ architecture."
+    \ factors\u2014chatbots, workflows, or report generators\u2014based on practical\
+    \ business needs. It outlines the autonomy spectrum from deterministic systems\
+    \ to AI-driven tool-calling loops, emphasizing gradual complexity to build reliable,\
+    \ testable AI systems. Key considerations include tool design, testing methodologies,\
+    \ and when to use MCP servers for multi-platform tool integration. The guide also\
+    \ highlights a rapid prototyping approach for validating agent concepts before\
+    \ full-scale development. Keywords: context engineering, agent frameworks, chatbots,\
+    \ workflows, AI autonomy spectrum, tool-calling agents, MCP servers, rapid agent\
+    \ prototyping, software engineering, applied AI."
 writing/posts/context-engineering-agent-prototyping.md:
   hash: 793b82797fcf6dcf1ee63454c2526346
   summary: 'Learn how to rapidly prototype AI agents in hours using the Claude Code
@@ -526,48 +518,43 @@ writing/posts/context-engineering-agent-prototyping.md:
     AI Agents, CLI Tool Wrappers, Slash Commands, Subagents, Tool Response Design,
     Context Pollution, Applied AI.'
 writing/posts/context-engineering-compaction.md:
-  hash: c4d4cb8acdc916cb602ec9690b96ab53
-  summary: This article explores two crucial experiments on AI agent compaction, proposing
-    that if in-context learning is analogous to gradient descent, then compaction
-    acts like momentum, preserving learning trajectories in long-running tasks. The
-    first experiment investigates how the timing of compaction during million-token
-    coding agent trajectories affects task success and efficiency, while the second
-    uses specialized compaction prompts to analyze agent trajectory patterns for failure
-    modes, language transitions, and user feedback clustering. By treating compaction
-    as both a learning acceleration mechanism and a compression tool for trajectory
-    observability, the research aims to advance understanding of agent behavior, optimize
-    AI systems at scale, and bridge theory with practical AI engineering. Key topics
-    include context engineering, agent trajectories, compaction, momentum analogy,
-    failure mode detection, and large-scale empirical research.
+  hash: 25cab04e2c476b0d5ebb887a6c0a070e
+  summary: This article explores two critical experiments on AI agent compaction,
+    proposing that if in-context learning acts as gradient descent, then compaction
+    functions like momentum to preserve learning trajectories. The first experiment
+    investigates how compaction timing affects long-running agent tasks, while the
+    second uses specialized compaction prompts to analyze agent trajectory behaviors
+    and failure modes at scale. Emphasizing context engineering, agent optimization,
+    and trajectory observability, this research aims to deepen our understanding of
+    agent learning dynamics beyond short benchmarks, offering new pathways for empirical
+    studies and improved AI system performance. Key themes include compaction, momentum,
+    agent trajectories, context pollution, and AI engineering best practices.
 writing/posts/context-engineering-index.md:
-  hash: eb29b00a8a42f18a2e40cfa240857fc7
-  summary: This "Context Engineering Series" provides a comprehensive guide to building
-    advanced agentic Retrieval-Augmented Generation (RAG) systems by moving beyond
-    simple chunk-based methods toward structured tool responses that enable agents
-    to strategically navigate complex data landscapes. Covering topics like faceted
-    search, subagents, compaction, and agent frameworks, the series offers practical
-    implementation patterns, real-world examples, and business impact insights for
-    engineering teams, product leaders, and AI researchers. Key concepts include context
-    engineering, agent peripheral vision, tool response as prompt engineering, and
-    strategies to reduce context pollution and optimize agent performance. Learn how
-    to design effective agent workflows using slash commands, specialized subagents,
-    and rapid prototyping to accelerate ROI and create more robust, scalable AI agents
-    across industries.
+  hash: 3ecaaacbf96b6db5ef431d1b0d481010
+  summary: This comprehensive "Context Engineering Series" guides building advanced
+    agentic Retrieval-Augmented Generation (RAG) systems that move beyond traditional
+    chunk-based methods to structured, tool-driven responses enabling agents to navigate
+    complex information landscapes effectively. Covering core concepts like faceted
+    search, subagents, compaction, and agent form factors, the series provides practical
+    implementation strategies, real-world code examples, and business impact insights.
+    Ideal for engineering teams, product leaders, and AI researchers, it emphasizes
+    designing tool responses that offer strategic peripheral vision, mitigating context
+    pollution, and optimizing agent performance for scalable, intelligent data exploration.
+    Key topics include structured tool responses, context engineering, agent cognition,
+    RAG optimization, and rapid agent prototyping.
 writing/posts/context-engineering-slash-commands-subagents.md:
-  hash: 348f2fb3f6cdc77ad1f00c89b48e9b2d
-  summary: "This article explores how to keep AI tools focused when handling large\
-    \ amounts of messy data by comparing slash commands and subagents, using Claude\
-    \ Code as a case study. It highlights the problem of context pollution and context\
-    \ rot\u2014where dumping voluminous diagnostic logs into the main AI thread degrades\
-    \ performance\u2014and demonstrates how specialized subagents process heavy, noisy\
-    \ tasks separately, returning only distilled insights to maintain a clean and\
-    \ efficient main context. Key benefits include an 8x reduction in token usage\
-    \ and improved AI focus. The post explains architectural patterns for scalable\
-    \ multi-agent systems, emphasizing read-only subagent workers for parallel data\
-    \ exploration and recommending auditing workflows to identify subagent candidates.\
-    \ Keywords: context engineering, context pollution, context rot, slash commands,\
-    \ subagents, Claude Code, AI tool focus, multi-agent systems, token economics,\
-    \ diagnostic logs, AI workflow optimization."
+  hash: 8a0df41d1c04d37c70a996a12454d4ad
+  summary: "This article explores how AI tools can maintain focus when handling large\
+    \ volumes of messy information by comparing slash commands versus subagents, using\
+    \ Claude Code as a case study. It highlights the problem of context pollution\
+    \ and context rot caused by dumping extensive test logs and diagnostics into a\
+    \ main thread, which reduces AI performance and clarity. The subagent approach\
+    \ isolates token-intensive tasks in specialized helpers, returning distilled insights\
+    \ and preserving the main context\u2019s quality\u2014resulting in up to 8x cleaner\
+    \ information flow. Key concepts include context engineering, multi-agent systems,\
+    \ token economics, and practical applications beyond coding such as financial\
+    \ due diligence and research synthesis. The post emphasizes auditing workflows\
+    \ to identify subagent candidates for scalable, efficient AI systems."
 writing/posts/context-engineering-tool-response.md:
   hash: 3719bca297d0bc36f04e03abc6deec46
   summary: "Discover why context engineering is the future of Retrieval-Augmented\
@@ -791,34 +778,29 @@ writing/posts/life-millions.md:
     living. Keywords: financial freedom, lifestyle design, personal growth, work-life
     balance, dream life, creativity, travel, health, meaningful work.'
 writing/posts/llmops.md:
-  hash: 1af24dcad4973112ba2131e212a1a5f0
-  summary: 'This article explores enhancing AI agents'' performance through effective
-    LLM observability using Open Telemetry, a suite of tools for collecting metrics,
-    logs, and traces. It highlights the limitations of current superficial LLM telemetry
-    solutions and advocates applying standard observability practices from distributed
-    systems to AI agents for comprehensive monitoring and debugging. Key benefits
-    include improved transparency, faster incident detection, and enabling model-guided
-    self-evaluation for scalable optimization and fine-tuning. The post underscores
-    the potential of telemetry data to drive AI self-improvement and calls for integrating
-    telemetry into the AI development lifecycle using tools like Prometheus, Grafana,
-    and Datadog. Keywords: LLM observability, Open Telemetry, AI agents, metrics,
-    distributed systems, model optimization, telemetry data, self-improvement.'
+  hash: fcc6412e7a55db2153e0c6106c5ade2c
+  summary: "This article explores how applying standard observability practices, specifically\
+    \ using Open Telemetry, can significantly enhance AI agents and large language\
+    \ models (LLMs) by providing comprehensive telemetry across complex agent actions.\
+    \ It emphasizes the importance of integrating detailed metrics, logs, and traces\u2014\
+    beyond superficial dashboards\u2014to improve transparency, performance, and debugging\
+    \ in AI systems. Key concepts include leveraging telemetry data for model-guided\
+    \ self-evaluation, fine-tuning, and autonomous optimization, positioning observability\
+    \ as essential for scalable, robust AI agent development. Keywords: LLM observability,\
+    \ Open Telemetry, AI agents, telemetry data, model optimization, distributed systems,\
+    \ metrics, AI performance monitoring."
 writing/posts/lovable-pricing-outcomes.md:
-  hash: 01ea2ff19b5e7521a78dcfcdc74bf23c
-  summary: 'This article explores the challenges and opportunities in monetizing AI-built
-    applications for a new class of creators called "vibe coders," who can build software
-    using AI tools without traditional programming skills. It critiques the limitations
-    of current subscription-based pricing models and proposes a revenue-sharing model,
-    like Lovable''s Partners Program, where the platform takes a percentage of creators''
-    earnings in exchange for seamless monetization infrastructure, premium support,
-    and migration services. Key ideas include aligning platform incentives with user
-    success, enabling frictionless payment integration, and turning platforms into
-    technical co-founders to help creators scale without fintech expertise. The mission
-    is to empower vibe coders to earn sustainably, envisioning paying out $1 billion
-    to them, and highlighting the importance of outcome-based pricing, AI monetization,
-    and supportive ecosystems for creator economies. Keywords: AI monetization, vibe
-    coders, revenue sharing, Lovable Partners Program, subscription pricing, no-code
-    AI tools, creator economy, fintech integration, outcome-based pricing.'
+  hash: badef5095610e52aa361e7d2fd7c09b8
+  summary: "This article explores innovative monetization models for AI-powered creator\
+    \ platforms like Lovable, emphasizing outcome-based pricing and revenue sharing\
+    \ aligned with user success. It highlights the challenges \"vibe coders\"\u2014\
+    creators building apps without traditional coding skills\u2014face in monetizing\
+    \ their products due to complex payment infrastructure like Stripe. The author\
+    \ proposes a Partners Program where Lovable takes a percentage of revenue in exchange\
+    \ for premium support, migration services, and streamlined monetization tools,\
+    \ creating a win-win flywheel benefiting both platform and creators. Key themes\
+    \ include AI tool pricing, frictionless monetization, creator economy, revenue\
+    \ sharing, subscription management, and the future of AI-driven creative businesses."
 writing/posts/mcp-resouces.md:
   hash: f47fdb13d17b5488fa94b0799f58636f
   summary: The "Prompt Template Resource System Specification" provides a blueprint
@@ -832,19 +814,6 @@ writing/posts/mcp-resouces.md:
     This system aims to enhance LLM performance and productivity by enabling streamlined
     context sharing and resource utilization. Key terms include token efficiency,
     template syntax, resource references, and XML tags.
-writing/posts/money-models.md:
-  hash: 1e06082e472a8a70df2f2828a78456e0
-  summary: "The $100M Money Models report by Alex Hormozi reveals proven business\
-    \ monetization frameworks designed to build scalable, cash-flow-positive companies.\
-    \ Centered around creating self-funding customer acquisition loops, the report\
-    \ outlines four core mechanisms\u2014Attraction, Upsell, Downsell, and Continuity\
-    \ Offers\u2014that exponentially increase revenue and customer lifetime value.\
-    \ Backed by real-world case studies and a comprehensive implementation system,\
-    \ including AI tools and playbooks, this guide empowers entrepreneurs to overcome\
-    \ cash flow challenges, optimize sales, retention, and pricing strategies, and\
-    \ achieve sustainable growth. Keywords: business scaling, monetization, cash flow\
-    \ management, customer acquisition, revenue growth, retention, pricing strategy,\
-    \ subscription model, Entrepreneurship, $100M Money Models."
 writing/posts/money-negative-margin.md:
   hash: 9e289c993f3f087faa323ec946ceecda
   summary: The article, "Making Money is Negative Margin," reflects on the author's
@@ -916,36 +885,35 @@ writing/posts/prompt-optimization.md:
     scoring functions. Keywords: prompt optimization, few-shot learning, machine learning,
     content generation, AI techniques, hyperparameters, output evaluation.'
 writing/posts/rag-anti-patterns-skylar.md:
-  hash: 3b43abc02c679c8117b3e7b95546da01
-  summary: 'Discover common RAG (Retrieval-Augmented Generation) anti-patterns and
-    practical solutions with AI expert Skylar Payne, who shares insights from diverse
-    industries including healthcare, finance, and e-commerce. Learn how to optimize
-    your RAG pipeline by focusing on data quality, proper document curation, robust
-    extraction, indexing strategies, effective retrieval, precise re-ranking, and
-    generation best practices. Key topics include handling encoding issues, avoiding
-    irrelevant data, using appropriate chunk sizes, preventing hallucinations with
-    citation validation, and implementing thorough evaluation before increasing system
-    complexity. This guide emphasizes continuous data inspection, fast iteration cycles,
-    metadata tagging relevance, and applying specialized tools to build reliable,
-    high-performing AI systems that deliver trustworthy and contextually accurate
-    results. Keywords: RAG anti-patterns, Retrieval-Augmented Generation, data quality,
-    AI system evaluation, metadata tagging, indexing strategies, hallucination prevention,
-    document retrieval, re-ranking optimization.'
+  hash: 02a6c6d757e67d92a6f7cc81562b287d
+  summary: 'This article presents expert insights from Skylar Payne on common anti-patterns
+    in Retrieval-Augmented Generation (RAG) systems, highlighting critical challenges
+    across the RAG pipeline including data collection, extraction, indexing, retrieval,
+    re-ranking, and generation. Key takeaways emphasize the importance of continuous
+    data quality inspection, robust evaluation before increasing system complexity,
+    metadata tagging relevance, and strategies to reduce hallucinations using citation
+    validation. The piece offers practical advice for AI practitioners to improve
+    RAG system performance, avoid silent failures, handle vague queries, and implement
+    effective monitoring, making it an essential guide for optimizing RAG implementations
+    in industries like healthcare, finance, e-commerce, and academic research. Keywords:
+    RAG systems, Retrieval-Augmented Generation, data quality, AI evaluation, metadata
+    tagging, hallucination reduction, retrieval challenges, re-ranking, AI system
+    optimization.'
 writing/posts/rag-authority.md:
-  hash: 36173ca44830d9254b5d0f6acf21dd7d
+  hash: c543aba143cc68904756fa10527b547b
   summary: "This article explores the critical role of authority in Retrieval-Augmented\
-    \ Generation (RAG) systems, emphasizing that semantic relevance alone is insufficient\
-    \ for trustworthy AI outputs. It highlights the importance of integrating authority\
-    \ signals\u2014such as source credibility, freshness, and user engagement\u2014\
-    alongside semantic search to improve retrieval accuracy and reduce hallucinations.\
-    \ Key strategies include using learning-to-rank models like XGBoost to combine\
-    \ traditional IR signals with embedding-based relevance, employing specialized\
-    \ indices with query routing, and leveraging user feedback for continuous improvement.\
-    \ Practical tools and real-world examples from Bing Chat and Perplexity.ai demonstrate\
-    \ best practices for software engineers building authoritative, reliable RAG systems.\
-    \ Keywords: RAG, authority, retrieval-augmented generation, learning to rank,\
-    \ semantic search, information retrieval, XGBoost, query routing, user feedback,\
-    \ trustworthy AI."
+    \ Generation (RAG) systems, emphasizing that relevance alone is insufficient for\
+    \ trustworthy AI outputs. It highlights the shortcomings of purely semantic search\
+    \ methods and advocates integrating traditional information retrieval signals\
+    \ like authority, freshness, and user engagement through learning-to-rank models\
+    \ (e.g., XGBoost). Key strategies include specialized indices, query routing,\
+    \ neural re-rankers, and continuous feedback loops to ensure authoritative and\
+    \ accurate responses. Practical tools such as Elasticsearch\u2019s Learning to\
+    \ Rank plugin and case studies from Bing Chat and Perplexity.ai demonstrate effective\
+    \ implementations. Software engineers building RAG systems are encouraged to prioritize\
+    \ authority alongside relevance to enhance reliability and user trust. Keywords\
+    \ include RAG, authority, information retrieval, semantic search, learning to\
+    \ rank, XGBoost, neural re-rankers, query routing, and retrieval strategy."
 writing/posts/rag-cohort-3-speakers-improving-rag.md:
   hash: 91241d6c7a0dfe5afb99c61922fe6fa1
   summary: Join a free expert-led Lightning Lessons series to master Retrieval Augmented
@@ -958,19 +926,19 @@ writing/posts/rag-cohort-3-speakers-improving-rag.md:
     insights to enhance RAG deployments at no cost. Register now to advance your knowledge
     in RAG systems, AI search, vector embeddings, and retrieval optimization.
 writing/posts/rag-course-breakdown.md:
-  hash: 4a8601a4d0798442b7270a89f83cd41e
-  summary: This comprehensive guide details systematic methods to improve Retrieval-Augmented
-    Generation (RAG) applications by focusing on measurable retrieval metrics, segmentation,
-    structured data extraction, fine-tuned embeddings, and user feedback loops. It
-    addresses common pitfalls like absence bias and intervention bias, outlines best
-    practices for evaluating retrieval recall with synthetic and real data, and highlights
-    the importance of query routing and specialized indices for multimodal data. By
-    emphasizing data-driven iteration, fine-tuning re-rankers, and incorporating user
-    experience improvements such as streaming and validation, the guide provides an
-    end-to-end blueprint to build robust, domain-specific, and up-to-date RAG systems
-    that minimize hallucinations and maximize relevance. Key topics include RAG fundamentals,
-    retrieval evaluation, segmentation, structured extraction, query routing, embedding
-    fine-tuning, feedback loops, and continuous system improvement.
+  hash: a45a7da877e27c62d0ecb3c605555dd0
+  summary: 'This comprehensive guide explores how to systematically improve Retrieval-Augmented
+    Generation (RAG) applications by focusing on measurable retrieval metrics, data
+    segmentation, structured extraction, multimodality, fine-tuning embeddings, and
+    effective query routing. It addresses common pitfalls like absence and intervention
+    bias, emphasizes the importance of synthetic data for recall evaluation, and highlights
+    strategies for incorporating user feedback to continuously enhance system performance.
+    Key concepts include optimizing retrieval recall, leveraging specialized indices,
+    and deploying user-centric feedback loops to build robust, domain-specific RAG
+    systems that deliver accurate, up-to-date, and interpretable outputs. Keywords:
+    Retrieval-Augmented Generation, RAG improvement, retrieval metrics, synthetic
+    data, embeddings fine-tuning, query routing, user feedback, structured extraction,
+    multimodal retrieval, bias in AI systems.'
 writing/posts/rag-decomposition.md:
   hash: 1fa1cee4c3f240ff180f44572702154d
   summary: 'Discover how to enhance Retrieval-Augmented Generation (RAG) systems by
@@ -995,33 +963,31 @@ writing/posts/rag-enterprise-process.md:
     across organizations. Key topics include MCP architecture, usage-driven design,
     data literacy, AI evaluation frameworks, and strategic AI deployment.
 writing/posts/rag-faq.md:
-  hash: 9193c2a67c57501f29408890f5ec3ba7
-  summary: 'This comprehensive FAQ summarizes key insights from the "Systematically
-    Improving RAG Applications" six-week course, focusing on optimizing Retrieval-Augmented
-    Generation (RAG) systems. Core topics include synthetic data generation, segmentation,
-    structured extraction, query routing, fine-tuning embedding models and re-rankers,
-    and product design for enhanced user experience. The course emphasizes iterative
-    improvement through data-driven strategies, utilizing Large Language Models (LLMs)
-    for tool routing and re-ranking, and highlights best practices for real-world
-    deployment and evaluation. Ideal for developers aiming to boost RAG system accuracy,
-    relevance, and efficiency, this resource covers foundational techniques, advanced
-    implementation, and practical considerations for building high-performing, user-centric
-    RAG applications. Key SEO terms: Retrieval-Augmented Generation, RAG systems,
-    synthetic data, query routing, embedding fine-tuning, re-rankers, tool routing,
-    LLM, product design, iterative improvement.'
+  hash: 9aa9b7419ce0fa5c31c7b3021d5f0ddf
+  summary: 'This comprehensive FAQ covers the "Systematically Improving RAG Applications"
+    six-week course, focusing on enhancing Retrieval-Augmented Generation (RAG) systems
+    through foundational concepts, synthetic data generation, segmentation, specialized
+    search methods, query routing, fine-tuning embedding models and re-rankers, and
+    user-centric product design. Key objectives include building strong baselines,
+    leveraging language models for data generation and routing, improving retrieval
+    accuracy via fine-tuning, and integrating structured extraction and tool routing
+    for diverse data types. Emphasizing continuous iteration, data-driven decision-making,
+    and user experience optimization, this resource is essential for developers aiming
+    to systematically improve RAG systems for better performance, relevance, and user
+    satisfaction. Keywords: RAG systems, synthetic data generation, query routing,
+    embedding fine-tuning, retrieval-augmented generation, tool routing, product design,
+    segmentation, structured extraction.'
 writing/posts/rag-flywheel.md:
-  hash: ef786e969ce0362a1179cf9565bf9ce4
-  summary: Discover a systematic playbook for enhancing Retrieval-Augmented Generation
-    (RAG) systems through a continuous improvement flywheel emphasizing synthetic
-    data generation, fast retrieval evaluations, real-world data clustering, and user
-    feedback integration. This approach prioritizes leading metrics like precision
-    and recall over lagging ones, enabling teams to iterate rapidly, detect concept
-    drift, and align product development with actual user needs. By focusing on data-driven
-    decision-making, monitoring production metrics, and running targeted experiments,
-    organizations can build scalable, high-performing RAG applications that deliver
-    sustained business value and improved user satisfaction. Key topics include RAG
-    optimization, data-driven improvement, synthetic data, real-world clustering,
-    continuous monitoring, and user-centric feedback loops.
+  hash: a2986f3a8c89d165040fe11d5a25df66
+  summary: Discover a systematic approach to enhancing Retrieval-Augmented Generation
+    (RAG) systems through a continuous improvement flywheel focused on synthetic data
+    generation, fast evaluations, real-world data analysis, and user feedback integration.
+    This method emphasizes starting with retrieval quality using precision and recall
+    metrics, leveraging leading indicators, and clustering real user queries for targeted
+    system enhancements. By adopting this data-driven, iterative process, teams can
+    build RAG applications that evolve with user needs, improve performance, and drive
+    business impact. Key topics include RAG optimization, data-driven development,
+    continuous improvement, user feedback, and machine learning best practices.
 writing/posts/rag-improving-rag.md:
   hash: 8d277babe0628a474366cc9b49b91045
   summary: 'This article provides a comprehensive, systematic approach to improving
@@ -1049,77 +1015,76 @@ writing/posts/rag-inverted.md:
     data, and evidence-based evaluation, targeting keywords like RAG systems, inverted
     thinking, recommendation systems, machine learning, and software engineering.
 writing/posts/rag-levels-of-rag.md:
-  hash: d81c45f3578d5956a52ed06fcd4f4db3
+  hash: ab4d91d9cd6e38bc9ba4afd87788e262
   summary: 'This comprehensive guide on Retrieval-Augmented Generation (RAG) applications
-    covers multiple levels of complexity, from foundational techniques like text chunking,
-    embedding, and data storage to advanced methods including asynchronous programming,
-    improved search algorithms, query rewriting, and structured responses. It emphasizes
-    building effective RAG systems through continuous improvement cycles, observability
-    with logging and metrics, and robust evaluation using synthetic and real-world
-    data. Key topics include efficient data processing, search optimization, user
-    feedback integration, and future advancements like handling tables, images, enhanced
-    query building, summarization, and outcome modeling. This resource is ideal for
-    developers aiming to master RAG system development and optimization for better
-    user engagement and accurate question answering. Keywords: Retrieval-Augmented
-    Generation, RAG applications, text embedding, search optimization, asynchronous
-    programming, observability, synthetic data evaluation, query expansion, user feedback,
-    system monitoring, advanced RAG techniques.'
+    explores varying levels of complexity, from foundational text processing and embedding
+    techniques to advanced methods like asynchronous programming, improved search
+    and ranking algorithms, and system observability. It emphasizes building efficient
+    RAG systems through structured data handling, query enhancement, evaluations using
+    synthetic and real-world data, and user feedback integration. Key topics include
+    data storage with LanceDB, query rewriting, streaming response models, logging
+    and monitoring for performance, and actionable evaluation metrics such as precision
+    and recall. Designed for both beginners and experienced developers, this resource
+    provides step-by-step guidance and practical code examples to optimize RAG systems
+    for accuracy, scalability, and continuous improvement. Keywords: Retrieval-Augmented
+    Generation, RAG systems, text chunking, embeddings, asynchronous programming,
+    search optimization, system observability, evaluation metrics, user feedback,
+    synthetic data, query enhancement.'
 writing/posts/rag-lgtmk.md:
-  hash: 02bd8b9a572bc6ebe0e9c4bd508a9cdd
-  summary: Discover why using LGTM@Few is an ineffective metric for evaluating Retrieval
-    Augmented Generation (RAG) systems, especially for startups. This article emphasizes
-    the importance of choosing appropriate relevancy and ranking metrics such as Mean
-    Average Recall (MAR), Mean Average Precision (MAP), Mean Reciprocal Rank (MRR),
-    and Normalized Discounted Cumulative Gain (NDCG) to improve retrieval performance
-    efficiently. It highlights when to rely on manual data analysis versus quantitative
-    metrics, the critical role of iteration velocity, and aligning metrics with business
-    outcomes like user satisfaction, engagement, and revenue. Learn practical strategies
-    to measure, test, and optimize RAG systems for faster development cycles and better
-    context retrieval, making this essential reading for AI startups, data analysts,
-    and developers working on retrieval-based AI solutions. Key topics include RAG
-    metrics, relevance ranking, iteration speed, data-driven improvements, and startup
-    AI strategies.
+  hash: 7c9956880d36f43687664d4a0e1b9c6e
+  summary: Discover why using LGTM@Few as a metric for Retrieval Augmented Generation
+    (RAG) is ineffective and learn better alternatives for startups building RAG systems.
+    This article emphasizes the importance of initially exploring data manually before
+    defining clear, fast, and meaningful metrics such as Mean Average Recall (MAR),
+    Mean Average Precision (MAP), Mean Reciprocal Rank (MRR), and Normalized Discounted
+    Cumulative Gain (NDCG) to evaluate relevancy and ranking. It highlights the trade-offs
+    between precision and recall, stresses iteration velocity, and aligns metrics
+    with business outcomes like user satisfaction, engagement, and revenue. Perfect
+    for AI startups and data practitioners seeking practical guidance on optimizing
+    RAG performance and evaluation. Key topics include RAG metrics, relevance evaluation,
+    ranking metrics, iteration speed, and data-driven improvement strategies.
 writing/posts/rag-low-hanging-fruit.md:
-  hash: 879114510c97748e5e98e64a3f70e501
-  summary: 'Boost your RAG (Retrieval-Augmented Generation) search system with practical,
-    easy-to-implement strategies to improve relevance, accuracy, and user experience.
-    This guide covers seven low-hanging fruit tactics including using synthetic data
-    for baseline metrics, adding date filters for up-to-date results, improving user
-    feedback prompts, tracking cosine distance and reranking scores for data-driven
-    optimization, combining full-text and semantic search, making text chunks resemble
-    questions to reduce latency, and incorporating file and document metadata for
-    richer context. These techniques help enhance search precision, speed up evaluation,
-    and deliver more relevant, timely answers, making your RAG applications more effective
-    and user-friendly. Keywords: RAG search, synthetic data, date filters, user feedback,
-    cosine distance, Cohere reranking, full-text search, metadata, search optimization,
-    data-driven.'
+  hash: 78bdb34751a1b4edf2463fb70c18582f
+  summary: 'Discover effective low-hanging fruit strategies to enhance your Retrieval-Augmented
+    Generation (RAG) search systems for improved accuracy, relevance, and user experience.
+    This guide covers practical techniques such as using synthetic data for baseline
+    metrics, adding date filters, refining user feedback prompts, tracking average
+    cosine distance and reranking scores, combining full-text and semantic search,
+    optimizing synthetic data generation, and incorporating file and document metadata.
+    By implementing these data-driven and user-focused optimizations, you can systematically
+    boost search performance, streamline evaluation, and deliver timely, precise answers
+    to user queries. Keywords: RAG, search optimization, synthetic data, user feedback,
+    cosine distance, full-text search, metadata, retrieval-augmented generation.'
 writing/posts/rag-office-hours-promo.md:
-  hash: 9be4a884e76a3e34eb3a2ca5115ff707
-  summary: Join the upcoming RAG Office Hours cohort to gain hands-on guidance and
-    live support on Retrieval-Augmented Generation (RAG) systems. This program covers
-    practical topics such as integrating vector search, knowledge graph readiness,
-    advanced retrieval approaches, fine-tuning embedding models, handling multilingual
-    data, and optimizing experimentation speed. Participants receive expert advice
-    on managing document versioning, chunking strategies, and user experience improvements.
-    Enroll now for interactive sessions, practical templates, and access to a peer
-    community focused on building effective RAG solutions across industries. Use promo
-    code EBOOK for 20% off.
+  hash: eb3797abcb1bc9a9455310bf4b52ee50
+  summary: 'RAG Office Hours offers expert guidance on practical challenges in Retrieval-Augmented
+    Generation (RAG) systems, covering topics like vector search, knowledge graphs,
+    specialized retrieval methods (e.g., ColBERT), fine-tuning embeddings, multilingual
+    RAG, and handling complex document layouts. Although office hours are not currently
+    running, past cohorts focused on improving experimentation speed, managing multiple
+    data sources, and integrating reasoning models for generation. Participants benefit
+    from live problem reviews, evaluation templates, UX patterns, and community support,
+    helping them build robust, production-ready RAG applications. Keywords: RAG systems,
+    vector search, knowledge graphs, retrieval-augmented generation, fine-tuning,
+    re-ranking, multilingual RAG, document chunking, reasoning models, office hours.'
 writing/posts/rag-office-hours.md:
-  hash: eb654b5964d38eb8c383b21398530420
-  summary: This comprehensive FAQ covers advanced topics in Retrieval-Augmented Generation
-    (RAG) systems, including prompt engineering, fine-tuning embedding and re-ranking
-    models, effective chunking strategies, and retrieval architectures using SQL and
-    vector databases like pgvector. It emphasizes the importance of high-quality data
-    and domain-specific tools over complex algorithms, advocating for economic value-driven
-    AI system design, specialized metadata handling, and hybrid tool portfolios for
-    enhanced information retrieval. Key insights include leveraging small language
-    models for query rewriting, managing temporal and multimodal data, integrating
-    structured outputs, optimizing user experience with streaming UIs, and adopting
-    outcome-based AI pricing models. The content also highlights practical approaches
-    to evaluation, synthetic data generation, and system architecture decisions tailored
-    for sectors like healthcare, legal, construction, and finance, aiming to guide
-    practitioners in building scalable, maintainable, and economically impactful RAG
-    applications.
+  hash: df9539694dbc801979e6b35cd9c5e109
+  summary: "This comprehensive FAQ covers key insights on Retrieval-Augmented Generation\
+    \ (RAG) systems, embedding models fine-tuning, re-ranking strategies, and best\
+    \ practices for building AI applications with large language models (LLMs). Topics\
+    \ include effective chunking strategies, handling multi-modal and temporal data,\
+    \ citation accuracy via fine-tuning, and the trade-offs between graph and SQL\
+    \ databases for knowledge retrieval. Emphasis is placed on aligning AI development\
+    \ with business value, leveraging synthetic and real user data for model improvement,\
+    \ and integrating specialized tools for enhanced retrieval and reasoning. Practical\
+    \ advice on UI/UX design, evaluation metrics, cost management, and emerging AI\
+    \ trends\u2014such as memory protocols and agent toolkits\u2014is provided, aiming\
+    \ to empower practitioners to build scalable, economically valuable, and maintainable\
+    \ AI-driven search and report generation systems. Keywords: RAG systems, LLM fine-tuning,\
+    \ embedding models, re-rankers, vector databases, semantic search, citation accuracy,\
+    \ AI evaluation, synthetic data, tool-based retrieval, multi-turn conversations,\
+    \ AI business value, prompt caching, medical AI, multi-modal retrieval, context\
+    \ management, AI pricing models."
 writing/posts/rag-only-6-evals.md:
   hash: 468d037859117d93e3c9808033e917fb
   summary: "Discover the 6 fundamental ways to evaluate Retrieval-Augmented Generation\
@@ -1149,19 +1114,20 @@ writing/posts/rag-plusplus.md:
     and predicts a growing marketplace for customizable report templates. Key topics
     include RAG, report generation, decision making, AI consulting, and SOP development.
 writing/posts/rag-series-index.md:
-  hash: 81f94788ec43173b005eeb2832d5cb69
+  hash: bad87ca0859edd75fda99064782fc112
   summary: 'The "RAG Master Series: Complete Guide to Retrieval-Augmented Generation"
     is a comprehensive resource for building, optimizing, and scaling Retrieval-Augmented
-    Generation (RAG) systems in AI. Covering fundamental concepts, implementation
-    strategies, production monitoring, anti-patterns, and enterprise deployment, this
-    series offers practical insights, real-world case studies, and proven methodologies.
-    Key topics include hybrid search, data flywheels, evaluation metrics, and advanced
-    applications like structured report generation. Ideal for engineers, product leaders,
-    and AI researchers, the guide emphasizes systematic, data-driven improvement to
-    create effective, scalable RAG solutions incorporating security, compliance, and
-    integration. Keywords: RAG, Retrieval-Augmented Generation, AI, machine learning,
-    vector search, hybrid search, data flywheel, evaluation, enterprise AI, production
-    monitoring.'
+    Generation (RAG) systems. Covering fundamentals, advanced techniques, real-world
+    case studies, and enterprise deployment strategies, this series addresses the
+    unique challenges of RAG such as multi-dimensional optimization, data quality
+    dependence, and dynamic failure modes. Key topics include hybrid search, data
+    flywheels, monitoring, anti-patterns, evaluation methods, and future trends like
+    agent integration and compliance. Ideal for engineers, product leaders, AI researchers,
+    and consultants, the guide provides practical insights and proven strategies to
+    create efficient, reliable RAG applications that continuously improve through
+    data-driven feedback loops. Keywords: Retrieval-Augmented Generation, RAG systems,
+    AI, machine learning, vector search, hybrid search, data flywheel, monitoring,
+    enterprise AI, RAG optimization.'
 writing/posts/rag-six-tips-improving.md:
   hash: 2d115221201c723e5e6b0b9bb30874cd
   summary: Discover six proven strategies to significantly enhance your Retrieval-Augmented
@@ -1175,20 +1141,20 @@ writing/posts/rag-six-tips-improving.md:
     and user-friendly RAG applications. Key topics include AI, machine learning, precision,
     recall, query management, and feedback-driven optimization.
 writing/posts/rag-what-is-rag.md:
-  hash: a499e95561059391cd728a2d746b1423
+  hash: 472a2f289245f2ce7a42381488231a15
   summary: 'Retrieval Augmented Generation (RAG) enhances large language models (LLMs)
-    by integrating external knowledge sources, improving accuracy, relevance, and
-    factual grounding in AI-driven responses. RAG systems combine a knowledge base,
-    retrieval models, LLMs, and optional components like re-rankers and query understanding
-    to address limitations such as hallucinations and outdated information. Benefits
-    include scalable, domain-adaptable solutions that handle complex queries and support
-    continuous improvement through user feedback and data analysis. Emerging applications
-    focus on report generation for decision-making and resource allocation, while
-    challenges involve data quality, resource demands, and system complexity. Explore
-    comprehensive guides, courses, and strategies to effectively build and optimize
-    RAG systems for enhanced AI performance. Key terms: Retrieval Augmented Generation,
-    RAG, large language models, knowledge base, retrieval models, semantic search,
-    query understanding, AI accuracy, machine learning.'
+    by integrating external knowledge sources, enabling more accurate, relevant, and
+    factually grounded responses. Key components include a knowledge base, retrieval
+    models, LLMs, and optional re-rankers and query understanding modules. RAG addresses
+    common LLM limitations such as hallucinations and outdated information by retrieving
+    real-time data to improve user experience, handle complex queries, and scale across
+    domains. Building effective RAG systems involves data quality management, continuous
+    evaluation, user feedback, and combining search methods. Future trends emphasize
+    RAG-powered report generation for decision making and resource allocation. Explore
+    comprehensive resources and courses to systematically develop and refine RAG applications
+    for advanced AI-driven information retrieval and generation. Keywords: Retrieval
+    Augmented Generation, RAG, large language models, LLM, knowledge base, information
+    retrieval, semantic search, data quality, AI applications, report generation.'
 writing/posts/rag.md:
   hash: 48932143575e341bf5d2d77467190efc
   summary: Discover how Retrieval Augmented Generation (RAG) goes beyond simple embedding
@@ -1240,17 +1206,19 @@ writing/posts/self-reflections-hiring.md:
     team collaboration. Keywords: self-reflection, success, growth, professional development,
     hiring, prioritization, leverage, personal strengths, feedback, multidisciplinary.'
 writing/posts/stochastic-software.md:
-  hash: 7f81a1ade5166e5c699e136b076ed486
-  summary: This article offers essential tips for junior software engineers transitioning
-    into probabilistic software and machine learning, emphasizing the importance of
-    designing focused experiments and defining clear metrics to make informed decisions
-    under uncertainty. It highlights the difference between deterministic and probabilistic
-    systems, encourages concentrating on measurable outcomes like precision, recall,
-    and AUC, and stresses the value of interpreting both positive and negative experiment
-    results to guide next steps. Key concepts include handling long-tailed distributions,
-    making data-driven decisions that narrow project scope, and continuously updating
-    mental models based on experimental insights. This guide aims to improve decision-making,
-    experiment design, and metric evaluation in probabilistic software development.
+  hash: dcf7e402fee1651d97db329f0adf7f05
+  summary: This article offers practical tips for junior software engineers transitioning
+    into probabilistic software and machine learning, emphasizing decision-making
+    under uncertainty. It highlights the difference between deterministic software
+    with edge cases and probabilistic systems with long-tailed distributions, urging
+    developers to focus on designing meaningful experiments and measurable metrics
+    like precision, recall, and model accuracy. Key advice includes using experiment
+    results to make informed decisions, embracing negative outcomes as valuable insights,
+    and setting due dates for experimentation. By concentrating on outcomes, continuous
+    learning, and metric-driven decision-making, engineers can better navigate the
+    challenges of building robust probabilistic software systems. Key topics include
+    probabilistic software, machine learning, experiment design, decision making,
+    and handling uncertainty.
 writing/posts/strings.md:
   hash: 6af0cc990b1d0d7bb5d7ae0c08669594
   summary: The article critiques the limitations of many LLM (Large Language Model)
@@ -1264,20 +1232,21 @@ writing/posts/strings.md:
     and enabling immediate integration of API updates. Important keywords are LLM,
     prompt engineering, API, string formatting, and Python.
 writing/posts/systematically-improving-rag-raindrop.md:
-  hash: aaff28a423847214aa1404ee72721997
-  summary: "This article explores systematic methods to improve Retrieval-Augmented\
-    \ Generation (RAG) AI systems through effective production monitoring and structured\
-    \ frameworks like Raindrop and Oleve's Trellis. It highlights the limitations\
-    \ of traditional AI evals and LLM judges in identifying real-world issues, emphasizing\
-    \ the need for tracking implicit and explicit user signals to detect emerging\
-    \ failures. The Trellis framework organizes infinite AI outputs into discrete,\
-    \ prioritized workflows, enabling targeted refinements and measurable improvements.\
-    \ Real-world case studies demonstrate how iterative monitoring and diverse intervention\
-    \ methods\u2014including prompt tuning, offloading tasks, RAG pipeline adjustments,\
-    \ and fine-tuning\u2014enhance AI product reliability and user satisfaction. Key\
-    \ topics include AI monitoring, production testing, data-driven improvement, workflow\
-    \ segmentation, anomaly detection, and continuous feedback integration for robust\
-    \ AI performance."
+  hash: bba20c0032d7d9c90521c86a124be0cd
+  summary: 'This article explores systematic improvements to Retrieval-Augmented Generation
+    (RAG) and AI monitoring through insights from Raindrop and Oleve. It highlights
+    the limitations of traditional AI evals and emphasizes the need for comprehensive
+    production monitoring using implicit and explicit user signals to identify AI
+    failures. The Trellis framework is introduced as a structured approach to segmenting
+    AI outputs by user intent, prioritizing issues based on impact, and enabling targeted
+    fixes such as prompt engineering, RAG pipeline adjustments, and fine-tuning. Real-world
+    examples of AI failures underscore the importance of continuous, data-driven monitoring
+    and iterative refinement. Key topics include AI monitoring fundamentals, issue
+    identification, prioritization strategies, production testing, and the critical
+    role of user data in improving AI system reliability and user experience. Keywords:
+    AI monitoring, RAG, Trellis framework, production testing, AI issue identification,
+    prompt engineering, fine-tuning, user signals, AI product improvement, real-time
+    AI evaluation.'
 writing/posts/talks/chris-lovejoy-domain-expert-vertical-ai.md:
   hash: e32c0931ad3cae41b13f9269cd6fed35
   summary: Discover how to successfully apply large language models (LLMs) in specialized
@@ -1382,19 +1351,20 @@ writing/posts/talks/glean-manav.md:
     generation (RAG) optimization. Keywords: enterprise search, custom embedding models,
     fine-tuning, unified data model, semantic search, user feedback, RAG, Glean.'
 writing/posts/talks/index.md:
-  hash: c7147811c7067c17bb0571d6bff43e28
-  summary: The "Systematically Improving RAG Applications Speaker Series" offers expert
-    talks and presentations focused on enhancing Retrieval-Augmented Generation (RAG)
-    systems through practical techniques like data quality examination, custom embedding
-    fine-tuning, and robust evaluation frameworks. Key insights include the importance
-    of building effective feedback loops, specialized indexing, and domain-expert
-    review for vertical AI, as well as innovative approaches such as agentic code
-    exploration and multi-modal retrieval. This comprehensive series emphasizes actionable
-    strategies for production readiness, query analysis, and advanced retrieval technologies,
-    helping engineers transform RAG applications from prototypes to scalable, high-performance
-    solutions. Keywords include RAG systems, embedding fine-tuning, evaluation frameworks,
-    data processing, query routing, multi-modal retrieval, agentic AI, and production
-    monitoring.
+  hash: 6d4f8b5044fd4477c1359643297a998f
+  summary: 'The "Systematically Improving RAG Applications Speaker Series" offers
+    expert talks and presentations focused on enhancing Retrieval-Augmented Generation
+    (RAG) systems through data quality, evaluation frameworks, fine-tuning embeddings
+    and re-rankers, and robust production monitoring. Key themes include the critical
+    importance of data understanding over algorithmic complexity, domain-specific
+    customization, query routing strategies, and innovative retrieval techniques across
+    specialized use cases like coding agents and multi-modal document processing.
+    This comprehensive series highlights actionable insights, practical techniques,
+    and real-world lessons to systematically optimize RAG applications for improved
+    accuracy, efficiency, and scalability. Keywords: Retrieval-Augmented Generation,
+    RAG systems, embedding fine-tuning, evaluation frameworks, data quality, query
+    routing, coding agents, multi-modal retrieval, production monitoring, AI system
+    optimization.'
 writing/posts/talks/john-lexical-search.md:
   hash: acd91f6406397c23d2bd61f75fc488c4
   summary: "Discover the vital role of lexical search in Retrieval-Augmented Generation\
@@ -1538,21 +1508,24 @@ writing/posts/talks/superlinked-encoder-stacking.md:
     \ scalable. Key topics include encoder stacking, multi-modal retrieval, recommender\
     \ systems, and improving search relevance beyond text embeddings."
 writing/posts/talks/turbopuffer-engine.md:
-  hash: e69910be94cd34477a19ff6b07d5489f
-  summary: 'TurboPuffer is the first fully object storage-native vector database designed
-    for scalable, cost-effective semantic search and Retrieval-Augmented Generation
-    (RAG) applications. Leveraging a unique "pufferfish" three-tier storage architecture
-    combining object storage (S3), NVMe SSD caching, and RAM, TurboPuffer reduces
-    vector search costs by up to 95% compared to traditional in-memory databases while
-    maintaining high performance for active data. Key innovations include clustered
-    indexes optimized for object storage access patterns, enabling high write throughput
-    and strong consistency. Trusted by companies like Notion, Cursor, Linear, and
-    Superhuman, TurboPuffer excels in handling storage amplification, caching automation,
-    and real-world multi-tenant workloads. It supports facets and aggregations to
-    enhance AI-driven search and context engineering, offering a serverless experience
-    tailored to modern vector search economics and workload patterns. Keywords: TurboPuffer,
-    vector database, object storage, semantic search, RAG architecture, clustered
-    indexes, NVMe SSD cache, scalable search, database economics, search performance.'
+  hash: eed0d4de290476ce1634dbbbcb2d184f
+  summary: "TurboPuffer is the first fully object storage-native vector database designed\
+    \ for scalable, cost-effective vector search in Retrieval Augmented Generation\
+    \ (RAG) applications. Leveraging a unique three-tier \"pufferfish\" storage hierarchy\u2014\
+    object storage, NVMe SSD cache, and RAM cache\u2014it dramatically reduces costs\
+    \ by up to 95% compared to traditional in-memory vector databases while maintaining\
+    \ high performance for active data. TurboPuffer employs clustered indexes optimized\
+    \ for object storage, enabling efficient, low-latency queries and massive write\
+    \ throughput (10+ million vectors per second). Used by companies like Notion,\
+    \ Cursor, Linear, and Superhuman, TurboPuffer excels in scenarios with power-law\
+    \ data access patterns and large-scale semantic search needs, offering strong\
+    \ consistency and automatic caching. Key topics include database economics, storage\
+    \ amplification, embedding model latency, facets and aggregations for enhanced\
+    \ AI and search context, and trade-offs suitable for search and RAG but not high-transaction\
+    \ workloads.  \n\nKeywords: TurboPuffer, vector database, object storage, RAG\
+    \ architecture, semantic search, clustered indexes, NVMe SSD cache, vector search\
+    \ scalability, database economics, caching strategy, embedding latency, facets\
+    \ and aggregations, Notion, Cursor, Linear, Superhuman."
 writing/posts/talks/zapier-vitor-evals.md:
   hash: 6d89237861f998f2b361cc60284b915f
   summary: "Discover how Zapier quadrupled their AI feedback collection by redesigning\
@@ -1615,17 +1588,17 @@ writing/posts/topics_and_capabilities.md:
     functionality, and AI-driven applications. Keywords: RAG, topics, capabilities,
     search functionality, data analysis, user queries, metadata, content gaps.'
 writing/posts/trade-off-tool-selection.md:
-  hash: d885a53e63ec9f3d591f21c66be808fe
-  summary: "Optimize your Retrieval-Augmented Generation (RAG) system by balancing\
-    \ precision and recall in tool selection. This article explores the key challenge\
-    \ of selecting relevant tools, highlights the recall vs. precision tradeoff, and\
-    \ introduces the Evergreen Tools strategy\u2014focusing on the 20% of tools that\
-    \ handle 80% of use cases. Learn how to analyze usage data to identify top-performing\
-    \ tools and combine them with retrieval methods for specialized needs, resulting\
-    \ in improved efficiency, accuracy, and adaptability. Perfect for engineering\
-    \ leaders seeking to enhance RAG systems through data-driven tool optimization\
-    \ and smart retrieval strategies. Keywords: RAG systems, tool optimization, precision\
-    \ and recall, retrieval strategies, data analysis, evergreen tools."
+  hash: 1ae8c67841d7645a2326b09ce9d970b1
+  summary: "This article explores optimizing tool retrieval in Retrieval-Augmented\
+    \ Generation (RAG) systems by balancing precision and recall to enhance performance\
+    \ and efficiency. It emphasizes analyzing tool usage data to identify \"evergreen\"\
+    \ tools\u2014about 20% of tools handling 80% of use cases\u2014that should always\
+    \ be included in prompts to maintain high recall. For less frequent tools, retrieval\
+    \ methods like query analysis or embedding-based matching improve precision by\
+    \ selecting relevant tools dynamically. This balanced strategy reduces noise,\
+    \ boosts efficiency, and adapts to evolving user needs, making RAG systems more\
+    \ powerful and precise. Key topics include RAG systems, tool optimization, retrieval\
+    \ strategies, precision and recall trade-offs, and data-driven decision making."
 writing/posts/wandb-course.md:
   hash: 20f8ace4db0a9d58e69cb99f86cd4efa
   summary: 'Explore our comprehensive, free one-hour course on Weights and Biases,

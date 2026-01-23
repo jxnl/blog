@@ -26,6 +26,8 @@ _This is part of the [Context Engineering Series](./context-engineering-index.md
 - **Context Rot:** The degradation of AI performance as input length increases, where models process context less reliably in longer conversations
 - **Subagents:** Specialized AI workers that handle messy, token-intensive tasks in isolation and return only distilled insights to the main reasoning thread
 
+Update (January 2026): In most modern IDE agents, what used to be slash commands now ships as skills. Subagents are no longer a niche feature—they are built into Codex CLI and Cursor, so the patterns below map directly to current tooling.
+
 Through my [consulting work](https://jxnl.co/consulting/), I help companies build better AI systems. AI tools often waste huge amounts of processing power on messy information. Their main thinking gets clouded. **Most of what they process is junk** like test results, error logs, and long outputs that make it hard for the AI to think clearly.
 
 The choice isn't about what the AI can do. It's about what it can do given the information it has and how focused it can stay on one task. When your AI tool needs to run tests, check logs, or do heavy work, you have two options: dump all that messy stuff into the main chat (slash commands), or create a separate helper to handle it cleanly (subagents).
@@ -298,6 +300,10 @@ I've been diving into how Claude Code implements this stuff, and it's pretty cle
 **Slash commands are just prompt injection.** When you type `/run-tests`, Claude Code literally injects that long-ass prompt I showed you earlier into your main thread. Everything happens in the same context window. The test outputs, the git blame, the stack traces — all of it floods your main reasoning space.
 
 **Subagents are separate workers.** Claude Code has pre-configured subagents like `test-diagnostician` and `general-purpose` that spawn with their own context windows, their own tool access, everything. They're literally like shadow clones — they go off, do the work, burn 150k tokens parsing logs, and come back with just the insights.
+
+Codex CLI exposes this directly in the UI, and Cursor now offers the same pattern. Here is a Codex CLI snapshot:
+
+![Codex CLI subagent picker](./img/subagents-codex.png)
 
 The brilliance is in what gets isolated vs what gets shared.
 
