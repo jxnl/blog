@@ -118,7 +118,6 @@ nav:
     - User Manual: "user_manual.md"
     - Books: 'books.md'
     - Things: 'things.md'
-    - Experts and Vendors: "experts-and-vendors.md"
     - RAG Resources: "systematically-improve-your-rag.md"
     - Resume: "resume.md"
   - Job Board: "https://jobs.applied-llms.org"

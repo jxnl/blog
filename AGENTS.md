@@ -23,6 +23,25 @@ MkDocs Material blog with Python utilities. Content in `docs/writing/posts/`. Co
 - Cross-link related posts naturally using sitemap.yaml for reference
 - Images in `docs/writing/posts/img/`
 
+## Finding Blog Posts
+
+Blog posts are located in `docs/writing/posts/`. To find a specific post:
+
+1. **By filename**: Posts use kebab-case filenames (e.g., `rag-only-6-evals.md` for "There Are Only 6 RAG Evals")
+2. **By slug**: Each post has a `slug` field in frontmatter that matches the URL path
+3. **By title search**: Use semantic search or grep to find posts by title keywords
+4. **By category**: Check `docs/writing/index.md` which organizes posts by topic
+5. **By sitemap**: `sitemap.yaml` contains metadata for all posts including titles, slugs, and summaries
+
+Common post patterns:
+
+- RAG posts: `rag-*.md` (e.g., `rag-only-6-evals.md`, `rag-levels-of-rag.md`)
+- Context Engineering: `context-engineering-*.md` (e.g., `context-engineering-tool-response.md`)
+- Consulting: `consulting-*.md` (e.g., `consulting-everything-i-know.md`)
+- Personal: `advice.md`, `hands-part-1.md`, `learning.md`
+
+When linking to posts, use relative paths like `./writing/posts/filename.md` or `../posts/filename.md` depending on context.
+
 ## Writing Guidelines
 
 - Direct, actionable titles ("Four Levels Every RAG System Should Implement")
