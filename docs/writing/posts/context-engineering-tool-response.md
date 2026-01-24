@@ -56,7 +56,7 @@ This progression leads to two key predictions:
 ## Why Is Search Quality Your Ceiling?
 
 !!! warning "Hard Truth"
-Good search is the ceiling on your RAG quality. If recall is poor, no prompt engineering or model upgrade will save you. I've seen teams spend weeks fine-tuning prompts when their real problem was that the relevant information simply wasn't being retrieved. This is why focusing on the right RAG evaluation metrics is crucial.
+Good search is the ceiling on your RAG quality. If recall is poor, no prompt engineering or model upgrade will save you. I've seen teams spend weeks fine-tuning prompts when their real problem was that the relevant information simply wasn't being retrieved. This is why focusing on the right RAG evaluation metrics matters.
 
 Context engineering goes beyond returning chunks. It's about returning actionable structure about the result set so the next tool call can be smarter. Think of it as giving agents peripheral vision about the data landscape.
 
@@ -565,7 +565,7 @@ Agents operate differently. They're methodical, systematic, and don't get frustr
 
 **The strategic implication:** You don't need perfect recall on query #1. You need to give agents enough context about the information landscape that they can systematically traverse it. Each faceted search reveals new dimensions to explore, creating an implicit knowledge graph that agents can navigate without you having to explicitly define node relationships.
 
-This aligns perfectly with [Anthropic's observation](https://www.anthropic.com/engineering/writing-tools-for-agents) that effective tools increase the "surface area over which agents can be effective." Rather than trying to solve everything in one perfect retrieval, facets guide agents through multiple successful strategies until they achieve comprehensive coverage. The goal isn't perfect tools—it's tools that help agents pursue diverse paths to success.
+This matches [Anthropic's observation](https://www.anthropic.com/engineering/writing-tools-for-agents) that effective tools increase the "surface area over which agents can be effective." Rather than trying to solve everything in one perfect retrieval, facets guide agents through multiple successful strategies until they achieve comprehensive coverage. The goal isn't perfect tools—it's tools that help agents pursue diverse paths to success.
 
 Consider the contract example: the agent didn't need to find all liability provisions in one search. It needed to discover that liability provisions cluster around document types (contracts vs. amendments), signing status (signed vs. unsigned), and projects (Alpha vs. Beta vs. General). Armed with these facets, it can systematically explore each combination until it has complete coverage.
 

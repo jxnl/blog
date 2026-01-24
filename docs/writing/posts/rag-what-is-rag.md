@@ -86,7 +86,7 @@ While RAG offers significant advantages, there are also challenges to consider:
 
 For a deeper understanding of RAG systems:
 
-- Browse my [RAG resources](../../systematically-improve-your-rag.md) (course closed)
+- Browse my [RAG series index](./rag-series-index.md)
 - Read the [RAG course breakdown](./rag-course-breakdown.md)
 - Check out the [RAG FAQ](./rag-faq.md)
 - Learn from [RAG anti-patterns](./rag-anti-patterns-skylar.md)
@@ -100,4 +100,4 @@ RAG represents a powerful approach to combining the strengths of LLMs and extern
 The most common question I get: "Where do I even start with RAG?" Here are two good starting points:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+[RAG resources](./rag-series-index.md){ .md-button .md-button--secondary }

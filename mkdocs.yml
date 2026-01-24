@@ -117,8 +117,6 @@ nav:
     - Investments: "investments.md"
     - User Manual: "user_manual.md"
     - Books: 'books.md'
-    - Things: 'things.md'
-    - RAG Resources: "systematically-improve-your-rag.md"
     - Resume: "resume.md"
   - Job Board: "https://jobs.applied-llms.org"
   - Writing: "writing/index.md"

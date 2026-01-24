@@ -190,6 +190,6 @@ The future of coding isn't just about AI writing code—it's about AI understand
 I know these conversations cover a lot of ground—from architectural decisions to business strategy. If you want more material in this vein:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+[RAG resources](./rag-series-index.md){ .md-button .md-button--secondary }
 
 If you want hands-on help, I recommend reaching out to my friend Nila: [nila.is](https://nila.is/). Please mention you came from me.

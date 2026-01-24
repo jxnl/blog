@@ -226,7 +226,7 @@ Some people claim they will grind for ten years and then relax once they find a 
 
 For a large part of my life, I held onto the belief that my purpose was to help and teach people. I believed in working hard, generating capital, and taking care of my partner, family, and so on. However, when I got injured, I had to confront the fact that I wasn't able to fulfill those responsibilities. I struggled with the realization that I couldn't work, produce, or take care of my partner and family. It made me question, "If the ox cannot plow, what is it good for?" This struggle consumed me during the latter half of my twenties.
 
-It is crucial to start practicing self-love. While successful people may attribute their success to their struggles, I believe a significant part of it is simply coming to terms with those struggles. Each person's pain is maximum to them. You have already endured hardships. Seek success because you deserve it and learn to love yourself, rather than punishing yourself for not being good enough.
+Start practicing self-love. While successful people may attribute their success to their struggles, I believe a significant part of it is simply coming to terms with those struggles. Each person's pain is maximum to them. You have already endured hardships. Seek success because you deserve it and learn to love yourself, rather than punishing yourself for not being good enough.
 
 You deserve the life that you desire.
 

@@ -1,5 +1,17 @@
 ---
-description: "A list of things I've been using and plan on using in the future."
+authors:
+  - jxnl
+categories:
+  - Personal
+comments: true
+date: 2026-01-24
+description: A list of things I've been using and plan to use.
+draft: false
+slug: things
+tags:
+  - things
+  - recommendations
+  - personal
 ---
 
 # Things
@@ -7,6 +19,8 @@ description: "A list of things I've been using and plan on using in the future."
 _Some links may include affiliate attribution. Recommendations are based on personal use._
 
 In the past 2 decades I went from sharing a bed with my parents renting out the unfinished basement of some Canadian family to doing quite well for myself. This is all the stuff I use, plan to use, and what's on my upgrade roadmap. Each item includes why it works for me.
+
+<!-- more -->
 
 ## Sleep
 

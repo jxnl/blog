@@ -273,4 +273,4 @@ Metadata becomes more valuable when you have both high data volume and diverse q
 If you want more RAG material, here are two good starting points:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+[RAG resources](./rag-series-index.md){ .md-button .md-button--secondary }

@@ -11,7 +11,7 @@ comments: true
 
 !!! note "Systematically improving RAG systems"
 
-    This transcript is based off of a guest lecture given in my course, [Systematically Improving RAG Applications](../../systematically-improve-your-rag.md)
+    This transcript is based off of a guest lecture from my [Systematically Improving RAG Applications series](./rag-series-index.md).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTBsWJ2TKy8" title="Fine-Tuning Embedding Models for Enterprise RAG: Lessons from Glean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

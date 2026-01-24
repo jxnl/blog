@@ -200,4 +200,4 @@ If you want to see related talks and interviews, browse `docs/writing/posts/talk
 Production monitoring is where theory meets reality. Here are two good starting points:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+[RAG resources](./rag-series-index.md){ .md-button .md-button--secondary }

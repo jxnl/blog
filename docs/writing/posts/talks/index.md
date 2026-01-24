@@ -10,7 +10,7 @@ Talks and presentations from the Systematically Improving RAG Applications serie
 
 ---
 
-This content originally accompanied a cohort-based course, which is now closed. For the course archive page, see: [Systematically Improve Your RAG Applications (Closed)](../../../systematically-improve-your-rag.md).
+This content originally accompanied a cohort-based course, which is now closed. For the series index, see: [Systematically Improve Your RAG Applications](../rag-series-index.md).
 
 If you want hands-on help, I recommend reaching out to my friend Nila: [nila.is](https://nila.is/). Please mention you came from me.
 

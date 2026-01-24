@@ -225,4 +225,3 @@ Remember: the goal isn't to build the most sophisticated RAG system possible, bu
 I know this is a lot of material—RAG systems touch everything from data engineering to user psychology. If you want to work through this systematically, here are a couple good places to start:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }

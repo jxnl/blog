@@ -43,7 +43,7 @@ Before we even get to our six core metrics, we need to acknowledge the foundatio
 
 **Retrieval Precision & Recall**: These traditional information retrieval metrics measure how well your retriever finds relevant documents from the corpus. They're fast to compute, don't require LLMs, and provide quick feedback for retriever tuning.
 
-This aligns perfectly with our approach to starting the flywheel with synthetic data - you need to establish baseline retrieval performance with clear, measurable metrics before moving to more complex evaluation techniques. These metrics serve as the leading indicators that predict future success, rather than lagging indicators that just tell you about past performance.
+This matches our approach to starting the flywheel with synthetic data - you need to establish baseline retrieval performance with clear, measurable metrics before moving to more complex evaluation techniques. These metrics serve as the leading indicators that predict future success, rather than lagging indicators that just tell you about past performance.
 
 ### Tier 2: Primary RAG Relationships
 
@@ -99,7 +99,7 @@ If your retriever pulls irrelevant context, your generator is doomed from the st
   - Answer: "Interest in investing can be simple or compound. Compound interest is more powerful than simple interest and is an important concept in finance. It's the reason why starting to invest early is so beneficial for long-term wealth building."
   - _Reasoning_: Low relevance. Despite being about compound interest, the answer doesn't actually explain the mechanism of how it works. It tells you it's important but fails to address the specific how question.
 
-- _Why It Matters_: This is the ultimate user experience metric. It's also why we focus on building feedback mechanisms that specifically ask "Did we answer your question?" rather than vague "How did we do?" feedback prompts. Specific feedback aligned with this metric increases response rates dramatically.
+- _Why It Matters_: This is the primary user experience metric. It's also why we focus on building feedback mechanisms that specifically ask "Did we answer your question?" rather than vague "How did we do?" feedback prompts. Specific feedback matched to this metric increases response rates dramatically.
 
 ### Tier 3: Advanced RAG Relationships
 
@@ -107,19 +107,19 @@ If your retriever pulls irrelevant context, your generator is doomed from the st
 
 - _Definition_: Does the retrieved context contain all the information needed to fully support every claim in the answer? This measures whether the context is both sufficient and focused.
 
-This metric connects directly to what we've learned about specialized retrievers and the query routing architecture. Different content types may require different retrieval approaches to ensure complete coverage. For instance, when answering questions about blueprints in construction projects, you might need both image retrieval and document retrieval working together.
+This metric matches what we've learned about specialized retrievers and the query routing architecture. Different content types may require different retrieval approaches to ensure complete coverage. For instance, when answering questions about blueprints in construction projects, you might need both image retrieval and document retrieval working together.
 
 **5. Question Answerability (Q|C)**
 
 - _Definition_: Given the context provided, is it actually possible to formulate a satisfactory answer to the question? This evaluates whether the question is reasonable given the available information.
 
-This relates to the strategic rejection pattern we've discussed. When a query can't be answered with the available context, the most honest response is to acknowledge this limitation. This builds trust through transparency rather than generating a hallucinated answer.
+This matches the strategic rejection pattern we've discussed. When a query can't be answered with the available context, the most honest response is to acknowledge this limitation. This builds trust through transparency rather than generating a hallucinated answer.
 
 **6. Self-Containment (Q|A)**
 
 - _Definition_: Can the original question be inferred from the answer alone? This measures whether the answer provides enough context to stand on its own.
 
-This connects to our discussion of monologues and chain-of-thought approaches that make thinking visible. Answers that restate and address the core question directly create better user experiences, especially in asynchronous communication contexts.
+This matches our discussion of monologues and chain-of-thought approaches that make thinking visible. Answers that restate and address the core question directly create better user experiences, especially in asynchronous communication contexts.
 
 ## Implementing Tiered Evaluation in Practice
 
@@ -130,7 +130,7 @@ Based on recent academic research and practical experience, here's how to approa
 - Use precision, recall, MAP@K, and MRR@K to tune your retriever
 - These don't require LLM evaluation and provide quick feedback cycles
 
-This directly mirrors our approach of starting the improvement flywheel with synthetic data and focused evaluation metrics before moving to more complex approaches.
+This matches our approach of starting the improvement flywheel with synthetic data and focused evaluation metrics before moving to more complex approaches.
 
 **Focus on Tier 2**: Implement the three primary RAG relationships
 
@@ -138,7 +138,7 @@ This directly mirrors our approach of starting the improvement flywheel with syn
 - Most benchmarks prioritize these three metrics
 - Use LLM-based evaluation for more nuanced assessment of these relationships
 
-This aligns with our focus on building feedback mechanisms and quality-of-life improvements that enhance trust and transparency.
+This matches our focus on building feedback mechanisms and quality-of-life improvements that enhance trust and transparency.
 
 **Extend to Tier 3**: Add advanced metrics when you need deeper insights
 
@@ -146,7 +146,7 @@ This aligns with our focus on building feedback mechanisms and quality-of-life i
 - Use them for monthly evaluations, major releases, and strategic decisions
 - Different domains may require emphasis on different Tier 3 metrics (e.g., medical RAG needs stronger C|A)
 
-This connects to our discussion of topic modeling and capability identification, recognizing that different query types may require different evaluation emphasis.
+This matches our discussion of topic modeling and capability identification, recognizing that different query types may require different evaluation emphasis.
 
 ## LLM-as-Judge
 
@@ -157,7 +157,7 @@ While resource-intensive, using LLMs as judges is currently the most effective m
 
 Several benchmarks, including RAGAs, ARES, and TruEra RAG Triad, now use LLM evaluation by default. While traditional metrics like BLEU, ROUGE, and BERTScore still have a place, only LLM-based evaluation can effectively capture the nuanced relationships in our framework.
 
-This parallels our discussion about using LLMs to analyze feedback and identify patterns in user queries - leveraging AI to understand AI.
+This matches our discussion about using LLMs to analyze feedback and identify patterns in user queries - leveraging AI to understand AI.
 
 ## Domain-Specific Evaluation
 
@@ -167,7 +167,7 @@ An interesting insight from the DomainRAG benchmark is that different domains ma
 - Customer service RAG demands better answer relevance (A|Q)
 - Technical documentation RAG requires stronger question answerability (Q|C)
 
-This reinforces what we've learned about topic modeling and segmentation - different query types need different capabilities, and our evaluation should reflect those priorities. It's why we segment questions not just by topic but by the capability required to answer them.
+This matches what we've learned about topic modeling and segmentation - different query types need different capabilities, and our evaluation should reflect those priorities. It's why we segment questions not just by topic but by the capability required to answer them.
 
 ## Why This Framework Matters
 
@@ -179,13 +179,13 @@ When your RAG system fails, it fails along one of these dimensions. Every time.
 
 The beauty of this framework is that it's complete. There are no other relationships between Q, C, and A. We've covered every possible evaluation angle.
 
-This systematic approach to diagnosing problems aligns perfectly with our product mindset for RAG - identifying specific failure points rather than making vague statements about "making the AI better."
+This systematic approach to diagnosing problems matches our product mindset for RAG - identifying specific failure points rather than making vague statements about "making the AI better."
 
 ## So What?
 
 Next time you're debugging a RAG system, don't waste time on complexity theater. Focus on these six relationships organized in practical tiers. Fix the ones that are broken. Ignore the rest.
 
-This framework complements our improvement flywheel perfectly - start with the basics, collect feedback on specific aspects, analyze that feedback to identify patterns, and make targeted improvements based on what you learn.
+This framework matches our improvement flywheel - start with the basics, collect feedback on specific aspects, analyze that feedback to identify patterns, and make targeted improvements based on what you learn.
 
 And if someone tries to sell you a RAG evaluation framework with 20 different metrics? Smile and ask which of the 6 core relationships they're actually measuring.
 

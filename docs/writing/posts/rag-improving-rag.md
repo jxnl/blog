@@ -39,7 +39,7 @@ By the end of this post, you'll understand my step-by-step approach to making RA
 - Building specific systems to improve abilities
 - Constantly checking and testing as you get more real-world data
 
-Through this step-by-step runbook, you'll gain practical knowledge on how to incrementally enhance the performance and utility of your RAG applications, unlocking their full potential to deliver exceptional user experiences and drive business value. Let's dive in and explore how to systematically improve your RAG systems together!
+This step-by-step runbook shows how to incrementally improve the performance and utility of your RAG applications. Let's dive in and explore how to systematically improve your RAG systems.
 
 <!-- more -->
 
@@ -61,7 +61,7 @@ This will give you a baseline to work with and help you identify areas for impro
 
 ## Utilize Metadata
 
-Ensuring relevant metadata (e.g., date ranges, file names, ownership) is extracted and searchable is crucial for improving search results.
+Extract and make searchable relevant metadata (e.g., date ranges, file names, ownership) to improve search results.
 
 - Extract relevant metadata from your documents
 - Include metadata in your search indexes
@@ -97,7 +97,7 @@ Test both and see what works best for your use case.
 
 ## Implement Clear User Feedback Mechanisms
 
-Implementing clear user feedback systems (e.g., thumbs up/down) is essential for gathering data on your system's performance and identifying areas for improvement.
+Implement clear user feedback systems (e.g., thumbs up/down) to gather data on your system's performance and identify areas for improvement.
 
 - Add user feedback mechanisms to your application
 - Make sure the copy for these mechanisms clearly describes what you're measuring

@@ -209,4 +209,4 @@ _P.S. An AI agent helped me write this post by analyzing my commit history and i
 If you want more material in this vein:
 
 [Free 6-Week RAG Email Course](https://dub.link/6wk-rag-email){ .md-button .md-button--primary }
-[RAG resources](../../systematically-improve-your-rag.md){ .md-button .md-button--secondary }
+[RAG resources](./rag-series-index.md){ .md-button .md-button--secondary }

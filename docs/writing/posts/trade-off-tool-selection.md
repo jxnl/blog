@@ -21,7 +21,7 @@ tags:
 
 !!! note "RAG Course"
 
-    This is based on a conversation that came up during office hours from a previous cohort-based RAG course (now closed). For a structured path through the material, see [RAG resources](../../systematically-improve-your-rag.md).
+    This is based on a conversation that came up during office hours from a previous cohort-based RAG course (now closed). For a structured path through the material, see [RAG resources](./rag-series-index.md).
 
 When it comes to Retrieval-Augmented Generation (RAG) systems, one of the key challenges is deciding how to select and use tools effectively. As someone who's spent countless hours optimizing these systems, many people ask me whether or not they should think about using retrieval to choose which tools to put into the prompt. What this actually means is that we're interested in making precision and recall trade-offs. I've found that the key lies in balancing recall and precision. Let me break down my approach and share some insights that could help you improve your own RAG implementations.
 
@@ -94,4 +94,4 @@ Implementing this strategy has helped me significantly improve the performance o
 
 So, next time you're scratching your head over tool selection in your RAG system, remember: start with data, identify your evergreens, and use retrieval wisely. Your users (and your metrics) will thank you.
 
-If you're interested in learning more about RAG, start with [RAG resources](../../systematically-improve-your-rag.md).
+If you're interested in learning more about RAG, start with [RAG resources](./rag-series-index.md).

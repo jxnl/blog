@@ -248,4 +248,4 @@ TurboPuffer currently has minimum spend requirements, making it more suitable fo
 
 ---
 
-If you want a structured path through this topic, start with [RAG resources](../../../systematically-improve-your-rag.md).
+If you want a structured path through this topic, start with [RAG resources](../rag-series-index.md).

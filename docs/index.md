@@ -15,7 +15,7 @@ Staff-level machine learning engineer, angel investor, startup advisor, and a16z
 
 ## Investments
 
-Angel investor and scout for [Andreessen Horowitz](https://a16z.com/). Invested in companies like [Lovable.dev](https://lovable.dev/), [Modal](https://modal.com/), [Exa](https://exa.ai/), [Haize Labs](https://haizelabs.com/), and others. See [full portfolio](./investments.md).
+Angel investor and scout for [Andreessen Horowitz](https://a16z.com/). Invested in companies like [Lovable](https://lovable.dev/), [Modal](https://modal.com/), [Exa](https://exa.ai/), [Browserbase](https://browserbase.com/), [Raindrop.ai](https://www.raindrop.ai/), [Julius AI](https://julius.ai/), [Vantager](https://www.vantager.com/), [Pydantic](https://pydantic.dev/), and others. See [full portfolio](./investments.md).
 
 ## Consulting
 
