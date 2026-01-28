@@ -30,20 +30,19 @@ expert-calls.md:
     paid expert calls discontinued, writing resources, writing guidance, expert consultations
     no longer available.'
 index.md:
-  hash: 52163adc3373102a0774ed8b97cf3eee
-  summary: "Jason Liu is a staff-level machine learning engineer, angel investor,\
-    \ startup advisor, and a16z scout specializing in AI engineering, open source,\
-    \ and improving AI applications systematically. He shares expertise on retrieval-augmented\
-    \ generation (RAG) techniques, AI agent systems, and practical strategies for\
-    \ building AI systems in production. Jason has invested in notable AI startups\
-    \ such as Lovable, Modal, and Pydantic, and has consulted for leading tech companies\
-    \ including Zapier, HubSpot, and Weights & Biases. He also runs advanced training\
-    \ programs in AI engineering, agent decoding, and independent consulting, with\
-    \ students from top organizations like OpenAI, Google, and Microsoft. Creator\
-    \ of the popular Python library Instructor, his work influences key AI development\
-    \ practices including OpenAI\u2019s structured output feature. Keywords: machine\
-    \ learning engineer, AI engineering, RAG systems, startup advisor, angel investor,\
-    \ AI consulting, Python AI library, AI training programs."
+  hash: a36718a50560d612f6f979699877a72e
+  summary: 'Jason Liu is a staff-level machine learning engineer, angel investor,
+    startup advisor, and a16z scout specializing in open source AI and improving Retrieval-Augmented
+    Generation (RAG) applications. He shares expertise through popular posts on context
+    engineering and AI career advice, offers consulting services to leading software
+    startups transitioning to AI, and leads cohort-based training programs focused
+    on AI agents, RAG, and freelance consulting. Jason is also the creator of the
+    Instructor Python library for structured LLM outputs, recognized by OpenAI. His
+    portfolio includes investments in innovative AI startups, making his content valuable
+    for those interested in AI engineering, RAG techniques, startup advising, and
+    production-ready AI systems. Key topics: Retrieval-Augmented Generation, AI engineering
+    jobs, machine learning, AI consulting, startup investing, Instructor library,
+    structured LLM outputs.'
 investments.md:
   hash: 7dc5fc9786e39cbda052f0b23c99b084
   summary: 'This profile highlights angel investments and scouting activities focused

@@ -4,7 +4,7 @@ description: Explore RAG techniques, AI engineering jobs, and practical notes on
 
 # Jason Liu
 
-Staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. Writing about open source and how to systematically improve AI applications.
+Staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. Writing about open source and [improving RAG applications](https://567-labs.github.io/systematically-improving-rag/).
 
 **Follow on [Twitter](https://x.com/jxnlco) or subscribe to the [newsletter](https://dub.link/S4G5XGs) to keep up with new posts.**
 
@@ -19,7 +19,7 @@ Angel investor and scout for [Andreessen Horowitz](https://a16z.com/). Invested 
 
 ## Consulting
 
-Previously ran a solo consulting practice focused on helping startups as many software companies transitioned to AI. Including [Zapier](https://zapier.com/), [HubSpot](https://hubspot.com/), [Limitless AI](http://limitless.ai/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/).
+Previously ran a solo consulting practice focused on helping startups as many software companies transitioned to AI. Including [Zapier](https://zapier.com/), [HubSpot](https://hubspot.com/), [Limitless AI](http://limitless.ai/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/). To learn more about how I thought about indie consulting, see [this page](https://567-labs.github.io/consulting/).
 
 ## Training
 
