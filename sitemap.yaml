@@ -30,19 +30,17 @@ expert-calls.md:
     paid expert calls discontinued, writing resources, writing guidance, expert consultations
     no longer available.'
 index.md:
-  hash: a36718a50560d612f6f979699877a72e
+  hash: e7d0fabdfe593371e3e22f25dcf1c988
   summary: 'Jason Liu is a staff-level machine learning engineer, angel investor,
-    startup advisor, and a16z scout specializing in open source AI and improving Retrieval-Augmented
-    Generation (RAG) applications. He shares expertise through popular posts on context
-    engineering and AI career advice, offers consulting services to leading software
-    startups transitioning to AI, and leads cohort-based training programs focused
-    on AI agents, RAG, and freelance consulting. Jason is also the creator of the
-    Instructor Python library for structured LLM outputs, recognized by OpenAI. His
-    portfolio includes investments in innovative AI startups, making his content valuable
-    for those interested in AI engineering, RAG techniques, startup advising, and
-    production-ready AI systems. Key topics: Retrieval-Augmented Generation, AI engineering
-    jobs, machine learning, AI consulting, startup investing, Instructor library,
-    structured LLM outputs.'
+    startup advisor, and a16z scout specializing in open source and improving Retrieval-Augmented
+    Generation (RAG) applications. He offers insights on building AI systems in production,
+    AI engineering careers, and practical consulting for startups transitioning to
+    AI. Jason has invested in numerous innovative tech companies and provides cohort-based
+    training on AI agents, RAG, and freelance consulting. He is also the creator of
+    Instructor, a popular Python library for structured outputs from large language
+    models, recognized by OpenAI. Keywords: RAG techniques, AI engineering jobs, machine
+    learning engineer, AI systems production, angel investor, startup advisor, AI
+    consulting, Python library, Instructor, OpenAI structured output.'
 investments.md:
   hash: 7dc5fc9786e39cbda052f0b23c99b084
   summary: 'This profile highlights angel investments and scouting activities focused
@@ -1159,17 +1157,16 @@ writing/posts/strings.md:
     and enabling immediate integration of API updates. Important keywords are LLM,
     prompt engineering, API, string formatting, and Python.
 writing/posts/sunsetting-567-labs.md:
-  hash: 79fb4a2f60135b115f4c2c86cf9c9eb0
-  summary: '567 Labs is officially sunsetting its courses as of February 2, 2026,
-    and open sourcing all written course content as edited ebook transcripts. Key
-    topics include the RAG (Retrieval-Augmented Generation) playbook emphasizing a
-    product mindset, synthetic evaluation data, effective feedback UX, and specialized
-    retrieval methods. The consulting archive highlights strategies like the content-to-calls
-    flywheel, the value equation formula, multi-option pricing, and structured discovery
-    processes. This open source release offers comprehensive, systematic insights
-    into improving RAG systems and consulting best practices. Keywords: 567 Labs,
-    RAG, open source, course transcripts, ebook, consulting strategies, product mindset,
-    synthetic evaluation, feedback UX, retrieval methods.'
+  hash: bdf9b20cad4e62e74168643c0e4ac3a9
+  summary: 567 Labs is officially sunsetting as of February 2, 2026, with all courses
+    closing and the course content being open sourced as edited ebook transcripts.
+    Key offerings include the RAG playbook, which emphasizes a product mindset, synthetic
+    evaluation data, effective feedback UX, and specialized retrieval methods to improve
+    systems systematically. The consulting archive highlights strategies such as the
+    flywheel model for content and client engagement, value equation frameworks, three-option
+    pricing models, and structured discovery processes. Access the comprehensive resources
+    on RAG and consulting to enhance your knowledge in retrieval-augmented generation,
+    open source education, and strategic consulting best practices.
 writing/posts/systematically-improving-rag-raindrop.md:
   hash: 6b100ba7476ea862c8dae90a6b475a01
   summary: 'This article explores systematic approaches to improving Retrieval-Augmented

@@ -37,9 +37,16 @@ Highlights from the consulting archive:
 - Three-option pricing with clear tradeoffs, not a single price.
 - Discovery + proposals: five-question discovery, situational assessment structure.
 
+## Read
+
 [Read the RAG Playbook](https://567-labs.github.io/systematically-improving-rag/){: .md-button .md-button-primary }
+
 [Read the Consulting Archive](https://567-labs.github.io/consulting/){: .md-button }
+
+## Follow
+
 [Watch on YouTube](https://www.youtube.com/@jxnlco/videos){: .md-button }
+
 [Connect on LinkedIn](https://www.linkedin.com/in/jxnlco/){: .md-button }
 
 If you spot issues, please let me know.

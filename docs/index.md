@@ -6,7 +6,7 @@ description: Explore RAG techniques, AI engineering jobs, and practical notes on
 
 Staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. Writing about open source and [improving RAG applications](https://567-labs.github.io/systematically-improving-rag/).
 
-**Follow on [Twitter](https://x.com/jxnlco) or subscribe to the [newsletter](https://dub.link/S4G5XGs) to keep up with new posts.**
+**Follow on [Twitter](https://x.com/jxnlco) or subscribe to the [newsletter](https://subscribe.jxnl.co/) to keep up with new posts.**
 
 ## Popular Posts
 
