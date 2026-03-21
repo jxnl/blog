@@ -26,7 +26,7 @@ After some more editing I realised that I am actually writing this for my younge
 
 !!! warning "Don't read this if you're seeking a nuanced perspective"
 
-    These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism\)). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the suffering and the privilege I've experienced is universal.
+    These are simply the lies I tell myself to keep on living my life in [good faith](<https://en.wikipedia.org/wiki/Bad_faith_(existentialism)>). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the suffering and the privilege I've experienced is universal.
 
 <!-- more -->
 
