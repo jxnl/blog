@@ -60,20 +60,13 @@ Very few people get a job on merit alone. You have to be a big fish in a big pon
 
 When I hire someone, I simply want to know that they are capable of taking charge of their own life. It's quite common for people to DM me saying, "Hey man, how can I help you?" However, I often find that they haven't put any effort into thinking about it. I usually ignore such messages unless I truly believe they can provide assistance.
 
-!!! note "Links that are everywhere on my digital footprint"
-
-    - [Contributing to jxnl/instructor](https://instructor-ai.github.io/instructor/contributing/)
-    - [Contributing to jxnl/instructor-js](https://instructor-ai.github.io/instructor-js/contributing/)
-    - [Issues of jxnl/instructor](https://github.com/instructor-ai/instructor/issues)
-    - [Issues of jxnl/instructor-js](https://github.com/instructor-ai/instructor-js/issues)
-
-There have been many times people will DM me offering to help while I am writing a blog post. I'll link the blog PR and say 'let me know what you think'. No comments, and then I get ghosted?
+There have been many times people will DM me offering to help while I am writing a blog post. I'll send over a draft and say 'let me know what you think'. No comments, and then I get ghosted?
 
 !!! note "How to Reach Out"
 
     Do not send me anything longer than you would send to a crush. Some people email me six-paragraph essays about the time they saved a cat from a tree.
 
-    I find the most effective way to get someone's attention is to simply give, just like in dating. Hey, I noticed that you read this book on your website. I think you'd like this book too; it's pretty short, etc. Oh, I noticed some tests were failing in your repository. I fixed them for you. Hey! I've added some examples to the codebase. Do you have any feedback?
+    I find the most effective way to get someone's attention is to simply give, just like in dating. Hey, I noticed that you read this book on your website. I think you'd like this book too; it's pretty short, etc. Oh, I noticed a typo in your post and sent over a fix. Hey! I had a thought on your draft and left a few comments. Do you have any feedback?
 
     There are so many little ways to get people's attention that aren't self-centered. I do this with my consulting too. During the first call, my only goal is to tell you everything I think could help your business. I don't care if you hire me or not. I just want to help. And as it turns out, this leads me to the next part.
 
