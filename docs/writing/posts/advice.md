@@ -32,42 +32,55 @@ After some more editing, I realized that I am actually writing this for my young
 
 ## Updates: March 27
 
-I just turned 32, so I wanted to add some more stuff here. 
+Turned 32 recently, so wanted to add some more stuff here.
 
-When I first wrote this piece, I was in the middle of trying to transition back into tech after my hand injury, which you can read about [here](./hands-part-1.md). A lot of what I wrote came out of those short years of self-reinvention and self-discovery, and the mantras I adopted to get through them.
+When I first wrote this piece, I was in the middle of trying to transition back into tech after my hand injury, which you can read about [here](./hands-part-1.md). A lot of what came out on the page was from those short years of self-reinvention and self-discovery, and the mantras I adopted to get through them.
 
-In the two years after that, I started an LLC, built a consulting business, self-sponsored my O-1, made about $1.6 million in cash, and then shut it all down to join OpenAI. So a lot of what I wrote here reads differently to me now. Some of it was advice, but a lot of it was really just my own limiting beliefs about money talking. I come from a scarcity mindset, and if you ask my friends, 90% of my anxiety and neuroticism is about how much things cost. That has negatively impacted my life regardless of how much money I make, have, or lose. The weird part is that every time I've actually lost money, it never felt that bad. So I probably don't care about money as much as I think I do.
+Below are some of the realizations I've made over the past two years as I started my business.
 
 ## Use Your Potions
 
-I grew up super poor. I remember that I beat the first three Pokemon games that I ever played without using a potion because I was just saving them up in case I needed them. That's the hoarding mentality. And then I was like, oh, I see, that's just poor behavior.
+Grew up super poor. Remember beating the first three Pokemon games without ever using a potion, just saving them up in case I needed them. That's the hoarding mentality. And then it clicked: oh, that's just poor behavior.
 
-The first time I ever made a financial bet was when I was like, oh, let me go hire a writer to build out the thing before I sell it. Because there is no in case. The next step is you make money. You're supposed to hire a writer to promote the thing and build the advertisements and then run the advertisements and then more money will appear. Everybody else is sitting around being like, "What if I need potions?" And I was like, oh, actually I should just use the potions.
+The first three Pokémon games ended up as a challenge run, effectively: a no-potion run, without ever intending that. It reminded me of the purity conversations people had about Elden Ring. It doesn't count if you use magic. Dexterity is cheating. The only way to play this game in a pure sense is to dodge and roll and parry, and anything else is low skill. God damn it, the game developers put these mechanics into the game. And just as you might be talking about how the only way to play this game is with dodges and rolls and parries, someone else beat this game with Donkey Kong bongo pads, no-hit any% speed run.
 
-Because as you play the game, you make money. And if you don't die so much, you actually lose less of the experience. So now I'm trying to just figure out what are the random rules I've set for myself that are making my life a challenge run and just not do that. At the age of 30, I used my first potion. It was incredible.
+All of these conditions we set on ourselves are arbitrary. Maybe I decide to start a company without raising money or hiring people. Maybe you think it's silly to hire an EA. Maybe I don't think it's purely about hiring a ghostwriter. Did you know that the Hands article I listed above is actually ghostwritten by my friend Joseph Gleasure?
 
-There's also this purity thing that I think is really stupid. It's like playing Elden Ring and deciding you're only allowed to use strength, or you're not allowed to use magic, or you're not allowed to summon. And sure, if that's the game you want to play, that's fine. But a lot of people bring that same purity logic into real life. They invent fake rules about what counts, and then they suffer for no reason.
+So just use your potions. Or at least acknowledge the specific kind of challenge run you've decided to do in your life. Some people I know go through life without ever deciding to work out. Some people choose not to eat meat. Some people choose to be angry at their parents for the rest of their life. None of this is good or bad, but these are just decisions we've all made.
+
+So my question to you is, what are the unconscious challenge runs you're setting in the way that you live your life?
 
 ## Notes on All My Money Issues
 
-I really just felt that in the past two years of running a business, most of my thoughts were around making money and selling my time and understanding why I was afraid of money. I felt like money was something I was always ashamed about and also uneducated in. And I couldn't figure out where I could find mentorship or role models for how I thought about growing my business.
+Coming to the US meant landing with $147, borrowing from friends, and making a living as a machine learning researcher until, four years into my career, my hands stopped working. Felt like I might never make a living again.
 
-### Talk About Money
+Two years on savings meant not making a dollar until ChatGPT showed up, and then maybe AI could cover the work my hands couldn't. Two years after that, Codex landed, and it was like: wow, could probably join a lab even without really being able to type.
 
-The first thing I want to address is that oftentimes people find it bad to talk about money. I don't think that was healthy for me because money is not something I'm very good at. It was not something my parents taught me, and it was not something I had, or at least enough of it that I thought about money as more than just trading my time for a sandwich.
+The next stretch meant an LLC, consulting, self-sponsoring the O-1, about $1.6 million in cash, then shutting it down to join OpenAI. Scarcity mindset is real: ask my friends and 90% of the anxiety is about what things cost. That screws with your life whether you're making money, holding it, or losing it. Weird part is, losing money never felt as bad as the worrying. Maybe the caring isn't as deep as the anxiety makes it sound.
 
-I remember, as a kid, being yelled at for spending $10 on a book and being scolded that this could have been money that paid a bill or paid for my food. As I got older, I realized that not talking about money has usually come from two things: not talking about money because your boss isn't paying you enough, and not talking about money because you feel like the people around you would get jealous. But I also find that talking about money around certain people showed me parts of who they were and the mindset they had.
+Running the business, headspace kept circling making money, selling time, and why money felt frightening. Shame and feeling clueless came with that. No clear mentorship or role models for how to think about growing something like this.
 
-Sometimes I'll talk about my contracts, and people will say, "What's your problem? Why are you so open about this kind of thing?" In other terms, the people who do better than me don't have that kind of judgment.
+Growing up, money talk wasn't comfortable. Plenty of people act like it's rude. That wasn't great for me, because money skills weren't exactly a strength. Parents didn't model it, and there was never enough around to think much past trading time for a sandwich.
 
-The two most poignant points I ever got from talking about money were:
+As a kid, spending $10 on a book got you yelled at: that could have been a bill or food money. Later, not talking about money looked like it usually came from two places, underpaying bosses or fear that people around you would get jealous. Saying numbers out loud with someone still shows who they are and how they think.
 
-1. "Hey Jason, it sounds like you're afraid of leverage. We were doing a million dollars this year. Why can't you do five million dollars next year?"
-2. "Some of the reasons you gave me are about your fear or inability to become a better leader."
+## Talking About Money
 
-Someone else told me, "Jason, you and I both work 90 to 100 hours a week and both of us are pretty fucking stressed out of our minds, but the difference is I'm doing a hundred million this year. I don't think consulting is the right thing to do. I feel like you're better off joining a lab while starting a company and raising money."
+Say the numbers out loud and people sort themselves.
 
-At that point, a lot of the reasons I didn't do those things were very much about not using my potions. I could use money. I could raise money. I could hire people. But I didn't, and in some silly way I was doing business as a challenge run.
+And sure, talking about money has alienated some people, and generally those are the people who also probably had a lot of issues with money. But other people, people who I looked up to, people who I aspire to become more like, oftentimes just look at me confused
+
+> "Really? I thought you'd be making more, I see you working hard every day and grinding. You know, Jason, I don't think I'm any more or less stressed than you, and I think we're working the same hours, but my business is doing $100 million this year. What do you think you're doing wrong? Why are you so afraid of leverage?"
+
+There's another bit below about getting stronger at the gym and judging people less, same energy.
+
+You'll realize there are just people with different kinds of mindsets.
+
+Sometimes, you'll look at your friends and tell them that you want to buy a house that's $2 million. Some of those people will look at you and say, "Wow, must be nice." And others will look at you and say, "Where have you looked? Have we figured out the fees? Which neighborhood are you looking for? I know a real estate agent."
+
+When i talk to friends who mention $40 million a year, or $100 million, or running companies worth billions usually get an honest, "Man, would love to do business together and learn from you."
+
+And that was literally it.
 
 ## A Handful of Good Decisions
 
@@ -75,7 +88,7 @@ Your whole life is just built around making good decisions. Hard work is the ent
 
 Basically, at some point you realize that everyone around you works hard, but people's outcomes are very different. It might not be easy to see that in high school or even in college. Someone might be making $150,000 a year, someone else might be doing a lot better making $200,000 a year, but the $50,000 difference isn't going to be the main difference. But by your 30s, the differences in outcomes have been pretty large. Some people are married, have kids, some are single, some are buying their second house, and some are buying their fourth. The difference in these outcomes, whether someone has 10x more of what you have or is accomplishing 10x more than what you have accomplished, has generally not been because someone is working 10x more. The outcomes you get are a function of two things: force and leverage. Chances are, they find more leverage.
 
-We realize that a lot of the big outcomes you can look back on when you're in your 30s have really been a couple of small decisions. Obviously, these decisions have a factor of luck in them, but we talk about that later on in this post. Most of the money I made was because I decided to do consulting and later just do a course. Over the money, it will be because I decided to join OpenAI. But also, everyone who applies to OpenAI, whether or not they join or get accepted or even get an offer, probably just worked hard.
+We realize that a lot of the big outcomes you can look back on when you're in your 30s have really been a couple of small decisions. Obviously, these decisions have a factor of luck in them, but we talk about that later on in this post. Most of the money so far came from choosing consulting, then from just running a course. Beyond that, joining OpenAI will be the next chapter. Same grind probably shows up for everyone who applies, offer or not.
 
 You know, most of the money that you'll have will be because you chose the right business partner or the right life partner. And what you'll also find is that oftentimes it's the same as when many businesses lack focus. You will have a better life by making one good decision and zero bad decisions than you will have if you made five good decisions and three bad decisions. And the point I'm trying to get here is that oftentimes, people are doing too much or trying to make too many decisions. Just be solely focused on making one good decision every year without taking any steps back. Three bad decisions could result in you losing almost everything that you have.
 
@@ -83,7 +96,7 @@ You know, most of the money that you'll have will be because you chose the right
 
 There's an essay I really like called `Things You're Allowed to Do`, and it's just this possibility space of potions. If you want to learn something, there are PhD students you can pay like $30 an hour to personally tutor you. You can just do it.
 
-Even with the courses, I was like, oh man, I don't want to be seen as a scammer because I'm selling these courses. And then I bought a book for $300 called something like how to price effectively. I read that book, made like six lines of changes on my website, and within three months I closed a contract for $110,000 all paid up front. So the $300 book was free.
+Selling courses came with the fear of looking like a scammer. A $300 book on pricing, maybe six lines changed on the site, and three months later a $110,000 contract landed, all paid up front. So the book was free.
 
 But everybody else is stuck on, "$300?" I saw this TikTok where this guy comes out with a bag and he's like, "What if I told you this bag is $500? Would you buy this bag?" And the poor mentality is, "Why the fuck would I buy a $500 bag?" But the abundance mentality is, "Oh, what's in the bag?" That's the thing I'm always asking now. Okay, what's in the bag? We can talk about price afterwards, but what's actually in the bag?
 
@@ -97,27 +110,27 @@ So now my understanding is all the questions I ask have to point to what is the 
 
 This is just a story of how stupid high school Jason was in trying to save money for future Jason.
 
-In April of 2025, I wanted to go to Japan to celebrate my friend's birthday. I also had to go to London for a work meeting and went to Paris to do my birthday. I also had a lot of work to do, so I bought a $4,000 plane ticket so I could sleep on my way to London and get some slides done. After a few weeks in Paris for fun, I realized the flight to Japan to do my buddy's birthday would also be pretty tiring, so I flew business there as well.
+April of 2025 pulled together Japan for a friend's birthday, London for work, Paris for mine, plus too much work to move schedules cleanly. A $4,000 ticket bought sleep on the way to London and time for slides. A few weeks in Paris later, the hop to Japan for the birthday also looked brutal, so business class happened there too.
 
-So I do all this with my friends for a week. And basically the TLDR was that I spent about $15,000 in a month on travel. Not only that, but I felt like it was worth it because I know how rare these opportunities are.
+A week with friends, roughly $15,000 in travel for the month, and honestly worth it because those windows don't come often.
 
-But let's step back to me after I graduated high school, and after I graduated college.
+Rewind to right after high school, and again after college.
 
-In both those situations, I finished school on Friday and started working by monday morning. I thought, "I can't afford a $3,000 graduation trip." Not the flight, the whole trip would have been that much.
+Both times meant finishing school Friday and starting work Monday. Graduation trip money felt impossible at $3,000 for the whole thing, not just a flight.
 
-So between the ages of 17 and 24, I tried to save $6,000 by avoiding traveling with my friends for 5 weeks.
+Between 17 and 24, skipping five weeks of trips with friends was how to "save" $6,000.
 
-It's not like I bet that $6,000 went into crypto and I would have lost out on some massive gain. It's not like if I didn't start my summer job or full-time job two weeks late I would have missed out on some thing insane.
+That $6,000 didn't get parked in some coin that would moon, and starting jobs two weeks late wouldn't have torched anything real.
 
-I was just stupid and I had no belief in myself to make money or whatever. The takeaway was that future me literally didn't need past me's help.
+Past me was just scared and didn't believe money could show up later. Future me did not need those sacrifices.
 
 ### How Much Does Billionaire Jason Value His Time?
 
 Basically, if you do believe in yourself, you will have way more money when you are older. But then if God asks you at the age of 75 how much money you'd pay to be 28 for a week, or 32 for a month in Japan with your friends, how much would you pay? It's more than $15,000. It's more than $100,000. You'd be stupid if you didn't believe that. 
 
-So just forgo it. In 2024, I made just about a million dollars and my biggest regret was not taking my ex girlfriend Nikol to Portugal before we broke up and I moved to backed to NY. Still think about it all the time. At the time, I thought I could make an extra $80,000 that month and the trip would have cost $10,000, and I felt like it was a lot.
+So just forgo it. 2024 landed around a million dollars in income, and the cleanest regret is still skipping Portugal with Nikol before the breakup and the move back to NY. Still haunts. Then the brain said an extra $80,000 that month beat a $10,000 trip, and somehow the trip felt huge.
 
-Then I did Christmas dinner with my friends, single as hell, after paying my bill I saw on mercury that the business crossed a million and all I thought was, "I could have taken that trip, the rest is going to taxes anyways."
+Christmas dinner landed with friends, single as hell. After paying the bill, Mercury showed the business over a million and the only thought was, "Could have taken that trip, the rest is going to taxes anyways."
 
 ## Being Nobody
 
