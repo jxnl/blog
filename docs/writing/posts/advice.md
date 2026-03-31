@@ -26,131 +26,10 @@ After some more editing, I realized that I am actually writing this for my young
 
 !!! warning "Don't read this if you're seeking a nuanced perspective"
 
-    These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism\)). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the suffering and the privilege I've experienced is universal.
+    These are simply the lies I tell myself to keep on living my life in [good faith](<https://en.wikipedia.org/wiki/Bad_faith_(existentialism)>). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the suffering and the privilege I've experienced is universal.
 
 <!-- more -->
 
-## Updates: March 27
-
-Turned 32 recently, so wanted to add some more stuff here.
-
-When I first wrote this piece, I was in the middle of trying to transition back into tech after my hand injury, which you can read about [here](./hands-part-1.md). A lot of what came out on the page was from those short years of self-reinvention and self-discovery, and the mantras I adopted to get through them.
-
-Below are some of the realizations I've made over the past two years as I started my business.
-
-## Use Your Potions
-
-Grew up super poor. Remember beating the first three Pokemon games without ever using a potion, just saving them up in case I needed them. That's the hoarding mentality. And then it clicked: oh, that's just poor behavior.
-
-The first three Pokémon games ended up as a challenge run, effectively: a no-potion run, without ever intending that. It reminded me of the purity conversations people had about Elden Ring. It doesn't count if you use magic. Dexterity is cheating. The only way to play this game in a pure sense is to dodge and roll and parry, and anything else is low skill. God damn it, the game developers put these mechanics into the game. And just as you might be talking about how the only way to play this game is with dodges and rolls and parries, someone else beat this game with Donkey Kong bongo pads, no-hit any% speed run.
-
-All of these conditions we set on ourselves are arbitrary. Maybe I decide to start a company without raising money or hiring people. Maybe you think it's silly to hire an EA. Maybe I don't think it's purely about hiring a ghostwriter. Did you know that the Hands article I listed above is actually ghostwritten by my friend Joseph Gleasure?
-
-So just use your potions. Or at least acknowledge the specific kind of challenge run you've decided to do in your life. Some people I know go through life without ever deciding to work out. Some people choose not to eat meat. Some people choose to be angry at their parents for the rest of their life. None of this is good or bad, but these are just decisions we've all made.
-
-So my question to you is, what are the unconscious challenge runs you're setting in the way that you live your life?
-
-## Notes on All My Money Issues
-
-Coming to the US meant landing with $147, borrowing from friends, and making a living as a machine learning researcher until, four years into my career, my hands stopped working. Felt like I might never make a living again.
-
-Two years on savings meant not making a dollar until ChatGPT showed up, and then maybe AI could cover the work my hands couldn't. Two years after that, Codex landed, and it was like: wow, could probably join a lab even without really being able to type.
-
-The next stretch meant an LLC, consulting, self-sponsoring the O-1, about $1.6 million in cash, then shutting it down to join OpenAI. Scarcity mindset is real: ask my friends and 90% of the anxiety is about what things cost. That screws with your life whether you're making money, holding it, or losing it. Weird part is, losing money never felt as bad as the worrying. Maybe the caring isn't as deep as the anxiety makes it sound.
-
-Running the business, headspace kept circling making money, selling time, and why money felt frightening. Shame and feeling clueless came with that. No clear mentorship or role models for how to think about growing something like this.
-
-Growing up, money talk wasn't comfortable. Plenty of people act like it's rude. That wasn't great for me, because money skills weren't exactly a strength. Parents didn't model it, and there was never enough around to think much past trading time for a sandwich.
-
-As a kid, spending $10 on a book got you yelled at: that could have been a bill or food money. Later, not talking about money looked like it usually came from two places, underpaying bosses or fear that people around you would get jealous. Saying numbers out loud with someone still shows who they are and how they think.
-
-## Talking About Money
-
-Say the numbers out loud and people sort themselves.
-
-And sure, talking about money has alienated some people, and generally those are the people who also probably had a lot of issues with money. But other people, people who I looked up to, people who I aspire to become more like, oftentimes just look at me confused
-
-> "Really? I thought you'd be making more, I see you working hard every day and grinding. You know, Jason, I don't think I'm any more or less stressed than you, and I think we're working the same hours, but my business is doing $100 million this year. What do you think you're doing wrong? Why are you so afraid of leverage?"
-
-There's another bit below about getting stronger at the gym and judging people less, same energy.
-
-You'll realize there are just people with different kinds of mindsets.
-
-Sometimes, you'll look at your friends and tell them that you want to buy a house that's $2 million. Some of those people will look at you and say, "Wow, must be nice." And others will look at you and say, "Where have you looked? Have we figured out the fees? Which neighborhood are you looking for? I know a real estate agent."
-
-When i talk to friends who mention $40 million a year, or $100 million, or running companies worth billions usually get an honest, "Man, would love to do business together and learn from you."
-
-And that was literally it.
-
-## A Handful of Good Decisions
-
-Your whole life is just built around making good decisions. Hard work is the entry ticket, it's the admission fee for this carnival called life.
-
-Basically, at some point you realize that everyone around you works hard, but people's outcomes are very different. It might not be easy to see that in high school or even in college. Someone might be making $150,000 a year, someone else might be doing a lot better making $200,000 a year, but the $50,000 difference isn't going to be the main difference. But by your 30s, the differences in outcomes have been pretty large. Some people are married, have kids, some are single, some are buying their second house, and some are buying their fourth. The difference in these outcomes, whether someone has 10x more of what you have or is accomplishing 10x more than what you have accomplished, has generally not been because someone is working 10x more. The outcomes you get are a function of two things: force and leverage. Chances are, they find more leverage.
-
-We realize that a lot of the big outcomes you can look back on when you're in your 30s have really been a couple of small decisions. Obviously, these decisions have a factor of luck in them, but we talk about that later on in this post. Most of the money so far came from choosing consulting, then from just running a course. Beyond that, joining OpenAI will be the next chapter. Same grind probably shows up for everyone who applies, offer or not.
-
-You know, most of the money that you'll have will be because you chose the right business partner or the right life partner. And what you'll also find is that oftentimes it's the same as when many businesses lack focus. You will have a better life by making one good decision and zero bad decisions than you will have if you made five good decisions and three bad decisions. And the point I'm trying to get here is that oftentimes, people are doing too much or trying to make too many decisions. Just be solely focused on making one good decision every year without taking any steps back. Three bad decisions could result in you losing almost everything that you have.
-
-### Poor Mentality vs. Abundance Mentality
-
-There's an essay I really like called `Things You're Allowed to Do`, and it's just this possibility space of potions. If you want to learn something, there are PhD students you can pay like $30 an hour to personally tutor you. You can just do it.
-
-Selling courses came with the fear of looking like a scammer. A $300 book on pricing, maybe six lines changed on the site, and three months later a $110,000 contract landed, all paid up front. So the book was free.
-
-But everybody else is stuck on, "$300?" I saw this TikTok where this guy comes out with a bag and he's like, "What if I told you this bag is $500? Would you buy this bag?" And the poor mentality is, "Why the fuck would I buy a $500 bag?" But the abundance mentality is, "Oh, what's in the bag?" That's the thing I'm always asking now. Okay, what's in the bag? We can talk about price afterwards, but what's actually in the bag?
-
-### X% of Y
-
-There was one company paying me like $700 an hour to do a job interview. I was like, oh my God, this is sick. All I do is ask, "Can you tell me more?" At the end of the month, I make $30,000. Do you think I'm winning or losing? I was losing, relatively, because the recruiter made $160,000 because the recruiter takes 20% of first year salary. Then when the head of AI joins, the first question he asks is, "How long has Jason been around and how long will Jason be around?" Five months later, they raise a Series B. So I make $30,000, the recruiter makes $160,000, the founder is up a couple million, and even the head of AI's equity just went up. And I was the most exploited person in the room.
-
-So now my understanding is all the questions I ask have to point to what is the biggest outcome possible. What I said was, "I'll lay your bricks. I'm a really good bricklayer." The recruiter is like, "I'll find you a great team." And then the developer is like, "What is it going to cost you if people move in six months late? What is it going to cost you if you can't get this done before the winter comes?" It's going to cost you millions of dollars.
-
-### Your future self is better than your current self, stop worrying
-
-This is just a story of how stupid high school Jason was in trying to save money for future Jason.
-
-April of 2025 pulled together Japan for a friend's birthday, London for work, Paris for mine, plus too much work to move schedules cleanly. A $4,000 ticket bought sleep on the way to London and time for slides. A few weeks in Paris later, the hop to Japan for the birthday also looked brutal, so business class happened there too.
-
-A week with friends, roughly $15,000 in travel for the month, and honestly worth it because those windows don't come often.
-
-Rewind to right after high school, and again after college.
-
-Both times meant finishing school Friday and starting work Monday. Graduation trip money felt impossible at $3,000 for the whole thing, not just a flight.
-
-Between 17 and 24, skipping five weeks of trips with friends was how to "save" $6,000.
-
-That $6,000 didn't get parked in some coin that would moon, and starting jobs two weeks late wouldn't have torched anything real.
-
-Past me was just scared and didn't believe money could show up later. Future me did not need those sacrifices.
-
-### How Much Does Billionaire Jason Value His Time?
-
-Basically, if you do believe in yourself, you will have way more money when you are older. But then if God asks you at the age of 75 how much money you'd pay to be 28 for a week, or 32 for a month in Japan with your friends, how much would you pay? It's more than $15,000. It's more than $100,000. You'd be stupid if you didn't believe that. 
-
-So just forgo it. 2024 landed around a million dollars in income, and the cleanest regret is still skipping Portugal with Nikol before the breakup and the move back to NY. Still haunts. Then the brain said an extra $80,000 that month beat a $10,000 trip, and somehow the trip felt huge.
-
-Christmas dinner landed with friends, single as hell. After paying the bill, Mercury showed the business over a million and the only thought was, "Could have taken that trip, the rest is going to taxes anyways."
-
-## Being Nobody
-
-I was on acid in Oregon looking at a lake, thinking about my responsibilities to my family and to my partner at the time, and then my vision goes to white and I see God. And God just says, "Jason, you're trying so hard to be a somebody. Let me give you the feeling of being a nobody."
-
-And for some moment, I get the feeling of being nobody, and the world was super light and everything was pleasant. I don't know how to describe it, but being a nobody is so much more liberating and it lets you do anything that you want and play with everything.
-
-I don't mean being nobody like being insignificant. I mean not being anything in relation to other people. When you're trying to be a somebody, there are all these roles you have to play. You have to be a good son, a good teacher, a good student, a good husband, a good brother, whatever.
-
-But if you take that all away, there's no commitment to anything. There's no quest. After that trip, I was like, oh, I shouldn't try to be anybody. Let me just fuck around. I think meaning and purpose is just created along the way anyway. It's definitely looking back for me. I don't think you have to decide who you are first and then go live your life.
-
-## Side Quests
-
-I think you should beat the game and then do the challenge runs. The challenge runs are really fucking cool, but a lot of people are doing challenge runs before they even beat the game, and that's the part that makes no sense to me.
-
-I'm not doing the start in VC and make a billion dollar company challenge run. But one thing I would love to do in some part of my life is make $100,000 selling art. That's more of a side quest. I have some of these fun missions along the way, but they're not all business related. And I think that's actually one of the best parts of life. Being rich and having a six-pack are kind of the same goal to me. If I do a couple things and live this lifestyle, you just kind of get the six-pack.
-
----
-
-From here down is the essay pretty much as I first published it. Everything above this line, starting from the March update through Side Quests, is newer material I added on top.
 
 ## "Choosing"
 
@@ -240,7 +119,7 @@ Once you start hitting a plateau, you can just start thinking about progressive 
 
 ### On Season and Off Season
 
-I think a lot of people ask me specifically about this question because I do so many things. I'm a martial artist, assistant, free diver, blah blah blah blah blah. I don't think I'm a leader at any of these things, but I do think I'm elite at learning. And just like there is an off-season and on-season for sports, I think there's an off-season and on-season for learning. And I think that's the most important thing to understand.
+I think a lot of people ask me specifically about this question because I do so many things. I'm a martial artist, assistant, free diver, blah blah blah blah blah. I don't think I'm a leader at any of these things, but I do think I'm elite at [learning](./learning.md). And just like there is an off-season and on-season for sports, I think there's an off-season and on-season for learning. And I think that's the most important thing to understand.
 
 At some point, cardio will hurt your strength gains. At some point, strength gains will hurt your cardio. At some point, you're gonna have to choose between being a powerlifter or a marathon runner. And that's okay. You can always come back to it. But I think the most important thing is to understand that you can't be good at everything all the time. And that's okay. You can always come back to it.
 
@@ -341,7 +220,7 @@ Some people claim they will grind for ten years and then relax once they find a 
 
 For a large part of my life, I held onto the belief that my purpose was to help and teach people. I believed in working hard, generating capital, and taking care of my partner, family, and so on. However, when I got injured, I had to confront the fact that I wasn't able to fulfill those responsibilities. I struggled with the realization that I couldn't work, produce, or take care of my partner and family. It made me question, "If the ox cannot plow, what is it good for?" This struggle consumed me during the latter half of my twenties.
 
-Start practicing self-love. While successful people may attribute their success to their struggles, I believe a significant part of it is simply coming to terms with those struggles. Each person's pain is maximum to them. You have already endured hardships. Seek success because you deserve it and learn to love yourself, rather than punishing yourself for not being good enough.
+Start practicing [self-love](./self-loathing.md). While successful people may attribute their success to their struggles, I believe a significant part of it is simply coming to terms with those struggles. Each person's pain is maximum to them. You have already endured hardships. Seek success because you deserve it and learn to love yourself, rather than punishing yourself for not being good enough.
 
 You deserve the life that you desire.
 
@@ -432,6 +311,109 @@ The most valuable thing you can give someone is your attention. Talk about the t
 
 So attend to the things that matter, and make sure to spend your arrogance while you're still young.
 
+## New Stuff from March 27 2026
+
+Turned 32 recently, so wanted to add some more stuff here.
+
+When I first wrote this piece, I was in the middle of trying to transition back into tech after my hand injury, which you can read about in [my hand injury post](./hands-part-1.md). A lot of what came out on the page was from those short years of self-reinvention and self-discovery, and the mantras I adopted to get through them.
+
+Below are some of the realizations I've made over the past two years as I started my business.
+
+## Use Your Potions
+
+I grew up super poor, and I still remember beating the first three Pokémon games without ever using a potion. I kept saving them up, thinking I would need them later, and at the end I just beat the whole fucking game. I ultimately just did a no-potion run, a no-potion challenge run of every Pokémon game, without any intention to do so. It reminded me of the purity conversations people had about Elden Ring, how it didn't count if you used magic, and it only made sense if you played with a sense of dodging and rolling and working on your timing. The game developers put magic in the game. Just as you're arguing about some kind of bullshit purity, there's someone else beating the game no-potion with Donkey Kong bongo pads.
+
+The mechanics are built into the game.
+
+All these conditions we set on ourselves are just arbitrary. Maybe I want to decide to run a company, but I refuse to raise money or hire help. Maybe I choose not to hire an EA or hire a writer. Just use your damn potions, and if you don't acknowledge that you are doing a very specific kind of challenge, run with your whole life. Allow that to be a conscious decision with your life that you wake up every day and accept.
+
+## Notes on All My Money Issues
+
+### Money has always been the anxiety
+
+A lot of the past two years has actually revolved around a lot of my neuroses around money, and so I'm gonna share a lot of thoughts I've had about what money means to me, so just be warned.
+
+Not everyone likes talking about money.
+
+To give you some context, I came to the US with about $157 in my bank account. I borrowed from some friends and made a living as a machine learning researcher until my hands stopped working, and I basically thought I would never make a living again.
+
+I had a ton of issues with money growing up. It's kind of the one real issue and anxiety I have in my life.
+
+### Just talk about money, it's fine
+
+If you want to be successful, at some point money is going to be part of that conversation.
+
+Naturally, what you'll find is when you say numbers out loud, people start to sort themselves. They tend to reveal how they view themselves and what the value of money is.
+
+Sometimes I'll talk about money, and people will go on a forty-minute tirade on how they don't mean that money means nothing to them and they don't care about all these things. Obviously, if you're ranting to me for forty minutes because I told you that I lost a bunch of money in stocks, maybe it's actually a you thing.
+
+Because for other people, they just ask me, "What led me to make those bets?" Or do I need help with hedging or some other thing where money is seen more as just a skill?
+
+And also I personally find that if you refuse to really acknowledge money or even believe that things can be priced, the world is probably just a little bit harder for you.
+
+I remember specifically at a dinner table someone mentioned that they want to buy a $4 million house. Someone at that table just rolled their eyes and said, "That must be nice." While someone else looked at her and said, "Oh, where have you been looking? Have you figured out the fees? Do you think I'll have kids in that house? What neighborhood are you looking for? I know a real estate agent if you want."
+
+And the last time I told someone how well my business did, they just looked at me and said, "Damn Jason, I'm working just as hard as you and making a hundred times more. Let's figure out what you're doing wrong." That conversation literally led me to leave consulting and OpenAI.
+
+It turns out I was afraid of leverage, and having a better platform allowed me to access more tools and more people. And now, when people tell me how much money they make, I just think to myself, "Let's do business together sometime," and I would love to learn from you.
+
+This also reminds me of another line that Naval said once:
+
+![Naval on ethical wealth creation](./img/naval-ethical-wealth.png)
+
+### Make money with your friends
+
+I was at some event a couple years ago where someone asked Peter Thiel about the PayPal Mafia and how those friendships endured for so long. His answer was very simple: "You just got to figure out a way of making money together."
+
+Obviously, I think this is more directly aligned with the act of creation, but, man, does value creation and value capture really motivate the kind of wartime brotherhood that we have?
+
+Now, the greatest privilege I have with any friendship is to work together, but I think that has always been the case, whether it's a rock band, a startup, or even just some campaign. All I want to do is work with my friends.
+
+## A Handful of Good Decisions
+
+One of the big truths in my life.
+
+Your whole life is really built around a couple of good decisions and making as few bad decisions as possible.
+
+In business, what I learned is that focus allows you to really just make a few decisions. And oftentimes, my life is better in a year where I make one good decision and zero bad decisions. And my life is quite bad if I make five good decisions and three bad decisions.
+
+
+Two good decisions got me to a $3 million net worth, and one bad decision brought me down to $500,000. An even worse decision, working a little bit too much, caused me to not be able to work productively for about three years.
+
+It turns out hard work is just the entry ticket. To get to where I was, everyone works hard. Maybe the first million is hard work, but the next twenty is not just that. It's luck, leverage, and not just fucking ruining everything.
+
+After hard work, everything else is your judgment and your ability to be lucky, and I talk about that later on.
+
+### Do you want the rewards?
+
+There's an essay I really like called `Things You're Allowed to Do`, and it's just this possibility space of potions. If you want to learn something, there are PhD students you can pay like $30 an hour to personally tutor you. You can just do it.
+
+Last year I saw a TikTok where a guy comes out with a bag and he's like, "Would you buy this bag for $300?" Half the people just go, "Why the fuck would I buy your bag for $300?" Other people ask what's in the bag. Turns out there's $1,000 in the bag. Life is sometimes really that simple. I feel like often times we forget to ask that question, and we only see the cost. I don't know if that fully justifies an $8,000 eight-sleep mattress, but sleeping better and living longer and having better skin and being able to show up at work feels like a pretty good investment for some people.
+
+### Your future self is better than your current self, stop worrying
+
+This is just a story of how stupid high school Jason was in trying to save money for future Jason.
+
+April of 2025 pulled together Japan for a friend's birthday, London for work, Paris for mine, plus too much work to move schedules cleanly. A $4,000 ticket bought sleep on the way to London and time for slides. A few weeks in Paris later, the hop to Japan for the birthday also looked brutal, so business class happened there too.
+
+A week with friends, roughly $15,000 in travel for the month, and honestly worth it because those windows don't come often.
+
+Rewind to right after high school, and again after college.
+
+Both times meant finishing school Friday and starting work Monday. Graduation trip money felt impossible at $3,000 for the whole thing, not just a flight.
+
+Between 17 and 24, skipping five weeks of trips with friends was how to "save" $6,000.
+
+That $6,000 didn't get parked in some coin that would moon, and starting jobs two weeks late wouldn't have torched anything real.
+
+Past me was just scared and didn't believe money could show up later. Future me did not need those sacrifices.
+
+### How Much Does Billionaire Jason Value His Time?
+
+Basically, if you do believe in yourself, you will have way more money when you are older. But then if God asks you at the age of 75 how much money you'd pay to be 28 for a week, or 32 for a month in Japan with your friends, how much would you pay? It's more than $15,000. It's more than $100,000. You'd be stupid if you didn't believe that. 
+
+So just forgo it. 2024 landed around a million dollars in income, and the cleanest regret is still skipping Portugal with Nikol before the breakup and the move back to NY. Still haunts. Then the brain said an extra $80,000 that month beat a $10,000 trip, and somehow the trip felt huge.
+
 ---
 
-If you like the like content give me a follow on [twitter](https://twitter.com/jxnlco) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
+From here down is the essay pretty much as I first published it. Everything above this line, starting from the March update through Side Quests, is newer material I added on top.
