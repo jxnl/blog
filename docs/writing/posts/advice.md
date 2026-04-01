@@ -22,17 +22,18 @@ tags:
 I'm really not qualified to give advice.
 
 But enough people DM'd me on Twitter, so here it is. I don't have to answer the same question over and over again.
-After some more editing I realised that I am actually writing this for my younger sister Katherine.
+After some more editing, I realized that I am actually writing this for my younger sister Katherine.
 
 !!! warning "Don't read this if you're seeking a nuanced perspective"
 
-    These are simply the lies I tell myself to keep on living my life in [good faith](https://en.wikipedia.org/wiki/Bad_faith_(existentialism\)). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the suffering and the privilege I've experienced is universal.
+    These are simply the lies I tell myself to keep on living my life in [good faith](<https://en.wikipedia.org/wiki/Bad_faith_(existentialism)>). I'm not saying this is the right way to do things. I'm just saying this is how I did things. I will do my best to color my advice with my own experiences, but I'm not going to pretend that the suffering and the privilege I've experienced is universal.
 
 <!-- more -->
 
+
 ## "Choosing"
 
-You'll notice that I use the word "choosing" frequently. I genuinely believe that we are always making choices and that we have the ability to choose. Choosing can be terrifying because it means we are accountable for our decisions, and there are infinite options before us. It is also frightening because once we have made a decision, we must live with it, it is the death of optionality. But I believe that choosing is the only way to live authentically.
+You'll notice that I use the word "choosing" frequently. I genuinely believe that we are always making choices and that we have the ability to choose. Choosing can be terrifying because it means we are accountable for our decisions, and there are infinite options before us. It is also frightening because once we have made a decision, we must live with it. It is the death of optionality. But I believe that choosing is the only way to live authentically.
 
 - **Existential Despair**: A feeling of hopelessness rooted in the existentialist belief that life lacks inherent meaning. This despair arises from the realization of one's absolute freedom and the responsibility for creating one's own essence and purpose.
 
@@ -42,7 +43,7 @@ There's a joke I once heard about a philosopher. Before going to bed, he wonders
 
 ## How to Be Lucky
 
-You make your own luck. There's a great experiment that I can't cite, but it has stuck in my mind since I was a child. They identified people as lucky and unlucky, and asked them to count the number of photographs in a newspaper. The unlucky people took a long time to count the photographs, while the lucky people took a very short time. The reason is that the unlucky people were so focused on counting the photographs that they missed the giant text that said, "Stop counting, there are 43 photographs in this newspaper."
+You make your own luck. There's a great experiment that I can't cite, but it has stuck in my mind since I was a child. They identified people as lucky and unlucky and asked them to count the number of photographs in a newspaper. The unlucky people took a long time to count the photographs, while the lucky people took a very short time. The reason is that the unlucky people were so focused on counting the photographs that they missed the giant text that said, "Stop counting, there are 43 photographs in this newspaper."
 
 What I took away from this experiment was the idea that it might not be the case that lucky people and unlucky people have different opportunities, but rather that their field of perception is wider. Lucky people can actually see the opportunities. A lucky person and an unlucky person might meet the same businessman, but they might talk about different things. One could be presented with or ask for an opportunity that the unlucky person doesn't even see as possible.
 
@@ -50,34 +51,27 @@ I often ask myself, "Okay, I'm focused on getting X, but let's not forget to rea
 
 ## How to Get a Job
 
-I've never gotten a job by applying to it. It's always been referrals or someone reaching out to me. So honestly, my resume is shit compared to my peers. I'm terrible at interviewing, and I've never done leetcode. This is not a brag; it's just not my style. Am I a nepo baby? I don't know. Was I a morale hire? I'm pretty disagreeable. Was it merit? Also not sure.
+I've never gotten a job by applying to it. It's always been referrals or someone reaching out to me. So honestly, my resume is shit compared to my peers. I'm terrible at interviewing, and I've never done LeetCode. This is not a brag; it's just not my style. Am I a nepo baby? I don't know. Was I a morale hire? I'm pretty disagreeable. Was it merit? Also not sure.
 
 ### Merit
 
-Very few people get a job on merit alone. You have to be a big fish in a big pond. That's like IOI, top 1% in your class, etc. That's just... Sort by grades and interview? That's hard. You literally have to be the best. I say what I say knowing that you've already worked hard, knowing that you've already put in the sweat, but understanding that the next 10% or the next 5% of improvement is going to be much more difficult, than focusing on being a better person. And that I want you make a conscious of the trade-offs you make between these 'soft' and 'hard' skills.
+Very few people get a job on merit alone. You have to be a big fish in a big pond. That's like IOI, top 1% in your class, etc. That's just... Sort by grades and interview? That's hard. You literally have to be the best. I say what I say knowing that you've already worked hard, knowing that you've already put in the sweat, but understanding that the next 10% or the next 5% of improvement is going to be much more difficult than focusing on being a better person. And that I want you to be conscious of the trade-offs you make between these "soft" and "hard" skills.
 
 ### High Agency
 
 When I hire someone, I simply want to know that they are capable of taking charge of their own life. It's quite common for people to DM me saying, "Hey man, how can I help you?" However, I often find that they haven't put any effort into thinking about it. I usually ignore such messages unless I truly believe they can provide assistance.
 
-!!! note "Links that are everywhere on my digital footprint"
-
-    - [Contributing to jxnl/instructor](https://instructor-ai.github.io/instructor/contributing/)
-    - [Contributing to jxnl/instructor-js](https://instructor-ai.github.io/instructor-js/contributing/)
-    - [Issues of jxnl/instructor](https://github.com/instructor-ai/instructor/issues)
-    - [Issues of jxnl/instructor-js](https://github.com/instructor-ai/instructor-js/issues)
-
-There have been many times people will DM me offering to help while I am writing a blog post. I'll link the blog PR and say 'let me know what you think'. No comments, and then I get ghosted?
+There have been many times people will DM me offering to help while I am writing a blog post. I'll send over a draft and say, "let me know what you think." No comments, and then I get ghosted?
 
 !!! note "How to Reach Out"
 
     Do not send me anything longer than you would send to a crush. Some people email me six-paragraph essays about the time they saved a cat from a tree.
 
-    I find the most effective way to get someone's attention is to simply give, just like in dating. Hey, I noticed that you read this book on your website. I think you'd like this book too; it's pretty short, etc. Oh, I noticed some tests were failing in your repository. I fixed them for you. Hey! I've added some examples to the codebase. Do you have any feedback?
+    I find the most effective way to get someone's attention is to simply give, just like in dating. Hey, I noticed that you read this book on your website. I think you'd like this book too; it's pretty short, etc. Oh, I noticed a typo in your post and sent over a fix. Hey! I had a thought on your draft and left a few comments. Do you have any feedback?
 
     There are so many little ways to get people's attention that aren't self-centered. I do this with my consulting too. During the first call, my only goal is to tell you everything I think could help your business. I don't care if you hire me or not. I just want to help. And as it turns out, this leads me to the next part.
 
-I recognize that not everyone has access to the same networking opportunities, and the traditional job application process can be a valid and necessary path for many. But social media when used correctly is a great way to get a opportunity
+I recognize that not everyone has access to the same networking opportunities, and the traditional job application process can be a valid and necessary path for many. But social media, when used correctly, is a great way to get an opportunity.
 
 ### Be the Plumber
 
@@ -95,7 +89,7 @@ If your metric for working somewhere is being someone people want to work with, 
 
 If I hired you, don't insult me by having impostor syndrome. I hired you because I think you can solve my problem. I didn't hire you to compare you to other plumbers (I might), but at the end of the day, you must just think I have shit taste and that you've somehow tricked me into thinking you're good when you're an impostor? Right?
 
-That said, it's advised that junior people seek out teams which prioritize a high degree of psychological safety.
+That said, I'd advise junior people to seek out teams that prioritize a high degree of psychological safety.
 
 If you don't believe in yourself, believe in me that believes in you.
 
@@ -105,7 +99,7 @@ If you don't believe in yourself, believe in me that believes in you.
 
 I think too many people reading this are mostly pursuing intellectual activities, but I'm mostly gonna focus on using analogies of personal physical fitness to describe how I think about this kind of stuff.
 
-In the beginning, you're gonna have a noob gains, just an act of practicing is going to be enough to make improvements. You're gonna be so weak and out of shape that if you wait, it's gonna be cardio, and if you run, you're gonna get stronger. And it's gonna be months or years of seeing progress just by showing up every day and doing anything. You're just gonna be making progress. Maybe you're also "gifted" and so things come easier to you, but there's gonna be a time when things change.
+In the beginning, you're gonna have noob gains, just an act of practicing is going to be enough to make improvements. You're gonna be so weak and out of shape that if you walk, it's gonna be cardio, and if you run, you're gonna get stronger. And it's gonna be months or years of seeing progress just by showing up every day and doing anything. You're just gonna be making progress. Maybe you're also "gifted" and so things come easier to you, but there's gonna be a time when things change.
 
 ### Cost of Being a Champion
 
@@ -117,7 +111,7 @@ The story I tell myself is one where Travis Stevens talks about what it takes to
 
 ### Love Plateaus
 
-Once you start hitting a plateau, can you just start thinking about progressive overload and making sure what you're doing is facing difficulty at some consistent rate, but ultimately this is just to get you over and through some of these spots. At some point in the future, how much better you get will just be a function of how badly you want it and how much you enjoy the act.
+Once you start hitting a plateau, you can just start thinking about progressive overload and making sure what you're doing is facing difficulty at some consistent rate, but ultimately this is just to get you over and through some of these spots. At some point in the future, how much better you get will just be a function of how badly you want it and how much you enjoy the act.
 
 !!! note "How to identify the champ"
 
@@ -125,7 +119,7 @@ Once you start hitting a plateau, can you just start thinking about progressive 
 
 ### On Season and Off Season
 
-I think a lot of people ask me specifically about this question because I do so many things. I'm a martial artist, assistant, free diver, blah blah blah blah blah. I don't think I'm a leader at any of these things, but I do think I'm elite at learning. And just like there is an off-season and on-season for sports, I think there's an off-season and on-season for learning. And I think that's the most important thing to understand.
+I think a lot of people ask me specifically about this question because I do so many things. I'm a martial artist, assistant, free diver, blah blah blah blah blah. I don't think I'm a leader at any of these things, but I do think I'm elite at [learning](./learning.md). And just like there is an off-season and on-season for sports, I think there's an off-season and on-season for learning. And I think that's the most important thing to understand.
 
 At some point, cardio will hurt your strength gains. At some point, strength gains will hurt your cardio. At some point, you're gonna have to choose between being a powerlifter or a marathon runner. And that's okay. You can always come back to it. But I think the most important thing is to understand that you can't be good at everything all the time. And that's okay. You can always come back to it.
 
@@ -156,11 +150,11 @@ When I started freediving, I swam for an hour every day, six days a week. At the
 
 ### Public Speaking
 
-People don't believe this, but my talk at the AI Summit was actually my first public speaking experience. It has over 120k views on YouTube. I was so nervous that I basically blacked out and didn't eat all day until the talk. I have no recollection of the day, and I had so much adrenaline that I was shivering before I got up on stage. Leading up to the talk, I rehearsed it for about two hours each day in the past three days. By the time I got on stage, the words just flowed out of me. I had rehearsed the speech standing up, wearing the same jacket, about 20 times in the past month. I knew I could do it because I had already done it.
+People don't believe this, but my talk at the AI Summit was actually my first public speaking experience. It has over 120k views on YouTube. I was so nervous that I basically blacked out and didn't eat all day until the talk. I have no recollection of the day, and I had so much adrenaline that I was shivering before I got up on stage. Leading up to the talk, I rehearsed it for about two hours each day for the past three days. By the time I got on stage, the words just flowed out of me. I had rehearsed the speech standing up, wearing the same jacket, about 20 times in the past month. I knew I could do it because I had already done it.
 
-In order to keep doing the reps in the past 3 months I've been relentlessly trying to find podcasts to speak on to keep doing the reps and practicing.
+In order to keep doing the reps, in the past 3 months I've been relentlessly trying to find podcasts to speak on and keep practicing.
 
-The theme is consistent throughout. I don't think it's the only way to gain confidence, as there could be some delusion at play. But I have simply shown myself, over the past 15 years, that I can overcome difficult challenges and do them repeatedly..
+The theme is consistent throughout. I don't think it's the only way to gain confidence, as there could be some delusion at play. But I have simply shown myself, over the past 15 years, that I can overcome difficult challenges and do them repeatedly.
 
 ## Practice more than you play, confidence is the memory of success
 
@@ -170,11 +164,11 @@ No notes.
 
 The greatest gift you can give yourself is the gift of being enough.
 
-## Choosing happiness
+## Choosing Happiness
 
 In the short term, you would be much happier if you accepted and admitted to yourself that the reason you don't have what you want is simply because you do not want it badly enough. The sooner you accept that, the happier you'll be. Then the next question is: Do you want to be happy or do you want to achieve what you want? It's not the last question, but it definitely is the next question.
 
-For who i think my audience is I really recommended Byung Chul Han's book the [Burnout Society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han/dp/0804795096) or [Psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
+For who I think my audience is, I really recommend Byung Chul Han's book [The Burnout Society](https://www.amazon.ca/Burnout-Society-Byung-Chul-Han/dp/0804795096) or [Psychopolitics](https://www.amazon.ca/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776).
 
 ## Write More
 
@@ -182,9 +176,9 @@ I used to hate writing. I was always incredibly insecure about it. English is my
 
 !!! note "This is my first piece of writing"
 
-    I've run a bunch of technical blog posts, but this is the first time I'm really speaking from my heart. This whole article took me about an hour to write using speech to text. I almost didn't write this, but then I realized that if it even helped one person feel a little less anxious for one day it would've been positive.
+    I've run a bunch of technical blog posts, but this is the first time I'm really speaking from my heart. This whole article took me about an hour to write using speech to text. I almost didn't write this, but then I realized that if it even helped one person feel a little less anxious for one day, it would've been positive.
 
-It wasn't until November 2023 that I truly appreciated the power of writing. Writing helps me stop dwelling on the same thoughts repeatedly. Moreover, when someone asks for advice, I can simply share a link instead of repeating myself. I have found writing to be incredibly valuable because if someone is not willing to read it, they won't benefit from it. The worst outcome is not having written anything at all; it is failing to help someone who could have benefited from it. I have found that writing is a great way to help others while helping myself exercise the thoughts from my mind and make room for new ones.
+It wasn't until November 2023 that I truly appreciated the power of writing. Writing helps me stop dwelling on the same thoughts repeatedly. Moreover, when someone asks for advice, I can simply share a link instead of repeating myself. I have found writing to be incredibly valuable because if someone is not willing to read it, they won't benefit from it. The worst outcome is not having written anything at all; it is failing to help someone who could have benefited from it. I have found that writing is a great way to help others while helping myself exorcise the thoughts from my mind and make room for new ones.
 
 ## Do It Scared
 
@@ -196,7 +190,7 @@ I believe many young people struggle with the insecurity of being intelligent. T
 
     When you learn to draw, just draw what you see. And when we get an art education, the theory simply gives us the language to describe our tastes. The challenge I'm giving myself this year is to learn the trumpet without learning any music theory. I'm just going to play with it like a child. I'm just going to listen to a lot of music and try to make those sounds that I like.
 
-    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty it only adds to it. But if you study natural science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
+    There have been enough examples of little Chinese kids being forced to learn the piano for seven years, and the moment their parents stop taking them to class, they stop playing music. I think if you love the world and think it is beautiful, learning physics, for example, would not take away from that beauty, it only adds to it. But if you study natural science without loving the natural world, you will only see the world as a machine. Which is just not that fun.
 
 ## You are not your work
 
@@ -208,7 +202,7 @@ The sooner you realize this, the easier it will be to share the work you have pr
 
 ## Get Rid of Complexity
 
-I think in the same way when making plans or building systems, the same insecurity of being intelligent leads to overthinking and overcomplicating a system, in the hope that the same complexity will be a proxy for intelligence. I think this is a mistake. The best systems are the simplest ones. Feynman's approach to physics is a great example of this. Famously, Einstein said that if you can't explain something simply, you don't understand it well enough. I think this is true for many things.
+I think in the same way, when making plans or building systems, the same insecurity of being intelligent leads to overthinking and overcomplicating a system, in the hope that the same complexity will be a proxy for intelligence. I think this is a mistake. The best systems are the simplest ones. Feynman's approach to physics is a great example of this. Famously, Einstein said that if you can't explain something simply, you don't understand it well enough. I think this is true for many things.
 
 ## A Great Person is not Always a Good Person
 
@@ -220,13 +214,13 @@ Some people claim they will grind for ten years and then relax once they find a 
 
     I think fatherhood is a great example of this. I think a lot of people think that they can just be a good father when they have kids. But I think that's a mistake. I think you have to practice being a good father before you have kids. You have to practice being a good husband before you get married.
 
-    It might be easy to convince myself that a good father is able to take care of the family, but how many times was that an excuse to just work yourself to death is the father who can pay for piano lessons, truly a better man than the father, who can be present at the recital? I just don't think this is something that we can turn on and off so easily.
+    It might be easy to convince myself that a good father is able to take care of the family, but how many times was that an excuse to just work yourself to death? Is the father who can pay for piano lessons truly a better man than the father who can be present at the recital? I just don't think this is something that we can turn on and off so easily.
 
 ## Self-Worth
 
 For a large part of my life, I held onto the belief that my purpose was to help and teach people. I believed in working hard, generating capital, and taking care of my partner, family, and so on. However, when I got injured, I had to confront the fact that I wasn't able to fulfill those responsibilities. I struggled with the realization that I couldn't work, produce, or take care of my partner and family. It made me question, "If the ox cannot plow, what is it good for?" This struggle consumed me during the latter half of my twenties.
 
-Start practicing self-love. While successful people may attribute their success to their struggles, I believe a significant part of it is simply coming to terms with those struggles. Each person's pain is maximum to them. You have already endured hardships. Seek success because you deserve it and learn to love yourself, rather than punishing yourself for not being good enough.
+Start practicing [self-love](./self-loathing.md). While successful people may attribute their success to their struggles, I believe a significant part of it is simply coming to terms with those struggles. Each person's pain is maximum to them. You have already endured hardships. Seek success because you deserve it and learn to love yourself, rather than punishing yourself for not being good enough.
 
 You deserve the life that you desire.
 
@@ -245,29 +239,29 @@ I used to write down "What would I do if I really loved myself?" Sometimes that'
 
 Whatever it is, just do the opposite.
 
-## Self talk
+## Self Talk
 
-What are the mantras you've inhereted from others? How often are you chasing "The Dream" and not "Your Dream?". Really evaluate what you want and why you want it, and make sure your practice talking to yourself.
+What are the mantras you've inherited from others? How often are you chasing "The Dream" and not "Your Dream"? Really evaluate what you want and why you want it, and make sure you practice talking to yourself.
 
 !!! note "Happiness is the quality of thoughts"
 
 ## Social Media
 
-You don’t need to believe in yourself to be an artist, you just need to believe in your audience. To believe that it is important to communicate with them. Make sure that if your goal is to build an audience that you have some message to say. Otherwise it just gets hopeless. Celebrity is the cost you pay to deliver your message, celebrity is to be hated.
+You don’t need to believe in yourself to be an artist, you just need to believe in your audience. To believe that it is important to communicate with them. Make sure that if your goal is to build an audience that you have some message to say. Otherwise it just gets hopeless. Celebrity is the cost you pay to deliver your message. Celebrity is to be hated.
 
 !!! note "Celebrity is to be hated"
 
-    Twitter is a place where low status people can feel like high status people. I think the Internet is basically summarized by those words. For most of the people who are fighting online the Internet might be the only place where they have a sense of control. When you approach it from a point of sympathy, even getting hate online is an opportunity to be grateful for the real life friendships that you have, and the digital communities that you've built.
+    Twitter is a place where low status people can feel like high status people. I think the Internet is basically summarized by those words. For most of the people who are fighting online, the Internet might be the only place where they have a sense of control. When you approach it from a point of sympathy, even getting hate online is an opportunity to be grateful for the real-life friendships that you have, and the digital communities that you've built.
 
-## Isolation is the gift, all others are a test of your endurance
+## Isolation Is the Gift, All Others Are a Test of Your Endurance
 
 Really value your time alone. It is the only time you can truly see yourself. It is the only time you can truly hear yourself. Isolation is time not only away from people, but also media.
 
-I believe success truly comes from being yourself, but if you're always surrounded by others the influence is too strong. But if you can truly live in the isolation, you'll be like a still pond. When others project their image onto you, you'll be able to see the ripples clearly.
+I believe success truly comes from being yourself, but if you're always surrounded by others, the influence is too strong. But if you can truly live in isolation, you'll be like a still pond. When others project their image onto you, you'll be able to see the ripples clearly.
 
-## The world is a mirror
+## The World Is a Mirror
 
-The only language you have to describe the world is with your own perception. The world is a mirror. Often your fear of judgement might stem from your own judgement of others.
+The only language you have to describe the world is with your own perception. The world is a mirror. Often your fear of judgment might stem from your own judgment of others.
 
 !!! note "Jason goes to the gym"
 
@@ -279,9 +273,9 @@ The only language you have to describe the world is with your own perception. Th
 
     The world looks different when you fix your own perception.
 
-## You are a mirror
+## You Are a Mirror
 
-In the same way that the world is a mirror, you are a mirror. You are a mirror to others. When you accept this you also realize that you are not responsible for others. The people who are negative to you are usually miserable themselves. The sooner you realize this the easier it is to let go of the negativity.
+In the same way that the world is a mirror, you are a mirror. You are a mirror to others. When you accept this, you also realize that you are not responsible for others. The people who are negative to you are usually miserable themselves. The sooner you realize this, the easier it is to let go of the negativity.
 
 ## Pessimists Are Losers
 
@@ -317,6 +311,109 @@ The most valuable thing you can give someone is your attention. Talk about the t
 
 So attend to the things that matter, and make sure to spend your arrogance while you're still young.
 
+## New Stuff from March 27 2026
+
+Turned 32 recently, so wanted to add some more stuff here.
+
+When I first wrote this piece, I was in the middle of trying to transition back into tech after my hand injury, which you can read about in [my hand injury post](./hands-part-1.md). A lot of what came out on the page was from those short years of self-reinvention and self-discovery, and the mantras I adopted to get through them.
+
+Below are some of the realizations I've made over the past two years as I started my business.
+
+## Use Your Potions
+
+I grew up super poor, and I still remember beating the first three Pokémon games without ever using a potion. I kept saving them up, thinking I would need them later, and at the end I just beat the whole fucking game. I ultimately just did a no-potion run, a no-potion challenge run of every Pokémon game, without any intention to do so. It reminded me of the purity conversations people had about Elden Ring, how it didn't count if you used magic, and it only made sense if you played with a sense of dodging and rolling and working on your timing. The game developers put magic in the game. Just as you're arguing about some kind of bullshit purity, there's someone else beating the game no-potion with Donkey Kong bongo pads.
+
+The mechanics are built into the game.
+
+All these conditions we set on ourselves are just arbitrary. Maybe I want to decide to run a company, but I refuse to raise money or hire help. Maybe I choose not to hire an EA or hire a writer. Just use your damn potions, and if you don't acknowledge that you are doing a very specific kind of challenge, run with your whole life. Allow that to be a conscious decision with your life that you wake up every day and accept.
+
+## Notes on All My Money Issues
+
+### Money has always been the anxiety
+
+A lot of the past two years has actually revolved around a lot of my neuroses around money, and so I'm gonna share a lot of thoughts I've had about what money means to me, so just be warned.
+
+Not everyone likes talking about money.
+
+To give you some context, I came to the US with about $157 in my bank account. I borrowed from some friends and made a living as a machine learning researcher until my hands stopped working, and I basically thought I would never make a living again.
+
+I had a ton of issues with money growing up. It's kind of the one real issue and anxiety I have in my life.
+
+### Just talk about money, it's fine
+
+If you want to be successful, at some point money is going to be part of that conversation.
+
+Naturally, what you'll find is when you say numbers out loud, people start to sort themselves. They tend to reveal how they view themselves and what the value of money is.
+
+Sometimes I'll talk about money, and people will go on a forty-minute tirade on how they don't mean that money means nothing to them and they don't care about all these things. Obviously, if you're ranting to me for forty minutes because I told you that I lost a bunch of money in stocks, maybe it's actually a you thing.
+
+Because for other people, they just ask me, "What led me to make those bets?" Or do I need help with hedging or some other thing where money is seen more as just a skill?
+
+And also I personally find that if you refuse to really acknowledge money or even believe that things can be priced, the world is probably just a little bit harder for you.
+
+I remember specifically at a dinner table someone mentioned that they want to buy a $4 million house. Someone at that table just rolled their eyes and said, "That must be nice." While someone else looked at her and said, "Oh, where have you been looking? Have you figured out the fees? Do you think I'll have kids in that house? What neighborhood are you looking for? I know a real estate agent if you want."
+
+And the last time I told someone how well my business did, they just looked at me and said, "Damn Jason, I'm working just as hard as you and making a hundred times more. Let's figure out what you're doing wrong." That conversation literally led me to leave consulting and OpenAI.
+
+It turns out I was afraid of leverage, and having a better platform allowed me to access more tools and more people. And now, when people tell me how much money they make, I just think to myself, "Let's do business together sometime," and I would love to learn from you.
+
+This also reminds me of another line that Naval said once:
+
+![Naval on ethical wealth creation](./img/naval-ethical-wealth.png)
+
+### Make money with your friends
+
+I was at some event a couple years ago where someone asked Peter Thiel about the PayPal Mafia and how those friendships endured for so long. His answer was very simple: "You just got to figure out a way of making money together."
+
+Obviously, I think this is more directly aligned with the act of creation, but, man, does value creation and value capture really motivate the kind of wartime brotherhood that we have?
+
+Now, the greatest privilege I have with any friendship is to work together, but I think that has always been the case, whether it's a rock band, a startup, or even just some campaign. All I want to do is work with my friends.
+
+## A Handful of Good Decisions
+
+One of the big truths in my life.
+
+Your whole life is really built around a couple of good decisions and making as few bad decisions as possible.
+
+In business, what I learned is that focus allows you to really just make a few decisions. And oftentimes, my life is better in a year where I make one good decision and zero bad decisions. And my life is quite bad if I make five good decisions and three bad decisions.
+
+
+Two good decisions got me to a $3 million net worth, and one bad decision brought me down to $500,000. An even worse decision, working a little bit too much, caused me to not be able to work productively for about three years.
+
+It turns out hard work is just the entry ticket. To get to where I was, everyone works hard. Maybe the first million is hard work, but the next twenty is not just that. It's luck, leverage, and not just fucking ruining everything.
+
+After hard work, everything else is your judgment and your ability to be lucky, and I talk about that later on.
+
+### Do you want the rewards?
+
+There's an essay I really like called `Things You're Allowed to Do`, and it's just this possibility space of potions. If you want to learn something, there are PhD students you can pay like $30 an hour to personally tutor you. You can just do it.
+
+Last year I saw a TikTok where a guy comes out with a bag and he's like, "Would you buy this bag for $300?" Half the people just go, "Why the fuck would I buy your bag for $300?" Other people ask what's in the bag. Turns out there's $1,000 in the bag. Life is sometimes really that simple. I feel like often times we forget to ask that question, and we only see the cost. I don't know if that fully justifies an $8,000 eight-sleep mattress, but sleeping better and living longer and having better skin and being able to show up at work feels like a pretty good investment for some people.
+
+### Your future self is better than your current self, stop worrying
+
+This is just a story of how stupid high school Jason was in trying to save money for future Jason.
+
+April of 2025 pulled together Japan for a friend's birthday, London for work, Paris for mine, plus too much work to move schedules cleanly. A $4,000 ticket bought sleep on the way to London and time for slides. A few weeks in Paris later, the hop to Japan for the birthday also looked brutal, so business class happened there too.
+
+A week with friends, roughly $15,000 in travel for the month, and honestly worth it because those windows don't come often.
+
+Rewind to right after high school, and again after college.
+
+Both times meant finishing school Friday and starting work Monday. Graduation trip money felt impossible at $3,000 for the whole thing, not just a flight.
+
+Between 17 and 24, skipping five weeks of trips with friends was how to "save" $6,000.
+
+That $6,000 didn't get parked in some coin that would moon, and starting jobs two weeks late wouldn't have torched anything real.
+
+Past me was just scared and didn't believe money could show up later. Future me did not need those sacrifices.
+
+### How Much Does Billionaire Jason Value His Time?
+
+Basically, if you do believe in yourself, you will have way more money when you are older. But then if God asks you at the age of 75 how much money you'd pay to be 28 for a week, or 32 for a month in Japan with your friends, how much would you pay? It's more than $15,000. It's more than $100,000. You'd be stupid if you didn't believe that. 
+
+So just forgo it. 2024 landed around a million dollars in income, and the cleanest regret is still skipping Portugal with Nikol before the breakup and the move back to NY. Still haunts. Then the brain said an extra $80,000 that month beat a $10,000 trip, and somehow the trip felt huge.
+
 ---
 
-If you like the like content give me a follow on [twitter](https://twitter.com/jxnlco) or even [buy me a coffee](https://www.buymeacoffee.com/jxnl).
+From here down is the essay pretty much as I first published it. Everything above this line, starting from the March update through Side Quests, is newer material I added on top.
