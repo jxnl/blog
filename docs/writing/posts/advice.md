@@ -327,6 +327,20 @@ The mechanics are built into the game.
 
 All these conditions we set on ourselves are just arbitrary. Maybe I want to decide to run a company, but I refuse to raise money or hire help. Maybe I choose not to hire an EA or hire a writer. Just use your damn potions, and if you don't acknowledge that you are doing a very specific kind of challenge, run with your whole life. Allow that to be a conscious decision with your life that you wake up every day and accept.
 
+## A Handful of Good Decisions
+
+One of the big truths in my life.
+
+Your whole life is really built around a couple of good decisions and making as few bad decisions as possible.
+
+In business, what I learned is that focus allows you to really just make a few decisions. And oftentimes, my life is better in a year where I make one good decision and zero bad decisions. And my life is quite bad if I make five good decisions and three bad decisions.
+
+Two good decisions got me to a $3 million net worth, and one bad decision brought me down to $500,000. An even worse decision, working a little bit too much, caused me to not be able to work productively for about three years.
+
+It turns out hard work is just the entry ticket. To get to where I was, everyone works hard. Maybe the first million is hard work, but the next twenty is not just that. It's luck, leverage, and not just fucking ruining everything.
+
+After hard work, everything else is your judgment and your ability to be lucky, and I talk about that later on.
+
 ## Notes on All My Money Issues
 
 ### Money has always been the anxiety
@@ -369,21 +383,6 @@ Obviously, I think this is more directly aligned with the act of creation, but, 
 
 Now, the greatest privilege I have with any friendship is to work together, but I think that has always been the case, whether it's a rock band, a startup, or even just some campaign. All I want to do is work with my friends.
 
-## A Handful of Good Decisions
-
-One of the big truths in my life.
-
-Your whole life is really built around a couple of good decisions and making as few bad decisions as possible.
-
-In business, what I learned is that focus allows you to really just make a few decisions. And oftentimes, my life is better in a year where I make one good decision and zero bad decisions. And my life is quite bad if I make five good decisions and three bad decisions.
-
-
-Two good decisions got me to a $3 million net worth, and one bad decision brought me down to $500,000. An even worse decision, working a little bit too much, caused me to not be able to work productively for about three years.
-
-It turns out hard work is just the entry ticket. To get to where I was, everyone works hard. Maybe the first million is hard work, but the next twenty is not just that. It's luck, leverage, and not just fucking ruining everything.
-
-After hard work, everything else is your judgment and your ability to be lucky, and I talk about that later on.
-
 ### Do you want the rewards?
 
 There's an essay I really like called `Things You're Allowed to Do`, and it's just this possibility space of potions. If you want to learn something, there are PhD students you can pay like $30 an hour to personally tutor you. You can just do it.
@@ -410,7 +409,7 @@ Past me was just scared and didn't believe money could show up later. Future me 
 
 ### How Much Does Billionaire Jason Value His Time?
 
-Basically, if you do believe in yourself, you will have way more money when you are older. But then if God asks you at the age of 75 how much money you'd pay to be 28 for a week, or 32 for a month in Japan with your friends, how much would you pay? It's more than $15,000. It's more than $100,000. You'd be stupid if you didn't believe that. 
+Basically, if you do believe in yourself, you will have way more money when you are older. But then if God asks you at the age of 75 how much money you'd pay to be 28 for a week, or 32 for a month in Japan with your friends, how much would you pay? It's more than $15,000. It's more than $100,000. You'd be stupid if you didn't believe that.
 
 So just forgo it. 2024 landed around a million dollars in income, and the cleanest regret is still skipping Portugal with Nikol before the breakup and the move back to NY. Still haunts. Then the brain said an extra $80,000 that month beat a $10,000 trip, and somehow the trip felt huge.
 
