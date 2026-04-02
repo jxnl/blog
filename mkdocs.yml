@@ -113,7 +113,6 @@ nav:
     - User Manual: "user_manual.md"
     - Books: 'books.md'
     - Resume: "resume.md"
-  - Job Board: "https://jobs.applied-llms.org"
   - Writing: "writing/index.md"
 plugins:
   - social

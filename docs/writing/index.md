@@ -12,8 +12,7 @@ tags:
 
 # Writing
 
-[:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){.md-button .md-button--primary}
-[:material-twitter: Follow me on X](https://x.com/jxnlco){.md-button .md-button--secondary}
+[Subscribe to my newsletter](https://dub.link/S4G5XGs) · [Follow me on X](https://x.com/jxnlco)
 
 ## Personal
 
@@ -30,7 +29,7 @@ Practical frameworks for building and improving retrieval systems in production.
 - [Only 6 Evals](./posts/rag-only-6-evals.md) — what actually matters to measure
 - [Low-Hanging Fruit](./posts/rag-low-hanging-fruit.md) — quick wins that often beat complex changes
 
-[:material-school: Full RAG Series](./posts/rag-series-index.md){.md-button .md-button--secondary}
+[Full RAG Series](./posts/rag-series-index.md)
 
 ## Context Engineering
 
@@ -40,7 +39,7 @@ How to build better agentic systems by thinking carefully about what goes into t
 - [Slash Commands vs Subagents](./posts/context-engineering-slash-commands-subagents.md) — same capability, dramatically different economics
 - [Compaction Experiments](./posts/context-engineering-compaction.md) — using compaction as momentum
 
-[:material-school: Full Context Engineering Series](./posts/context-engineering-index.md){.md-button .md-button--secondary}
+[Full Context Engineering Series](./posts/context-engineering-index.md)
 
 ## Coding Agents
 
