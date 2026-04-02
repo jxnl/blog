@@ -6,15 +6,13 @@ repo_name: blog
 repo_url: https://github.com/jxnl/blog/
 site_url: https://jxnl.co/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Jason Liu 
 theme:
   name: material
   custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
-    edit: material/pencil 
+    edit: material/pencil
     view: material/eye
-    theme:
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16
@@ -63,15 +61,12 @@ theme:
 markdown_extensions:
   - abbr
   - admonition
-  - pymdownx.details
   - attr_list
   - def_list
   - footnotes
   - md_in_html
   - toc:
       permalink: true
-  - pymdownx.arithmatex:
-      generic: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
@@ -146,7 +141,6 @@ plugins:
             allow_inspection: true
             show_bases: true
   - blog:
-      enabled: !ENV CI
       blog_dir: writing
       blog_toc: true
       post_dir: writing/posts
@@ -173,4 +167,4 @@ extra_javascript:
   - javascripts/analytics.js
   - https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-copyright: Copyright &copy; 2023 Jason Liu
+copyright: Copyright &copy; 2026 Jason Liu

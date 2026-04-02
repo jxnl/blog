@@ -4,25 +4,25 @@ description: Explore RAG techniques, AI engineering jobs, and practical notes on
 
 # Jason Liu
 
-Staff-level machine learning engineer, angel investor, startup advisor, and a16z scout. Writing about open source and [improving RAG applications](https://567-labs.github.io/systematically-improving-rag/).
+Machine learning engineer, angel investor, and creator of [Instructor](https://python.useinstructor.com/) — a Python library for structured LLM outputs cited by OpenAI as inspiration for their structured output feature. Writing about open source and [improving RAG applications](https://567-labs.github.io/systematically-improving-rag/).
 
 **Follow on [Twitter](https://x.com/jxnlco) or subscribe to the [newsletter](https://subscribe.jxnl.co/) to keep up with new posts.**
 
 ## Popular Posts
 
-- [Context Engineering Series: Building Better Agentic RAG Systems](./writing/posts/context-engineering-index.md)
 - [Advice to Young People, The Lies I Tell Myself](./writing/posts/advice.md)
+- [Losing My Hands](./writing/posts/hands-part-1.md)
+- [Systematically Improving RAG](./writing/posts/rag-improving-rag.md)
+- [Context Engineering Series](./writing/posts/context-engineering-index.md)
 
 ## Investments
 
-Angel investor and scout for [Andreessen Horowitz](https://a16z.com/). Invested in companies like [Lovable](https://lovable.dev/), [Modal](https://modal.com/), [Exa](https://exa.ai/), [Browserbase](https://browserbase.com/), [Raindrop.ai](https://www.raindrop.ai/), [Julius AI](https://julius.ai/), [Vantager](https://www.vantager.com/), [Pydantic](https://pydantic.dev/), and others. See [full portfolio](./investments.md).
+Angel investor and scout for [Andreessen Horowitz](https://a16z.com/). Invested in [Lovable](https://lovable.dev/), [Modal](https://modal.com/), [Exa](https://exa.ai/), [Browserbase](https://browserbase.com/), [Raindrop.ai](https://www.raindrop.ai/), [Pydantic](https://pydantic.dev/), and others. See [full portfolio](./investments.md).
 
 ## Consulting
 
-Previously ran a solo consulting practice focused on helping startups as many software companies transitioned to AI. Including [Zapier](https://zapier.com/), [HubSpot](https://hubspot.com/), [Limitless AI](http://limitless.ai/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/). To learn more about how I thought about indie consulting, see [this page](https://567-labs.github.io/consulting/).
+Previously ran a solo consulting practice helping startups transition to AI, including [Zapier](https://zapier.com/), [HubSpot](https://hubspot.com/), [Weights & Biases](https://wandb.ai/), [Modal Labs](https://modal.com/), [Timescale](https://timescale.com/), and [Pydantic](http://pydantic.dev/). [More on how I approached indie consulting](https://567-labs.github.io/consulting/).
 
 ## Training
 
-Ran cohort-based training programs including AI agent decoding, retrieval augmented generation, and how to be a better freelancer/independent consultant. Students came from [OpenAI](https://openai.com), [Anthropic](https://anthropic.com), [Google](https://google.com), [Microsoft](https://microsoft.com), [Amazon](https://amazon.com), [Salesforce](https://salesforce.com), [Adobe](https://adobe.com), [McKinsey & Company](https://mckinsey.com), and others.
-
-Also the creator of [Instructor](https://python.useinstructor.com/), a popular Python library for structured outputs from LLMs, which was cited by the OpenAI team as inspiration for their `structured output` feature.
+Ran cohort-based training on RAG, AI agents, and independent consulting. Students came from OpenAI, Anthropic, Google, Microsoft, Amazon, McKinsey, and others. Course content is now open at [Systematically Improving RAG](https://567-labs.github.io/systematically-improving-rag/).
