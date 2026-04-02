@@ -11,9 +11,8 @@ theme:
   custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
-    edit: material/pencil 
+    edit: material/pencil
     view: material/eye
-    theme:
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16
@@ -62,7 +61,6 @@ theme:
 markdown_extensions:
   - abbr
   - admonition
-  - pymdownx.details
   - attr_list
   - def_list
   - footnotes
