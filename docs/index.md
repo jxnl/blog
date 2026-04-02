@@ -11,9 +11,9 @@ Machine learning engineer, angel investor, and creator of [Instructor](https://p
 ## Popular Posts
 
 - [Advice to Young People, The Lies I Tell Myself](./writing/posts/advice.md)
-- [Context Engineering Series: Building Better Agentic RAG Systems](./writing/posts/context-engineering-index.md)
-- [Systematically Improving RAG](./writing/posts/rag-improving-rag.md)
 - [Losing My Hands](./writing/posts/hands-part-1.md)
+- [Systematically Improving RAG](./writing/posts/rag-improving-rag.md)
+- [Context Engineering Series](./writing/posts/context-engineering-index.md)
 
 ## Investments
 

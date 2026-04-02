@@ -10,12 +10,17 @@ tags:
   - RAG
 ---
 
-# Writing and Mumblings
-
-I write about applied AI, open source, personal work, and building with LLMs.
+# Writing
 
 [:material-email: Subscribe to my Newsletter](https://dub.link/S4G5XGs){.md-button .md-button--primary}
 [:material-twitter: Follow me on X](https://x.com/jxnlco){.md-button .md-button--secondary}
+
+## Personal
+
+- [Advice to Young People](./posts/advice.md) — the lies I tell myself
+- [Losing My Hands](./posts/hands-part-1.md) — forced reinvention after a hand injury
+- [Learning to Learn](./posts/learning.md) — across pottery, weightlifting, jiu jitsu, Rocket League
+- [Things](./posts/things.md) — a running list of what I'm using
 
 ## RAG and Retrieval Systems
 
@@ -47,8 +52,6 @@ Lessons from the teams actually building coding agents.
 
 ## AI Engineering and Process
 
-How to think about building AI systems, hiring, and communicating progress.
-
 - [Hard Truths](./posts/ai-truths.md) — from watching companies burn millions
 - [LLM Observability](./posts/llmops.md) — Open Telemetry, not fancy tools
 - [Hiring MLEs](./posts/hiring.md) — when to hire (spoiler: later than you think)
@@ -58,10 +61,3 @@ How to think about building AI systems, hiring, and communicating progress.
 - [Pricing Agents](./posts/business-pricing-tools-agents.md) — compare to headcount, not tooling budgets
 - [AI MVPs](./posts/mvp.md) — what 80% actually means
 - [Revenue Sharing](./posts/lovable-pricing-outcomes.md) — outcome-based pricing
-
-## Personal
-
-- [Advice to Young People](./posts/advice.md) — the lies I tell myself
-- [Losing My Hands](./posts/hands-part-1.md) — forced reinvention
-- [Learning to Learn](./posts/learning.md) — across pottery, weightlifting, jiu jitsu, Rocket League
-- [Things](./posts/things.md) — a running list of what I'm using
