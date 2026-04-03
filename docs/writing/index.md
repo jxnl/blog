@@ -16,6 +16,7 @@ tags:
 
 ## Personal
 
+- [What Music Do You Listen To](./posts/music.md) — the mix of genres and people I like
 - [Advice to Young People](./posts/advice.md) — the lies I tell myself
 - [Losing My Hands](./posts/hands-part-1.md) — forced reinvention after a hand injury
 - [Learning to Learn](./posts/learning.md) — across pottery, weightlifting, jiu jitsu, Rocket League
