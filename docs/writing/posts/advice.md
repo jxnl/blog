@@ -365,7 +365,7 @@ Because for other people, they just ask me, "What led me to make those bets?" Or
 
 And also I personally find that if you refuse to really acknowledge money or even believe that things can be priced, the world is probably just a little bit harder for you.
 
-I remember specifically at a dinner table someone mentioned that they want to buy a $4 million house. Someone at that table just rolled their eyes and said, "That must be nice." While someone else looked at her and said, "Oh, where have you been looking? Have you figured out the fees? Do you think I'll have kids in that house? What neighborhood are you looking for? I know a real estate agent if you want."
+I remember specifically at a dinner table someone mentioned that they want to buy a $4 million house. Someone at that table just rolled their eyes and said, "That must be nice." While someone else looked at her and said, "Oh, where have you been looking? Have you figured out the fees? Do you think you'll have kids in that house? What neighborhood are you looking for? I know a real estate agent if you want."
 
 And the last time I told someone how well my business did, they just looked at me and said, "Damn Jason, I'm working just as hard as you and making a hundred times more. Let's figure out what you're doing wrong." That conversation literally led me to leave consulting and OpenAI.
 
