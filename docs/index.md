@@ -4,13 +4,13 @@ description: Notes on AI systems, open source, personal work, and the occasional
 
 # :boom: What's up?
 
-I'm Jason Liu.
+Jason Liu here.
 
-I'm a Developer Experience Engineer on the Codex team at [OpenAI](https://openai.com/).
+These days, I'm a Developer Experience Engineer on the Codex team at [OpenAI](https://openai.com/).
 
-I write about building AI systems, open source, consulting, and sometimes the more personal stuff. Some posts are about RAG, agents, evals, and product work. Some are about RSI, self-worth, ambition, and trying not to confuse productivity with being a person. That's on purpose.
+Most of this site is about building AI systems, open source, consulting, and sometimes the more personal stuff. Some posts are about RAG, agents, evals, and product work. Others are about RSI, self-worth, ambition, and trying not to confuse productivity with being a person. That's on purpose.
 
-I'm also the creator of [Instructor](https://python.useinstructor.com/), a Python library for structured LLM outputs that OpenAI cited as inspiration for their structured output feature.
+Also: creator of [Instructor](https://python.useinstructor.com/), a Python library for structured LLM outputs that OpenAI cited as inspiration for their structured output feature.
 
 If you want to keep up with new posts, follow on [Twitter](https://x.com/jxnlco) or subscribe to the [newsletter](https://subscribe.jxnl.co/).
 
