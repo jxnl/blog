@@ -33,7 +33,7 @@ This site is mostly where I put things I think are worth keeping:
 
 ## Investments
 
-I'm an angel investor and scout for [Andreessen Horowitz](https://a16z.com/). I've invested in companies like [Lovable](https://lovable.dev/), [Modal](https://modal.com/), [Exa](https://exa.ai/), [Browserbase](https://browserbase.com/), [Poke](https://poke.com/), [Raindrop.ai](https://www.raindrop.ai/), and [Pydantic](https://pydantic.dev/). See the [full portfolio](./investments.md).
+I'm an angel investor and scout for [Andreessen Horowitz](https://a16z.com/). I've invested in companies like [Lovable](https://lovable.dev/), [Poke](https://poke.com/), [Modal](https://modal.com/), [Exa](https://exa.ai/), [Browserbase](https://browserbase.com/), [Raindrop.ai](https://www.raindrop.ai/), and [Pydantic](https://pydantic.dev/). See the [full portfolio](./investments.md).
 
 ## Old Work
 
