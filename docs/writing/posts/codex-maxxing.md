@@ -8,7 +8,7 @@ categories:
   - Applied AI
   - Personal
 comments: true
-draft: true
+draft: false
 slug: codex-maxxing
 tags:
   - Codex
@@ -21,15 +21,15 @@ tags:
 
 I had already been using coding agents a lot before Codex. Mostly, though, I used them through interfaces built for coding work: making diffs, changing repos, and shipping code.
 
-Around November, I started pushing them into knowledge work too. I made presentations in [Slidev](https://sli.dev/), used agents more like note-takers with voice inputs, and kept looking for other artifacts a coding agent could help me produce, make a index.html and then hit ctrl+p to make a pdf.
+Around November, I started pushing them into knowledge work too. I made presentations in [Slidev](https://sli.dev/), used agents more like note-takers with voice inputs, and kept looking for other artifacts a coding agent could help me produce: an `index.html`, then `Ctrl-P` into a PDF.
 
-The latest Codex app upgrades is the first thing I have used that makes that broader mode feel native for everyone. It is still excellent for coding, but the more interesting shift for me is that it gives all of my work somewhere to live.
+The latest Codex app upgrades are the first thing I've used that makes that broader mode feel native for everyone. It's still excellent for coding, but the more interesting shift for me is that it gives all of my work somewhere to live.
 
-What changed my behavior was learning to give work five things: a durable thread, a place to remember things, tools to act on my whole computer, a schedule that brings it back, and a surface I can review any kind of work, website, markdown, pdf, spreadsheets, and slides.
+What changed my behavior was learning to give work five things: a durable thread, a place to remember things, tools to act on my whole computer, a schedule that brings it back, and a surface where I can review any kind of work: websites, Markdown, PDFs, spreadsheets, and slides.
 
 <!-- more -->
 
-## Durable threads 
+## Durable threads
 
 The first thing that changed my behavior was compaction.
 
@@ -182,13 +182,11 @@ That test suite gave the run a real oracle: the Rust port was not done until it 
 
 This is different from having a long conversation with an AI, accumulating a Markdown plan, and then eventually saying, "implement this." The execution is only going to be as good as the goal, the verification, and the validation you give it. Ambition matters, but ambition without verification is just a wish.
 
-I ended up pulling this idea into a shorter companion piece: [Using Codex: Getting the most out of Goal mode](./codex-goals.md). The core argument is simple: Goal mode is not mainly about letting Codex work longer. It is about defining work clearly enough that an agent can keep improving it without you supervising every step.
+I ended up pulling this idea into a shorter companion piece about getting the most out of Goal mode. The core argument is simple: Goal mode is not mainly about letting Codex work longer. It is about defining work clearly enough that an agent can keep improving it without you supervising every step.
 
 ## The side panel
 
 The part of Codex I am most excited about is the side panel.
-
-![A shared side panel for artifacts, browser surfaces, and review](./img/codex-maxxing-side-panel.png)
 
 It is easy to think of this as a place where previews happen. That undersells it. The side panel is where Codex stops being a chat app and starts becoming the place the work happens.
 
@@ -227,6 +225,5 @@ For animation work, I often have Storybook and Remotion Studio open side by side
 For presentations, I often use Slidev. Codex can inspect the slides, catch content that is cut off, switch between slides, and respond to annotations while I review.
 
 I also expect this to become more useful for tools like Streamlit and Jupyter over time. Different people already live inside different applications. Codex can increasingly meet them there.
-
 
 The more Codex gets places to remember, revisit, inspect, and act, the less my work has to die between prompts. That is the change I care about. Not that an agent can write code for me, but that more of my work can keep moving after I leave.
