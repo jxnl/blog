@@ -1,0 +1,104 @@
+[data-md-color-scheme="youtube"] {
+  --md-primary-fg-color:        #103DC2;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #103DC2;
+}
+
+/* Hero stats */
+.hero-stats {
+  font-size: 1.1rem;
+  color: var(--md-default-fg-color--light);
+  margin: 1.5rem 0;
+}
+
+.hero-stats strong {
+  color: var(--md-primary-fg-color);
+  font-size: 1.2rem;
+}
+
+/* Client grid */
+.client-grid table {
+  font-size: 0.9rem;
+}
+
+.client-grid th {
+  display: none;
+}
+
+.client-grid td {
+  padding: 0.4rem 1rem 0.4rem 0;
+  border: none;
+}
+
+.client-grid tr {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.client-grid tr:last-child {
+  border-bottom: none;
+}
+
+/* Testimonial grid */
+.testimonial-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.testimonial-card {
+  background: var(--md-code-bg-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  border-left: 3px solid var(--md-primary-fg-color);
+}
+
+.testimonial-card .quote {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0 0 1rem;
+  color: var(--md-default-fg-color);
+}
+
+.testimonial-card .author {
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  margin: 0;
+  font-style: normal;
+}
+
+/* Investment grid */
+.investment-grid ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.5rem 2rem;
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+}
+
+.investment-grid li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.investment-grid li:last-child {
+  border-bottom: none;
+}
+
+/* Social links inline */
+.social-links {
+  font-size: 1rem;
+  margin: 1rem 0;
+}
+
+.social-links a {
+  text-decoration: none;
+}
+
+/* Horizontal rule styling */
+.md-content hr {
+  margin: 2.5rem 0;
+  border: none;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
