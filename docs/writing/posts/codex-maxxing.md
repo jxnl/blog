@@ -78,6 +78,8 @@ Later, Heartbeats can monitor the PR or Slack thread after I leave. The unit of 
 
 Once threads started lasting longer, they needed shared memory outside any one repo.
 
+The important move is not just preserving message history. A long thread can remember a lot, but that memory is trapped inside the thread unless the useful parts get serialized somewhere durable. The point of the memory system is to turn what the thread learns into an artifact I can inspect, edit, diff, and reuse.
+
 Most of my long-running threads start in an Obsidian vault:
 
 ```text
@@ -89,7 +91,7 @@ vault/
 └── notes/
 ```
 
-At the top level, I keep `AGENTS.md` instructions that say things like: as you learn more about people or make progress on projects, update the relevant pages in the vault.
+At the top level, I keep `AGENTS.md` instructions that say things like: as you learn more about people, make progress on projects, or close an open loop, update the relevant pages in the vault.
 
 The vault is where the agent lives, separate from any one project. Repositories hold code. The vault holds rolling context around my work: people, decisions, open loops, daily notes, project state, and the bits of understanding that would otherwise get lost between threads.
 
@@ -98,9 +100,13 @@ I also keep the vault as a GitHub repo. That buys me two things:
 1. it can work in the cloud
 2. diffs become a review surface for memory
 
-When the agent updates the vault, I can read the diff and see what it thought was important enough to remember. Reviewing those diffs is effectively how I acknowledge that I have seen what the agent learned.
+When the agent updates the vault, I can read the diff and see what it thought was important enough to remember. That review step matters. I do not want evergreen threads to quietly accumulate vibes in conversation history. I want them to write down what changed: this person prefers this, this project is waiting on that, this decision was made, this loop is closed.
+
+This is also why I like memory as files. Files force the agent to compress experience into a form that can survive the thread. If the thread dies, compacts badly, or becomes too expensive to keep leaning on, the useful knowledge is still there.
 
 At that point, pinned threads start to feel less like chats and more like different workers reading from the same notebook.
+
+Codex also has first-party memory features in `Settings > Personalization > Memories`. I think of those as a local recall layer: useful for stable preferences, recurring workflows, project conventions, and known pitfalls, but not a replacement for checked-in instructions or an explicit vault. [Chronicle](https://developers.openai.com/codex/memories/chronicle) is especially interesting here because it can use recent screen context to help build memories. I have not used it seriously yet, and the docs are clear that it is an opt-in research preview with real tradeoffs around permissions, rate limits, prompt injection, and unencrypted local memory files. But directionally it points at the same thing I care about: work should leave behind structured memory, not just a longer chat transcript.
 
 ## Computer and Browser Use
 
@@ -168,7 +174,7 @@ Once they reply, switch to checking every minute so you can respond faster.
 
 By the time I got out of the shower, the refund was done.
 
-Many of my Heartbeats also update my Obsidian vault as a kind of explicit memory. Separately, Codex now has memory features in `Settings > Personalization > Memories`, including [Memories](https://developers.openai.com/codex/memories) and [Chronicle](https://developers.openai.com/codex/memories/chronicle).
+Many of my Heartbeats also update my Obsidian vault as a kind of explicit memory.
 
 ## Goals
 
