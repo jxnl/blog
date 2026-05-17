@@ -30,28 +30,25 @@ expert-calls.md:
     paid expert calls discontinued, writing resources, writing guidance, expert consultations
     no longer available.'
 index.md:
-  hash: e7d0fabdfe593371e3e22f25dcf1c988
-  summary: 'Jason Liu is a staff-level machine learning engineer, angel investor,
-    startup advisor, and a16z scout specializing in open source and improving Retrieval-Augmented
-    Generation (RAG) applications. He offers insights on building AI systems in production,
-    AI engineering careers, and practical consulting for startups transitioning to
-    AI. Jason has invested in numerous innovative tech companies and provides cohort-based
-    training on AI agents, RAG, and freelance consulting. He is also the creator of
-    Instructor, a popular Python library for structured outputs from large language
-    models, recognized by OpenAI. Keywords: RAG techniques, AI engineering jobs, machine
-    learning engineer, AI systems production, angel investor, startup advisor, AI
-    consulting, Python library, Instructor, OpenAI structured output.'
+  hash: 6dc371461b95f8567f34692dce983369
+  summary: Jason Liu is a Developer Experience Engineer at OpenAI and creator of the
+    Instructor Python library for structured LLM outputs. His site shares practical
+    insights on building AI systems, open source projects, consulting for AI startups,
+    and personal reflections on productivity and growth. Formerly running AI-focused
+    consulting and cohort-based training for top tech companies, he now offers open-access
+    resources on topics like Retrieval-Augmented Generation (RAG), AI agents, and
+    system improvements. Jason is also an angel investor and scout for Andreessen
+    Horowitz, supporting innovative AI startups. Follow him for expert advice on AI
+    development, open source, and career growth in the AI industry.
 investments.md:
-  hash: 7dc5fc9786e39cbda052f0b23c99b084
-  summary: 'This profile highlights angel investments and scouting activities focused
-    on AI infrastructure, developer tools, and applied AI startups. Key investments
-    include innovative companies like Lovable.dev, Modal, Exa, Haize Labs, and Raindrop.ai,
-    among others, demonstrating a commitment to advancing AI technology and supporting
-    emerging ventures. As an angel investor affiliated with Andreessen Horowitz, the
-    focus is on empowering AI-driven solutions across diverse sectors such as software
-    development, automation, and data management. Keywords: angel investments, AI
-    infrastructure, developer tools, applied AI, startups, Andreessen Horowitz, emerging
-    ventures, AI technology.'
+  hash: 133d34b2369a0de8fc14c1a79294acbf
+  summary: Angel investor and scout for Andreessen Horowitz specializing in early-stage
+    investments in AI infrastructure, developer tools, and applied AI companies. Notable
+    investments include innovative startups like Lovable.dev, Modal, Exa, Haize Labs,
+    Raindrop.ai, Julius AI, and Smithery.ai. Focused on empowering cutting-edge AI
+    technologies and tools that drive developer productivity and AI application development
+    across multiple industries. Key areas include AI-powered software, developer platforms,
+    and AI-driven solutions enhancing efficiency and innovation.
 resume.md:
   hash: 87bb8dad1d763e123c585f2b0f138e78
   summary: Jason Liu is a Staff Machine Learning Engineer and AI Consultant with over
@@ -88,29 +85,42 @@ user_manual.md:
     him and his team. Keywords: Jason Liu, effective communication, work style, delegation,
     asynchronous communication, task ownership, leadership approach, feedback, productivity.'
 writing/index.md:
-  hash: 753875c985276b311486c34d39913c26
-  summary: This site offers in-depth writing on applied AI, Retrieval-Augmented Generation
-    (RAG), open source development, and building with large language models (LLMs).
-    It covers practical insights into RAG systems, AI engineering best practices,
-    context engineering techniques, and agent coding strategies. Readers can explore
-    topics like improving RAG processes, AI project management, embedding search optimization,
-    and business applications such as AI MVPs and pricing models. With personal stories
-    and expert advice, the content aims to help entrepreneurs, developers, and AI
-    practitioners effectively leverage AI technologies, emphasizing hands-on tools,
-    systematic improvements, and scalable AI product development. Key keywords include
-    AI, RAG, open source, LLMs, retrieval systems, AI engineering, context engineering,
-    agent coding, and AI business strategies.
+  hash: fb9d0d5ca7a8ebd0804af96d99daffab
+  summary: This content provides in-depth insights into applied AI, Retrieval-Augmented
+    Generation (RAG), open source technology, and personal development through writing.
+    It covers practical frameworks for building effective retrieval systems, strategies
+    for context engineering to enhance AI agents, and lessons from real-world coding
+    agent teams. Key topics include improving RAG systems, context window optimization,
+    AI engineering best practices, and business strategies like pricing AI tools and
+    hiring machine learning engineers. The resource is ideal for entrepreneurs and
+    AI professionals seeking actionable advice on AI product development, open source
+    tools, and personal growth. Key terms include AI, RAG, retrieval systems, context
+    engineering, coding agents, AI engineering, and AI business models.
 writing/posts/advice.md:
-  hash: cfcabb82b20ed242f37edfbadb479936
-  summary: This article offers candid advice to young people on personal growth, confidence,
-    career success, and mental health by sharing the author's lived experiences. It
-    emphasizes the power of conscious choices, building confidence through action
-    and repetition, creating opportunities by broadening perception, and the importance
-    of high agency in career advancement. The piece also discusses overcoming impostor
-    syndrome, balancing skills and relationships, the value of self-worth and self-love,
-    simplifying complexity, and embracing solitude for authentic self-discovery. Key
-    themes include personal development, self-improvement, resilience, mindset, networking,
-    and navigating challenges with courage and authenticity.
+  hash: b617a6b5191dfded57a8b0a261f9f08a
+  summary: This insightful personal growth article by Jxnl offers practical advice
+    to young people on embracing choice, building confidence, and pursuing authentic
+    self-improvement. It emphasizes the importance of taking action despite fear,
+    cultivating high agency, and leveraging networks over traditional job applications.
+    Key themes include overcoming impostor syndrome, balancing hard and soft skills,
+    managing self-worth, and simplifying complex challenges. The author shares lived
+    experiences on career strategies, mental health, and embracing failure while encouraging
+    self-love, resilience, and meaningful relationships. Essential keywords include
+    personal growth, confidence, career tips, mental health, self-improvement, choosing
+    happiness, impostor syndrome, social media, and self-worth.
+writing/posts/agents-sdk-sandboxes.md:
+  hash: cff722fff4f8f07ce58fcfb719f6d827
+  summary: The upcoming integration of first-party sandboxes into the OpenAI Agents
+    SDK, powered by the Codex app server, enables developers to build agents that
+    do real, trackable work in isolated environments. This advancement supports robust
+    capabilities like shell access, filesystem manipulation, compaction, and persistent
+    state, facilitating tasks such as code generation, data room extraction, artifact
+    creation, browser-driven workflows, and autonomous research. By separating orchestration
+    from compute, the SDK enhances security, efficiency, and scalability for long-running
+    agent tasks. Developers are encouraged to adopt the Agents SDK to leverage in-distribution
+    tools and evolving capabilities, building toward the future of AI-driven knowledge
+    work and agent autonomy. Key terms include Agents SDK, sandboxes, OpenAI, coding
+    agents, context engineering, compaction, and autonomous workflows.
 writing/posts/ai-agents-cross-linking.md:
   hash: 8ec04e4a1ad69b736165c52944f00211
   summary: Discover how to use AI agents like GPT-4 and Claude to automate internal
@@ -240,6 +250,19 @@ writing/posts/chasing-chase.md:
     to startups and small businesses. Key topics include Chase Bank, small business
     banking nightmares, entrepreneurial lessons, banking trust issues, and consulting
     insights.
+writing/posts/codex-maxxing.md:
+  hash: c761ee3861841481bb2c3d7a8f6072ef
+  summary: 'Discover how Codex transforms long-running work by providing durable threads,
+    shared memory via Obsidian vaults, and seamless integration with tools like Slack,
+    Gmail, and browsers. Key features include pinned threads for persistent context,
+    side chats for tangents, voice input for natural planning, and remote control
+    for multitasking across devices. Advanced workflows leverage Heartbeats for automation,
+    Goals with measurable success criteria, and a powerful side panel to inspect artifacts,
+    operate web surfaces, and review code changes. This comprehensive approach enables
+    continuous progress in applied AI workflows, personal software management, and
+    knowledge work, making Codex an essential tool for maximizing productivity and
+    collaboration. Keywords: Codex, AI workflows, durable threads, shared memory,
+    remote control, Heartbeats, Goals, personal software, knowledge work, automation.'
 writing/posts/coding-agents-lessons.md:
   hash: 6ea6caff504a97ebda49d6b128f40c38
   summary: 'Join the "RAG for Coding Agents Lightning Series," featuring leading experts
@@ -766,6 +789,20 @@ writing/posts/musashi-carpenter-strategy.md:
     in coding to build maintainable, resilient software systems. Key themes include
     software architecture, code quality, team management, AI-assisted development,
     and the enduring value of deliberate craftsmanship.
+writing/posts/music.md:
+  hash: 998158b226beb1540baddd9d903b7b7e
+  summary: 'Discover a curated list of top albums and artists spanning ambient, classic
+    jazz, R&B, and indie soul, curated with insights from the Spotify API. Highlights
+    include influential musicians like Chet Baker, Daniel Caesar, Nala Sinephro, and
+    Mk.gee, with detailed descriptions of standout albums such as Nala Sinephro''s
+    *Space 1.8*, Floating Points'' *Promises*, and Daniel Caesar''s *Son Of Spergy*.
+    Explore genres like ambient music perfect for background focus, timeless classic
+    jazz, intimate R&B, and uniquely guitar-driven indie soul. The post also offers
+    vinyl purchasing options and pricing for many featured albums, making it a valuable
+    resource for music enthusiasts seeking diverse, emotional, and thoughtfully crafted
+    soundscapes. Keywords: Spotify top albums, ambient music, classic jazz, R&B artists,
+    indie soul, Chet Baker, Daniel Caesar, vinyl records, music recommendations, Mk.gee,
+    Nala Sinephro.'
 writing/posts/mvp.md:
   hash: 3ea355fdf3f76ba4bca810a67eaa7cec
   summary: "Learn how to define and ship a successful MVP for AI applications by focusing\
