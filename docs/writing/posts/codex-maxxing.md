@@ -21,15 +21,15 @@ tags:
 
 I had already been using coding agents a lot before Codex. Mostly, though, I used them through interfaces built for coding work: making diffs, changing repos, and shipping code.
 
-Around November, I started pushing them into knowledge work too. I made presentations in Slidev, used agents more like note-takers, and kept looking for other artifacts a coding agent could help me produce.
+Around November, I started pushing them into knowledge work too. I made presentations in [Slidev](https://sli.dev/), used agents more like note-takers with voice inputs, and kept looking for other artifacts a coding agent could help me produce, make a index.html and then hit ctrl+p to make a pdf.
 
-The Codex app is the first thing I have used that makes that broader mode feel native for everyone. It is still excellent for coding, but the more interesting shift for me is that it gives work somewhere to live.
+The latest Codex app upgrades is the first thing I have used that makes that broader mode feel native for everyone. It is still excellent for coding, but the more interesting shift for me is that it gives all of my work somewhere to live.
 
-What changed my behavior was learning to give work five things: a durable thread, a place to remember, tools to act, a schedule that brings it back, and a surface I can review.
+What changed my behavior was learning to give work five things: a durable thread, a place to remember things, tools to act on my whole computer, a schedule that brings it back, and a surface I can review any kind of work, website, markdown, pdf, spreadsheets, and slides.
 
 <!-- more -->
 
-## Compaction made threads durable
+## Durable threads 
 
 The first thing that changed my behavior was compaction.
 
@@ -49,7 +49,7 @@ These are not short chats. They are megathreads that I have been compacting for 
 
 There is a tradeoff here. Long-running threads are not free. If you revisit them later, the conversation is probably no longer in cache, so you can incur more cost than you would in a fresh short thread. But for workstreams I care about, continuity is often more valuable than purity.
 
-## Voice input gives the agent the unedited version
+## Voice input
 
 One underrated part of this workflow is getting more of my actual thinking into Codex.
 
@@ -57,7 +57,7 @@ The real benefit of voice input is not speed. It is that I give the agent the un
 
 The same thing applies to transcripts. If I want to write a post, I can call someone, record the conversation, or talk to them in person with Granola on my phone, then use the transcript as the starting material. A lot of plans get better when the model has access to the messy version of what I think, not just the polished one.
 
-## Steering lets me keep adding intent
+## Steering
 
 Voice becomes more useful when combined with steering.
 
@@ -74,7 +74,7 @@ I do not need to wait for each step to finish before deciding the next one. I ca
 
 Later, Heartbeats can monitor the PR or the Slack thread after I leave. The unit of work stops being "one prompt, one answer." It becomes a small operating loop.
 
-## Give the agent somewhere to remember
+## Memory
 
 Once threads started lasting longer, they needed shared memory outside any one repo.
 
@@ -102,7 +102,7 @@ When the agent updates the vault, I can read the diff and see what it thought wa
 
 At that point, pinned threads start to feel less like chats and more like different workers with access to the same shared memory.
 
-## Give those threads reach
+## Computer and Browser Use
 
 Once a thread has memory, the next question is what it can act on.
 
@@ -116,11 +116,21 @@ If I am iterating on a local app, I want `$browser`. If I need to work inside a 
 
 On my work machine, Twitter is logged into Safari. If I have `@computer` read Twitter there, I lose Safari while it works. `@chrome` is better when I want the agent to use several authenticated tabs in parallel without taking over the whole app I am using.
 
-Connectors extend that reach into Slack, Gmail, and Calendar, where much of my work already happens.
+Connectors extend that reach into the rest of my actual work. The ones I use most are `$slack`, `$gmail`, and `$calendar`, because Slack threads, inboxes, and calendars are where a lot of work shows up before it ever becomes code.
 
-Skills make repeated workflows reusable. Skill Creator and Skill Installer are a good place to start. Skill Installer lets you add OpenAI-recommended skills directly from the composer. I used it to install the Hatch Pet skill, but the useful pattern is general: once you do something useful once, you can often package it so Codex can do it again without reteaching the workflow.
+Skills make repeated workflows reusable. Skill Creator and Skill Installer are a good place to start. Skill Installer lets you add OpenAI-recommended skills directly from the composer. After [Codex pets](https://developers.openai.com/codex/app/settings#codex-pets) launched, I used it to install the Hatch Pet skill, but the useful pattern is general: once you do something useful once, you can often package it so Codex can do it again without reteaching the workflow.
 
-## Heartbeats make threads come back on their own
+## Remote control
+
+Remote Control is what makes these longer loops feel portable.
+
+The public framing is simple: Codex can keep working from the machine where your files, permissions, and local setup already live, while you check in from mobile, review what it found, answer a question, approve the next step, or change direction without being back at your desk. [OpenAI describes it as a way to work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere/).
+
+What I liked in the internal Slack discussion was the more practical framing: this is especially useful when Codex is already doing something long-running and you want to preserve momentum instead of waiting until you are back at your laptop. You can start a task, walk away, then steer it from your phone when it reaches a decision point.
+
+That matters for the same reason pinned threads, voice, and Heartbeats matter. The work no longer has to pause just because I changed locations. A thread can keep going, and I can keep just enough attention on it to unblock the next move.
+
+## Heartbeats
 
 Pinned threads are useful, but they still wait for you to say something. Heartbeats are what make them recur.
 
@@ -160,7 +170,7 @@ By the time I got out of the shower, the refund was done.
 
 Many of my Heartbeats also update my Obsidian vault as a kind of explicit memory. Separately, Codex now has memory features in `Settings > Personalization > Memories`, including [Memories](https://developers.openai.com/codex/memories) and [Chronicle](https://developers.openai.com/codex/memories/chronicle).
 
-## Goals need an oracle
+## Goals
 
 The newest thing I am still learning how to use well is Goals.
 
@@ -172,9 +182,13 @@ That test suite gave the run a real oracle: the Rust port was not done until it 
 
 This is different from having a long conversation with an AI, accumulating a Markdown plan, and then eventually saying, "implement this." The execution is only going to be as good as the goal, the verification, and the validation you give it. Ambition matters, but ambition without verification is just a wish.
 
-## The side panel is where I stay in the loop
+I ended up pulling this idea into a shorter companion piece: [Using Codex: Getting the most out of Goal mode](./codex-goals.md). The core argument is simple: Goal mode is not mainly about letting Codex work longer. It is about defining work clearly enough that an agent can keep improving it without you supervising every step.
+
+## The side panel
 
 The part of Codex I am most excited about is the side panel.
+
+![A shared side panel for artifacts, browser surfaces, and review](./img/codex-maxxing-side-panel.png)
 
 It is easy to think of this as a place where previews happen. That undersells it. The side panel is where Codex stops being a chat app and starts becoming the place the work happens.
 
@@ -199,7 +213,7 @@ There are a few web surfaces I now use this way all the time:
 - `index.html` for lightweight static artifacts
 - Storybook for reviewing UI components
 - Remotion Studio for programmatic animation
-- Slidev for presentations
+- [Slidev](https://sli.dev/guide/) for presentations
 - Streamlit for data apps
 
 The smallest version is often the best. You can ask the model to make a single `index.html` file with JavaScript and CSS, open it in the side panel, and start interacting with it immediately. No server required. I have been experimenting with using Heartbeats to keep updating a static `index.html` over time so that whenever I return to a thread, there is already a fresh artifact waiting for me.
@@ -214,8 +228,5 @@ For presentations, I often use Slidev. Codex can inspect the slides, catch conte
 
 I also expect this to become more useful for tools like Streamlit and Jupyter over time. Different people already live inside different applications. Codex can increasingly meet them there.
 
-### Review changes
-
-The side panel also has a diff viewer. It can render the actual pull request diff and the GitHub comments attached to it. That matters because review is one of the few places where I still want the model and me to be looking at exactly the same object.
 
 The more Codex gets places to remember, revisit, inspect, and act, the less my work has to die between prompts. That is the change I care about. Not that an agent can write code for me, but that more of my work can keep moving after I leave.
