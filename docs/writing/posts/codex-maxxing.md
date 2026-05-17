@@ -19,13 +19,13 @@ tags:
 
 # Codex-maxxing
 
-I had already been using coding agents a lot before Codex. Mostly, though, I used them through interfaces built for coding work: making diffs, changing repos, and shipping code.
+I was already using coding agents a lot before Codex. Mostly, though, I used them through interfaces built for coding work: making diffs, changing repos, and shipping code.
 
-Around November, I started pushing them into knowledge work too. I made presentations in [Slidev](https://sli.dev/), used agents more like note-takers with voice inputs, and kept looking for other artifacts a coding agent could help me produce: an `index.html`, then `Ctrl-P` into a PDF.
+Around November, I started pushing them into knowledge work too. I made presentations in [Slidev](https://sli.dev/), used agents more like note-takers with voice input, and kept looking for other artifacts a coding agent could help me produce: an `index.html`, a PDF, a spreadsheet, a slide deck.
 
-The latest Codex app upgrades are the first thing I've used that makes that broader mode feel native for everyone. It's still excellent for coding, but the more interesting shift for me is that it gives all of my work somewhere to live.
+The latest Codex app upgrades are the first thing I've used that make that broader mode feel native. Codex is still excellent for coding, but the more interesting shift is that it gives my work somewhere to live.
 
-What changed my behavior was learning to give work five things: a durable thread, a place to remember things, tools to act on my whole computer, a schedule that brings it back, and a surface where I can review any kind of work: websites, Markdown, PDFs, spreadsheets, and slides.
+What changed my behavior was learning to give work an operating loop: a durable thread, shared memory, tools that can act on my computer, ways to steer and resume the task, and a surface where I can review the artifact itself.
 
 <!-- more -->
 
@@ -47,13 +47,13 @@ These are not short chats. They are megathreads that I have been compacting for 
 
     You can jump directly to pinned threads with `Command-1` through `Command-9`.
 
-There is a tradeoff here. Long-running threads are not free. If you revisit them later, the conversation is probably no longer in cache, so you can incur more cost than you would in a fresh short thread. But for workstreams I care about, continuity is often more valuable than purity.
+There is a tradeoff here. Long-running threads are not free. If you revisit them later, the conversation is probably no longer in cache, so you can incur more cost than you would in a fresh short thread. For workstreams I care about, continuity is worth it.
 
 ## Voice input
 
-One underrated part of this workflow is getting more of my actual thinking into Codex.
+Voice input gets more of my actual thinking into Codex.
 
-The real benefit of voice input is not speed. It is that I give the agent the unedited version of my thinking. Codex has built-in voice input, but I also use Wispr Flow because system-wide dictation changes how much context I can feed into everything else too. If I am planning a piece of work, I might say, "I think there is some guy named Ben in Slack who mentioned this, I do not remember exactly what, just go look." That sentence is too vague and annoying to type, but completely natural to say.
+The benefit is not speed. It is that the agent gets the unedited version of my thinking. Codex has built-in voice input, but I also use Wispr Flow because system-wide dictation changes how much context I can feed into everything else too. If I am planning a piece of work, I might say, "I think there is some guy named Ben in Slack who mentioned this, I do not remember exactly what, just go look." That sentence is too vague and annoying to type, but completely natural to say.
 
 The same thing applies to transcripts. If I want to write a post, I can call someone, record the conversation, or talk to them in person with Granola on my phone, then use the transcript as the starting material. A lot of plans get better when the model has access to the messy version of what I think, not just the polished one.
 
@@ -61,7 +61,7 @@ The same thing applies to transcripts. If I want to write a post, I can call som
 
 Voice becomes more useful when combined with steering.
 
-Steering lets you inject the next message after a tool call. That sounds small, but it changes how I work. If I am reviewing a website, I can keep talking while I look at it:
+Steering lets you inject the next message after a tool call. If I am reviewing a website, I can keep talking while I look at it:
 
 - make this smaller
 - this copy is wrong
@@ -72,7 +72,7 @@ Steering lets you inject the next message after a tool call. That sounds small, 
 
 I do not need to wait for each step to finish before deciding the next one. I can keep adding intent while the agent is still working, then walk away with the queue already shaped.
 
-Later, Heartbeats can monitor the PR or the Slack thread after I leave. The unit of work stops being "one prompt, one answer." It becomes a small operating loop.
+Later, Heartbeats can monitor the PR or Slack thread after I leave. The unit of work stops being "one prompt, one answer." It becomes a small operating loop.
 
 ## Memory
 
@@ -91,7 +91,7 @@ vault/
 
 At the top level, I keep `AGENTS.md` instructions that say things like: as you learn more about people or make progress on projects, update the relevant pages in the vault.
 
-You should think of the vault as a place your agent can live separate from projects. Repositories hold code. The vault holds rolling context around my work: people, decisions, open loops, daily notes, project state, and the bits of understanding that would otherwise get lost between threads.
+The vault is where the agent lives, separate from any one project. Repositories hold code. The vault holds rolling context around my work: people, decisions, open loops, daily notes, project state, and the bits of understanding that would otherwise get lost between threads.
 
 I also keep the vault as a GitHub repo. That buys me two things:
 
@@ -100,11 +100,11 @@ I also keep the vault as a GitHub repo. That buys me two things:
 
 When the agent updates the vault, I can read the diff and see what it thought was important enough to remember. Reviewing those diffs is effectively how I acknowledge that I have seen what the agent learned.
 
-At that point, pinned threads start to feel less like chats and more like different workers with access to the same shared memory.
+At that point, pinned threads start to feel less like chats and more like different workers reading from the same notebook.
 
 ## Computer and Browser Use
 
-Once a thread has memory, the next question is what it can act on.
+Once a thread has memory, the next question is what it can touch.
 
 The most useful distinction in my own head is:
 
@@ -122,11 +122,11 @@ Skills make repeated workflows reusable. Skill Creator and Skill Installer are a
 
 ## Remote control
 
-Remote Control is what makes these longer loops feel portable.
+Remote control makes these longer loops feel portable.
 
-The public framing is simple: Codex can keep working from the machine where your files, permissions, and local setup already live, while you check in from mobile, review what it found, answer a question, approve the next step, or change direction without being back at your desk. [OpenAI describes it as a way to work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere/).
+Codex can keep working from the machine where your files, permissions, and local setup already live, while you check in from mobile, review what it found, answer a question, approve the next step, or change direction without being back at your desk. [OpenAI describes it as a way to work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere/).
 
-What I liked in the internal Slack discussion was the more practical framing: this is especially useful when Codex is already doing something long-running and you want to preserve momentum instead of waiting until you are back at your laptop. You can start a task, walk away, then steer it from your phone when it reaches a decision point.
+This matters most when Codex is already doing something long-running and you want to preserve momentum. You can start a task, walk away, then steer it from your phone when it reaches a decision point.
 
 That matters for the same reason pinned threads, voice, and Heartbeats matter. The work no longer has to pause just because I changed locations. A thread can keep going, and I can keep just enough attention on it to unblock the next move.
 
@@ -138,7 +138,7 @@ A Heartbeat is a thread-local automation. You can say, "keep an eye on this ever
 
 ### Chief of Staff
 
-I also have a Chief of Staff thread that runs every 30 minutes:
+My Chief of Staff thread runs every 30 minutes:
 
 ```text
 Every 30 minutes, check Slack and Gmail for unanswered messages that need my attention.
@@ -180,19 +180,15 @@ Last week I tried to migrate the Python [Rich](https://github.com/Textualize/ric
 
 That test suite gave the run a real oracle: the Rust port was not done until it passed the same tests as the Python library.
 
-This is different from having a long conversation with an AI, accumulating a Markdown plan, and then eventually saying, "implement this." The execution is only going to be as good as the goal, the verification, and the validation you give it. Ambition matters, but ambition without verification is just a wish.
-
-I ended up pulling this idea into a shorter companion piece about getting the most out of Goal mode. The core argument is simple: Goal mode is not mainly about letting Codex work longer. It is about defining work clearly enough that an agent can keep improving it without you supervising every step.
+This is different from having a long conversation with an AI, accumulating a Markdown plan, and then eventually saying, "implement this." Execution is only as good as the goal and the verification you give it. Ambition without verification is just a wish.
 
 ## The side panel
 
 The part of Codex I am most excited about is the side panel.
 
-It is easy to think of this as a place where previews happen. That undersells it. The side panel is where Codex stops being a chat app and starts becoming the place the work happens.
+It is easy to think of this as a place where previews happen. That undersells it. The side panel is where Codex stops being only a chat app and starts becoming the place the work happens.
 
-For me it now does three different jobs: it lets me inspect artifacts, operate web surfaces, and review changes.
-
-The common thing is that I can look at and comment on the same object the agent is acting on.
+For me it does three jobs: inspect artifacts, operate web surfaces, and review changes. In all three, I can look at and comment on the same object the agent is acting on.
 
 ### Inspect artifacts
 
@@ -214,7 +210,7 @@ There are a few web surfaces I now use this way all the time:
 - [Slidev](https://sli.dev/guide/) for presentations
 - Streamlit for data apps
 
-The smallest version is often the best. You can ask the model to make a single `index.html` file with JavaScript and CSS, open it in the side panel, and start interacting with it immediately. No server required. I have been experimenting with using Heartbeats to keep updating a static `index.html` over time so that whenever I return to a thread, there is already a fresh artifact waiting for me.
+The smallest version is often the best. You can ask the model to make a single `index.html` file with JavaScript and CSS, open it in the side panel, and start interacting with it immediately. No server required. I have been experimenting with using Heartbeats to update a static `index.html` over time so that whenever I return to a thread, there is already a fresh artifact waiting for me.
 
 [Thariq has a very good post](https://x.com/trq212/status/2052809885763747935) about preferring HTML over Markdown as an output format. I think that instinct is right. Once the output is a small application instead of just a document, the relationship changes.
 
@@ -226,4 +222,4 @@ For presentations, I often use Slidev. Codex can inspect the slides, catch conte
 
 I also expect this to become more useful for tools like Streamlit and Jupyter over time. Different people already live inside different applications. Codex can increasingly meet them there.
 
-The more Codex gets places to remember, revisit, inspect, and act, the less my work has to die between prompts. That is the change I care about. Not that an agent can write code for me, but that more of my work can keep moving after I leave.
+The more Codex gets places to remember, revisit, inspect, and act, the less my work dies between prompts. That is the change I care about. Not that an agent can write code for me, but that more of my work can keep moving after I leave.
