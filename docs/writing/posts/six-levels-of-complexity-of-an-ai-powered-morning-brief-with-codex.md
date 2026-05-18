@@ -8,7 +8,7 @@ categories:
   - Applied AI
   - Personal
 comments: true
-draft: true
+draft: false
 slug: six-levels-of-complexity-of-an-ai-powered-morning-brief-with-codex
 tags:
   - Codex
