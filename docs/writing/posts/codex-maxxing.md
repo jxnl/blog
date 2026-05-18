@@ -30,8 +30,12 @@ What changed my behavior was learning to give work an operating loop: a durable 
 <!-- more -->
 
 ## Durable threads
-
 The first thing that changed my behavior was compaction.
+
+!!! note "Compaction"
+
+    Compaction
+    : Compressing a long-running thread so it can keep going without carrying every old message in full.
 
 I now keep a pinned thread for every important workstream I care about:
 
@@ -60,6 +64,11 @@ The same thing applies to transcripts. If I want to write a post, I can call som
 ## Steering
 
 Voice becomes more useful when combined with steering.
+
+!!! note "Steering"
+
+    Steering
+    : Adding more direction while Codex is already working instead of waiting for the current step to finish.
 
 Steering lets you inject the next message after a tool call. If I am reviewing a website, I can keep talking while I look at it:
 
@@ -108,6 +117,11 @@ At that point, pinned threads start to feel less like chats and more like differ
 
 Codex also has first-party memory features in `Settings > Personalization > Memories`. I think of those as a local recall layer: useful for stable preferences, recurring workflows, project conventions, and known pitfalls, but not a replacement for checked-in instructions or an explicit vault. [Chronicle](https://developers.openai.com/codex/memories/chronicle) is especially interesting here because it can use recent screen context to help build memories. I have not used it seriously yet, and the docs are clear that it is an opt-in research preview with real tradeoffs around permissions, rate limits, prompt injection, and unencrypted local memory files. But directionally it points at the same thing I care about: work should leave behind structured memory, not just a longer chat transcript.
 
+!!! note "Shared memory"
+
+    Shared memory
+    : Context kept outside a single chat, such as notes in my vault that different threads can reuse.
+
 ## Computer and Browser Use
 
 Once a thread has memory, the next question is what it can touch.
@@ -139,6 +153,11 @@ That matters for the same reason pinned threads, voice, and Heartbeats matter. T
 ## Heartbeats
 
 Pinned threads are useful, but they still wait for you to say something. Heartbeats are what make them recur.
+
+!!! note "Heartbeats"
+
+    Heartbeats
+    : Recurring checks a thread can schedule for itself, like watching Slack or a pull request for new activity.
 
 A Heartbeat is a thread-local automation. You can say, "keep an eye on this every few hours," and the thread can schedule itself. A thread can have multiple schedules, run until some condition is met, and adjust its cadence over time.
 
@@ -179,6 +198,11 @@ Many of my Heartbeats also update my Obsidian vault as a kind of explicit memory
 ## Goals
 
 The newest thing I am still learning how to use well is Goals.
+
+!!! note "Goals"
+
+    Goals
+    : Longer-running tasks with a real finish line Codex can keep pushing toward.
 
 You should be ambitious with them. A weak goal is "implement the plan in this Markdown file." A strong goal has a real success criterion that the agent can keep pushing against.
 
