@@ -1,5 +1,5 @@
 ---
-title: Six levels of complexity of an AI-powered morning brief with Codex
+title: Six levels of complexity in a Codex morning brief
 description: A simple way to teach Codex through an AI-powered morning brief that grows into automations, project threads, drafted work, and memory vaults.
 date: 2026-05-18
 authors:
@@ -16,7 +16,7 @@ tags:
   - Personal Software
 ---
 
-# Six levels of complexity of an AI-powered morning brief with Codex
+# Six levels of complexity in a Codex morning brief
 
 This is the easiest way I know to teach someone how to use AI.
 
