@@ -87,7 +87,7 @@ Later, Heartbeats can monitor the PR or Slack thread after I leave. The unit of 
 
 Once threads started lasting longer, they needed shared memory outside any one repo.
 
-The important move is not just preserving message history. A long thread can remember a lot, but that memory is trapped inside the thread unless the useful parts get serialized somewhere durable. The point of the memory system is to turn what the thread learns into an artifact I can inspect, edit, diff, and reuse.
+The important move is saving things to disk. A long thread can remember a lot, but that memory is trapped inside the thread unless the useful parts get written somewhere durable. The point of the memory system is to turn what the thread learns into artifacts I can inspect, edit, diff, and reuse.
 
 Most of my long-running threads start in an Obsidian vault:
 
@@ -100,7 +100,7 @@ vault/
 └── notes/
 ```
 
-At the top level, I keep `AGENTS.md` instructions that say things like: as you learn more about people, make progress on projects, or close an open loop, update the relevant pages in the vault.
+At the top level, I keep `AGENTS.md` instructions that tell the model to write things down: as you learn more about people, make progress on projects, make a decision, or close an open loop, update the relevant pages in the vault.
 
 The vault is where the agent lives, separate from any one project. Repositories hold code. The vault holds rolling context around my work: people, decisions, open loops, daily notes, project state, and the bits of understanding that would otherwise get lost between threads.
 
@@ -111,11 +111,13 @@ I also keep the vault as a GitHub repo. That buys me two things:
 
 When the agent updates the vault, I can read the diff and see what it thought was important enough to remember. That review step matters. I do not want evergreen threads to quietly accumulate vibes in conversation history. I want them to write down what changed: this person prefers this, this project is waiting on that, this decision was made, this loop is closed.
 
-This is also why I like memory as files. Files force the agent to compress experience into a form that can survive the thread. If the thread dies, compacts badly, or becomes too expensive to keep leaning on, the useful knowledge is still there.
+This is also why I like memory as files. Files force the agent to compress experience into a form that can survive the thread. If the thread dies, compacts badly, or becomes too expensive to keep leaning on, the useful knowledge is still there. The pattern is simple: keep important work in a repo, give Codex permission and instructions to update it, and review the diff like any other change.
 
 At that point, pinned threads start to feel less like chats and more like different workers reading from the same notebook.
 
-Codex also has first-party memory features in `Settings > Personalization > Memories`. I think of those as a local recall layer: useful for stable preferences, recurring workflows, project conventions, and known pitfalls, but not a replacement for checked-in instructions or an explicit vault. [Chronicle](https://developers.openai.com/codex/memories/chronicle) is especially interesting here because it can use recent screen context to help build memories. I have not used it seriously yet, and the docs are clear that it is an opt-in research preview with real tradeoffs around permissions, rate limits, prompt injection, and unencrypted local memory files. But directionally it points at the same thing I care about: work should leave behind structured memory, not just a longer chat transcript.
+Codex also has first-party memory features in `Settings > Personalization > Memories`. I think of those as a recall layer on top of the explicit disk-backed system. The vault is the source of truth I can review and edit. Memories are what help Codex remember stable preferences, recurring workflows, project conventions, and known pitfalls when I start a new thread.
+
+[Chronicle](https://developers.openai.com/codex/memories/chronicle) is interesting for the same reason. I have not used it seriously yet, and the docs are clear that it is an opt-in research preview with real tradeoffs around permissions, rate limits, prompt injection, and unencrypted local memory files. But directionally it points at the same thing I care about: work should leave behind structured memory, not just a longer chat transcript.
 
 !!! note "Shared memory"
 
@@ -133,6 +135,10 @@ The most useful distinction in my own head is:
 - `@computer` is for work that only exists as a GUI
 
 If I am iterating on a local app, I want `$browser`. If I need to work inside a logged-in browser session, I want `@chrome`. If the only way to do the task is to click through a desktop app, I want `@computer`.
+
+[Appshots](https://dub.sh/PbgvcAJ) is the lighter-weight version of this. Sometimes I do not want Codex to operate the app yet. I just want to show it the thing I am looking at. On macOS, you can press both Command keys and send the frontmost window into a Codex thread with a screenshot and whatever text the app makes available.
+
+That is useful for the annoying middle category of context that is easier to show than describe: an error modal, a settings panel, an API reference page, an email, a calendar view, a design preview, or the weird state of an app that only makes sense when you see it. Instead of typing a long setup prompt, I can point Codex at the current window and say, "this is the thing I mean."
 
 On my work machine, Twitter is logged into Safari. If I have `@computer` read Twitter there, I lose Safari while it works. `@chrome` is better when I want the agent to use several authenticated tabs in parallel without taking over the whole app I am using.
 

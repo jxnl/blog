@@ -258,18 +258,17 @@ writing/posts/chasing-chase.md:
     banking nightmares, entrepreneurial lessons, banking trust issues, and consulting
     insights.
 writing/posts/codex-maxxing.md:
-  hash: 0ae260239e55a445416b51bfd0ea678f
-  summary: This article explores how Codex transforms from a coding assistant into
-    a comprehensive platform for long-running knowledge work by enabling durable threads,
-    shared memory via an Obsidian vault, and voice input for natural interaction.
-    Key features like steering, Heartbeats for automated monitoring, remote control,
-    and integrated browser/computer connectors create continuous, multi-tool workflows
-    that enhance productivity. The side panel's capability to inspect, operate, and
-    annotate artifacts such as Markdown, HTML, slides, and spreadsheets makes Codex
-    a central hub for managing projects, feedback, and execution with ambitious goals
-    and verification. Keywords include Codex, AI workflows, long-running threads,
-    memory systems, voice input, Heartbeats automation, remote control, and personal
-    software.
+  hash: 138e9684eec01859ca1ba6800bf36617
+  summary: 'This article explores how Codex transforms long-running knowledge work
+    by creating durable, interactive workflows that combine pinned threads, voice
+    input, shared memory, and multi-tool integration. Key features include voice-driven
+    steering, memory stored in Obsidian vaults for persistent context, remote control
+    for portable task management, and Heartbeats for automated monitoring and feedback
+    loops. The side panel enhances productivity by enabling artifact inspection, web
+    interaction, and real-time review, making Codex a powerful platform for applied
+    AI workflows, personal software management, and seamless collaboration. Keywords:
+    Codex, AI workflows, voice input, pinned threads, Obsidian vault, shared memory,
+    remote control, Heartbeats, constructive feedback, side panel, knowledge work.'
 writing/posts/coding-agents-lessons.md:
   hash: 6ea6caff504a97ebda49d6b128f40c38
   summary: 'Join the "RAG for Coding Agents Lightning Series," featuring leading experts
