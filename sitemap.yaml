@@ -42,15 +42,18 @@ index.md:
     tech startups. Follow Jason for expert guidance on AI development, consulting
     strategies, and personal development in the tech industry.
 investments.md:
-  hash: 133d34b2369a0de8fc14c1a79294acbf
-  summary: 'This profile highlights angel investments focused on AI infrastructure,
-    developer tools, and applied AI companies. Acting as an angel investor and scout
-    for Andreessen Horowitz, the individual has backed innovative startups such as
-    Lovable.dev, Modal, Exa, Raindrop.ai, Julius AI, Shaped AI, and more. Key investment
-    areas include cutting-edge AI development platforms, productivity tools, and technology
-    solutions that advance artificial intelligence applications. Keywords: angel investor,
+  hash: 4fc4ad44be20633437f2160a46c72de2
+  summary: 'This page highlights angel investments and scouting activities focused
+    on AI infrastructure, developer tools, and applied AI startups. The investor,
+    affiliated with Andreessen Horowitz, supports a diverse portfolio of innovative
+    AI companies including Exa, Raindrop.ai, Modal, Smithery.ai, Kaizen Automation,
+    and Kino.ai. Key investment areas include cutting-edge AI platforms, automation
+    technologies, and developer-centric solutions that drive advancements in artificial
+    intelligence. This portfolio reflects a strong commitment to fostering growth
+    in AI development, infrastructure, and practical AI applications, positioning
+    these companies at the forefront of the AI industry. Keywords: angel investments,
     AI infrastructure, developer tools, applied AI, Andreessen Horowitz, AI startups,
-    technology investments.'
+    automation, AI platforms, early-stage AI companies.'
 resume.md:
   hash: 87bb8dad1d763e123c585f2b0f138e78
   summary: Jason Liu is a Staff Machine Learning Engineer and AI Consultant with over
@@ -258,17 +261,17 @@ writing/posts/chasing-chase.md:
     banking nightmares, entrepreneurial lessons, banking trust issues, and consulting
     insights.
 writing/posts/codex-maxxing.md:
-  hash: 138e9684eec01859ca1ba6800bf36617
-  summary: 'This article explores how Codex transforms long-running knowledge work
-    by creating durable, interactive workflows that combine pinned threads, voice
-    input, shared memory, and multi-tool integration. Key features include voice-driven
-    steering, memory stored in Obsidian vaults for persistent context, remote control
-    for portable task management, and Heartbeats for automated monitoring and feedback
-    loops. The side panel enhances productivity by enabling artifact inspection, web
-    interaction, and real-time review, making Codex a powerful platform for applied
-    AI workflows, personal software management, and seamless collaboration. Keywords:
-    Codex, AI workflows, voice input, pinned threads, Obsidian vault, shared memory,
-    remote control, Heartbeats, constructive feedback, side panel, knowledge work.'
+  hash: f0f0f2135cc83b0137a646764f58c710
+  summary: "This article explores how Codex transforms long-running knowledge and\
+    \ coding workflows by providing durable threads with shared memory, voice input,\
+    \ and steering capabilities. It highlights the use of pinned threads, disk-backed\
+    \ memory via an Obsidian vault, seamless integration with browsers and local apps,\
+    \ and automation features like Heartbeats and remote control to maintain continuous\
+    \ progress. The piece also emphasizes Codex\u2019s side panel for interactive\
+    \ artifact inspection and operation, enabling efficient review and collaboration.\
+    \ Key topics include AI-driven workflows, personal software automation, multi-tool\
+    \ integration, and persistent memory systems that make knowledge work more durable\
+    \ and portable."
 writing/posts/coding-agents-lessons.md:
   hash: 6ea6caff504a97ebda49d6b128f40c38
   summary: 'Join the "RAG for Coding Agents Lightning Series," featuring leading experts
@@ -1170,6 +1173,18 @@ writing/posts/self-reflections-hiring.md:
     on growth, multidisciplinary skills, project management timelines, and effective
     team collaboration. Keywords: self-reflection, success, growth, professional development,
     hiring, prioritization, leverage, personal strengths, feedback, multidisciplinary.'
+writing/posts/six-levels-of-complexity-of-an-ai-powered-morning-brief-with-codex.md:
+  hash: 272f5ae3022bffa8ee484fc4ecfbe378
+  summary: This article outlines six progressive levels of complexity for using Codex
+    to create an AI-powered morning brief that enhances daily workflow management.
+    Starting with simple integrations of Slack, Gmail, and Calendar, it moves through
+    adding persistent instructions via an agents file, setting up recurring automations,
+    organizing project-specific briefs, drafting actionable work items, and finally
+    building a memory vault for durable context retention. Designed as an intuitive
+    onboarding method, this approach helps users harness AI to streamline task prioritization,
+    improve project oversight, and maintain continuity across workstreams. Key concepts
+    include AI workflows, personal productivity, automation, project management, memory
+    systems, and Codex-powered assistants.
 writing/posts/stochastic-software.md:
   hash: dcf7e402fee1651d97db329f0adf7f05
   summary: This article offers practical tips for junior software engineers transitioning
