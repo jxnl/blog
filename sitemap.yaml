@@ -42,18 +42,17 @@ index.md:
     tech startups. Follow Jason for expert guidance on AI development, consulting
     strategies, and personal development in the tech industry.
 investments.md:
-  hash: 4fc4ad44be20633437f2160a46c72de2
-  summary: 'This page highlights angel investments and scouting activities focused
-    on AI infrastructure, developer tools, and applied AI startups. The investor,
-    affiliated with Andreessen Horowitz, supports a diverse portfolio of innovative
-    AI companies including Exa, Raindrop.ai, Modal, Smithery.ai, Kaizen Automation,
-    and Kino.ai. Key investment areas include cutting-edge AI platforms, automation
-    technologies, and developer-centric solutions that drive advancements in artificial
-    intelligence. This portfolio reflects a strong commitment to fostering growth
-    in AI development, infrastructure, and practical AI applications, positioning
-    these companies at the forefront of the AI industry. Keywords: angel investments,
-    AI infrastructure, developer tools, applied AI, Andreessen Horowitz, AI startups,
-    automation, AI platforms, early-stage AI companies.'
+  hash: d30ab651dd726fddd56216ac14af3b29
+  summary: 'This page highlights angel investments and scout activities focused on
+    AI infrastructure, developer tools, and applied AI companies. The investor, also
+    a scout for Andreessen Horowitz (a16z), supports a diverse portfolio of innovative
+    AI startups such as Exa, Lovable, Modal, Extend, and Haize Labs, among others.
+    Key areas of investment include AI-driven software, automation, and developer
+    productivity tools. The Scout Fund further explores cutting-edge AI ventures like
+    Rork, Raindrop.ai, and Kaizen Automation. These investments emphasize advancing
+    AI technology, fostering innovation, and driving growth in the artificial intelligence
+    ecosystem. Keywords: angel investments, AI infrastructure, developer tools, applied
+    AI, Andreessen Horowitz, AI startups, automation, innovation, scout fund.'
 resume.md:
   hash: 87bb8dad1d763e123c585f2b0f138e78
   summary: Jason Liu is a Staff Machine Learning Engineer and AI Consultant with over
