@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
     "dub>=0.23.1",
+    "google-analytics-data>=0.18.0",
     "mkdocs-material[imaging]>=9.6.14",
     "mkdocs-minify-plugin>=0.8.0",
     "mkdocs-rss-plugin>=1.17.4",
