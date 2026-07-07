@@ -102,3 +102,8 @@
   border: none;
   border-top: 1px solid var(--md-default-fg-color--lightest);
 }
+
+.md-meta__item--views,
+.md-nav__item--views {
+  white-space: nowrap;
+}

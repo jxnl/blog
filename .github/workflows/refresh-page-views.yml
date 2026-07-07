@@ -1,0 +1,26 @@
+name: Refresh page views
+
+on:
+  schedule:
+    - cron: "17 10 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}
+    steps:
+      - name: Trigger Cloudflare Pages rebuild
+        shell: bash
+        run: |
+          if [[ -z "${CLOUDFLARE_DEPLOY_HOOK}" ]]; then
+            echo "::notice::CLOUDFLARE_DEPLOY_HOOK is not configured; skipping refresh"
+            exit 0
+          fi
+          curl --fail --silent --show-error \
+            --request POST \
+            --output /dev/null \
+            "${CLOUDFLARE_DEPLOY_HOOK}"
