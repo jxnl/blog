@@ -7,13 +7,20 @@ import logging
 import os
 from pathlib import Path
 import re
-from typing import Iterable, Mapping, Optional, Tuple
+from typing import Callable, Iterable, Iterator, Mapping, Optional, Tuple
 from urllib.parse import urlsplit
 
 
 PageViewRow = Tuple[str, str, int]
 POST_PATH = re.compile(r"^/writing/\d{4}/\d{2}/\d{2}/[^/]+/$")
 ANALYTICS_READ_SCOPE = "https://www.googleapis.com/auth/analytics.readonly"
+REPORT_ROW_LIMIT = 250_000
+PATH_ALIASES = {
+    "/writing/2024/01/01/whoami/": "/writing/2024/10/31/whoami/",
+    "/writing/2025/06/15/my-self-reflection-on-success-and-growth/": (
+        "/writing/2024/06/15/my-self-reflection-on-success-and-growth/"
+    ),
+}
 LOGGER = logging.getLogger("mkdocs.hooks.page_views")
 
 
@@ -44,6 +51,7 @@ def aggregate_page_views(
         normalized = normalize_path(path)
         if host == "jxnl.github.io" and normalized.startswith("/blog/"):
             normalized = normalized[len("/blog") :]
+        normalized = PATH_ALIASES.get(normalized, normalized)
         if host in hosts and POST_PATH.fullmatch(normalized):
             totals[normalized] += int(views)
     return dict(sorted(totals.items()))
@@ -61,6 +69,24 @@ def write_snapshot(
         "views": dict(sorted(views.items())),
     }
     destination.write_text(f"{json.dumps(payload, indent=2)}\n")
+
+
+def iter_report_rows(
+    client,
+    make_request: Callable[[int, int], object],
+    limit: int = REPORT_ROW_LIMIT,
+) -> Iterator[object]:
+    """Yield every row from a potentially paginated GA Data API report."""
+    offset = 0
+    while True:
+        response = client.run_report(make_request(offset, limit))
+        rows = tuple(response.rows)
+        yield from rows
+
+        offset += len(rows)
+        row_count = getattr(response, "row_count", 0)
+        if not rows or len(rows) < limit or (row_count and offset >= row_count):
+            break
 
 
 def fetch_page_views(
@@ -82,22 +108,24 @@ def fetch_page_views(
         scopes=[ANALYTICS_READ_SCOPE],
     )
     client = BetaAnalyticsDataClient(credentials=credentials)
-    response = client.run_report(
-        RunReportRequest(
+
+    def make_request(offset: int, limit: int) -> RunReportRequest:
+        return RunReportRequest(
             property=f"properties/{property_id}",
             dimensions=[Dimension(name="hostName"), Dimension(name="pagePath")],
             metrics=[Metric(name="screenPageViews")],
             date_ranges=[DateRange(start_date="2015-08-14", end_date="yesterday")],
-            limit=250_000,
+            limit=limit,
+            offset=offset,
         )
-    )
+
     rows = (
         (
             row.dimension_values[0].value,
             row.dimension_values[1].value,
             int(row.metric_values[0].value),
         )
-        for row in response.rows
+        for row in iter_report_rows(client, make_request)
     )
     return aggregate_page_views(rows)
 
