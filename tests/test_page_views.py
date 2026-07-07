@@ -33,6 +33,30 @@ class AggregatePageViewsTests(unittest.TestCase):
             {"/writing/2026/06/28/example/": 5},
         )
 
+    def test_combines_confirmed_legacy_post_paths(self):
+        rows = [
+            ("jxnl.co", "/writing/2024/01/01/whoami/", 3674),
+            ("jxnl.co", "/writing/2024/10/31/whoami/", 383),
+            (
+                "jxnl.co",
+                "/writing/2025/06/15/my-self-reflection-on-success-and-growth/",
+                636,
+            ),
+            (
+                "jxnl.co",
+                "/writing/2024/06/15/my-self-reflection-on-success-and-growth/",
+                180,
+            ),
+        ]
+
+        self.assertEqual(
+            aggregate_page_views(rows),
+            {
+                "/writing/2024/06/15/my-self-reflection-on-success-and-growth/": 816,
+                "/writing/2024/10/31/whoami/": 4057,
+            },
+        )
+
 
 class IterReportRowsTests(unittest.TestCase):
     def test_reads_all_pages_until_report_row_count_is_reached(self):

@@ -15,6 +15,12 @@ PageViewRow = Tuple[str, str, int]
 POST_PATH = re.compile(r"^/writing/\d{4}/\d{2}/\d{2}/[^/]+/$")
 ANALYTICS_READ_SCOPE = "https://www.googleapis.com/auth/analytics.readonly"
 REPORT_ROW_LIMIT = 250_000
+PATH_ALIASES = {
+    "/writing/2024/01/01/whoami/": "/writing/2024/10/31/whoami/",
+    "/writing/2025/06/15/my-self-reflection-on-success-and-growth/": (
+        "/writing/2024/06/15/my-self-reflection-on-success-and-growth/"
+    ),
+}
 LOGGER = logging.getLogger("mkdocs.hooks.page_views")
 
 
@@ -45,6 +51,7 @@ def aggregate_page_views(
         normalized = normalize_path(path)
         if host == "jxnl.github.io" and normalized.startswith("/blog/"):
             normalized = normalized[len("/blog") :]
+        normalized = PATH_ALIASES.get(normalized, normalized)
         if host in hosts and POST_PATH.fullmatch(normalized):
             totals[normalized] += int(views)
     return dict(sorted(totals.items()))
