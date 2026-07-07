@@ -103,12 +103,7 @@
   border-top: 1px solid var(--md-default-fg-color--lightest);
 }
 
-.page-view-count {
-  color: var(--md-default-fg-color--light);
-  font-size: 0.8rem;
-  margin: -0.6rem 0 1.2rem;
-}
-
-.md-meta__item--views {
+.md-meta__item--views,
+.md-nav__item--views {
   white-space: nowrap;
 }

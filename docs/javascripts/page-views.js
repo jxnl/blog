@@ -36,16 +36,36 @@
 
   function renderPostPage(views) {
     var container = document.querySelector(".md-content--post");
-    if (!container || container.querySelector(".page-view-count")) return;
+    if (!container || container.querySelector(".md-nav__item--views")) return;
 
     var count = views[normalizePath(window.location.pathname)];
-    var heading = container.querySelector("article.md-content__inner > h1");
-    if (!count || !heading) return;
+    var metadata = container.querySelector(".md-post__meta .md-nav__list");
+    if (!count || !metadata) return;
 
-    var element = document.createElement("p");
-    element.className = "page-view-count";
-    element.textContent = formatViews(count);
-    heading.insertAdjacentElement("afterend", element);
+    var element = document.createElement("li");
+    element.className = "md-nav__item md-nav__item--views";
+
+    var row = document.createElement("div");
+    row.className = "md-nav__link";
+
+    var icon = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    icon.setAttribute("viewBox", "0 0 24 24");
+
+    var path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    path.setAttribute(
+      "d",
+      "M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6m0 8c-5 0-9.27-3.11-11-5 1.73-1.89 6-5 11-5s9.27 3.11 11 5c-1.73 1.89-6 5-11 5"
+    );
+    icon.appendChild(path);
+
+    var label = document.createElement("span");
+    label.className = "md-ellipsis";
+    label.textContent = formatViews(count);
+
+    row.appendChild(icon);
+    row.appendChild(label);
+    element.appendChild(row);
+    metadata.appendChild(element);
   }
 
   function renderPostListings(views) {
