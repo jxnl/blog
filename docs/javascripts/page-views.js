@@ -1,6 +1,6 @@
 (function () {
   var snapshot;
-  var feed;
+  var searchIndex;
 
   function loadSnapshot() {
     if (!snapshot) {
@@ -19,21 +19,21 @@
     return snapshot;
   }
 
-  function loadFeed() {
-    if (!feed) {
-      feed = fetch("/feed_json_created.json", { credentials: "same-origin" })
+  function loadSearchIndex() {
+    if (!searchIndex) {
+      searchIndex = fetch("/search/search_index.json", { credentials: "same-origin" })
         .then(function (response) {
-          if (!response.ok) throw new Error("post feed unavailable");
+          if (!response.ok) throw new Error("search index unavailable");
           return response.json();
         })
         .then(function (data) {
-          return data.items || [];
+          return data.docs || [];
         })
         .catch(function () {
           return [];
         });
     }
-    return feed;
+    return searchIndex;
   }
 
   function normalizePath(value) {
@@ -53,7 +53,7 @@
   }
 
   function formatDate(value) {
-    if (!value) return "";
+    if (!value || Number.isNaN(new Date(value).getTime())) return "";
 
     return new Intl.DateTimeFormat("en", {
       year: "numeric",
@@ -65,7 +65,23 @@
   function textFromHtml(value) {
     var element = document.createElement("div");
     element.innerHTML = value || "";
-    return element.textContent.trim();
+    return element.textContent.replace(/\s+/g, " ").trim();
+  }
+
+  function summarizeText(value) {
+    var text = textFromHtml(value);
+    if (text.length <= 240) return text;
+    return text.slice(0, 237).trim() + "...";
+  }
+
+  function getDateFromPath(path) {
+    var match = path.match(/^\/writing\/(\d{4})\/(\d{2})\/(\d{2})\/[^/]+\/$/);
+    if (!match) return "";
+    return match.slice(1).join("-");
+  }
+
+  function isPostPath(path) {
+    return /^\/writing\/\d{4}\/\d{2}\/\d{2}\/[^/]+\/$/.test(path);
   }
 
   function getPostLink(post) {
@@ -170,22 +186,32 @@
     var container = document.querySelector("[data-popular-posts]");
     if (!container) return;
 
-    loadFeed().then(function (items) {
+    loadSearchIndex().then(function (items) {
       if (!container.isConnected) return;
 
-      var posts = items
-        .map(function (item) {
-          var path = normalizePath(item.url || item.id);
-          return {
-            date: item.date_published || item.date_modified,
-            description: textFromHtml(item.content_html),
-            path: path,
-            title: item.title,
-            views: views[path] || 0,
-          };
+      var postsByPath = {};
+      items.forEach(function (item) {
+        var location = item.location || "";
+        if (location.indexOf("#") !== -1) return;
+
+        var path = normalizePath(location);
+        if (!item.title || !isPostPath(path)) return;
+
+        postsByPath[path] = {
+          date: getDateFromPath(path),
+          description: summarizeText(item.text),
+          path: path,
+          title: item.title,
+          views: views[path] || 0,
+        };
+      });
+
+      var posts = Object.keys(postsByPath)
+        .map(function (path) {
+          return postsByPath[path];
         })
         .filter(function (item) {
-          return item.title && item.path && item.views;
+          return item.views;
         })
         .sort(function (first, second) {
           if (first.views !== second.views) return second.views - first.views;
