@@ -116,6 +116,7 @@ nav:
     - Books: 'books.md'
     - Resume: "resume.md"
   - Writing: "writing/index.md"
+  - Popular: "popular.md"
 plugins:
   - social
   - rss:

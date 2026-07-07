@@ -12,7 +12,7 @@ tags:
 
 # Writing
 
-[Subscribe to my newsletter](https://dub.link/S4G5XGs) · [Follow me on X](https://x.com/jxnlco)
+[Popular posts](../popular.md){ .md-button } [Subscribe to my newsletter](https://dub.link/S4G5XGs){ .md-button .md-button--primary } [Follow me on X](https://x.com/jxnlco){ .md-button }
 
 ## Personal
 
