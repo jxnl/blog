@@ -31,13 +31,19 @@ def normalize_path(path: str) -> str:
 
 def aggregate_page_views(
     rows: Iterable[PageViewRow],
-    allowed_hosts: Iterable[str] = ("jxnl.co", "www.jxnl.co"),
+    allowed_hosts: Iterable[str] = (
+        "jxnl.co",
+        "www.jxnl.co",
+        "jxnl.github.io",
+    ),
 ) -> Mapping[str, int]:
-    """Combine GA page-view rows into canonical path totals."""
+    """Combine current and historical GA page-view rows into canonical totals."""
     hosts = set(allowed_hosts)
     totals: defaultdict[str, int] = defaultdict(int)
     for host, path, views in rows:
         normalized = normalize_path(path)
+        if host == "jxnl.github.io" and normalized.startswith("/blog/"):
+            normalized = normalized[len("/blog") :]
         if host in hosts and POST_PATH.fullmatch(normalized):
             totals[normalized] += int(views)
     return dict(sorted(totals.items()))
@@ -81,7 +87,7 @@ def fetch_page_views(
             property=f"properties/{property_id}",
             dimensions=[Dimension(name="hostName"), Dimension(name="pagePath")],
             metrics=[Metric(name="screenPageViews")],
-            date_ranges=[DateRange(start_date="2020-01-01", end_date="yesterday")],
+            date_ranges=[DateRange(start_date="2015-08-14", end_date="yesterday")],
             limit=250_000,
         )
     )
