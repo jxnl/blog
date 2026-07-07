@@ -12,11 +12,12 @@ class AggregatePageViewsTests(unittest.TestCase):
             ("jxnl.co", "/writing/2026/06/28/example/", 10),
             ("www.jxnl.co", "/writing/2026/06/28/example/index.html", 4),
             ("jxnl.co", "/writing/2026/06/28/example?ref=twitter", 2),
+            ("jxnl.github.io", "/blog/writing/2026/06/28/example/", 8),
         ]
 
         self.assertEqual(
             aggregate_page_views(rows),
-            {"/writing/2026/06/28/example/": 16},
+            {"/writing/2026/06/28/example/": 24},
         )
 
     def test_excludes_other_hosts_and_non_post_paths(self):
