@@ -58,9 +58,7 @@ It's a false dichotomy in the sense that the tactics and strategies for knowledg
 
 I grew up in a environment with very few distractions, and it was very easy to learn. My parents weren't around much: when I was a kid (~ 10 years old), both my mom and dad worked two jobs, and no one was at home. The one thing they showed me was that education was the way out of poverty, and that they worked very hard to make sure I had access to it. Every Saturday, my mom would take the time to walk me to the library, where I would borrow 10 books. I was only allowed to use the computer for an hour a day and watch 30 minutes of television per week, basically just one cartoon.
 
-Learning became my escape: I wanted to understand physics, read about igneous and metamorphic rocks, acquire knowledge about different types of dinosaurs and animals.
-
-My parents were not around, but I know the one thing they showed me was that education was the way out of poverty. They worked very hard to ensure I had access to it. This is all to say that I grew up in a place with very few distractions, making it easy for me to learn.
+This is all to say that I grew up in a place with very few distractions, making it easy for me to learn. Learning became my escape: I wanted to understand physics, read about igneous and metamorphic rocks, acquire knowledge about different types of dinosaurs and animals.
 
 ## Don't study things you'll be taught
 
@@ -138,7 +136,7 @@ If you want to succeed in business, you should learn from people who are activel
 
 Rocket League is a video game where you play soccer with cars that can fly. The ability to fly is a critical aspect as it allows for a greater range of movement in the air, effectively enabling gameplay in six dimensions. It's difficult to explain, but I can share a [link](https://www.youtube.com/watch?v=pC_LFdmWHAU) of a professional player demonstrating the game.
 
-It took me two years of BJJ to appreciate the importance of strong fundamentals. When I picked up Rocket League during the pandemic, I decided to focus solely on the basics. Initially, I thought this would involve mastering the aerial flying aspect of the game. However, after watching numerous tutorials on YouTube, I discovered that the key was to drive fast and consistently hit the ball. Duh! All the tutorials unanimously advised against learning how to get airborne, as it often led to unforced errors. By the fourth week of playing, dedicating around 30 to 40 minutes a day, I had already reached the Diamond rank. I never tried to leave the air, and usually when I did, I would get scored on...
+It took me two years of BJJ to appreciate the importance of strong fundamentals. When I picked up Rocket League during the pandemic, I decided to focus solely on the basics. Initially, I thought this would involve mastering the aerial flying aspect of the game. However, after watching numerous tutorials on YouTube, I discovered that the key was to drive fast and consistently hit the ball. Duh! All the tutorials unanimously advised against learning how to get airborne, as it often led to unforced errors. By the fourth week of playing, dedicating around 30 to 40 minutes a day, I had already reached the Diamond rank. I never tried to leave the ground, and usually when I did, I would get scored on...
 
 #### Focus on the Fundamentals, Avoid Unforced Errors
 
