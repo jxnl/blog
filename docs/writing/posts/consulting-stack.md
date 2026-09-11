@@ -36,7 +36,7 @@ By the end, you'll have a comprehensive todo list for setting up your business f
     - [Stripe](https://stripe.com/): A payment processing platform for online transactions.
     - [Dropbox Sign](https://sign.dropbox.com/): A tool for sending and tracking proposals, and getting contracts signed digitally.
     - [Cal.com](https://cal.com/): A scheduling tool for easily booking calls and meetings.
-    - [Circleback](https://app.circleback.ai/login?ref=jason@jxnl.co): A platform for meeting notes and follow-ups.
+    - [Circleback](https://app.circleback.ai/login): A platform for meeting notes and follow-ups.
     - [Anthropic Claude](https://claude.ai/new): An AI assistant for various tasks, including content creation and research.
     - [Spiral Computer](https://spiral.computer/): A tool for generating memos and blog posts from transcripts.
     - [Better Diction](https://betterdictation.com/?via=jason): A tool for transcribing and improving the quality of your audio recordings.
@@ -79,7 +79,7 @@ With the legal and financial foundation in place, here are the key software tool
 - [Cal.com](https://cal.com/): For easily scheduling calls, especially free consultations. Whenever someone asks to hang out or jump on a call, I just send them a cow link immediately. In the future, you can also set up paid calls, which makes it very easy. It's a tool I love using, and it's basically free.
   That said, you can definitely go crazy with how you set up your availability schedules, and ultimately, I think the right answer is to hire an EA once you start making enough money.
 
-- [Circleback](https://app.circleback.ai/login?ref=jason@jxnl.co): My go-to for meeting notes and follow-ups, But I often will actually take those transcripts myself and pass them into something like Cloud or Spiral Computer to produce memos and blog posts.
+- [Circleback](https://app.circleback.ai/login): My go-to for meeting notes and follow-ups, But I often will actually take those transcripts myself and pass them into something like Cloud or Spiral Computer to produce memos and blog posts.
 
 - [Anthropic Claude](https://claude.ai/new): An AI assistant crucial for content creation and research. I use it for generating proposals, leveraging example templates and detailed prompts. Unexpectedly, I've also found it valuable for creating mockups - I often share Claude-generated React code to visually communicate designs to clients, going beyond verbal descriptions.
 
@@ -138,7 +138,7 @@ What tools are essential to your consulting practice? Have you found any game-ch
 - [ ] Set up [Stripe](https://stripe.com/) for invoicing
 - [ ] Sign up for [Dropbox and Dropbox Sign](https://sign.dropbox.com/)
 - [ ] Create a [Cal.com](https://cal.com/) account for scheduling
-- [ ] Set up [Circleback](https://app.circleback.ai/login?ref=jason@jxnl.co) for meeting notes and follow-ups
+- [ ] Set up [Circleback](https://app.circleback.ai/login) for meeting notes and follow-ups
 - [ ] Get access to [Anthropic Claude](https://claude.ai/new) for AI assistance
 - [ ] Subscribe to [Spiral Computer](https://spiral.computer/) for content generation
 

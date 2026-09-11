@@ -6,7 +6,7 @@ description: Jason Liu - Staff ML Engineer, AI Consultant, Creator of Instructor
 
 **Staff ML Engineer | AI Consultant | Open Source Creator**
 
-[:material-email: jason@jxnl.co](mailto:jason@jxnl.co) | [:fontawesome-brands-github: jxnl](https://github.com/jxnl) | [:fontawesome-brands-x-twitter: jxnlco](https://twitter.com/jxnlco) | [:fontawesome-brands-linkedin: jxnlco](https://linkedin.com/in/jxnlco)
+[:fontawesome-brands-github: jxnl](https://github.com/jxnl) | [:fontawesome-brands-x-twitter: jxnlco](https://twitter.com/jxnlco) | [:fontawesome-brands-linkedin: jxnlco](https://linkedin.com/in/jxnlco)
 
 ---
 
@@ -67,7 +67,3 @@ Computational Mathematics & Statistics | 2012-2017
 Liu, J., Weitzman, E.R., & Chunara, R. (2017). Assessing behavior stage progression from social media data. _CSCW 2017_, 1320-1333.
 
 Rehman, N., Liu, J., & Chunara, R. (2016). Propensity score matching for vaccination sentiment analysis. _AAAI Spring Symposium_.
-
----
-
-[:material-email: Contact (speaking/advisory)](mailto:jason@jxnl.co){ .md-button .md-button--primary }
