@@ -34,7 +34,7 @@ How to work with me effectively. I'm learning to delegate more so I can focus on
 
 **I'm often mobile.** Messages should be structured for quick skimming. Put key info at the top.
 
-**Ask specific questions.** Frame questions so they can be answered with yes/no or numbers. "How can I help?" beats "Do you think I should work on X?"
+**Ask specific questions.** Frame questions so they can be answered with yes/no or numbers. "Do you think I should work on X?" beats "How can I help?"
 
 **Prep me for meetings.** Send materials before to reset my focus. Follow up with summary and action items.
 
